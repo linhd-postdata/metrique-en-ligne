@@ -126,12 +126,21 @@ with open(f"metrique_en_ligne.json", "w") as corpus_json:
     json.dump(corpus, corpus_json, indent=4)
 
 
+from collections import Counter
+
 counter = Counter()
 line_counter = 0
+stanza_counter = 0
+word_counter = 0
 for work in corpus:
     for stanza in work["text"]:
+        stanza_counter += 1
         for line in stanza:
             counter.update([len(line["verse"])])
             line_counter += 1
+            word_counter += len(line["verse"].split())
+print("Works", len(corpus))
+print("Stanzas", stanza_counter)
+print("Words", word_counter)
 print("Verses", line_counter)
 print("Characters", sum(k * v for k, v in counter.items()))
