@@ -1,0 +1,180 @@
+[
+    {
+        "code": "ROU_1/ROU1",
+        "author": "Jean-Antoine Roucher",
+        "work": "Les Mois",
+        "date": "1779",
+        "title": "Les Mois",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ROU_1&code_text=ROU1_7",
+        "text": [
+            [
+                {
+                    "verse": "AMBITIEUX rival des ma\u00eetres de la lyre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu\u2019un autre des guerriers \u00e9chauffe le d\u00e9lire ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu\u2019un autre, mariant de coupables couleurs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Soit le peintre du vice, et le pare de fleurs :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Moi, vou\u00e9 jeune encor \u00e0 de plus nobles veilles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Moi, qui de la nature observai les merveilles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J\u2019aime mieux du soleil chanter les douze enfans,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui d\u2019un pas in\u00e9gal le suivent triomphans,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de signes divers la t\u00eate couronn\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Monarques tour-\u00e0-tour, se partagent l\u2019ann\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "SUR la roche sauvage o\u00f9 le ch\u00eane a vieilli",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J\u2019irai m\u2019asseoir ; et l\u00e0, dans l\u2019ombre recueilli,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 l\u2019aspect de ces monts suspendus en arcades,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et du fleuve tombant par bruyantes cascades,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de la sombre horreur qui noircit les for\u00eats,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de l\u2019or des \u00e9pis flottant sur les gu\u00e9rets ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 la douce clart\u00e9 de ces globes sans nombre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui flambeaux de la nuit rayonnent dans son ombre ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 la voix du tonnerre, au fracas des autans,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au bruit lointain des flots se croisans, se heurtans,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l\u2019inspiration le d\u00e9lire extatique",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Versera dans mon sein la flamme po\u00e9tique,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et parcourant les mers, et la terre, et les cieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mes chants reproduiront tout l\u2019ouvrage des dieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "BIENFAITEUR des mortels, \u00f4 g\u00e9ant invincible ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont l\u2019hercule Th\u00e9bain fut l\u2019image sensible ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toi qui combats toujours, et toujours plus ardent ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De triomphe en triomphe atteins \u00e0 l\u2019occident ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toi qui de la nature enfantas l\u2019harmonie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 soleil ! C\u2019est toi seul qu\u2019implore mon g\u00e9nie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sois l\u2019astre de ma muse, et pr\u00e9side \u00e0 mes vers :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme toi, mon sujet embrasse l\u2019univers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,3162 @@
+[
+    {
+        "code": "ACK_1/ACK1",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Adieux \u00e0 la Po\u00e9sie",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK1_7",
+        "text": [
+            [
+                {
+                    "verse": "Mes pleurs sont \u00e0 moi, nul au monde",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne les a compt\u00e9s ni re\u00e7us ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pas un \u0153il \u00e9tranger qui sonde",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les d\u00e9sespoirs que j'ai con\u00e7us.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L'\u00eatre qui souffre est un myst\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Parmi ses fr\u00e8res ici-bas ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il faut qu'il aille solitaire",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'asseoir aux portes du tr\u00e9pas.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "J'irai seule et brisant ma lyre,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Souffrant mes maux sans les chanter ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car je sentirais \u00e0 les dire",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plus de douleur qu'\u00e0 les porter.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK2",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "\u00c9lan mystique",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK2_7",
+        "text": [
+            [
+                {
+                    "verse": "Alors j\u2019avais quinze ans. Au sein des nuits sans voiles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je m\u2019arr\u00eatais pour voir voyager les \u00e9toiles",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et contemplais trembler, \u00e0 l\u2019horizon lointain,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des flots o\u00f9 leur clart\u00e9 jouait jusqu\u2019au matin.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un immense besoin de divine harmonie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u2019entra\u00eenait malgr\u00e9 moi vers la sph\u00e8re infinie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tant il est vrai qu\u2019ici cet autre astre immortel,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019\u00e2me, gravite aussi vers un centre \u00e9ternel.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais, tandis-que la nuit marchait au fond des cieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des pensers me venaient, graves, silencieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019avenir large et beau, de grande destin\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019amour \u00e0 na\u00eetre encor, de mission donn\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vague image, pour moi, pareille aux flots lointains",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la brume o\u00f9 nageaient mes regards incertains.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 Aujourd\u2019hui tout est su ; la destin\u00e9e aust\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N\u2019a plus devant mes yeux d\u2019ombre ni de myst\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la vie, avant m\u00eame un lustre r\u00e9volu,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Garde \u00e0 peine un feuillet qui n\u2019ait pas \u00e9t\u00e9 lu.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Humble et fragile enfant, cachant en moi ma flamme,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J\u2019ai tout interrog\u00e9 dans les choses de l\u2019\u00e2me.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019amour, d\u2019abord. Jamais, le c\u0153ur endolori,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je n\u2019ai dit ce beau nom sans en avoir souri.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Puis j\u2019ai soud\u00e9 la gloire, autre r\u00eave enchant\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans l\u2019\u00eatre d\u2019un moment instinct d\u2019\u00e9ternit\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais pour moi sur la terre, o\u00f9 l\u2019\u00e2me s\u2019est ternie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout s\u2019impr\u00e9gnait d\u2019un go\u00fbt d\u2019amertume infinie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Alors, vers le Seigneur me retournant d\u2019effroi,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme un enfant en pleurs, j\u2019osai crier : \u00ab Prends-moi !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Prends-moi, car j\u2019ai besoin, par del\u00e0 toute chose,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019un grand et saint espoir o\u00f9 mon c\u0153ur se repose,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019une id\u00e9e o\u00f9 mon \u00e2me, \u00e0 qui l\u2019avenir ment,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S\u2019enferme et trouve enfin un terme \u00e0 son tourment. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK3",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Aux Femmes",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK3_7",
+        "text": [
+            [
+                {
+                    "verse": "S'il arrivait un jour, en quelque lieu sur terre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'une entre vous vraiment compr\u00eet sa t\u00e2che aust\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si, dans le sentier rude avan\u00e7ant lentement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cette \u00e2me s'arr\u00eatait \u00e0 quelque d\u00e9vo\u00fbment,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si c'\u00e9tait la Bont\u00e9 sous les cieux descendue,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vers tous les malheureux la main toujours tendue,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si l'\u00e9poux, si l'enfant \u00e0 ce c\u0153ur ont puis\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si l'espoir de plusieurs sur Elle est d\u00e9pos\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Femmes, enviez-la. Tandis que dans la foule",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Votre vie inutile en vains plaisirs s'\u00e9coule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que votre c\u0153ur flotte, au hasard entra\u00een\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle a sa foi, son but et son labeur donn\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Enviez-la. Qu'il souffre ou combatte, c'est Elle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que l'homme \u00e0 son secours incessamment appelle,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sa joie et son appui, son tr\u00e9sor sous les cieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'il pressentait de l'\u00e2me et qu'il cherchait des yeux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La colombe au cou blanc qu'un vent du ciel ram\u00e8ne",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vers cette arche en danger de la famille humaine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, des saintes hauteurs en ce morne s\u00e9jour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour branche d'olivier a rapport\u00e9 l'amour.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK4",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Le D\u00e9part",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK4_7",
+        "text": [
+            [
+                {
+                    "verse": "Il est donc vrai ? Je garde en quittant la patrie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 profonde douleur ! un c\u0153ur indiff\u00e9rent.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pas de regard aim\u00e9, pas d\u2019image ch\u00e9rie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont mon \u0153il au d\u00e9part se d\u00e9tache en pleurant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ainsi partent tous ceux que le d\u00e9sespoir sombre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans quelque monde \u00e0 part pousse \u00e0 se renfermer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui, voyant l\u2019homme faible et les jours remplis d\u2019ombre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne se sont pas senti le courage d\u2019aimer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pourtant, Dieu m\u2019est t\u00e9moin, j\u2019aurais voulu sur terre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rassembler tout mon c\u0153ur autour d\u2019un grand amour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Joindre \u00e0 quelque destin mon destin solitaire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Me donner sans regret, sans crainte, sans retour.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Aussi ne croyez pas qu\u2019avec indiff\u00e9rence",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je contemple s\u2019\u00e9teindre, au plus beau de mes jours,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des bonheurs d\u2019ici-bas la riante esp\u00e9rance :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bien que le c\u0153ur soit mort, on en souffre toujours.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK5",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "\u00c0 une Artiste",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK5_7",
+        "text": [
+            [
+                {
+                    "verse": "Puisque les plus heureux ont des douleurs sans nombre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puisque le sol est froid, puisque les cieux sont lourds,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Puisque l\u2019homme ici-bas prom\u00e8ne son c\u0153ur sombre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Parmi les vains regrets et les courtes amours,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Que faire de la vie ? \u00d4 notre \u00e2me immortelle,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 jeter tes d\u00e9sirs et tes \u00e9lans secrets ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu voudrais poss\u00e9der, mais ici tout chancelle ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu veux aimer toujours, mais la tombe est si pr\u00e8s !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le meilleur est encore en quelque \u00e9tude aust\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De s\u2019enfermer, ainsi qu\u2019en un monde enchant\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et dans l\u2019art bien aim\u00e9 de contempler sur terre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous un de ses aspects, l\u2019\u00e9ternelle beaut\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Artiste au front serein, vous l\u2019avez su comprendre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous qu\u2019entre tous les arts le plus doux captiva,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui l\u2019entourez de foi, de culte, d\u2019amour tendre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lorsque la foi, le culte et l\u2019amour, tout s\u2019en va.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ah ! tandis que pour nous, qui tombons de faiblesse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et manquons de flambeau dans l\u2019ombre de nos jours,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chaque pas \u00e0 sa ronce o\u00f9 notre pied se blesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans votre frais sentier marchez, marchez toujours.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Marchez ! pour que le ciel vous aime et vous sourie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour y songer vous-m\u00eame avec un saint plaisir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et tromper, le c\u0153ur plein de votre idol\u00e2trie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019\u00e9ternelle douleur et l\u2019immense d\u00e9sir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK6",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Renoncement",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK6_7",
+        "text": [
+            [
+                {
+                    "verse": "Depuis que sous les cieux un doux rayon colore",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ma jeunesse en sa fleur, ouverte aux feux du jour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si mon c\u0153ur a r\u00eav\u00e9, si mon c\u0153ur r\u00eave encore",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le choix irr\u00e9vocable et l\u2019\u00e9ternel amour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est qu\u2019aux jours p\u00e9rilleux, toujours prudent et sage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au plus digne entre tous r\u00e9servant son tr\u00e9sor,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand un charme pourrait l\u2019arr\u00eater au passage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il s\u2019\u00e9loigne craintif et se dit : \u00ab Pas encor ! \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pas encore ! et j\u2019attends, car en un choix si tendre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se tromper est amer et cause bien des pleurs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ah ! si mon \u00e2me allait, trop facile \u00e0 s\u2019\u00e9prendre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 l\u2019entour d\u2019un mensonge \u00e9panouir ses fleurs !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Non, non ! Restons plut\u00f4t dans notre indiff\u00e9rence.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sacrifice\u2026 en bien, soit ! tu seras consomm\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Apr\u00e8s tout, si l\u2019amour n\u2019est qu\u2019erreur et souffrance,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un c\u0153ur peut \u00eatre fier de n\u2019avoir point aim\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK7",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "La Belle au Bois dormant",
+        "profile": "8",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK7_7",
+        "text": [
+            [
+                {
+                    "verse": "Une princesse, au fond des bois,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A dormi cent ans autrefois,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oui, cent beaux ans, tout d\u2019une traite.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019enfant, dans sa fra\u00eeche retraite,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Laissait courir le temps l\u00e9ger.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout sommeillait \u00e0 l\u2019entour d\u2019elle :",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "La brise n\u2019e\u00fbt pas de son aile",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Fait la moindre feuille bouger ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le flot dormait sur le rivage ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019oiseau, perdu dans le feuillage,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9tait sans voix et sans \u00e9bats ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur sa tige fragile et verte",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "La rose restait entr\u2019ouverte :",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Cent printemps ne l\u2019effeuillaient pas !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le charme e\u00fbt dur\u00e9, je m\u2019assure,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 jamais, sans le fils du roi.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il p\u00e9n\u00e9tra dans cet endroit,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et d\u00e9couvrit par aventure",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le tr\u00e9sor que Dieu lui gardait.",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un baiser, bien vite, il d\u00e9pose",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur la bouche qui, demi-close,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Depuis un si\u00e8cle l\u2019attendait.",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La dame, confuse et vermeille,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 cet inconnu qui l\u2019\u00e9veille",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sourit dans son \u00e9tonnement.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00d4 surprise toujours la m\u00eame !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sourire \u00e9mu ! Baiser charmant !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019amour est l\u2019\u00e9veilleur supr\u00eame,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019\u00e2me, la Belle au bois dormant.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK8",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "La Jeunesse",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK8_7",
+        "text": [
+            [
+                {
+                    "verse": "Prodigue de tr\u00e9sors et d\u2019ivresse idol\u00e2tre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La Jeunesse a toujours fait comme Cl\u00e9op\u00e2tre :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un pur et simple vin est trop froid pour son c\u0153ur ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle y jette un joyau, dans sa fougue imprudente.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "\u00c0 peine a-t-elle, h\u00e9las ! touch\u00e9 la coupe ardente,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qu\u2019il n\u2019y reste plus rien, ni perle, ni liqueur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK9",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "In Memoriam",
+        "profile": "6+6, 6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK9_7",
+        "text": [
+            [
+                {
+                    "verse": "J'aime \u00e0 changer de cieux, de climat, de lumi\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Oiseau d'une saison, je fuis avec l'\u00e9t\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Et mon vol inconstant va du rivage aust\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais qu'\u00e0 jamais le vent bien loin du bord m'emporte",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "O\u00f9 j'ai dans d'autres temps suivi des pas ch\u00e9ris,",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Et qu'aujourd'hui d\u00e9j\u00e0 ma f\u00e9licit\u00e9 morte",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                }
+            ],
+            [
+                {
+                    "verse": "Combien ce lieu m'a plu ! non pas que j'eusse encore",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Vu le ciel y briller sous un soleil p\u00e2li ;",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "L'amour qui dans mon \u00e2me enfin venait d'\u00e9clore",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                }
+            ],
+            [
+                {
+                    "verse": "H\u00e9las ! avec l'amour ont disparu ses charmes ;",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Et sous ces grands sapins, au bord des lacs brumeux,",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Je verrais se lever comme un fant\u00f4me en larmes",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, pour moi tout est plein sur cette froide plage",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "De la pr\u00e9sence ch\u00e8re et du regard aim\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Plein de la voix connue et de la douce image",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                }
+            ],
+            [
+                {
+                    "verse": "Comment pourrais-je encor, d\u00e9sol\u00e9e et pieuse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par les m\u00eames sentiers tra\u00eener ce c\u0153ur meurtri,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Seule o\u00f9 nous \u00e9tions deux, triste o\u00f9 j'\u00e9tais joyeuse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ciel pur dont la douceur et l'\u00e9clat sont les charmes,",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Monts blanchis, golfe calme aux contours gracieux,",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Votre splendeur m'attriste, et souvent \u00e0 mes yeux",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Votre divin sourire a fait monter les larmes.",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                }
+            ],
+            [
+                {
+                    "verse": "Du compagnon ch\u00e9ri que m'a pris le tombeau",
+                    "metre": "6+6",
+                    "rhyme": "10"
+                },
+                {
+                    "verse": "Le souvenir lointain me suit sur ce rivage.",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "Souvent je me reproche, \u00f4 soleil sans nuage !",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "Lorsqu'il ne te voit plus, de t'y trouver si beau.",
+                    "metre": "6+6",
+                    "rhyme": "10"
+                }
+            ],
+            [
+                {
+                    "verse": "Au pied des monts voici ma colline abrit\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le vallon toujours vert et la mer argent\u00e9e",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour la premi\u00e8re fois sur cette heureuse plage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand j'abordai, c'\u00e9tait apr\u00e8s un grand naufrage,",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u00e9j\u00e0, depuis ce temps de deuil et de d\u00e9tresse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Courir sur ces coteaux que la brise caresse,",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Si rien n'a refleuri, ni le pr\u00e9sent sans charmes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du moins mon pauvre c\u0153ur, fatigu\u00e9 de mes larmes,",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et je puis, sous ce ciel que l'oranger parfume",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "R\u00eaver aux temps aim\u00e9s, et voir sans amertume",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK10",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Le Fant\u00f4me",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK10_7",
+        "text": [
+            [
+                {
+                    "verse": "D'un souffle printanier l'air tout \u00e0 coup s'embaume.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans notre obscur lointain un spectre s'est dress\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nous reconnaissons notre propre fant\u00f4me",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans cette ombre qui sort des brumes du pass\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous le suivons de loin, entra\u00een\u00e9s par un charme",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 travers les d\u00e9bris, \u00e0 travers les d\u00e9tours,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Retrouvant un sourire et souvent une larme",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur ce chemin sem\u00e9 de r\u00eaves et d'amours.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Par quels champs oubli\u00e9s et d\u00e9j\u00e0 voil\u00e9s d'ombre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cette poursuite vaine un moment nous conduit !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vers plus d'un mont d\u00e9sert, dans plus d'un vallon sombre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le fant\u00f4me l\u00e9ger nous \u00e9gare apr\u00e8s lui.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Les souvenirs dormants de la jeunesse \u00e9teinte",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'\u00e9veillent sous ses pas d'un sommeil calme et doux ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils murmurent ensemble ou leur chant ou leur plainte,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont les \u00e9chos mourants arrivent jusqu'\u00e0 nous.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et ces accents connus nous \u00e9meuvent encore.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais \u00e0 nos yeux bient\u00f4t la vision d\u00e9cro\u00eet ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme l'ombre d'Hamlet qui fuit et s'\u00e9vapore,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le spectre dispara\u00eet en criant : Souviens-toi !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK11",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "La Lyre d'Orph\u00e9e",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK11_7",
+        "text": [
+            [
+                {
+                    "verse": "Quand Orph\u00e9e autrefois, frapp\u00e9 par les Bacchantes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pr\u00e8s de l'H\u00e8bre tomba, sur les vagues sanglantes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On vit longtemps encor sa lyre surnager.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le fleuve au loin chantait sous le fardeau l\u00e9ger.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le gai z\u00e9phyr s'\u00e9mut ; ses ailes amoureuses",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Baisaient les cordes d'or, et les vagues heureuses !",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme pour l'arr\u00eater, d'un effort doux et vain",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'empressaient \u00e0 l'entour de l'instrument divin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les r\u00e9cifs, les \u00eelots, le sable \u00e0 son passage",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'est rev\u00eatu de fleurs, et cet \u00e2pre rivage",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voit soudain, pour toujours d\u00e9livr\u00e9 des autans,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Au toucher de la lyre accourir le Printemps.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Ah ! que nous sommes loin de ces temps de merveilles !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les ondes, les rochers, les vents n'ont plus d'oreilles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les c\u0153urs m\u00eame, les c\u0153urs refusent de s'ouvrir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la lyre en passant ne fait plus rien fleurir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK12",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "A Alfred de Musset",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK12_7",
+        "text": [
+            [
+                {
+                    "verse": "Un po\u00e8te est parti ; sur sa tombe ferm\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pas un chant, pas un mot dans cette langue aim\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont la douceur divine ici-bas l'enivrait.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Seul, un pauvre arbre triste \u00e0 la p\u00e2le verdure,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Le saule qu'il r\u00eavait, au vent du soir, murmure",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Sur son ombre \u00e9plor\u00e9e un tendre et long regret.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce n'est pas de l'oubli ; nous r\u00e9p\u00e9tons encore,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Po\u00e8te de l'amour, ces chants que fit \u00e9clore",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans ton \u00e2me \u00e9perdue un \u00e9ternel tourment,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le Temps sans piti\u00e9 qui brise de son aile",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Bien des lauriers, le Temps d'une gr\u00e2ce nouvelle",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Couronne en s'\u00e9loignant ton souvenir charmant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu fus l'enfant choy\u00e9 du si\u00e8cle. Tes caprices",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous trouvaient indulgents. Nous \u00e9tions les complices",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De tes jeunes \u00e9carts ; tu pouvais tout oser.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De la Muse pour toi nous savions les tendresses,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et nos regards charm\u00e9s ont compt\u00e9 ses caresses,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "De son premier sourire \u00e0 son dernier baiser.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Parmi nous maint po\u00e8te \u00e0 la bouche inspir\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avait d\u00e9j\u00e0 rouvert une source sacr\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oui, d'autres nous avaient de leurs chants abreuv\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais le cri qui saisit le c\u0153ur et le remue,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Mais ces accents profonds qui d'une l\u00e8vre \u00e9mue",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Vont \u00e0 l'\u00e2me de tous, toi seul les as trouv\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Au concert de nos pleurs ta voix s'\u00e9tait m\u00eal\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Entre nous, fils souffrants d'une \u00e9poque troubl\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le doute et la douleur formaient comme un lien.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ta lyre en nous touchant nous \u00e9tait douce et ch\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Dans le chantre divin nous sentions tous un fr\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "C'est le sang de nos c\u0153urs qui courait dans le tien.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Rien n'arr\u00eatait ta plainte, et ton \u00e2me bless\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La laissait \u00e9chapper navrante et cadenc\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tandis que vers le ciel qui se voile et se cl\u00f4t",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De la foule montait une rumeur confuse,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Fier et beau, tu jetais, jeune amant de la Muse,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "\u00c0 travers tous ces bruits ton immortel sanglot.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Lorsque le rossignol, dans la saison br\u00fblante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'amour et des fleurs, sur la branche tremblante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se pose pour chanter son mal cher et secret,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rien n'arr\u00eate l'essor de sa plainte infinie,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et de son gosier fr\u00eale un long jet d'harmonie",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "S'\u00e9lance et se r\u00e9pand au sein de la for\u00eat.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La voix m\u00e9lodieuse enchante au loin l'espace\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais soudain tout se tait ; le voyageur qui passe",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous la feuille des bois sent un frisson courir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l'oiseau qu'entra\u00eenait une ivresse imprudente",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "L'\u00e2me s'est envol\u00e9e avec la note ardente ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "H\u00e9las ! chanter ainsi c'\u00e9tait vouloir mourir !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK13",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Deux vers D'Alc\u00e9e",
+        "profile": "8, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK13_7",
+        "text": [
+            [
+                {
+                    "verse": "Quel \u00e9tait ton d\u00e9sir et ta crainte secr\u00e8te ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quoi ! le v\u0153u de ton c\u0153ur, ta Muse trop discr\u00e8te",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Alc\u00e9e, on reconna\u00eet l'amour \u00e0 ce langage.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sapho feint vainement que ton discours l'outrage,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu l'entendais chanter, tu la voyais sourire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La fille de Lesbos, Sapho qui sur sa lyre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sa voix te trouble, Alc\u00e9e, et son regard t'enflamme",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tandis que ses accents p\u00e9n\u00e9traient dans ton \u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Que devint ton amour ? L'heure qui le vit na\u00eetre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'a-t-elle vu mourir ? V\u00e9nus ailleurs peut-\u00eatre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais le parfum du c\u0153ur jamais ne s'\u00e9vapore ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M\u00eame apr\u00e8s deux mille ans je le respire encore",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK14",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "La Lampe D'H\u00e9ro",
+        "profile": "6+6, 8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK14_7",
+        "text": [
+            [
+                {
+                    "verse": "De son bonheur furtif lorsque malgr\u00e9 l'orage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'amant d'H\u00e9ro courait s'enivrer loin du jour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et dans la nuit tentait de gagner \u00e0 la nage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Une lampe envoyait, vigilante et fid\u00e8le,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En ce p\u00e9ril vers lui son rayon vacillant ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On e\u00fbt dit dans les cieux quelque \u00e9toile immortelle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "La mer a beau mugir et heurter ses rivages,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les vents au sein des airs d\u00e9cha\u00eener leur effort,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les oiseaux effray\u00e9s pousser des cris sauvages",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tant que du haut sommet de la tour solitaire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Brille le signe aim\u00e9 sur l'ab\u00eeme en fureur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il ne sentira point, le nageur t\u00e9m\u00e9raire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme \u00e0 l'heure sinistre o\u00f9 la mer en sa rage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mena\u00e7ait d'engloutir cet enfant d'Abydos,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Autour de nous dans l'ombre un \u00e9ternel orage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Remplissant l'air au loin de ses clameurs fun\u00e8bres,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chaque vague en passant nous entr'ouvre un tombeau ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans les m\u00eames dangers et les m\u00eames t\u00e9n\u00e8bres",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le p\u00e2le et doux rayon tremble encor dans la brume.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le vent l'assaille en vain, vainement les flots sourds",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La d\u00e9robent parfois sous un voile d'\u00e9cume,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nous, les yeux lev\u00e9s vers la lueur lointaine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous fendons pleins d'espoir les vagues en courroux ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au bord du gouffre ouvert la lumi\u00e8re incertaine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 phare de l'Amour ! qui dans la nuit profonde",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous guides \u00e0 travers les \u00e9cueils d'ici-bas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toi que nous voyons luire entre le ciel et l'onde,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK15",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Pygmalion",
+        "profile": "6+6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK15_7",
+        "text": [
+            [
+                {
+                    "verse": "Du chef-d\u2019\u0153uvre toujours un c\u0153ur fut le berceau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019art, au fond, n\u2019est qu\u2019amour. Pour provoquer la vie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Soit qu\u2019on ait la palette en main ou le ciseau,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il faut une \u00e2me ardente et qu\u2019un charme a ravie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Apr\u00e8s tout, tes enfants ne sont point des ingrats,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Artiste ! ils sauront bien te rendre ta caresse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Croit n\u2019avoir embrass\u00e9 qu\u2019un marbre en son ivresse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est de la chair qu\u2019il sent palpiter dans ses bras.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK16",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "L'Hym\u00e9n\u00e9e et l'Amour",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK16_7",
+        "text": [
+            [
+                {
+                    "verse": "Sur le seuil des enfers Eurydice \u00e9plor\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'\u00e9vaporait l\u00e9g\u00e8re, et cette ombre ador\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 son \u00e9poux en vain dans un supr\u00eame effort",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avait tendu les bras. Vers la nuit \u00e9ternelle,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Par del\u00e0 les flots noirs le Destin la rappelle ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "D\u00e9j\u00e0 la barque triste a gagn\u00e9 l'autre bord.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tout entier aux regrets de sa perte fatale,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Orph\u00e9e erra longtemps sur la rive infernale.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sa voix du nom ch\u00e9ri remplit ces lieux d\u00e9serts.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il repoussait du chant la douceur et les charmes ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Mais, sans qu'il la touch\u00e2t, sa lyre sous ses larmes",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Rendait un son plaintif qui mourait dans les airs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Enfin, las d'y g\u00e9mir, il quitta ce rivage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "T\u00e9moin de son malheur. Dans la Thrace sauvage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il s'arr\u00eate, et l\u00e0, seul, secouant la torpeur",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 le d\u00e9sespoir sombre endormait son g\u00e9nie,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Il laissa s'\u00e9pancher sa tristesse infinie",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "En de navrants accords arrach\u00e9s \u00e0 son c\u0153ur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce fut le premier chant de la douleur humaine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que ce cri d'un \u00e9poux et que sa plainte vaine ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La parole et la lyre \u00e9taient des dons r\u00e9cents.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Alors la po\u00e9sie \u00e9mue et color\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Voltigeait sans effort sur la l\u00e8vre inspir\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Dans la gr\u00e2ce et l'ampleur de ses jeunes accents.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Des sons harmonieux telle fut la puissance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'elle adoucit bient\u00f4t cette am\u00e8re souffrance ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un sanglot moins profond sort de ce sein bris\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La Muse d'un sourire a calm\u00e9 le po\u00e8te ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Il sent, tandis qu'il chante, une vertu secr\u00e8te",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Descendre lentement dans son c\u0153ur apais\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et tout \u00e0 coup sa voix qu'attendrissent encore",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les larmes qu'il versa, prend un accent sonore.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son chant devient plus pur ; grave et m\u00e9lodieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il c\u00e9l\u00e8bre \u00e0 la fois dans son \u00e9lan lyrique",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "L'Hym\u00e9n\u00e9e et l'Amour, ce beau couple pudique",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui marche heureux et fier sous le regard des Dieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Il les peint dans leur force et dans la confiance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De leurs v\u0153ux \u00e9ternels. Sur le Temps qui s'avance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils ont leurs yeux fix\u00e9s que nul pleur n'a ternis.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Leur pr\u00e9sence autour d'eux r\u00e9pand un charme aust\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Mais ces enfants du ciel descendus sur la terre",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ne sont vraiment divins que quand ils sont unis.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, si quelque erreur triste un moment les s\u00e9pare,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans leurs sentiers divers bient\u00f4t chacun s'\u00e9gare.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur pied mal affermi tr\u00e9buche \u00e0 tout moment.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La Pudeur se d\u00e9tourne et les Gr\u00e2ces d\u00e9centes,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui les suivaient, formant des danses innocentes,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ont \u00e0 l'instant senti rougir leur front charmant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Eux seuls en l'enchantant font \u00e0 l'homme \u00e9ph\u00e9m\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oublier ses destins. Leur main douce et l\u00e9g\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le soutient dans la vie et le guide au tombeau.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si les temps sont mauvais et si l'horizon semble",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "S'assombrir devant eux, ils l'\u00e9clairent ensemble,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Appuy\u00e9s l'un sur l'autre et n'ayant qu'un flambeau.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour mieux entendre Orph\u00e9e, au sein de la nature",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout se taisait ; les vents arr\u00eataient leur murmure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00eame les habitants de l'Olympe \u00e9th\u00e9r\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Oubliaient le nectar ; devant leur coupe vide",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ils \u00e9coutaient charm\u00e9s, et d'une oreille avide,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Monter vers eux la voix du mortel inspir\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ces deux divinit\u00e9s que chantait l'hymne antique",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'ont rien perdu pour nous de leur beaut\u00e9 pudique ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur front est toujours jeune et serein. Dans leurs yeux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'immortelle douceur de leur \u00e2me respire.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Calme et pur, le bonheur fleurit sous leur sourire ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Un parfum sur leurs pas trahit encor les Dieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Bien des si\u00e8cles ont fui depuis l'heure lointaine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 la Thrace entendit ce chant ; sur l'\u00e2me humaine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plus d'un souffle a pass\u00e9 ; mais l'homme sent toujours",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Battre le m\u00eame c\u0153ur au fond de sa poitrine.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Gardons-nous d'y fl\u00e9trir la fleur chaste et divine",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "De l'amour dans l'hymen \u00e9close aux anciens jours.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L'\u00e2ge est triste ; il pressent quelque prochaine crise.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9j\u00e0 plus d'un lien se rel\u00e2che ou se brise.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On se trouble, on attend. Vers un but ignor\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lorsque l'orage est l\u00e0 qui bient\u00f4t nous emporte,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ah ! pressons, s'il se peut, d'une \u00e9treinte plus forte",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Un c\u0153ur contre le n\u00f4tre, et dans un n\u0153ud sacr\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK17",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Endymion",
+        "profile": "8, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK17_7",
+        "text": [
+            [
+                {
+                    "verse": "Lui que Ph\u0153b\u00e9 la nuit visite avec myst\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'elle adore en secret, un enfant, un pasteur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il est timide et fier, il est discret comme elle ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un charme grave au choix d'une amante immortelle",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "C'est lui qu'elle cherchait sur la vaste bruy\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand, sortant du nuage o\u00f9 tremblait sa lumi\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle jetait au loin un regard calme et pur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand elle abandonnait jusqu'\u00e0 son dernier voile,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Tandis qu'\u00e0 ses c\u00f4t\u00e9s une pensive \u00e9toile",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 Ph\u0153b\u00e9 ! le vallon, les bois et la colline",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dorment envelopp\u00e9s dans ta p\u00e2leur divine ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 peine au pied des monts flotte un l\u00e9ger brouillard.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si l'air a des soupirs, ils ne sont point sensibles ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Le lac dans le lointain berce ses eaux paisibles",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Non, ton amour n'a pas cette ardeur qui consume.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si quelquefois, le soir, quand ton flambeau s'allume,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ton amant te contemple avant de s'endormir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nul \u00e9clat qui l'aveugle, aucun feu qui l'embrase ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Rien ne trouble sa paix ni son heureuse extase ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu n'as pour le baiser que ton rayon timide,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui vers lui mollement glisse dans l'air humide,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sur sa l\u00e8vre p\u00e2le expire sans t\u00e9moin.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jamais le beau pasteur, objet de ta tendresse,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ne te rendra, Ph\u0153b\u00e9, ta furtive caresse,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Il va dormir ainsi sous la vo\u00fbte \u00e9toil\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jusqu'\u00e0 l'heure o\u00f9 la nuit, frissonnante et voil\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dispara\u00eetra des cieux t'entra\u00eenant sur ses pas.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Peut-\u00eatre en s'\u00e9veillant te verra-t-il encore",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui, t'effa\u00e7ant devant les rougeurs de l'aurore,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK18",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "H\u00e9b\u00e9",
+        "profile": "4+6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK18_7",
+        "text": [
+            [
+                {
+                    "verse": "Les yeux baiss\u00e9s, rougissante et candide,",
+                    "metre": "4+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vers leur banquet quand H\u00e9b\u00e9 s'avan\u00e7ait,",
+                    "metre": "4+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les Dieux charm\u00e9s tendaient leur coupe vide,",
+                    "metre": "4+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de nectar l'enfant la remplissait.",
+                    "metre": "4+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous tous aussi, quand passe la Jeunesse,",
+                    "metre": "4+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous lui tendons notre coupe \u00e0 l'envi.",
+                    "metre": "4+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Quel est le vin qu'y verse la d\u00e9esse ?",
+                    "metre": "4+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous l'ignorons ; il enivre et ravit.",
+                    "metre": "4+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ayant souri dans sa gr\u00e2ce immortelle,",
+                    "metre": "4+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "H\u00e9b\u00e9 s'\u00e9loigne ; on la rappelle en vain.",
+                    "metre": "4+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Longtemps encor sur la route \u00e9ternelle,",
+                    "metre": "4+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Notre \u0153il en pleurs suit l'\u00e9chanson divin.",
+                    "metre": "4+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK19",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Un autre C\u0153ur",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK19_7",
+        "text": [
+            [
+                {
+                    "verse": "Serait-ce un autre c\u0153ur que la Nature donne",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 ceux qu'elle pr\u00e9f\u00e8re et destine \u00e0 vieillir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un c\u0153ur calme et glac\u00e9 que toute ivresse \u00e9tonne,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui ne saurait aimer et ne veut pas souffrir ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ah ! qu'il ressemble peu, dans son repos tranquille,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 ce c\u0153ur d'autrefois qui s'agitait si fort !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u0153ur enivr\u00e9 d'amour, impatient, mobile,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au-devant des douleurs courant avec transport.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Il ne reste plus rien de cet ancien nous-m\u00eames ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans piti\u00e9 ni remords le Temps nous l'a soustrait.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'astre des jours \u00e9teints, cachant ses rayons bl\u00eames,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans l'ombre qui l'attend se plonge et dispara\u00eet.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c0 l'horizon changeant montent d'autres \u00e9toiles.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cependant, cher Pass\u00e9, quelquefois un instant",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La main du Souvenir \u00e9carte tes longs voiles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nous pleurons encore en te reconnaissant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK20",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "La Coupe du Roi de Thul\u00e9",
+        "profile": "6, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK20_7",
+        "text": [
+            [
+                {
+                    "verse": "Au vieux roi de Thul\u00e9 sa ma\u00eetresse fid\u00e8le",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avait fait en mourant don d'une coupe d'or,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Unique souvenir qu'elle lui laissait d'elle,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Dans ce vase, pr\u00e9sent d'une main ador\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le pauvre amant d\u00e8s lors but \u00e0 chaque festin.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La liqueur en passant par la coupe sacr\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et quand il y portait une l\u00e8vre attendrie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9bordant de son c\u0153ur et voilant son regard,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une larme humectait la paupi\u00e8re fl\u00e9trie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Il donna tous ses biens, sentant sa fin prochaine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Hormis toi, gage aim\u00e9 de ses amours \u00e9teints ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais il n'attendit point que la Mort inhumaine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme pour emporter une derni\u00e8re ivresse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il te vida d'un trait, \u00e9touffant ses sanglots,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Puis, de son bras tremblant surmontant la faiblesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D'un regard d\u00e9j\u00e0 trouble il te vit sous les ondes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "T'enfoncer lentement pour ne plus remonter :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'\u00e9tait tout le pass\u00e9 que dans les eaux profondes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et son c\u0153ur, ab\u00eem\u00e9 dans ses regrets supr\u00eames,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Subit sans la sentir l'atteinte du tr\u00e9pas.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En sa douleur ses yeux qui s'\u00e9taient clos d'eux-m\u00eames",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Coupe des souvenirs, qu'une liqueur br\u00fblante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous notre l\u00e8vre avide emplissait jusqu'au bord,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'en nos derniers banquets d'une main d\u00e9faillante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vase qui conservais la saveur immortelle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De tout ce qui nous fit r\u00eaver, souffrir, aimer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'\u0153il qui t'a vu plonger sous la vague \u00e9ternelle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK21",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "Daphn\u00e9",
+        "profile": "6+6, 8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK21_7",
+        "text": [
+            [
+                {
+                    "verse": "Lorsque le dieu du jour, plein d\u2019amoureuse audace,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9daignant tout \u00e0 coup l\u2019Olympe et ses plaisirs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sans char, la lyre en main, s\u2019\u00e9lan\u00e7ait sur la trace",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Celle-ci, jusqu\u2019au bout insensible et r\u00e9tive,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le laissa s\u2019\u00e9garer en des sentiers ingrats ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Puis, quand il la saisit, la jeune fugitive",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Un sort pareil attend ici-bas le g\u00e9nie :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En l\u2019Id\u00e9al qui fuit l\u2019artiste a mis sa foi.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Heureux qui voit de loin, dans l\u2019ar\u00e8ne infinie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Car il faut, d\u2019un \u00e9lan qu\u2019aucun refus n\u2019arr\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Poursuivre aussi Daphn\u00e9, quand ce serait en vain,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour sentir \u00e0 son tour s\u2019agiter sur sa t\u00eate",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ACK_1/ACK22",
+        "author": "Louise-Victorine Ackermann",
+        "work": "PREMI\u00c8RES PO\u00c9SIES",
+        "date": "1862",
+        "title": "L'Abeille",
+        "profile": "6+6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ACK_1&code_text=ACK22_7",
+        "text": [
+            [
+                {
+                    "verse": "Quand l'abeille, au printemps, confiante et charm\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sort de la ruche et prend son vol au sein des airs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout l'invite et lui rit sur sa route embaum\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'\u00e9glantier berce au vent ses boutons entr'ouverts ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La clochette des pr\u00e9s incline avec tendresse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous le regard du jour son front p\u00e2le et l\u00e9ger.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L'abeille c\u00e8de \u00e9mue au d\u00e9sir qui la presse ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle aper\u00e7oit un lis et descend s'y plonger.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une fleur est pour elle une mer de d\u00e9lices.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans son enchantement, du fond de cent calices",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle sort tr\u00e9buchant sous une poudre d'or.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Son fardeau l'alourdit, mais elle vole encor.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une rose est l\u00e0-bas qui s'ouvre et la convie ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur ce sein parfum\u00e9 tandis qu'elle s'oublie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le soleil s'est voil\u00e9. Pouss\u00e9 par l'aquilon,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un orage prochain menace le vallon.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le tonnerre a grond\u00e9. Mais dans sa qu\u00eate ardente",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'abeille n'entend rien, ne voit rien, l'imprudente !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur les buissons en fleur l'eau fond de toute part ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour regagner la ruche il est d\u00e9j\u00e0 trop tard.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La rose si fragile, et que l'ouragan brise,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Referme pour toujours son calice odorant ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La rose est une tombe, et l'abeille surprise",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans un dernier parfum s'enivre en expirant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Qui dira les destins dont sa mort est l'image ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ah ! combien parmi nous d'artistes inconnus,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Partis dans leur espoir par un jour sans nuage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des champs qu'ils parcouraient ne sont pas revenus !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une ivresse sacr\u00e9e aveuglait leur courage ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au gr\u00e9 de leurs d\u00e9sirs, sans craindre les autans,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils butinaient au loin sur la foi du printemps.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quel retour glorieux l'avenir leur appr\u00eate !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 ces mille tr\u00e9sors \u00e9pars sur leur chemin",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'amour divin de l'art les guide et les arr\u00eate :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout est fleur aujourd'hui, tout sera miel demain.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils revenaient d\u00e9j\u00e0 vers la ruche immortelle ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un vent du ciel soufflait, pr\u00eat \u00e0 les soulever.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au milieu des parfums la Mort brise leur aile ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Charg\u00e9s comme l'abeille, ils p\u00e9rissent comme elle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur le butin dor\u00e9 qu'ils n'ont pas pu sauver.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

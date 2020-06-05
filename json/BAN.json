@@ -1,0 +1,3405 @@
+[
+    {
+        "code": "BAN_15/BAN604",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Le Ruisseau",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN604_7",
+        "text": [
+            [
+                {
+                    "verse": "M\u00e8re, tenant de toi l'orgueil essentiel,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ta fille, (tu l'aurais entre toutes choisie !)",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Belle enfant dont le c\u0153ur ing\u00e9nu s'extasie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'aime rien de vulgaire et d'artificiel.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Moi, je d\u00e9daignerai tout art mat\u00e9riel,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car de toi j'ai re\u00e7u l'ardente po\u00e9sie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De ton esprit subtil que le beau rassasie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme tu m'as donn\u00e9 tes yeux emplis de ciel.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et c'est toi que tu sens en moi lutter, poursuivre",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Le but, toi dont la voix charmante qui m'enivre",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Murmurait comme un Ange aupr\u00e8s de mon berceau !",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Telle, aux humides pr\u00e9s, la Na\u00efade ravie,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Dont le sort incertain est celui du ruisseau,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "R\u00eaveuse, en flots d'argent voit s'\u00e9couler sa vie.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN605",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Oubli",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN605_7",
+        "text": [
+            [
+                {
+                    "verse": "O ma m\u00e8re, le vent chasse les feuilles rousses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais je te charmerai par des paroles douces !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici de pauvres fleurs qui tremblaient sous les cieux :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toi, tu les trouveras charmantes entre toutes,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et mes chants seront beaux, puisque tu les \u00e9coutes,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et ce jour terne et gris sera d\u00e9licieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Qui le sait mieux que toi ? C'est ainsi depuis \u00c8ve.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Notre m\u00e8re toujours est folle de son r\u00eave,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et s'amuse au babil des enfants querelleurs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu n'as pas de soucis pourvu que tu nous voies,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Car tu sais oublier pour les plus humbles joies",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Les ennuis de ta vie et les pires douleurs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN606",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Les Colombes",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN606_7",
+        "text": [
+            [
+                {
+                    "verse": "Puisque jusqu'\u00e0 la fin et m\u00eame autour des tombes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La famille se serre et s'unit avec foi,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aimons-nous ! Mes doux vers, ainsi que des colombes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ouvrent leur aile blanche et s'envolent vers toi.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Prends ces oiseaux pareils \u00e0 la neige candide,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qui trouvent d\u00e9j\u00e0 l'oubli d'ombres voil\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Apr\u00e8s avoir brill\u00e9 dans un azur splendide",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et plan\u00e9 dans les cieux de mon r\u00eave \u00e9toil\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La Muse, enfant craintive, et que le monde lasse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vient dormir \u00e0 tes pieds sur un m\u00e9chant coussin.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ma m\u00e8re, \u00e9coute-la te parler \u00e0 voix basse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et cache en souriant sa t\u00eate dans ton sein.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN607",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Querelle",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN607_7",
+        "text": [
+            [
+                {
+                    "verse": "Lorsque ma s\u0153ur et moi, dans les for\u00eats profondes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous avions d\u00e9chir\u00e9 nos pieds sur les cailloux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En nous baisant au front tu nous appelais fous,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Apr\u00e8s avoir maudit nous courses vagabondes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Puis, comme un vent d'\u00e9t\u00e9, brisant les fra\u00eeches ondes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00eale deux ruisseaux purs sur un lit calme et doux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lorsque tu nous tenais tous deux sur tes genoux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu m\u00ealais en riant nos chevelures blondes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et pendant bien longtemps nous restions l\u00e0 blottis,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Heureux, et tu disais parfois : O chers petits !",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Un jour vous serez grands, et moi je serai vieille !",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Les jours se sont enfuis, d'un vol myst\u00e9rieux,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Mais toujours la jeunesse \u00e9clatante et vermeille",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Fleurit dans ton sourire et brille dans tes yeux.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN608",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Les Baisers",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN608_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00c9cartez mes cheveux comme vous le faisiez",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lorsque ce front livide \u00e9tait plein de rosiers,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que ma p\u00e2le joue \u00e9tait encor fleurie ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et venez y poser votre l\u00e8vre ch\u00e9rie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car bien qu'ils soient d\u00e9j\u00e0 fl\u00e9tris, nos cheveux d'or,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nos m\u00e8res de leurs doigts les caressent encor,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et toujours les baisers c\u00e9lestes de leurs l\u00e8vres",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Savent gu\u00e9rir nos fronts br\u00fbl\u00e9s par mille fi\u00e8vres.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN609",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Primeur",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN609_7",
+        "text": [
+            [
+                {
+                    "verse": "Tandis que les voix du foyer",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Murmurent pour vous \u00e9gayer",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que le feu brille dans l'\u00e2tre,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9j\u00e0, fugitif et discret,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Derri\u00e8re la vitre appara\u00eet",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Le rire du Printemps fol\u00e2tre.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Impatient, avec raison,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De nous donner sa floraison,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voyez ! on dirait qu'il s'ennuie",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De ne pas prendre son essor,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et qu'il montre ses ailes d'or",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Encor frissonnantes de pluie.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "O douce m\u00e8re ! c'est pour toi",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que cette Nature en \u00e9moi",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fait tr\u00eave \u00e0 sa longue paresse,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, complice de ton rimeur,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Elle vient t'offrir la primeur",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "De ce rayon qui nous caresse.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN610",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Lys sans tache",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN610_7",
+        "text": [
+            [
+                {
+                    "verse": "Oui, quoique les soupirs, les pleurs et les sanglots",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vers tes yeux soient mont\u00e9s, amers comme des flots,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ch\u00e8re \u00e2me ! ton amour c\u00e9leste nous demeure,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toujours \u00e9panoui dans ton \u00e2me qui pleure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sous l'orage et le vent tel le Lys glorieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toujours ouvrant son pur calice vers les cieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Garde encore, meurtri, sa beaut\u00e9 souveraine,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et rien ne fait de tache \u00e0 sa blancheur sereine.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN611",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Fleurs d'hiver",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN611_7",
+        "text": [
+            [
+                {
+                    "verse": "Oui, quelques fleurs d'hiver, et c'est tout ! Leurs corolles",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne s'ouvriront pas ; mais leurs boutons ing\u00e9nus",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Te ravissent, ma m\u00e8re, et mieux que des paroles",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9voquent les jardins que nous avons connus.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "O notre cher Moulins ! Devant nos yeux \u00e9clate",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Parmi nos souvenirs gracieux et pensifs",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un \u00e9blouissement de rose et d'\u00e9carlate ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et les deux pi\u00e8ces d'eau, la verdure, les ifs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous voyons tout, les Dieux de pierre, la rocaille,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et je te vois riante et les cheveux flottants,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec ton l\u00e9ger voile et ton chapeau de paille,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et si belle au milieu d'un triomphal printemps !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN612",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Douces Larmes",
+        "profile": "8, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN612_7",
+        "text": [
+            [
+                {
+                    "verse": "Si vous ne voyez pas le front de votre fils",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Accabl\u00e9 sous le poids de la science am\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et si pour vous l'enfant que vous berciez jadis",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Laissez-moi m'enivrer de votre douce voix,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui fut ma po\u00e9sie et ma premi\u00e8re f\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et puis, m'agenouillant ici comme autrefois,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je veux redevenir ignorant, je le veux !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et revoir, oubliant mes plaintes \u00e9touff\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce temps o\u00f9 vous passiez dans mes petits cheveux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Votre main sur mes yeux alors me consolait !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je m'endormais, ravi par toutes vos caresses,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Faible, heureux, souriant, nourri de votre lait,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, je veux y penser encor, si je le puis",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et r\u00eaver pr\u00e8s de vous, comme j'avais coutume,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux bonheurs envol\u00e9s, car je n'ai bu depuis",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous me disiez : Mon fils, un jour tu souffriras.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour t'\u00e9pargner un peu les maux que je redoute,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Laisse-moi te cacher aux m\u00e9chants dans mes bras !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les baisers que plus tard, h\u00e9las ! je recevrais,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Devaient toujours servir \u00e0 cacher un mensonge ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ceux que vous me donniez \u00e9taient bien les seuls vrais ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "M\u00e8re ! \u2014 Laissez-le-moi dire, ce mot charmant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et bien oublier tout, rien que pendant cette heure !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car, si je suis heureux encor pour un moment,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN613",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Ta Voix",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN613_7",
+        "text": [
+            [
+                {
+                    "verse": "J'aime ta voix, jamais je ne m'en rassasie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ma m\u00e8re, ton regard, plus doux que l'Orient",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout enfant, me faisait r\u00eaver la po\u00e9sie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et tu m'as entr'ouvert les cieux, en souriant !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Si la for\u00eat m'accueille en ses gorges hautaines,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je te l'ai d\u00fb ; c'est toi, m\u00e8re, qui m'as appris",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A m'enivrer du chant rhythmique des fontaines,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Songeur de la nature et des cimes \u00e9pris !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je savais les doux mots que notre esprit savoure ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais pour charmer ce peuple attentif pr\u00e8s de nous,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est toi qui m'as donn\u00e9 ton \u00e2me et ta bravoure !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Embrasse encor ton fils qui pleure \u00e0 tes genoux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN614",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Silence",
+        "profile": "6, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN614_7",
+        "text": [
+            [
+                {
+                    "verse": "Pour baiser la prairie et le ruisseau dormant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un beau rayon frileux glisse furtivement",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Les fleurs veulent f\u00eater le jour qui nous est cher.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur corolle s'entr'ouvre au milieu de l'hiver",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oh ! que la terre en deuil retrouve son tr\u00e9sor !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puisque tes vieux enfants s'\u00e9blouissent encor",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tant que tu nous souris, \u00f4 regard ador\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous n'avons pas v\u00e9cu, nous n'avons pas pleur\u00e9,",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tant que nous te pressons dans nos bras tour \u00e0 tour,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nous oublions tout le reste, ivres d'amour,",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN615",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Ton Sourire",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN615_7",
+        "text": [
+            [
+                {
+                    "verse": "O m\u00e8re, ton sourire enthousiaste et fier",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Brille de clairs rayons, comme un soleil d'hiver.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En vain l'\u00e2ge est venu ; le temps qui nous assi\u00e8ge",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A touch\u00e9 ton front pur, et ne l'a pas bless\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Mais triste de blanchir tes cheveux, a laiss\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "D\u00e9licieusement fleurir leur douce neige !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oh ! dis-moi, le sais-tu, pourquoi tes soixante ans",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ont la gr\u00e2ce charmante et vive d'un printemps ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chaque heure sans repos nous pousse de son aile,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chaque instant nous trahit ; mais les nobles amours",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Sont pour notre visage un dictame, et toujours",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Y mettent doucement la jeunesse \u00e9ternelle.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La brise qui charma les fleurs, le seul z\u00e9phyr",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Froisse la blonde mer de flamme et de saphir",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont le chant retentit pr\u00e8s des belles Florides ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M\u00e8re, tes yeux aussi r\u00e9fl\u00e9chissent l'azur,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "C'est pourquoi tu seras pareille \u00e0 ce flot pur",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui refl\u00e8te le ciel et qui n'a pas de rides !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN616",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Aurore",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN616_7",
+        "text": [
+            [
+                {
+                    "verse": "Jusqu'\u00e0 toi, jusqu'\u00e0 toi, m\u00e8re, divinement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nos v\u0153ux s'envoleront dans un r\u00eave charmant.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu le sais, tes enfants silencieux t'adorent.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que les bois d\u00e9pouill\u00e9s, et les cieux qui se dorent,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Veillent sur ta demeure avec un soin jaloux !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que le soirs, que les jours et l'ombre te soient doux !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car tu fis ton bonheur de veiller sur nos \u00e2mes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Gr\u00e2ce \u00e0 toi, depuis l'heure obscure o\u00f9 nous pens\u00e2mes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Notre matin riant, c\u00e9leste et couronn\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Brilla comme une aurore, et tu nous as donn\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'amour du Beau, par qui tout s'\u00e9claire et flamboie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ta bont\u00e9 fid\u00e8le, et ta force et ta joie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN617",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Exil",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN617_7",
+        "text": [
+            [
+                {
+                    "verse": "En cette courte vie, h\u00e9las ! o\u00f9 rien ne dure,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme l'absence est triste et qu'elle semble dure !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ch\u00e8re \u00e2me, je ne puis, en baisant tes cheveux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Te donner mon amour, mes chants, mes pleurs, mes v\u0153ux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et t'offrir un bouquet de p\u00e2les violettes !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ah ! du moins, le chanteur des fra\u00eeches odelettes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que r\u00e9chauffa ton souffle en son fr\u00eale berceau,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le courtisan du lys en fleur et du ruisseau",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "T'enverra son baiser dans un vers o\u00f9 respire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son amour, comme un souffle harmonieux de lyre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sa caresse tendre, et son \u00e2me et sa voix.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais, ne me vois-tu pas ? Si, m\u00e8re, tu me vois !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand la neige tombant sur le coteau qui penche ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec ses doux flocons a fait la route blanche,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Regarde-moi, donnant la vol\u00e9e \u00e0 des vers",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fr\u00e9missants, qui, malgr\u00e9 le souffle des hivers,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec des cris joyeux s'enfuiront tout \u00e0 l'heure",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans la blanche lumi\u00e8re et dans le vent qui pleure,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Calme et pensif, aupr\u00e8s du clair foyer r\u00eavant,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et caressant toujours les strophes, mais souvent",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M'interrompant de suivre au hasard ma chim\u00e8re, \u2014",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour me dire : Que fait l\u00e0-bas ma douce m\u00e8re ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN618",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Les Oiseaux",
+        "profile": "6\u22126",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN618_7",
+        "text": [
+            [
+                {
+                    "verse": "O m\u00e8re, que toujours adore mon orgueil !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ma pens\u00e9e en r\u00eavant s'envole jusqu'au seuil",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la maison riante o\u00f9 la nuit tu reposes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u00e0 je te vois, devant le mur v\u00eatu de roses,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ou sous les arbres dont le feuillage mouvant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pleure, et dans le matin frissonnant et vivant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu vas, animant tout de ta gr\u00e2ce infinie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ma nourrice au beau front, mon \u00e2me, sois b\u00e9nie !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce n'est qu'un songe, h\u00e9las ! Entre nous, \u00f4 tourment !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sont les villes sans nombre et leur bourdonnement,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le temps, les nuits, les jours, le silence, l'espace,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les collines, les bois, les cieux, le vent qui passe.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais les oiseaux l\u00e9gers, voyant que je suis loin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De mon nid, les oiseaux rapides auront soin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De saluer, fuyant vers la lumi\u00e8re, celle",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dont la vaillance dans mes yeux d'or \u00e9tincelle.",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils diront : Comme nous, l'humble po\u00ebte obscur",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est un esprit ail\u00e9 qui s'en va dans l'azur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pr\u00eatons \u00e0 ce rimeur nos chansons fraternelles.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour l'an qui vient, il nous en fera de plus belles,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car les abeilles d'or voltigent sur son front",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sur sa bouche. Puis, m\u00e8re, ils regarderont",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'aurore qui se l\u00e8ve et le jour qui va na\u00eetre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, joyeux, ils viendront voler sur ta fen\u00eatre.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN619",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Feuilles mortes",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN619_7",
+        "text": [
+            [
+                {
+                    "verse": "Eh bien ! si dans mes jours arides",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout fut mensonge et vanit\u00e9,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je vois ton calme front sans rides",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que pare la s\u00e9renit\u00e9.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "M\u00e8re toujours belle et ch\u00e9rie,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui m'as donn\u00e9 l'espoir, la foi,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'amour, ma voix souvent fl\u00e9trie",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est jeune pour parler de toi !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Parmi le tumulte des choses",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les jours peuvent fuir pas \u00e0 pas",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En effeuillant nos p\u00e2les roses ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les ans ne te vieillissent pas.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et laisse-moi que je t'admire !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur ton visage qui sourit",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'un imperceptible sourire,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Brille la flamme de l'esprit.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "O m\u00e8re, par qui fut berc\u00e9e",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mon enfance, (le temps moqueur",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En passant l'a vite froiss\u00e9e,)",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00e8re adorable de mon c\u0153ur !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ton regard o\u00f9 le mien se noie,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Apr\u00e8s tant de jours \u00e9gren\u00e9s,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Reste encor la meilleure joie",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De ces yeux que tu m'as donn\u00e9s.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "M\u00e8re, le mot qui nous console",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De nos tr\u00e9sors an\u00e9antis,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est toujours la m\u00eame parole",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui nous endormait tout petits.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je m'enivrais, \u00f4 cher mensonge !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'espoirs vainement caress\u00e9s.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que me reste-t-il, quand j'y songe ?",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu m'aimes ! c'est bien. C'est assez.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je suivais l'ombre insaisissable ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'ai v\u00e9cu, j'ai chant\u00e9 mes vers,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'ai fait des escaliers de sable",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour atteindre les rameaux verts !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mes il fallait des mains plus fortes,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et mon bras, vers le ciel tendu,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'a trouv\u00e9 que des feuilles mortes",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au lieu du laurier attendu.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ici-bas, o\u00f9 rien ne s'ach\u00e8ve,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 chaque espoir tombe et s'enfuit,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toutes le roses de mon r\u00eave,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'effeuillent, au vent de la nuit ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais ce bien charmant et supr\u00eame,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce talisman qui me d\u00e9fend,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ton amour est rest\u00e9 le m\u00eame",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour moi, ton fils, non, ton enfant.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN620",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Toute mon \u00c2me",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN620_7",
+        "text": [
+            [
+                {
+                    "verse": "Depuis le jour o\u00f9 je suis n\u00e9,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Songeur que Dieu voulut \u00e9lire",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour unir son chant obstin\u00e9",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A la myst\u00e9rieuse Lyre,",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu m'as aim\u00e9, tu m'as gu\u00e9ri,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu m'as donn\u00e9, dans tes alarmes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec ton lait qui m'a nourri,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tant de chers baisers, tant de larmes !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Par toi j'ai pu vivre et penser,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu fus ma nourrice et mon Ange,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et moi, pour te r\u00e9compenser,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'ai-je \u00e0 te donner en \u00e9change ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour toi, source de tout mon bien,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gardienne attentive et charm\u00e9e,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je n'ai rien, pas m\u00eame ce rien",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que l'on appelle renomm\u00e9e.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je n'ai rien, lorsque c'est mon tour !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je n'ai rien, c\u0153ur br\u00fbl\u00e9 de flamme,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que ma tendresse et mon amour ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je n'ai rien que toute mon \u00e2me.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN621",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Pour nous deux",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN621_7",
+        "text": [
+            [
+                {
+                    "verse": "Pour un jour seulement fait tr\u00eave \u00e0 ton martyre !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sois comme je te vis, \u00f4 sourire et douceur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lorsque ta ch\u00e8re voix qui me berce et m'attire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Enchantait le r\u00e9veil de ma petite s\u0153ur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L'absence, la douleur, le mal ne sont qu'un r\u00eave,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les c\u0153urs n'ont pas aim\u00e9, n'ont pas souffert en vain :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Oh ! crois-le, Dieu nous rend tout ce qu'il nous enl\u00e8ve,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et c'est l\u00e0 son miracle \u00e9ternel et divin !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Celle qui nous charma comme une aube naissante,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Celle que tant de fois tu nommes \u00e0 genoux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qui pour nos regards voil\u00e9s semblait absente,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pendant que nous pleurions est ici pr\u00e8s de nous !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je l'entends \u00e0 cette heure aussi douce qu'am\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 nos Anges pensifs nous voient occup\u00e9s d'eux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Me dire tout bas : Prends dans tes bras notre m\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mon fr\u00e8re, et donne-lui des baisers pour nous deux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN622",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Ils nous voient",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN622_7",
+        "text": [
+            [
+                {
+                    "verse": "Les cieux semblent d\u00e9j\u00e0 vivants et rajeunis.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je sens venir, du fond de l'ombre enchanteresse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le souffle d'une brise amie et charmeresse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans le triste silence o\u00f9 nos c\u0153urs sont unis.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pareils \u00e0 des oiseaux frissonnants dans leurs nids,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En nous des souvenirs de joie et de tendresse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pleurent ; le vent d'une aile errante nous caresse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ma m\u00e8re, et ce n'est pas moi seul qui te b\u00e9nis !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Car du s\u00e9jour divin cach\u00e9 sous tant de voiles,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Sit\u00f4t que sur nos fronts s'allument les \u00e9toiles,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ceux qui sont dans les cieux nous regardent pleurer.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils nous voient dans l'attente et dans la solitude,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Et leurs lointaines voix tentent de murmurer,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Comme pour mettre un terme \u00e0 notre inqui\u00e9tude.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN623",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Z\u00e9lie enfant",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN623_7",
+        "text": [
+            [
+                {
+                    "verse": "Si j'\u00e9tais le savant ouvrier dont la main",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cr\u00e9e \u00e0 nouveau notre \u00e2me et le sourire humain",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur sa toile vivante et de rayons fleurie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je peindrais pour nous deux, o ma m\u00e8re ch\u00e9rie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le portrait de ma s\u0153ur enfant, et j'y mettrais",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sa gr\u00e2ce, et la beaut\u00e9 divine de ses traits,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si charmants et si purs qu'une clart\u00e9 sur elle",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Flottait et dans ses jeux semblait surnaturelle.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle avait la pens\u00e9e \u00e9crite sur son front,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et tu disais : Voil\u00e0 mon r\u00eave et ma folie !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est elle, mon enfant ! ma petite Z\u00e9lie !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Butinant au hasard dans l'herbe et dans le thym,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle \u00e9tait rayonnante \u00e0 l'aube du matin ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle courait, dans l'herbe \u00e9paisse, vers les saules",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du ruisseau, les cheveux flottants sur ses \u00e9paules,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Grave, heureuse, portant des fleurs et les bras nus,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Levant sans embarras ses grands yeux ing\u00e9nus,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Distraite, et cependant regardant quelque chose,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sa bouche avait l'air d'une petite rose.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN624",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Leurs L\u00e8vres",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN624_7",
+        "text": [
+            [
+                {
+                    "verse": "Quand vient le jour pareil au jour",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De bonheur et d'orgueil en f\u00eate,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 ta m\u00e8re pleurait d'amour",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En contemplant ta ch\u00e8re t\u00eate ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Quand rena\u00eet le jour o\u00f9 tu vins,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme Dieu l'exige, \u00f4 myst\u00e8re !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De la clart\u00e9 des cieux divins",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aimer et pleurer sur la terre ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Alors, pareil \u00e0 l'exil\u00e9",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, lorsqu'il revoit sa patrie,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Marche tranquille et consol\u00e9,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce jour-l\u00e0, m\u00e8re, h\u00e9las ! meurtrie,",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je vois ma s\u0153ur au front charmant",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et les deux yeux bleus de mon p\u00e8re,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ce n'est pas moi seulement",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui dis \u00e0 ton oreille : Esp\u00e8re !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ah ! de nos fronts endoloris",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que les vaines craintes s'envolent !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tous ceux que nous avons ch\u00e9ris",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A la m\u00eame heure nous consolent.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour nous rendre forts et joyeux,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur c\u0153ur, leur esprit, leur bravoure",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et leur souffle silencieux",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vivent dans l'air qui nous entoure.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Dans le parfum l\u00e9ger des fleurs",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Une vague haleine soupire ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est leur voix. A travers nos pleurs",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Glisse un rayon : c'est leur sourire,",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et pour que leur calme baiser",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous r\u00e9chauffe \u00e0 ses douces flammes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je sens leurs l\u00e8vres se poser",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9licatement sur nos \u00e2mes.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN625",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Les Absents",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN625_7",
+        "text": [
+            [
+                {
+                    "verse": "M\u00e8re, puisque le Temps, ce farouche oiseleur",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A d\u00e9vast\u00e9 les nids de notre joie en fleur,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et puisque nous gardons toujours dans nos m\u00e9moires",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui fut emport\u00e9 par les Jours d\u00e9risoires,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Eh bien ! songeons encore \u00e0 nos bonheurs si courts !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'absente que nos yeux pensifs cherchent toujours,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et mon p\u00e8re endormi, tous ces deuils, la patrie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Saignante encore et dont la voix sanglote et crie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pleurant en nous, pareils \u00e0 la plainte des mers,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Font que m\u00eame nos jours de f\u00eate sont amers !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vient, et pose d\u00e9j\u00e0 son pied sur les collines ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Bient\u00f4t, demain, chassant la neige et le verglas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il \u00e9panouira les grappes des lilas.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Une brise, d\u00e9j\u00e0 folle et pleine d'ivresse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Flotte ; je ne sais quelle invisible caresse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous effleure ; voici que les airs atti\u00e9dis",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ont un souffle embaum\u00e9 qui vient du paradis ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vois les cieux frissonnants, clairs, une joie immense",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Charme l'azur, et tout nous parle de cl\u00e9mence.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN626",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Comme un jour",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN626_7",
+        "text": [
+            [
+                {
+                    "verse": "O m\u00e8re, agenouill\u00e9 sous tes ch\u00e8res prunelles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je dis \u00e0 Dieu : Seigneur des clart\u00e9s \u00e9ternelles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puisqu'elle a tant pleur\u00e9, mon Dieu, b\u00e9nissez-la !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Puisque sa ch\u00e8re fille \u00e0 vos pieds s'envola,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pendant ce long tourment des heures douloureuses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Accordez-lui par moi des minutes heureuses !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ainsi je prie ayant, comme un bon ouvrier,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le d\u00e9sir de gagner quelque brin de laurier",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour parer de renom ta vieillesse ador\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je voudrais, conqu\u00e9rant l'immortelle dur\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que fleurissant toujours malgr\u00e9 les noirs hivers,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ta m\u00e9moire p\u00fbt vivre \u00e0 jamais dans mes vers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Po\u00ebte, quand ton souffle a p\u00e9n\u00e9tr\u00e9 mon \u00eatre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Alors que je te tiens serr\u00e9e entre mes bras",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'oublie en un moment la haine des ingrats,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les peines, les soucis de cette courte vie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la gloire d'un jour vainement poursuivie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et je me trouve heureux, puisque je me souviens,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'au milieu de tes maux d\u00e9sol\u00e9s et des miens,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous avons conserv\u00e9 dans notre vie obscure",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Notre affection vraie, indestructible et pure,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que nous la gardons comme un clair diamant ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que tu r\u00e9pandis infatigablement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ainsi que d'une coupe in\u00e9puisable et douce,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M\u00e8re, sur mon c\u0153ur fier et que rien ne courrouce,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tes consolations, ton adorable amour,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que ce demi-si\u00e8cle a pass\u00e9 comme un jour !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN627",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Vers le ciel",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN627_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00c9levons nos regards vers le ciel adouci.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00e8re, c'est dans un jour, pareil \u00e0 celui-ci",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que ta m\u00e8re, \u00e9perdue, en ses ferveurs \u00e9tranges,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Te voyait, en dormant, sourire pour les Anges !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ah ! par ces premiers jours de printemps clairs et doux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le souffle de nos morts ch\u00e9ris est avec nous.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il caresse nos fronts et nous dit \u00e0 l'oreille :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici que tout rena\u00eet et que tout se r\u00e9veille ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'apr\u00e8s l'hiver jaloux qui d\u00e9pouillait leur front",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les bois luxuriants bient\u00f4t reverdiront,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que renouvelant sa riche broderie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La terre au flanc vermeil sera toute fleurie !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M\u00e8re, ils parlent ainsi, car ils suivent nos pas.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils ne nous laissent pas, ils ne nous quittent pas,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais attentifs, voyant nos peines amass\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A suivre dans nos yeux l'ombre de nos pens\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils ne sont malheureux que de notre douleur,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puisqu'ils ont d\u00e9j\u00e0 pu sentir leur vie en fleur",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Na\u00eetre et s'\u00e9veiller, comme un renouveau splendide.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est la bont\u00e9 de Dieu, qui nous laisse entrevoir",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au lointain la lueur sereine de l'espoir,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qui nous versera le bonheur sans mesure",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans les cieux fr\u00e9missants que sa prunelle azure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils nous rendra mon p\u00e8re et sa grave douceur",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le rire ing\u00e9nu de ma petite s\u0153ur ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car le Seigneur n'emplit d'ombre la for\u00eat verte",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ne s\u00e8me des fleurs sur la plaine d\u00e9serte",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ne fait rayonner sur nous le soleil d'or",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que pour nous dire : Enfants, patientez encor ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vos ennuis sont amers et vos jours difficiles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais je vous vois, je songe \u00e0 vous. Soyez tranquilles.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN628",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Pourquoi seuls ?",
+        "profile": "6\u22126",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN628_7",
+        "text": [
+            [
+                {
+                    "verse": "Eh bien ! m\u00e8re, prenons les souvenirs si doux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le temps o\u00f9 tes enfants jouaient sur tes genoux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ta m\u00e8re qui savait encor comme on esp\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La grandeur, la bont\u00e9 charmante de ton p\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le mien tout amour, comme je le revois,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La Font-Georges vermeille o\u00f9 se m\u00ealaient nos voix,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ma petite s\u0153ur qui passait dans les herbes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec sa bouche rose et ses grands yeux superbes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ses cheveux si fins dans la brise envol\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce triomphe \u00e9clatant des bleuets dans les bl\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et tes enfants jaseurs qui, lass\u00e9s de leur course,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tous deux s'agenouillaient et buvaient \u00e0 la source !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O m\u00e8re ! plongeons-nous dans ce flot ! Revoyons",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les peupliers, les eaux tremblantes, les rayons,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vos projets merveilleux, tout ce temps o\u00f9 la vie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De pourpre et d'or, \u00e9tait comme une aube ravie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jetant ses feux ros\u00e9s dans l'azur empli d'yeux ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Prenons ces souvenirs, ce pass\u00e9 radieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui devant nous comme un riant matin flamboie,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et renouvelons-nous dans ce tr\u00e9sor de joie !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et resplendit, pourquoi nous sentirions-nous seuls,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puisque, gardant toujours aux n\u00f4tres nos tendresses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nos baisers, notre amour, nos meilleures caresses,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous n'avons pas des c\u0153urs l\u00e2ches ni paresseux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et puisque, pleins encor du cher esprit de ceux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui revivent baign\u00e9s par les clart\u00e9s divines,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous les sentons vivants encor dans nos poitrines ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN629",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Extase",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN629_7",
+        "text": [
+            [
+                {
+                    "verse": "Oui, dans un pareil jour, tu naissais ! Du ciel bleu",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Une \u00c2me libre, ouvrant ses ailes, \u00f4 myst\u00e8re !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour venir lutter, vivre et souffrir sur la terre",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quitte l'azur c\u00e9leste et les astres de feu.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C'est qu'ayant le bonheur immense, elle a trop peu ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est qu'elle ne veut pas le go\u00fbter, solitaire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qu'une voix d'enfant qui ne pouvait se taire",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9j\u00e0 parle \u00e0 cette \u00c2me, heureuse aux pieds de Dieu !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu naissais, et ta m\u00e8re, et ton p\u00e8re en d\u00e9lire,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Pench\u00e9s sur toi, pleuraient, essayaient de sourire,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et, moment ineffable et que rien ne corrompt !",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Tous les deux, pleins d'amour, d'orgueil et de folie,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "En leur na\u00efve joie ils admiraient ton front,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Et couvraient de baisers leur petite Z\u00e9lie.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN630",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Les Jardins",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN630_7",
+        "text": [
+            [
+                {
+                    "verse": "M\u00e8re, qu'il soit b\u00e9ni, le grand jardin de fleurs",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui vit, petite enfant, ton sourire et tes pleurs !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u00e0, ta m\u00e8re aux beaux yeux, jeune et pleine de gr\u00e2ce",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Te chantait des chansons de nourrice \u00e0 voix basse ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ton p\u00e8re, s\u00e9rieux, te prenait dans ses bras,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et t'\u00e9coutant, ravi, d\u00e8s que tu murmuras,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Disait : O fr\u00eale enfant ! il faut veiller sur elle.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et c'\u00e9tait entre eux deux une folle querelle",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De lutter pour donner une joie \u00e0 tes yeux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de savoir lequel t'ob\u00e9irait le mieux.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Emportant loin de nous les \u00e2mes bien aim\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nos r\u00eaves, nos d\u00e9sirs, tout ce qui nous fut cher.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le froid du soir qui tombe entre dans notre chair,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et cependant toujours les voix qui nous \u00e9murent",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme en un vague songe autour de nous murmurent ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elles ont la douceur sereine de l'espoir",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nous les entendons qui disent : Au revoir !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nos Anges, dans cette ombre o\u00f9 notre pas vacille",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous regardent souffrir d'un \u0153il doux et tranquille",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et tandis que leur vol myst\u00e9rieux nous suit,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au-dessus de nos fronts envahis par la nuit",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous voyons l'avenir sortir d'un sombre voile",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous la nue, et grandir comme une blanche \u00e9toile.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Oh ! sois heureuse ! et quand fr\u00e9mit l'aile du soir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Songe aux chers c\u0153urs avec le plus tranquille espoir,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car un pressentiment c\u00e9leste nous enivre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans cette solitude o\u00f9 nous les sentons vivre.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN631",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Nous voil\u00e0 tous",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN631_7",
+        "text": [
+            [
+                {
+                    "verse": "M\u00e8re, nous voil\u00e0 tous, moi ton fils, qui te f\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et celle qui pour moi Dieu lui-m\u00eame avait faite,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l'enfant ador\u00e9 qui porte dans ses yeux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un monde qui s'agite, encor myst\u00e9rieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et toi, tu nous b\u00e9nis, o ma ch\u00e8re nourrice !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O m\u00e8re, que toujours l'espoir en toi fleurisse !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous ne sommes pas seuls \u00e0 baiser doucement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ta t\u00eate calme o\u00f9 luit comme un \u00e9clair charmant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le murmure \u00e9touff\u00e9 de tout ce qui s'\u00e9veille",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Court sur les arbres nus et sur les claires eaux.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'air est plein du frisson des ailes des oiseaux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et des \u00e2mes des morts et du souffle des Anges ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Celui vers qui toujours monte un flot de louanges",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qui de nos douleurs a fait des volupt\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous dit alors tout bas : Voici l'heure. \u00c9coutez.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et plus faibles qu'un vol d'abeilles sur les mousses,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous entendons les voix qui nous semblaient si douces",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jadis ; car rien ne meurt, la tombe n'a rien pris",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la clart\u00e9 sereine et pure des esprits,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et Dieu, qui les cr\u00e9a dans leur splendeur premi\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'a pas fait du n\u00e9ant avec de la lumi\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN632",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "Nos proies",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN632_7",
+        "text": [
+            [
+                {
+                    "verse": "O ma m\u00e8re, emportant nos pleurs et nos dangers,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les ans s'en vont, pareils \u00e0 des oiseaux l\u00e9gers,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et dans la nue en deuil que les soleils essuient,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous voyons frissonner leurs ailes qui nous fuient.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cependant rien n'est faux et rien n'est d\u00e9cevant :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout ce qui nous fit vivre en nos c\u0153urs est vivant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, malgr\u00e9 la temp\u00eate affreuse et les tourmentes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le pass\u00e9, tout rempli de visions charmantes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme un r\u00eave ind\u00e9cis berce notre sommeil,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nous laisse dans l'\u00e2me un rayon de soleil.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout ce qui fut \u00e0 nous, les douleurs et les joies,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les mots qui nous charmaient, les cris m\u00e9lodieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les chagrins \u00e9touffants, les retours, les adieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les gais soleils brillant dans la campagne verte,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le souvenir saignant comme une plaie ouverte,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l'aile de la brise et le parfum des bois,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les chants, les pas, les jeux, les sourires, les voix,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et quand l'ombre nous gagne, emplissons-nous d'aurore.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais Hier, c'est Demain riant qui veut \u00e9clore ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vois ta fille et ton fils \u00e0 tes genoux, et vois",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Notre Georges qui t'offre avec ses petits doigts",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ces fleurs, et parle-nous tendrement caress\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par ses grands yeux de flamme o\u00f9 brille la pens\u00e9e !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BAN_15/BAN633",
+        "author": "Th\u00e9odore de Banville",
+        "work": "ROSES DE NO\u00cbL",
+        "date": "1878",
+        "title": "A celle qui me voit",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAN_15&code_text=BAN633_7",
+        "text": [
+            [
+                {
+                    "verse": "Tu le voulais, h\u00e9las ! j'ai relu ces feuillets.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme si tout \u00e0 coup, tremblant, je m'\u00e9veillais,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tous nos chers souvenirs dont la douceur m'attire",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ont raviv\u00e9 ma foi triste, mon long martyre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et comme un combattant d\u00e9chir\u00e9, mais vainqueur,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'apporte ces lambeaux tous saignants de mon c\u0153ur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous sommes r\u00e9unis d\u00e9j\u00e0 par la Pri\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui franchit mille cieux d'un vol a\u00e9rien.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le sang de J\u00e9sus coule et ne d\u00e9daigne rien !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oh ! dis-le, que parmi les \u00e9thers emplis d'ailes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est toi qui me prendras entre tes bras fid\u00e8les,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'alors nous sentirons tous nos maux s'apaiser,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'heureuse, tu mettras sur mon front ton baiser,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qu'enfin d\u00e9livr\u00e9s de toute angoisse am\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous vivrons, \u00f4 mon Ange, \u00f4 mon espoir, ma m\u00e8re !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

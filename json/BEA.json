@@ -1,0 +1,924 @@
+[
+    {
+        "code": "BEA_3/BEA17",
+        "author": "Henri Beauclair",
+        "work": "PO\u00c8MES DIVERS",
+        "date": "1887-1914",
+        "title": "Ville natale",
+        "profile": "6=6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEA_3&code_text=BEA17_7",
+        "text": [
+            [
+                {
+                    "verse": "Je viens te demander, \u00f4 ma Ville Natale,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du calme pour mon c\u0153ur, de l'air pour mes poumons !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'ai travers\u00e9 des mers et j'ai franchi des monts,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je t'ai conserv\u00e9 mon amour filiale !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Lorsque je voyageais sous des cieux \u00e9trangers,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Devant les monuments fameux, dans les ruines,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Bien souvent j'\u00e9voquai ton cadre de collines ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je r\u00eavais de pommiers devant les orangers !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le guide me disait : Voici des paysages",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'on vient de tous les points de la Terre admirer !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je songeais alors, comme pour comparer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au vallon de la Touque, aux b\u0153ufs dans les herbages",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je restai bon normand, si je t'abandonnai !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je n'ai vu nulle part la maison d\u00e9sir\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je ne veux pas vieillir dans une autre contr\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je mourrai dans tes murs, \u00f4 ville o\u00f9 je suis n\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Jadis, je te quittai pour courir, \u2014 ah ! Jeunesse ! \u2014",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La vie aventureuse aux mirages tentants ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'\u00e9tais fougueux, j'\u00e9tais altier, j'avais vingt ans !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je m\u00e9connaissais ton charme, bonne h\u00f4tesse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C'est le c\u0153ur attendri que j'allai, ce matin,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fouler les gros pav\u00e9s de tes antiques rues ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je cherchais du regard des maisons disparues,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'ai revu le Coll\u00e8ge o\u00f9 j'appris le latin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Du Palais de l'\u00c9v\u00eaque aux anciennes tours grises,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'ai march\u00e9, comme un p\u00e9lerin, jusqu'\u00e0 ce soir ;",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur un banc du Jardin Public j'allai m'asseoir",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et moi, le m\u00e9cr\u00e9ant, j'entrai dans tes \u00e9glises.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le pass\u00e9 m'enla\u00e7ait avec ses doux liens ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des fant\u00f4mes d'amour sont venus m'appara\u00eetre ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et j'ai senti combien est encha\u00een\u00e9 mon \u00eatre",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au petit coin de France o\u00f9 dorment tant des miens !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ah ! c'est que tous ceux-l\u00e0 que connut mon enfance,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Parents, amis, voisins, je les recherche en vain\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme il en reste peu pour me tendre la main !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chacun de mes appels tombe dans le silence.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mes parents ? J'ai perdu les mieux aim\u00e9s d'entre eux :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "P\u00e8re, fr\u00e8re, puis s\u0153ur : le sort me fut s\u00e9v\u00e8re :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En cinq ans j'ai, cinq fois, gravi comme un calvaire",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le dur chemin qui conduit aux Champs-R\u00e9mouleux.",
+                    "metre": "4+8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais, ces \u00eatres de qui j'ai clos les yeux, je doute,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Parfois, qu'ils soient partis pour ne plus revenir :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout est plein d'eux, ici ; leur exil va finir\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je m'attends \u00e0 les voir arriver sur la route.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Cette route, depuis vingt ans, n'a pas chang\u00e9 :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les arbres, toujours drus, ont le m\u00eame feuillage,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les m\u00eames roquets jappent sur mon passage,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cependant que l'on m'a d\u00e9j\u00e0 d\u00e9visag\u00e9\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Derri\u00e8re son rideau, c'est une m\u00e9nag\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui se demande, avec un regard soup\u00e7onneux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quel est cet inconnu, promeneur matineux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et moi, je sais fort bien le nom de la comm\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "De tous petits enfants sont debout sur le seuil ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 O marmaille, maillons de l'\u00e9ternelle cha\u00eene ! \u2014",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'ai-je pas vu, voil\u00e0 vingt ans, la m\u00eame sc\u00e8ne",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le m\u00eame vieillard dans le m\u00eame fauteuil ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les g\u00e9n\u00e9rations vivent ; le m\u00eame geste",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est fait par le grand-p\u00e8re et par le petit-fils ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je reconnais des attitudes, des profils,",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car l'a\u00efeul qui partit vit en l'enfant qui reste !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Dans son pays natal, on n'est point isol\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ici, je serai pr\u00e8s de ceux de ma lign\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Gens \u00e0 l'\u00e2me \u00e0 la fois hautaine et r\u00e9sign\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je suis le descendant d'obscurs semeurs de bl\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEA_3/BEA18",
+        "author": "Henri Beauclair",
+        "work": "PO\u00c8MES DIVERS",
+        "date": "1887-1914",
+        "title": "Sonnet",
+        "profile": "6\u22126",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEA_3&code_text=BEA18_7",
+        "text": [
+            [
+                {
+                    "verse": "Les r\u00eaves d'autrefois : \u2014 gloire, honneurs et puissance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ont cess\u00e9 de hanter mon cerveau repos\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je souris du temps o\u00f9 j'aurais tout os\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour \u00eatre de ceux-l\u00e0 que le vulgaire encense.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "L'\u00c9go\u00efsme m'a dit : \u00ab Recherche le silence :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par le fracas du Nom le Bonheur est chass\u00e9. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la Paresse : \u00ab N'es-tu pas d\u00e9j\u00e0 lass\u00e9 ?",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Songe \u00e0 ce qu'il te faut acqu\u00e9rir de science ! \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "A ma fen\u00eatre j'ai born\u00e9 mon horizon.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et je m'enferme en ma volontaire prison,",
+                    "metre": "6\u22126",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Sans nul but que gagner le pain de ceux que j'aime ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Ne craignant rien que la Maladie et la Mort ;",
+                    "metre": "6\u22126",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Heureux, puisque ma femme est un autre moi-m\u00eame ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Puisque ma fille est belle et que mon fils est fort.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEA_3/BEA19",
+        "author": "Henri Beauclair",
+        "work": "PO\u00c8MES DIVERS",
+        "date": "1887-1914",
+        "title": "Anc\u00eatres",
+        "profile": "6\u00f76",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEA_3&code_text=BEA19_7",
+        "text": [
+            [
+                {
+                    "verse": "Citadin, je me sais des v\u00f4tres, paysans !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je tiens de parchemins \u2014 des actes de notaire \u2014",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que tous mes ascendants ont labour\u00e9 la terre.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mes titres de roture ont plus de trois cents ans.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je songe quelquefois quels deuils et quelles peines",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Subirent tous ceux-l\u00e0 qui port\u00e8rent mon nom,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Combien de leurs sueurs tomba dans le sillon",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avant que leur sang pur v\u00eent couler dans mes veines.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "ur le sol que, vivants, ils ont ensemenc\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Auquel, morts, ils ont tous apport\u00e9 leur d\u00e9pouille,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici que, fils reconnaissant, je m'agenouille",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je sens sourdre en moi leur lumineux pass\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J'ai fait miens vos tourments et votre joie, anc\u00eatres !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et vous, qui n'\u00eates plus que poussi\u00e8re et n\u00e9ant,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme \u00e0 des morts d'hier je pense \u00e0 vous souvent.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je vous \u00e9voque en mes promenades champ\u00eatres.",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est parce que vos bras ont lev\u00e9 des fardeaux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que ma poitrine est large et mon torse robuste ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et si j'ai su, parfois, montrer l'\u00e0me d'un Juste,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est que le Mal ne germa point dans vos cerveaux !",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est parce que vos yeux ont contempl\u00e9 sans cesse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les arbres, les ruisseaux, le ciel et les moissons",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que j'ai compris la majest\u00e9 des Parth\u00e9nons",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qu'en mon Verbe l'on trouva quelque noblesse !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous aviez l'esprit clair, \u00f4 subtils paysans !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous ne prononciez pas de phrases inutiles\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est \u00e0 vous que je dois d'avoir pu, dans les villes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Parmi tant d'agit\u00e9s garder quelque bon sens.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous m'avez montr\u00e9, vous qui besogniez sans tr\u00eave.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pr\u00e9parant en hiver les espoirs de l'\u00e9t\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'on trouve le bonheur dans la simplicit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que l'action doit accompagner le r\u00eave.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De m\u00eame qu'en allant aux champs vous \u00e9coutiez",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fauvettes et pinsons gazouiller sur la branche.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'\u00e9coute, en travaillant, la Muse qui se penche",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A mon oreille et dit des vers vite oubli\u00e9s\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ignorants des vapeurs et de la nostalgie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A\u00efeux que je n'ai point connus, lointains amis.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne puis-je vous aimer, vous qui m'avez transmis,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A d\u00e9faut de fortune, un tr\u00e9sor d'\u00e9nergie ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'\u00e9cris ces vers comme on \u00e9rige un monument.",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ainsi que l'on place un ex-voto dans un temple,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voulant que mes enfants y trouvent un exemple,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Eux qui sont, dans votre descendance, un Moment !",
+                    "metre": "12",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEA_3/BEA20",
+        "author": "Henri Beauclair",
+        "work": "PO\u00c8MES DIVERS",
+        "date": "1887-1914",
+        "title": "Rose",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEA_3&code_text=BEA20_7",
+        "text": [
+            [
+                {
+                    "verse": "Rose, la petite servante",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la ferme des Trois-Ormeaux,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est une vertu d\u00e9cevante,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont l\u2019\u0153il bleu cause bien des maux.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle a de si charmantes poses !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et puis, le dimanche au sermon,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rose arbore des rubans roses",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et des airs de petit d\u00e9mon.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Les gars font cercle sur la place,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les mains propres et bien ras\u00e9s,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En attendant que Rose passe.",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rose refuse leurs baisers.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Un Don Juan, fier sous sa blouse,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lui dit : \u00ab Viens au bois un moment,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Puis je jure que je t\u2019\u00e9pouse ! \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais Rose sait tr\u00e8s bien qu\u2019il ment.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "On murmure que le vicaire",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cherche \u00e0 pr\u00eacher aux Trois-Ormeaux.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rose ne s\u2019effarouche gu\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et rit tr\u00e8s fort de ses grands mots.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Rose va, narguant tout le monde,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tr\u00e8s sage, on ne peut le nier.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est le temps de la neige blonde,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il pleut des fleurs de marronnier !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Rose va, le chemin rayonne",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De soleil, de parfums, de chants.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout sourit. Et Rose, mignonne,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Donne un sourire aux vieilles gens.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Que deviendra \u2014 t-elle ? Sans doute,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle est sage. Mais, que sait-on ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ou Rose se fera Moumoute",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ou bien deviendra Jeanneton.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et qu\u2019elle soit grosse fermi\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et femme de quelque lourdaud,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ou que je la rencontre, fi\u00e8re,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Assise au fond de son landau,",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La Phryn\u00e9 superbe et savante,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La m\u00e8re d\u2019un tas de marmots,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N\u2019auront plus rien de la servante",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la ferme des Trois-Ormeaux !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

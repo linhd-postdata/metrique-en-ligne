@@ -1,0 +1,102 @@
+[
+    {
+        "code": "ROY_1/ROY1",
+        "author": "Sylvain Roy\u00e9",
+        "work": "",
+        "date": "1900-",
+        "title": "La Rose blanche",
+        "profile": "6=6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ROY_1&code_text=ROY1_7",
+        "text": [
+            [
+                {
+                    "verse": "Je vous envoie, \u00f4 bien-aim\u00e9e, entre ces pages",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La rose blanche du jardin abandonn\u00e9",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Malgr\u00e9 le deuil des p\u00e9tales d\u00e9j\u00e0 fan\u00e9s",
+                    "metre": "4+8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Acceptez-la pour le parfum qu'elle d\u00e9gage.",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je l'ai cueillie, au fond du parc, en vous r\u00eavant.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En vous r\u00eavant toute charmante et toute sage ;",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je la glisse, \u00f4 bien-aim\u00e9e, entre ces pages",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 j'abandonne en mots press\u00e9s, mon coeur fervent.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Autour de moi c'\u00e9tait la lutte inexorable.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On se battait de la terrasse au petit bois.",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais \u00e0 pr\u00e9sent c'est le silence autour de moi.",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019ombre d\u2019un pin s'immobilise sur le sable.",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et s\u2019il y a sur un p\u00e9tale un peu de sang,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne croyez pas \u2014 je vous en prie \u2014 aux pires choses.",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Impatient de poss\u00e9der la blanche rose\u2026",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je me serai\u2026 piqu\u00e9 les doigts en la cueillant !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    }
+]

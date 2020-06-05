@@ -1,0 +1,162 @@
+[
+    {
+        "code": "RIC_1/RIC1",
+        "author": "Jean Richepin",
+        "work": "LA CHANSON DES GUEUX",
+        "date": "1881",
+        "title": "BALLADE DU ROI DES GUEUX",
+        "profile": "8",
+        "structure": "petite ballade",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=RIC_1&code_text=RIC1_7",
+        "text": [
+            [
+                {
+                    "verse": "Venez \u00e0 moi, claquepatins,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Loqueteux, joueurs de musettes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Clampins, loupeurs, voyous, catins,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et marmousets, et marmousettes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tas de tra\u00eene-cul-les-housettes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Race d\u2019ind\u00e9pendants fougueux !",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Je suis du pays dont vous \u00eates :",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le po\u00e8te est le Roi des Gueux.",
+                    "metre": "8",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous que la bise des matins,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que la pluie aux \u00e2pres sagettes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que les gendarmes, les m\u00e2tins,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les coups, les fi\u00e8vres, les disettes",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Prennent toujours pour amusettes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous dont l\u2019habit mince et fongueux",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Para\u00eet fait de vieilles gazettes.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le po\u00e8te est le Roi des Gueux.",
+                    "metre": "8",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous que le chaud soleil a teints,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Hurlubiers dont les peaux bisettes",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ressemblent \u00e0 l\u2019or des gratins,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gouges au front plein de frisettes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Momignards nus sans chemisettes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vieux \u00e0 l\u2019\u0153il cave, au nez rugueux,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Au menton en casse-noisettes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le po\u00e8te est le Roi des Gueux.",
+                    "metre": "8",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 Gueux, mes sujets, mes sujettes,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je serai votre ma\u00eetre queux.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu vivras, monde qui v\u00e9g\u00e8tes !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le po\u00e8te est le Roi des Gueux,",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

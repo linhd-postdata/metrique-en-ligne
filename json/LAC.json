@@ -1,0 +1,4536 @@
+[
+    {
+        "code": "LAC_3/LAC118",
+        "author": "Auguste Lacaussade",
+        "work": "Les \u00c9paves",
+        "date": "1876",
+        "title": "Pr\u00e9face",
+        "profile": "6+6, 8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAC_3&code_text=LAC118_7",
+        "text": [
+            [
+                {
+                    "verse": "Souvent sur la gr\u00e8ve natale,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pr\u00e8s du cap o\u00f9 le soir prolongeait sa rougeur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Apr\u00e8s la tourmente fatale,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Apr\u00e8s l'\u00e2pre ouragan, j'errais seul et songeur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "En larges nappes apais\u00e9es,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La mer, la vaste mer, rentrait dans son repos.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u00e2bles rompus, vergues bris\u00e9es",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9ferlaient \u00e0 mes pieds dans l'\u00e9cume des flots.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "O mer ! sous tes fureurs sauvages",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Combien d'esquifs, combien de vaisseaux engloutis !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelques d\u00e9bris sur nos rivages",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sont les seuls messagers de ceux qui sont partis.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils sont partis, le vent aux voiles,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A leurs m\u00e2ts pavois\u00e9s le soleil radieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Puis la nuit vint, \u2014 nuit sans \u00e9toiles !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils dorment maintenant sous les flots oublieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pareil est votre sort, po\u00e8tes !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous partez : l'air est calme et le flot aplani.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "R\u00eavant d'id\u00e9ales conqu\u00eates,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous rencontrez l'ab\u00eeme en cherchant l'infini.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Comptant sur vos jeunes courages,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'horizon vous fascine et vous quittez le port ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais l'onde est fertile en naufrages,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et j'y sais des \u00e9cueils plus cruels que la mort.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Contre vous, la haine et l'envie",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au flot perfide, aux vents s'unissent, noirs corbeaux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans les tourmentes de la vie",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous sombrez et l'oubli disperse vos lambeaux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et, sur la gr\u00e8ve solitaire,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le r\u00eaveur attard\u00e9 que la nuit a surpris,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sous la houle au mouvant myst\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voit dans l'ombre flotter vaguement vos d\u00e9bris.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u00e9bris de c\u0153urs vaincus, mais braves !\u2026",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'ils racontent du moins vos destins submerg\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous dont il reste pour \u00e9paves",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des r\u00eaves, des espoirs et des chants naufrag\u00e9s !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAC_3/LAC139",
+        "author": "Auguste Lacaussade",
+        "work": "Les \u00c9paves",
+        "date": "1876",
+        "title": "LE PO\u00c8TE ET LA VIE",
+        "profile": "6+6, 5\u00f78, 5=6",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAC_3&code_text=LAC139_7",
+        "text": [
+            [
+                {
+                    "verse": "S'il est sous le soleil un \u00eatre mis\u00e9rable,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un \u00eatre au front marqu\u00e9 d'une angoisse incurable,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un douloureux esprit, un ardent d\u00e9s\u0153uvr\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un c\u0153ur d'amour avide et de bonheur sevr\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est bien ce fou sublime aux chim\u00e8res troubl\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le fervent sectateur des Neuf D\u00e9guenill\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des humaines douleurs cumulant les tr\u00e9sors,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux maux de l'\u00e2me il joint les mis\u00e8res du corps.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Faible et nu, contre lui tout s'arme et le torture.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il t'accuse \u00e0 bon droit, \u00f4 mar\u00e2tre Nature !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quel que soit le limon dont l'a p\u00e9tri ta main,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le po\u00e8te, \u00e0 coup s\u00fbr, n'est pas ton Benjamin.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Bonne \u00e0 tous, pour lui seul impr\u00e9voyante ou dure,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tu n'as point en souci les peines qu'il endure ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ton \u00e2me reste sourde au cri de ses besoins.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chaque \u00eatre, cependant, est l'objet de tes soins :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le loup a la for\u00eat, le lion son repaire ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'astuce tu pourvus la femme et la vip\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Prodigue aux plus cruels, tu donnas, \u00e0 leur tour,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sa forte griffe au tigre et son bec au vautour ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un cuir chaud et velu tu rev\u00eatis l'onagre,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et d'un manteau brod\u00e9 le s\u00e9nateur podagre ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans sa robe de dards s'en va le h\u00e9risson ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S\u00fbr au moins d'un abri, rampe le lima\u00e7on ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand elle a bu des fruits la s\u00e8ve parfum\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans sa cellule dort la gu\u00eape envenim\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les rois, tes favoris, un globe dans la main,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Versent en paix le sang et l'or du genre humain ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le bureaucrate altier vit de r\u00e9ponses rogues ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'avocat vend des mots, le docteur vend des drogues ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour pi\u00e8ge et pour logis l'araign\u00e9e a ses fils ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Diplomate et renard trament des tours subtils ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le li\u00e8vre et le poltron, la du\u00e8gne et la tortue",
+                    "metre": "13",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Broutent tranquillement leurs feuilles de laitue ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le Juif et le marchand, putois de la cit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans leurs comptoirs infects volent en s\u00fbret\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et tous, b\u00eates et gens, race \u00e0 qui rien ne p\u00e8se,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tout cela dans ton sein, Nature ! est \u00e0 son aise :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ouvrant de larges bras \u00e0 ta post\u00e9rit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tu fus cl\u00e9mente \u00e0 tous, au po\u00e8te except\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Partiale Nature ! aigre et dure nourrice !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aveugle est ton amour ou cruel ton caprice.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et pourtant, si quelqu'un est digne de piti\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est bien ce grand enfant, idiot \u00e0 moiti\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui, pensif et distrait aux pi\u00e8ges qu'on lui dresse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Incapable de ruse ou de mondaine adresse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'en va, les yeux au ciel, donner \u00e0 chaque pas",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Contre une terre hostile et qu'il ne comprend pas.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour esquiver du sort les fantasques col\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Si du li\u00e8vre il avait, du moins, les pieds c\u00e9l\u00e8res !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme le daim vaguant dans l'\u00e9paisseur des bois,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fuyant des envieux les f\u00e9roces abois,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'il pouvait oublier la meute et ses morsures !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour \u00e9ventrer les chiens les cerfs ont leurs ramures,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais les siennes, \u00e0 lui, sont celles dont l'hymen",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pare les plus grands fronts d'une discr\u00e8te main,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Celles qu'une B\u00e9jart plante au front d'un Moli\u00e8re !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du superbe Mammon flairant la crasse alti\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chiens et flatteurs, du moins, ont dos souple et nez fin.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lui, faute de bassesse, il aura froid et faim.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sa sensibilit\u00e9, triste objet de ris\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme un vivant sans peau, marche \u00e0 tout expos\u00e9e :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au centuple il subit dans son \u00e2me et sa chair",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et l'insulte du sot et l'injure de l'air.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Couronn\u00e9, comme Hamlet, de sa fiert\u00e9 souffrante,",
+                    "metre": "13",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il va tra\u00eenant partout son insanie errante.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 symbole \u00e9ternel des plus hautes douleurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D\u00e9sh\u00e9rit\u00e9 splendide aux navrantes p\u00e2leurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce monde au c\u0153ur de fer, que la lyre importune,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Jamais ne comprendra ton auguste infortune !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ne soup\u00e7onnant qu'un fou sous ses divins haillons,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les courtisans laquais jappent sur ses talons ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais le vieux Claudius, fratricide adult\u00e8re,",
+                    "metre": "5+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En tout ceci pressent un sinistre myst\u00e8re :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des l\u00e8vres du r\u00eaveur il tombe quelquefois",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De ces mots ambigus, mena\u00e7ants pour les rois,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui du peuple Midas font dresser les oreilles.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Depuis lors, il est bruit de choses sans pareilles,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un fant\u00f4me apparu, de forfaits d\u00e9voil\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De crimes triomphants et de droits viol\u00e9s ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'une aube expiatoire o\u00f9 cette Ombre \u00e9gorg\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sortira du cercueil radieuse et veng\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un Dieu lent punir et prompt \u00e0 pardonner,",
+                    "metre": "5+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais dont l'heure tardive \u00e0 la fin va sonner ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De mille autres propos et r\u00eaves fatidiques,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tels qu'il en doit sortir des cerveaux lunatiques.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Croire au ciel ! croire \u00e0 Dieu ! pauvre t\u00eate \u00e0 l'envers !\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sont-ce des mots sans suite ou des dessins pervers ?\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Polonius en rit ; mais Claudius, plus sage,",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De l'envoy\u00e9 bizarre a compris le message.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il aura l'\u0153il sur lui : deux amis, fins limiers,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c9p\u00eeront ses regards, ses gestes familiers.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tous les moyens sont purs quand le but est l'empire.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui parle ainsi de droits contre l'\u00c9tat conspire.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'intimes conseillers un coll\u00e8ge appel\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "A reconnu qu'Hamlet a le cr\u00e2ne f\u00eal\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que ce visionnaire \u00e0 verbe de proph\u00e8te",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour la ville et la cour est un vrai trouble-f\u00eate ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'il se faut d\u00e9fier de ces \u00eatres nerveux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et p\u00e2les, et couvant l'\u00e9clair sous leurs cheveux ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'il est temps que l'\u00c9tat, l'arbre aux rameaux utiles,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S\u00e8me aux vents de l'exil ses branches infertiles,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et c\u00e6tera. \u2014 Platon, \u00e0 son tour consult\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Opine pour qu'il soit en tout honneur trait\u00e9 :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00ab Avant de le bannir de notre R\u00e9publique,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De roses couronnons ce front m\u00e9lancolique,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dit le sage, et montrons au vulgaire odieux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En quelle estime on tient un poss\u00e9d\u00e9 des Dieux. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Accord touchant ! bient\u00f4t on crie, \u00e0 son de trompe,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que la foule s'alarme \u00e0 tort, et qu'on la trompe ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que tous ces bruits de spectre et d'apparitions,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pr\u00e9sages de malheurs, sont folles visions ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que les choses vont bien, que Claudius y veille ;",
+                    "metre": "5+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que l'\u00c9tat mange et boit et dig\u00e8re \u00e0 merveille ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que le seigneur Hamlet, l'orgueil de sa maison,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'amour pour Oph\u00e9lie a perdu la raison ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais qu'un rh\u00e9teur divin, un mage v\u00e9n\u00e9rable,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "PLATO, n'a point jug\u00e9 le malade incurable ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'il le faudrait distraire et faire voyager,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lui montrer ces doux ciels o\u00f9 fleurit l'oranger ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que l'air des monts, le bruit cadenc\u00e9 de la vague",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ont un charme apaisant pour le front qui divague ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que l'abandon, l'exil avec loisir go\u00fbt\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le logos op\u00e9rant, lui rendront la sant\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On dit ; et peuple et cour, Gertrude et la patrie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un fratricide \u00e9poux la complice fl\u00e9trie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tous h\u00e2tent le d\u00e9part, \u2014 et l'aube \u00e0 sa rougeur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Voit sur les flots passer le p\u00e2le voyageur\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais, pour que tout concoure au succ\u00e8s qu'on esp\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'Esculape royal, l'incestueux beau-p\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "A pris soin de pourvoir la flottante prison",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u2014 Outre l'espionnage, outre la trahison \u2014",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un bourdonnant essaim de gu\u00e9risseurs critiques.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 critiques, salut ! \u00f4 fr\u00e8res des moustiques",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Moins les ailes, salut ! \u00c9ternels d\u00e9nigreurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui distillez le faux et qui vivez d'aigreurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Coupe-gorge infestant de votre bande arm\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les bois saints de la Muse et de la Renomm\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nous direz-vous un jour quel venimeux bonheur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vous trouvez \u00e0 tirer sur le noble r\u00eaveur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui, pr\u00e8s de vous passant, de vous n'eut jamais cure ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Scorpions embusqu\u00e9s, vous vivez de piq\u00fbre !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De vos trompes su\u00e7ant la moelle des auteurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sans eux que seriez-vous, insectes contempteurs ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Se gorgeant au soleil de chairs en pourriture,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vit-on jamais les vers conspuer leur p\u00e2ture ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et vous, vermiculets, vous criez, vous bavez",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur ceux dont vous mangez, sur ceux dont vous vivez !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Parasites rampeurs, habitants des carni\u00e8res*,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vermines qui souillez des lions les crini\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour tout mordre et trouer, tarets aux dards jaloux,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 sont vos raisons d'\u00eatre ? \u00e0 quoi donc servez-vous ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le fumier produit ; vous, vous \u00eates plus arides",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que les silex br\u00fbl\u00e9s par les soleils torrides.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'anxi\u00e9t\u00e9s d'eunuque et de d\u00e9sirs rong\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De vos st\u00e9rilit\u00e9s sur tous vous vous vengez.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Parbleu ! prenez-vous en au ciel qui vous fit na\u00eetre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour convoiter la Muse et non pour la conna\u00eetre.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 produire impuissants, qu'avez-vous second\u00e9 ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quel noble esprit par vous fut dans sa marche aid\u00e9 ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vit-on jamais sortir l'utile ou la pratique \u2014",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je ne dis pas le beau \u2014 d'un cr\u00e2ne de critique ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et le barde est par vous de bon \u00e0 rien trait\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De fol, de songe-creux et d'inutilit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et sur ce, votre voix juge, approuve ou gourmande ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et vous niez la s\u00e8ve en d\u00e9vorant l'amande ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et r\u00e9gentant la lyre, et tranchant des hautains,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dogmatisant au nom des Grecs et des Latins,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et parlant prose et vers sans en savoir la langue,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et pour le diamant prenant toujours sa gangue,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et promenant sans fin vos myopes flambeaux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du soleil des vivants, \u00e0 la nuit des tombeaux,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ricanant \u00e0 la mort, insultant \u00e0 la vie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et sans cesse ajoutant le cynisme \u00e0 l'envie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il ne vous suffit point, acharn\u00e9s diss\u00e9queurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De mordre, \u2014 vous raillez en d\u00e9chirant les c\u0153urs !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Quoi ! la Muse, pour vous quittant ses chastes voiles,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vous aurait enseign\u00e9 le verbe des \u00e9toiles ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans la sph\u00e8re de l'\u00e2me et des divinit\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vos yeux auraient acc\u00e8s !\u2026 Messieurs, vous vous vantez !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et que sauriez-vous voir \u00e0 ces sacr\u00e9s myst\u00e8res ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pas si haut ! Dieu vous fit pour d'autres minist\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ailleurs est votre place ! Exercez vos vertus",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du r\u00f4le de Zo\u00efle au r\u00f4le d'Anytus.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En ces si\u00e8cles d'opprobre o\u00f9 r\u00e8gnent les Tib\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un pouvoir soup\u00e7onneux faites-vous les Cerb\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est bien ! et, poursuivant les g\u00e9n\u00e9reux chanteurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Jetez sur leurs talons vos abois d\u00e9lateurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est bien ! et si l'un deux, la col\u00e8re dans l'\u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Proteste au nom du droit contre un Olympe inf\u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et, sous le dais bravant le crime couronn\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Venge au moins dans ses vers son espoir encha\u00een\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D\u00e9noncez aux faux dieux le fils des Prom\u00e9th\u00e9es !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Accusez-le d'orgueil ! c'est tr\u00e8s bien",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Accusez-le d'orgueil ! c'est tr\u00e8s bien\u00d4 panth\u00e9es !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Oh ! qu'il est \u00e0 propos et qu'il vous sied vraiment,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En ces jours de bassesse et d'avilissement",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 la peur, l'\u00e9go\u00efsme incline aux platitudes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De fl\u00e9trir chez autrui les nobles attitudes !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur ce gouffre o\u00f9 l'honneur sent partout un \u00e9cueil,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Celui qui se tient droit, vous l'accusez d'orgueil.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ah ! si vous bl\u00e2mez tant pr\u00e8s de vous le po\u00e8te",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui passe, et libre, et triste, et portant haut la t\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est que de l'homme en lui marche la dignit\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est qu'il a su garder intacte sa fiert\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est que, fermant son c\u0153ur aux l\u00e2ches d\u00e9faillances,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il n'a point, lui, vendu ni trahi ses croyances ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est que, rest\u00e9 debout, et fid\u00e8le \u00e0 son Dieu,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mais non ! pour tant crier aux ulc\u00e8res de l'\u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour jeter de si haut et l'insulte et le bl\u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nul doute que, planant loin de nos passions,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des vertus votre vol hante les r\u00e9gions.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "H\u00e9las ! ce vol s'arr\u00eate aux ardoises d'un Louvre.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La domesticit\u00e9 de ses combles vous couvre !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des lucarnes ! voil\u00e0 les sublimes hauteurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'o\u00f9 vous plongez sur nous vos regards scrutateurs.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Voil\u00e0 de quels sommets, votre main vengeresse",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ch\u00e2tiant des rimeurs la t\u00eate p\u00e9cheresse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au nom de l'art, au nom du bien, au nom du ciel,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vous videz sur leurs fronts l'urne de votre fiel !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 fronts ceints de lauriers et de m\u00e9lancolie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Par l'audace des sots pouss\u00e9s \u00e0 la folie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ces lauriers douloureux, de tant de pleurs mouill\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Par d'obscurs m\u00e9cr\u00e9ants les verriez-vous souill\u00e9s ?\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Oui ! vivre, c'est souffrir. Bris\u00e9 par la temp\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Contre la vague en vain se d\u00e9bat le po\u00e8te.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "In\u00e9gale est la lutte ! inutile est l'effort !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Autour de lui descend la nuit lourde du sort.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur sa poupe, o\u00f9 chantait une jeune Esp\u00e9rance,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Planent de noirs oiseaux, la Haine et la Souffrance.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Battu des flots, pouss\u00e9 par le courant fatal,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quel port voit-il surgir dans l'ombre ? \u2014 L'h\u00f4pital.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il y roule \u00e9puis\u00e9 de lutte et de vieillesse.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans ce dernier abri qu'un monde amer lui laisse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Saignant, le c\u0153ur tordu, jusque dans l'\u00e2me atteint,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur lui-m\u00eame affaiss\u00e9, d'heure en heure il s'\u00e9teint,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Impassible \u00e0 la haine \u00e0 ses flancs incrust\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mort au ressentiment de sa force insult\u00e9e !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Succombant \u00e0 la t\u00e2che, en des champs calcin\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et servant de p\u00e2ture aux dogues acharn\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ainsi le fier coursier, mort de faim et de peines,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "G\u00eet insensible aux dents de tous ces \u00ab fils de chiennes \u00bb !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La mort, soit ! mais subir leurs dents et leurs abois !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Saurais-tu donc \u00ab mourir sans vider ton carquois \u00bb,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Po\u00e8te ! \u00d4 Pythien, sur l'engeance aux poils r\u00eaches",
+                    "metre": "5+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fais jaillir et bondir et retenir tes fl\u00e8ches !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Purge l'air ! montre enfin au f\u00e9tide agresseur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quelle force repose au fond de ta douceur !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u00e8ve-toi, justicier ! et prouve \u00e0 qui te blesse",
+                    "metre": "8+5",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que la bont\u00e9 chez toi n'est point de la faiblesse !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fais sentir aux frelons que l'abeille a son dard !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Frappe ! Pour \u00eatre juste il n'est jamais trop tard !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Il fut un \u00e2ge, h\u00e9las ! o\u00f9, d'accords alt\u00e9r\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tes l\u00e8vres ignoraient les rimes ac\u00e9r\u00e9es ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 loin du Mal, les yeux sur tes astres secrets,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tu n'en soup\u00e7onnais rien en tes d\u00e9dains distraits ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais son souffle a troubl\u00e9 les hautes solitudes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais le temps est pass\u00e9 des molles qui\u00e9tudes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais le r\u00eave a fait place \u00e0 la r\u00e9alit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais ton \u0153il s'est ouvert \u00e0 l'\u00e2pre v\u00e9rit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais en face du sot, du l\u00e2che aux airs superbes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De ta l\u00e8vre a jailli l'hymne aux m\u00e8tres acerbes ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais l'\u00e2ge et la pens\u00e9e, en m\u00fbrissant tes chants,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'ils t'ont fait humble aux bons, t'ont fait rude aux m\u00e9chants ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais ton c\u0153ur, \u00f4 po\u00e8te ! \u00f4 nature irascible !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dieu ne l'a point p\u00e9tri d'une argile impassible.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les triomphes du Mal r\u00e9voltent tes esprits !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans ton \u00e2me inflammable aux v\u00e9h\u00e9ments m\u00e9pris",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'horreur du Mal, l'horreur de son \u0153uvre abhorr\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sait allumer du Bien la col\u00e8re sacr\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Adieu donc, solitude aux bois infr\u00e9quent\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Calme des jours, bonheurs, h\u00e9las ! trop peu go\u00fbt\u00e9s ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "R\u00eaves et cordes d'or de la lyre premi\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D\u00e9serts peupl\u00e9s d'oiseaux, de brises, de lumi\u00e8re !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Adieu, for\u00eat ! lac vierge o\u00f9 l'\u00e2me en son vol pur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Cueillait les bleus lotus et les songes d'azur !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Adieu, printemps du c\u0153ur, aube aux clart\u00e9s vermeilles,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Frais matins de la Muse aux sonores abeilles !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Adieu, miel de l'Hymette ! adieu, placidit\u00e9 !\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et toi, fermente en nous, miel de virilit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "G\u00e9n\u00e9reuse liqueur dont l'abeille biblique",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Emplissait du lion la gueule symbolique !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans le c\u0153ur du po\u00e8te en proie aux coups du sort,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Coule, \u00f4 m\u00e2le ambroisie ! \u00f4 breuvage du fort !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mais quoi ! voulant chanter, voici que ta voix pleure,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Muse ! Le si\u00e8cle est sourd et la plainte est un leurre.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour moi, je prise peu ces lyriques acc\u00e8s :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Donc restons, en nos vers, prosa\u00efque et fran\u00e7ais.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ta bonne humeur, voil\u00e0 toute ma convoitise,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "M\u00e8re des vrais heureux, fra\u00eeche et grasse B\u00eatise !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tes fils se portent bien ; et, quels que soient les temps,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et le monde, et la vie, ils sont toujours contents.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Rien ne trouble chez eux l'\u00e9galit\u00e9 de l'\u00e2me.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce sont de bons fourreaux que n'use point la lame.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que sur la terre en pleurs s'obscurcissent les cieux,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'en d\u00eenant pas plus mal, ils n'en dorment que mieux.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Contre les maux publics cuirass\u00e9s d'indolence,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sourds aux clameurs d'autrui, dig\u00e9rant en silence,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Indiff\u00e9rents couch\u00e9s sur leurs bonheurs \u00e9pais,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pareils au b\u0153uf stupide, ils ruminent en paix.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un d\u00e9sastre priv\u00e9 si le trait les traverse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En sursaut r\u00e9veill\u00e9s par la fortune adverse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ils disent simplement, c\u0153urs patients et doux,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que le ciel est aveugle et n'a soin que des fous.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Si le sort, leur versant les nectars de la terre,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De liquides rubis couronne leur crat\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Leur tranquille \u00e9go\u00efsme y boit mod\u00e9r\u00e9ment ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ils savent \u00eatre heureux imperturbablement !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tant ils sont convaincus, satur\u00e9s de largesse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que des dieux leur fortune atteste la sagesse.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Seulement, pour ces c\u0153urs r\u00e9sign\u00e9s aux bienfaits",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du ciel, les m\u00e9contents sont des esprits mal faits.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au bord des \u00e9tangs verts o\u00f9 sa p\u00e2ture grouille,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le h\u00e9ron mange ainsi gravement sa grenouille,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et s'\u00e9tonne des cris que pousse au fond des airs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'aigle battu des vents ou br\u00fbl\u00e9 des \u00e9clairs ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tr\u00e8s sage, il en conclut, en savourant sa proie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'un aigle, quoi qu'on dise, a moins d'esprit qu'une oie.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Dieu juste ! et c'est donc l\u00e0 la vie ! Et le h\u00e9ron,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le satisfait repu, l'\u00e9go\u00efste poltron,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Insultera toujours ceux-l\u00e0 qui dans leur voie",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'en vont sous les \u00e9clairs o\u00f9 ta main les envoie !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et ce n'est point assez des tourmentes du ciel,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il faut boire l'outrage et l'\u00e9ponge de fiel,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et s'entendre crier par des goujats immondes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que tout est pour le mieux dans ce meilleur des mondes !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quoi ! leurs maux, \u00e0 tout prendre, ils les ont m\u00e9rit\u00e9s !\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00d4 des biens d'ici-bas vous les d\u00e9sh\u00e9rit\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 ces b\u00e2tards du c\u0153ur et de l'intelligence",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Montrez-vous ! Produisez vos titres de naissance !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 l'astre paternel votre droit est pareil,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Po\u00e8tes ! r\u00e9clamez votre place au soleil.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Peuple ! le lys des monts, coupe de parfums pleine,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'eut jamais en m\u00e9pris la courge de la plaine.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le rossignol, qui vit de tristesse et de chants,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du pourceau pour les glands respectent les penchants.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De la nature, \u00f4 peuple ! absente est l'ironie.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Rien de vil, rien de grand o\u00f9 tout n'est qu'harmonie.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les monts, comme la plaine, ont leur utilit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'accuse point d'orgueil ou de st\u00e9rilit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ces masses de granit, dont les cr\u00eates chenues",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Portent le poids des vents et la fureur des nues.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans ces flancs douloureux que tu crois en repos",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'\u00e9labore le fleuve o\u00f9 boiront tes troupeaux.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Leurs froids sommets veillant sur les sommeils du monde",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Annoncent le lever de l'astre qui f\u00e9conde.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le po\u00e8te a, comme eux, l'esprit dans l'avenir :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il sent en lui gronder les choses \u00e0 venir ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le si\u00e8cle qui sera sur son front se refl\u00e8te ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Voil\u00e0 ce qui lui fait, h\u00e9las ! l'\u00e2me inqui\u00e8te,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et lui met sous les doigts ces verbes flamboyants",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dont il couvre \u00e0 tes yeux les murs de tes tyrans.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et pourtant il sait trop, r\u00eavant orgie et f\u00eates,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que ton c\u0153ur go\u00fbte peu la voix de tes proph\u00e8tes ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que tu priserais mieux les vins de Balthasar,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Toi qui vendis tes dieux pour du pain \u00e0 C\u00e9sar !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il sait trop bien ton c\u0153ur, ce c\u0153ur prompt au reproche,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Plus mobile que l'onde et plus dur que la roche ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pleurant le joug du Nil aux fertiles engrais,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour les oignons d'\u00c9gypte il conna\u00eet tes regrets ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il conna\u00eet ton amour pour N\u00e9ron et la boue !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Va ! n'attends pas du moins que jamais il t'en loue.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le po\u00e8te sur toi ne s'est jamais m\u00e9pris ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais \u00e0 tes flatteurs seuls il garde ses m\u00e9pris.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il a vu ce qu'ont fait tes rh\u00e9teurs et tes pr\u00eatres",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour avilir chez toi le sang fier des anc\u00eatres ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans sa tendresse aust\u00e8re, il te traite en enfant :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De ses justes d\u00e9go\u00fbts sa piti\u00e9 te d\u00e9fend !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, tu peux oublier ou nier ses tendresses,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tu le retrouveras au jour de tes d\u00e9tresses,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tu le retrouveras, tel qu'il fut autrefois,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Versant pour ton salut son sang apr\u00e8s sa voix.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sa race est lumineuse et remplit tes annales.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Laisse aboyer l'envie aux sottises banales,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Interroge l'histoire, \u00f4 peuple ! et ton pass\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Par les d\u00e9serts, son pied s'est-il jamais lass\u00e9 ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quel c\u0153ur jamais plus vaste en ses sollicitudes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Prodigua tant d'amour \u00e0 tant d'ingratitudes ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Songe \u00e0 ce bras puissant qui noya dans les mers",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pharaon et l'exil, Pharaon et les fers.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Souviens-toi vers le ciel de ces mains \u00e9tendues,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Conjurant du Tr\u00e8s-Haut les foudres suspendues ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De ces ardents labeurs par qui l'humanit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du vrai Dieu, du vrai culte, a trouv\u00e9 l'unit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le po\u00e8te est la voix sous les \u00e9clairs vibrante,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui vers le but promis conduit ta vie errante :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Selon les temps, les lieux, qu'il soit l\u00e9gislateur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ou proph\u00e8te, ou soldat, il est ton bienfaiteur.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vengeant ta libert\u00e9 des tyrans menac\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Glaive en main il combat et tonne avec Alc\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand les Rois, que la haine intestine enhardit,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur le sol des a\u00efeux posent leur pied maudit,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le po\u00e8te s'\u00e9meut ; de son \u00e2me \u00e9lectrique",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Jaillit, comme la foudre, un chant patriotique,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce chant dont l'\u00e9tincelle, embrasant tout ton c\u0153ur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un combat in\u00e9gal te fait sortir vainqueur :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Souffle d\u00e9vastateur, l'hymne aux strophes alti\u00e8res",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'une horde barbare a purg\u00e9 tes fronti\u00e8res !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Soixante ans sont pass\u00e9s. Une commotion",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Soudaine a tout chez toi remis en question,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et la soci\u00e9t\u00e9 sur ses bases remue ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et charte, et tr\u00f4ne, et lois, comme un oiseau qui mue,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elle a tout secou\u00e9. Du royal oripeau",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le ph\u00e9nix \u00e9ternel a d\u00e9v\u00eatu sa peau.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un monde qui rena\u00eet s'agitent les probl\u00e8mes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et l'Europe s'\u00e9branle, et les rois, faces bl\u00eames,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tombent \u00e0 ce grand vent qui souffle de Paris,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme d'un arbre mort tombent des fruits pourris.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce tremblement subit est fait pour tout confondre ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sous son pied chacun sent le vieux sol qui s'effondre.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que sera l'avenir ? Nous doit-il, \u00f4 terreurs !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ramener du pass\u00e9 les tragiques horreurs ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'hy\u00e8ne des faubourgs d\u00e9j\u00e0 partout aboie ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La grande ville au vent de l'\u00e9pouvante ondoie ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le p\u00e2le citoyen regarde \u00e0 l'horizon :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le ciel est noir ; l'angoisse habite sa maison.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est l'inconnu qui monte, et l'esprit le plus ferme",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Doute aux maux qu'en ses flancs ce vaste orage enferme",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un monde est en travail ; sur le chaos qui bout,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chacun cherche des yeux quel sauveur est debout.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quel bras saura dompter ou guider la temp\u00eate ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quel homme ? \u2014 Il s'est lev\u00e9 ! \u2014 Quel est-il ? \u2014 Un po\u00e8te !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un unanime \u00e9lan port\u00e9 sur le pavois,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il parle, et la tourmente ob\u00e9it. \u00c0 sa voix,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Croule au sein de nos murs l'\u00e9chafaud politique ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et l'esclavage expire aux bords de l'Atlantique,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et le droit triomphant venge un droit outrag\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un poids d'iniquit\u00e9 le monde est all\u00e9g\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'avenir est conquis ! l'humanit\u00e9 respire !\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Gloire au l\u00e9gislateur que la cl\u00e9mence inspire !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De la cit\u00e9 nouvelle il n'a rien rejet\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Rien, \u2014 l'exil, le bourreau, l'esclavage except\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Trois mois, l'\u00e2me impassible aux assauts de la houle,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il conseille, il grandit, il m\u00e8ne \u00e0 Dieu la foule\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand l'orage est vaincu, de son r\u00e8gne il descend,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le c\u0153ur pur de remords, les mains pures de sang !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "D'autres temps sont venus. Un bandit taciturne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "A mis le sceau dans l'ombre \u00e0 sa gloire nocturne.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La libert\u00e9 frapp\u00e9e, un parlement d\u00e9truit,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et le pouvoir vol\u00e9, sont l'\u0153uvre d'une nuit.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et pour mieux assurer ce vol \u00e0 main arm\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'or, de vin et de sang il a so\u00fbl\u00e9 l'arm\u00e9e\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au jour de ton triomphe, \u00f4 m\u00e8re ! \u00f4 libert\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De la nuit du n\u00e9ant tu l'as ressuscit\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et parricide ingrat, ce fourbe \u00e9clos d'un crime,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nouveau Macbeth, au lit \u00e9gorge sa victime,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et dit \u2014 du meurtre encor les bras tout ruisselants \u2014",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'elle est morte frapp\u00e9e au c\u0153ur par ses enfants !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et la foule \u2014 \u00f4 stupeur ! \u00f4 tourbe mis\u00e9rable ! \u2014",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'applaudit et l'absout de ce meurtre ex\u00e9crable,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et dans l'inf\u00e2me auteur d'un inf\u00e2me attentat,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Inepte, elle sait voir le sauveur de l'\u00c9tat\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et quand chacun sous lui se tait courbant la t\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui se redresse encore et le juge ? Un po\u00e8te !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tant qu'\u00e0 la R\u00e9publique un seul souffle est rest\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du glaive et de la voix le po\u00e8te a lutt\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais quand il vit un peuple entier, qui se renie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Se coucher dans sa fange et son ignominie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et de ses fers l\u00e9chant l'enclume et les marteaux,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Cynique, se vautrer dans ses instincts brutaux,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il connut cette angoisse, entre toutes am\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'endure un fils, h\u00e9las ! \u00e0 rougir de sa m\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Devant tant de mis\u00e8re et tant d'abaissement",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Son c\u0153ur s'emplit de honte et de ressentiment.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Subir un tel forfait, c'est en \u00eatre complice !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'opprobre du silence !\u2026 Il vaut mieux le supplice",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De l'exil !\u2026 Il partit, mais au front du pervers,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme Dante, il laissa la marque de son vers !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'imp\u00e9rial Ca\u00efn sur sa face tra\u00eetresse",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Porte \u00e0 jamais le sceau d'une main vengeresse ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et le supr\u00eame arr\u00eat que ta bouche a dict\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00d4 Muse ! Dieu l'impose \u00e0 la post\u00e9rit\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Toi, peuple trois fois vil, interroge ton ma\u00eetre !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Si le vrai peut sortir de la bouche d'un tra\u00eetre,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lui-m\u00eame il te dira quel \u00e2pre ch\u00e2timent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Garde la Muse \u00e0 qui put trahir son serment ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De quelles visions la Voix inexorable",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Emplit incessamment son esprit mis\u00e9rable.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De ses remords secrets cette Voix est l'\u00e9cho :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Inflexible, pareille \u00e0 l'ombre de Banquo,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elle assi\u00e8ge sa table, elle hante sa couche ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et sans cesse il entend cette invincible bouche",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lui crier : \u00ab L\u00e8ve-toi, fourbe ! et d'un sceptre d'or",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans le sang ramass\u00e9 charge ta droite encor !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le sein qui t'accueillit ne bat plus, \u00f4 couleuvre !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est bien ! Mais h\u00e2te-toi ! vite, ach\u00e8ve ton \u0153uvre !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le si\u00e8cle est ton complice et l'ab\u00eeme est content :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vite, sois empereur, bandit ! l'enfer t'attend !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ainsi que pour Judas, le juif au c\u0153ur sordide,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il n'est point de pardon pour le liberticide ! \u00bb",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Po\u00e8tes ! sur vos fronts p\u00e8se un si\u00e8cle de fer.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il est dur en ses chants de voir s'ouvrir l'enfer,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et d'y plonger vivants, et d'un vers implacable,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ceux-l\u00e0 qu'\u00e0 r\u00e9prouv\u00e9s la Muse irr\u00e9vocable.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "M\u00eame contre le mal la haine est un tourment.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Inflexible est l'esprit, mais le c\u0153ur le d\u00e9ment.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Votre orage est pareil, \u00f4 natures aimantes !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 ces climats de flamme aux subites tourmentes :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le sol tremble, l'ab\u00eeme ouvre un gouffre effrayant,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais regardez le ciel ! il pleure en foudroyant.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pleurez ! c'est le destin, mais chantez dans l'orage !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Plus grand est le p\u00e9ril, plus grand est le courage.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Soyez l'\u00e9cho vengeur de l'int\u00e8gre avenir !\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De trop aimer le bien je sais ce qu'il en co\u00fbte,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais, qu'on le veuille ou non, il faut marcher sa route.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Marchez ! luttez ! buvez dans la gloire ou l'oubli",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'aust\u00e8re volupt\u00e9 du devoir accompli !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Certes, le Mal est grand, il est puissant, il r\u00e8gne,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des pouvoirs de la terre il n'est plus rien qu'il craigne ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le monde est son complice, et, roi pr\u00e9destin\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tr\u00f4ne, au nom de Satan, Claudius couronn\u00e9.",
+                    "metre": "6+5",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais, si puissant qu'il soit, son r\u00e8gne est transitoire ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 l'Invisible, un jour, reviendra la victoire !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Songez au Dieu cach\u00e9, toujours lent \u00e0 punir,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais dont le pied tardif \u00e0 la fin va venir !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme le noble Hamlet que l'inconnu travaille,",
+                    "metre": "8+5",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un fatidique appel votre \u00e2me en vous tressaille.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Esprits n\u00e9s pour le jour, de lumi\u00e8re affam\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pr\u00e9curseurs ! r\u00e9pandez vos espoirs enflamm\u00e9s !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "M\u00eame \u00e0 travers l'angoisse et la m\u00e9lancolie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "M\u00eame au prix du bonheur, h\u00e9las ! et d'Oph\u00e9lie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Marchant \u00e0 votre but, et pr\u00eats \u00e0 tout souffrir,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Frappez au c\u0153ur le Mal, dussiez-vous en mourir !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, plus qu'en d'autres jours, aux jours d'apostasie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fr\u00e8res, il est amer, le don de po\u00e9sie !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est-ce un malheur de plus ? une expiation ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 vers les cieux promis une \u00e2pre ascension ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je ne sais ; mais je sais que ton \u0153uvre est auguste,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Muse ! et qu'un Dieu b\u00e9nit qui saigne au nom du juste.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Si ton culte est mortel \u00e0 l'esprit inspir\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le martyre est f\u00e9cond ! le supplice est sacr\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAC_3/LAC245",
+        "author": "Auguste Lacaussade",
+        "work": "Les \u00c9paves",
+        "date": "1876",
+        "title": "ULTIMA VERBA",
+        "profile": "5\u22126, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAC_3&code_text=LAC245_7",
+        "text": [
+            [
+                {
+                    "verse": "O Ma\u00eetre ! longuement j'ai pens\u00e9 ta pens\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et mon c\u0153ur a g\u00e9mi ce qu'a g\u00e9mi ton c\u0153ur ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Revivant apr\u00e8s toi ta souffrance pass\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'ai de tes jours amers bu l'am\u00e8re liqueur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "De tes d\u00e9ceptions la moisson m'est connue ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le sort ne me fut pas plus qu'\u00e0 toi l\u00e9ger :",
+                    "metre": "5+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme toi j'ai trouv\u00e9 la vie et lourde et nue ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rien de l'homme ici-bas n'est \u00e0 l'homme \u00e9tranger.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Des maux par nous subis en nous est la mesure :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plus l'\u00e2me est grande, plus l'\u00e2me est apte \u00e0 souffrir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il faut l'horizon vaste \u00e0 la vaste envergure ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9touff\u00e9 dans son vol, l'aigle aspire \u00e0 mourir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le solitaire ennui fut ta pire souffrance ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un id\u00e9al trop haut \u00e9blouissait tes yeux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le r\u00e9el a tu\u00e9 dans ton c\u0153ur l'esp\u00e9rance :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Trahi par ses dieux, l'homme est plus grand que ses dieux !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le si\u00e8cle o\u00f9 tu naquis, le monde et la nature,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ignorant ton d\u00e9sir, ignoraient ton tourment :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'\u00e9troitesse des uns et de tous l'imposture",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "T'ont fait l'altier martyr de ton isolement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00catre seul, toujours seul, seul avec sa pens\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se nourrir de son c\u0153ur et de son c\u0153ur mourir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Refouler dans son sein sa tendresse offens\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O vide ! et que Dieu seul ici-bas peut remplir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce Dieu, tu l'as cherch\u00e9 sous ses milles symboles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gravissant pour l'atteindre aux plus ardus sommets ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans ses cultes divers, dogmes et paraboles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le percevant toujours, ne l'atteignant jamais !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ma\u00eetre ! dans le fini l'Infini se limite ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il s'y montre et s'affirme, et de son unit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9voile \u00e0 l'\u00e2me humaine o\u00f9 son essence habite,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce qu'en peut embrasser un esprit limit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pressentir l'Absolu, ce n'est point le conna\u00eetre ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais comment, s'il n'est pas, comment le pressentir ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si l'\u00eatre le con\u00e7oit, c'est qu'il est dans cet \u00eatre ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si l'\u00e2me aspire \u00e0 lui, c'est qu'elle en dut sortir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "O po\u00e8te ! \u00f4 penseur ! vers lui tu devais tendre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme l'aimant au p\u00f4le, au foyer le banni.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il suffit de l'aimer, tu voulus le comprendre :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le fini peut-il donc comprendre l'Infini !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "A ton tour tu sondas du mal le noir probl\u00e8me,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gouffre o\u00f9 l'\u00e2me erre et sombre et g\u00e9mit sans t\u00e9moins.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l'ab\u00eeme muet tu revins morne et bl\u00eame,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec le doute en plus et l'esp\u00e9rance en moins.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Douter ! et notre c\u0153ur nous sollicite \u00e0 croire ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Croire ! et notre raison ne peut justifier",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La foi\u2026 Des deux c\u00f4t\u00e9s m\u00eame effort illusoire !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Affirmer n'est pas plus de l'homme que nier.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ton lot est d'ignorer, \u00f4 pauvre intelligence !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le mot par nous cherch\u00e9 peut-\u00eatre est-il ailleurs\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que faire ? \u2014 S'avouant son humaine indigence,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Attendre\u2026 avec l'espoir d'une aube aux jours meilleurs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Toi, tu d\u00e9sesp\u00e9ras ! L'insoluble myst\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du songeur anxieux a fait un r\u00e9volt\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A voir l'\u0153uvre du Mal dans l'homme et sur la terre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu conclus de la vie \u00e0 la fatalit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La vie est-elle un bien \u00e0 tant de maux en proie ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La terre enfante autant de monstres que de fleurs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au prix de quels chagrins payons-nous une joie ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quel bonheur expierait ici-bas nos malheurs !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Produire incessamment pour d\u00e9truire sans cesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Travailler pour la Mort, voil\u00e0 ton but certain,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O Nature ! Au profit de la noire d\u00e9esse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu n'es que l'instrument aveugle du Destin.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Charm\u00e9 dans ses d\u00e9sirs par tes beaut\u00e9s complices,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'\u00eatre cr\u00e9\u00e9 devient \u00e0 son tour cr\u00e9ateur ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, stupide artisan de ses propres supplices,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En transmettant la vie, il transmet la douleur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "O songeur, \u00e0 tes yeux tel apparut ce monde,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un monde o\u00f9 les vivants, tristes jouets du sort,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se d\u00e9vorent entre eux dans leur lutte inf\u00e9conde,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, du n\u00e9ant sortis, y rentrent par la mort.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La plante, l'animal, l'homme souffre et soupire ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans la cr\u00e9ation o\u00f9 donc est la bont\u00e9 ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voyant partout le Mal dont tout subit l'empire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu conclus de son r\u00e8gne \u00e0 la fatalit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Fatalit\u00e9, n\u00e9ant, destin, mots creux et vides :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le myst\u00e8re y persiste insondable et cruel.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le probl\u00e8me divin dont nos c\u0153urs sont avides,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Inexpliqu\u00e9 toujours, toujours reste \u00e9ternel.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le Destin ! Il \u00e9nerve en nous les m\u00e2les fibres.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que devient sous son joug l'humaine volont\u00e9 ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Non ! le Destin n'est pas le Dieu des \u00e2mes libres :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'homme contre lui proteste la fiert\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le n\u00e9ant ! \u2014 autre \u00e9nigme impossible \u00e0 comprendre.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Certes, j'y voudrais croire et m'y r\u00e9fugier !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui donc ayant v\u00e9cu ne voudrait y descendre ?\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oh ! s'\u00e9teindre \u00e0 jamais, \u00e0 jamais oublier !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oublier ! ne plus voir les choses qu'on a vues :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Iniquit\u00e9, mensonge, astuce, trahison !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fermer son \u00e2me aux deuils des tendresses d\u00e9\u00e7ues,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Clore au d\u00e9go\u00fbt son c\u0153ur et sa l\u00e8vre au poison !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "S'affranchir de ces soifs que rien ne d\u00e9salt\u00e8re :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La justice, le vrai, le beau ! Ne plus mourir",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le r\u00eave d'un bonheur qui n'est pas de la terre !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne plus aimer, ne plus ha\u00efr, ne plus souffrir !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c9chapper \u00e0 jamais \u00e0 ses propres bassesses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au m\u00e9pris de soi-m\u00eame, et peut-\u00eatre au remords ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fuir des vivants menteurs les menteuses promesses ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne plus se souvenir, h\u00e9las ! m\u00eame des morts !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Se reposer enfin des hontes de la vie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Perdre la conscience, enfin, d'avoir \u00e9t\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si tu l'as ce pouvoir qui fait que tout s'oublie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Reprends-moi dans ton sein, \u00f4 N\u00e9ant ! \u00f4 L\u00e9th\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais tu n'es, \u00f4 N\u00e9ant ! toi-m\u00eame qu'un mensonge,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par la d\u00e9sesp\u00e9rance et le doute invent\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un invincible instinct te r\u00e9prouve et nous ronge :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout ce qui vit aspire \u00e0 l'immortalit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Que nous veut ce d\u00e9sir inn\u00e9 de se survivre ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si la vie est un mal, pourquoi la d\u00e9sirer ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "H\u00e9las ! ce l\u00e2che instinct dont rien ne nous d\u00e9livre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ajoute aux autres maux la douleur d'esp\u00e9rer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Quand le fini s'\u00e9teint, l'Infini s'en exhale",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et se rallume ailleurs. \u2014 O\u00f9 ? comment et pourquoi ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Seul il le sait, Celui dont l'aube virginale,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Succ\u00e9dant \u00e0 la nuit, nous r\u00e9v\u00e8le la loi,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L'inexorable loi qui veut que la lumi\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pr\u00e9c\u00e8de et suive l'ombre, et l'ombre la clart\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui veut qu'en nous l'esprit s'accouple \u00e0 la mati\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'\u00e2me au corps, la pens\u00e9e \u00e0 l'animalit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour para\u00eetre souffrir, souffrir pour dispara\u00eetre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Entre ces deux moments penser l'\u00e9ternit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voil\u00e0 l'homme. \u2014 Aspirer est la fin de notre \u00eatre ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se r\u00e9signer, le but de notre libert\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Eh bien, r\u00e9signons-nous ! Il se peut que la vie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Soit d'un monde \u00e9toil\u00e9 la r\u00e9v\u00e9lation,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'\u00e9preuve m\u00e9ritoire o\u00f9 le ciel nous convie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de l'\u00e2me en travail la libre ascension.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce but vaut qu'on le tente, \u00f4 po\u00e8te sto\u00efque,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00e2le et sinc\u00e8re esprit, toi le dernier Romain !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il \u00e9tait d'un c\u0153ur tendre et d'une \u00e2me h\u00e9ro\u00efque",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'\u00e9treindre l'Absolu d'un espoir surhumain.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Cette lutte allait bien \u00e0 ton altier courage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'affronter l'aventure au port myst\u00e9rieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De voir si l'esp\u00e9rance en nous n'est qu'un mirage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ou l'aube dont le jour doit \u00e9blouir nos yeux ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Si la terre et le ciel, les mondes, la nature,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les astres et les fleurs, si tout cet univers",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est rien, rien qu'une immense et splendide imposture,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ou l'\u00catre irradiant en ses aspects divers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Atteindre l'Unit\u00e9 dans son essence m\u00eame,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Y trouver de la vie et l'excuse et le prix ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Attendre jusque-l\u00e0 pour nier ; \u2014 l'anath\u00e8me",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Doit-il donc devancer l'heure o\u00f9 tous est compris ? \u2014",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et librement vouloir, sous sa clart\u00e9 sereine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce que veut l'infaillible et fixe Volont\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voil\u00e0 l'\u0153uvre impos\u00e9e \u00e0 la pens\u00e9e humaine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voil\u00e0 sa fin supr\u00eame et sa f\u00e9licit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L'attente est longue, et longue \u00e0 franchir est la route.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour distraire et tromper les longueurs du chemin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'un a l'ambition, le pouvoir qu'on redoute,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le sceptre sous lequel pa\u00eet le b\u00e9tail humain.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L'autre a la gloire et l'or, l'autre a la po\u00e9sie :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le r\u00eave ou l'action nous leurre \u00e0 notre insu.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tel s'oublie aux divins mensonges d'Aspasie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui g\u00e9mit au r\u00e9veil sur l'id\u00e9al d\u00e9\u00e7u.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L'un cherche dans le clo\u00eetre et l'autre dans l'\u00e9tude",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce repos qui du c\u0153ur des vivants est banni ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais, volupt\u00e9, pouvoir, richesse, solitude,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rien ne peut nous gu\u00e9rir du mal de l'Infini.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour l'assoupir en nous la prodigue Nature",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De ses multiples dons nous offre le secours.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Selon nos app\u00e9tits variant la p\u00e2ture,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle occupe et distrait pour nous l'ennui des jours.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et toi-m\u00eame, \u00f4 po\u00e8te ! au plus fort de la lutte,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour \u00e9prouver ces dons vides et mensongers,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'as tu pas eu ton jour, ton heure, ta minute ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne te plains pas : j'en sais de moins bien partag\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ceux-l\u00e0 dans leur obscur et dur p\u00e8lerinage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans trouver l'oasis au d\u00e9sert ont err\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils ont march\u00e9 sans halte et d\u00e8s le premier \u00e2ge :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rude fut le chemin \u00e0 leurs pas mesur\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ceux-l\u00e0 n'ont rencontr\u00e9 sous l'astre qui flamboie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ni le puits du pasteur, ni l'ombre du palmier.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout leur fut refus\u00e9 ! \u2014 Seule et supr\u00eame joie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils sont morts dans leur culte et leur r\u00eave premier.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Toi, du moins, tu connus dans la m\u00eal\u00e9e aust\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A l'heure noire o\u00f9 tout nous semble sans piti\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les deux biens les plus grands qui soient sur cette terre :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La sainte po\u00e9sie et la sainte amiti\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La premi\u00e8re \u00e0 tes yeux transfigurant les choses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un voile \u00e9blouissant t'en cachait la hideur ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9pousant ta tristesse aux jours les plus moroses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Entre la vie et toi l'autre avait mis son c\u0153ur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "D'un double d\u00e9vo\u00fbment ineffables mod\u00e8les,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Consolant tour \u00e0 tour ton c\u0153ur et ton esprit,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toutes deux \u00e0 l'envi te rest\u00e8rent fid\u00e8les",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jusqu'\u00e0 l'heure o\u00f9 la Mort dans leurs bras te surprit.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "O Po\u00e9sie ! heureux qui de ton miel s'abreuve.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et quels que soient ses maux sous un ciel rigoureux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Celui qui t'a trouv\u00e9e aux heures de l'\u00e9preuve,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Celui-l\u00e0 ne peut pas se dire malheureux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Il a connu par toi les plus hautes ivresses",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'\u00e0 l'homme il soit donn\u00e9 de conna\u00eetre ici-bas ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De terrestres tu fis devines ses tendresses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le monde \u00e9toil\u00e9 s'ouvrit devant ses pas.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu consacres l'\u00e9lu que ta gr\u00e2ce visite.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De c\u00e9leste origine et fille de l'azur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu n'habitas jamais que les \u00e2mes d'\u00e9lite :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'esprit sinc\u00e8re et droit, le c\u0153ur loyal et pur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L'impur, le d\u00e9loyal, le parjure, le fourbe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le tra\u00eetre \u00e0 l'amiti\u00e9, l'ingrat aux instincts bas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rimant leurs l\u00e2chet\u00e9s, peuvent, ignoble tourbe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se r\u00e9clamer de toi, \u2014 tu ne les connais pas !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La sph\u00e8re est id\u00e9ale o\u00f9 se meuvent tes ailes ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'Art seul n'y peut atteindre, et ses rythmes sont vains",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A traduire les c\u0153urs o\u00f9 br\u00fblent de saints z\u00e8les :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils n'ont d'\u00e9cho vivant qu'en tes verbes divins.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Car tu donnes la vie \u00e0 tout ce que tu touches,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A tout, m\u00eame \u00e0 l'erreur pour sa sinc\u00e9rit\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les doutes amers, les blasph\u00e8mes farouches",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne tiennent que de toi leur immortalit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Immortels sont les cris o\u00f9 vibre une \u00e2me ardente,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Une \u00e2me ayant v\u00e9cu ses cris d\u00e9sesp\u00e9r\u00e9s !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Immortels, les d\u00e9fis altiers d'un autre Dante !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Absous par toi, ses chants pour nous restent sacr\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et toi, noble Amiti\u00e9, toi la r\u00e9paratrice",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des mis\u00e8res qu'inflige \u00e0 l'homme le Destin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des muettes douleurs seule consolatrice,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fid\u00e8le au soir brumeux comme au riant matin ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tendresse d'\u00e9nergie et de douceur tremp\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toi des tr\u00e9sors du c\u0153ur, le plus pur diamant,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Franche comme l'acier, s\u00fbre comme l'\u00e9p\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Virile passion faite de d\u00e9vo\u00fbment ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Toi que vendit le juif Judas, l'\u00e2me de boue ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toi, foyer pour le c\u0153ur et pour l'esprit flambeau ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toi dont le deuil fervent, de longs pleurs sur la joue,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ressuscite Lazare et l'arrache au tombeau ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Du fr\u00e8re et de la s\u0153ur ineffable m\u00e9lange,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toi qui domptes la Mort, qui survis \u00e0 l'adieu ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toi le seul bien qui puisse \u00e0 l'homme envier l'ange ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toi que poss\u00e8de seul l'homme b\u00e9ni de Dieu ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sois b\u00e9nie \u00e0 ton tour, Amiti\u00e9, sois b\u00e9nie !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La Po\u00e9sie et toi, le r\u00eave et la bont\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous avez consol\u00e9 d'un douloureux g\u00e9nie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l'entier d\u00e9sespoir et l'am\u00e8re fiert\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c9mules par le z\u00e8le et la solitude,",
+                    "metre": "5\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Adoucissant pour lui les mis\u00e8res du sort,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous ne l'avez quitt\u00e9, s\u0153urs de sa solitude,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'endormi pour toujours sur le sein de la Mort ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sur ce sein virginal et muet o\u00f9 sa t\u00eate",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voulait tant reposer pour la nuit sans r\u00e9veil ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 tout trouble s'apaise, o\u00f9 l'homme et le po\u00e8te",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A trouv\u00e9 le repos de l'\u00e9ternel sommeil !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ma\u00eetre ! aujourd'hui pour toi les voiles du myst\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sont tomb\u00e9s, le probl\u00e8me est enfin r\u00e9solu.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des entraves du corps, des liens de la terre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lib\u00e9r\u00e9, ton esprit contemple l'Absolu.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Immanente clart\u00e9, la supr\u00eame \u00c9vidence",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Te p\u00e9n\u00e8tre ; tu sais et tu comprends, \u2014 tu vois !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le dieu hasard a fait place \u00e0 la Providence :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les mondes dans leur marche en proclament les lois.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le mal, l'erreur, l'orgueil, le doute, la souffrance,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ces h\u00f4tes d'ici-bas, sont inconnus ailleurs :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Devant la V\u00e9rit\u00e9 fuit avec l'ignorance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le t\u00e9n\u00e9breux essaim des terrestres douleurs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Au fini l'Infini se fait intelligible ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce que l'\u00e2me a song\u00e9 peuple les firmaments :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'esprit plong\u00e9 dans l'\u00catre, \u00e0 l'esprit seul visible,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Y voit r\u00e9alis\u00e9s tous ses pressentiments.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ses aspirations n'\u00e9taient point mensong\u00e8res :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le vrai, le beau, le bien, et par qui l'homme est hant\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toutes ces visions, c\u00e9lestes messag\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "L'\u00eatre \u00e0 la cr\u00e9ature a tenu ses promesses :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout ce qu'elle a pens\u00e9, tout ce qu'elle a r\u00eav\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le songe qui charmait et ber\u00e7ait ses tristesses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Commenc\u00e9 sur la terre, au ciel est achev\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu t'expliques enfin et l'\u00e9preuve et la lutte :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N\u00e9 libre, l'homme atteste ainsi sa libert\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Arbitre de son sort dans l'audace ou la chute,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lui-m\u00eame il fait son mal ou sa f\u00e9licit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu comprends d\u00e9sormais le but de la souffrance :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'Id\u00e9al par elle on monte les degr\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O Po\u00e8te ! aujourd'hui, tu le vois, l'esp\u00e9rance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'a point tromp\u00e9 les v\u0153ux par la Muse inspir\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le d\u00e9sespoir, la haine am\u00e8re, l'ironie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9sunissent les c\u0153urs que l'amour doit unir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La voix au timbre d'or n'est donn\u00e9e au g\u00e9nie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que pour prier, guider, consoler et b\u00e9nir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sous le dais sid\u00e9ral des demeures heureuses",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 sont les pr\u00e9curseurs, o\u00f9 sont tes grands a\u00efeux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Simonide et Virgile aux voix m\u00e9lodieuses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et Dante ont salu\u00e9 ta bienvenue aux cieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils accueillent chez toi le culte \u00e0 la Patrie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le d\u00e9vo\u00fbment au Vrai, comme \u00e0 la Libert\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Leur \u00e2me palpitait dans ton \u00e2me meurtrie :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ta place est aupr\u00e8s d'eux dans la sainte Cit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Baignant dans lumi\u00e8re auguste et fraternelle",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des yeux que d\u00e9sormais la Mort ne peut fermer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ton esprit go\u00fbte enfin dans la paix \u00e9ternelle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le supr\u00eame bonheur de conna\u00eetre et d'aimer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

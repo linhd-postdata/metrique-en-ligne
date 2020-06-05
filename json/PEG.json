@@ -1,0 +1,5192 @@
+[
+    {
+        "code": "PEG_2/PEG10",
+        "author": "Charles Peguy",
+        "work": "La Tapisserie De Notre-Dame",
+        "date": "1913",
+        "title": "Pr\u00e9sentation de Paris \u00e0 Notre-Dame",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=PEG_2&code_text=PEG10_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00c9toile de la mer, voici la lourde nef",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 nous ramons tout nuds sous vos commandements ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici notre d\u00e9tresse et nos d\u00e9sarmements ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici le quai du Louvre, et l\u2019\u00e9cluse, et le bief.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici notre appareil et voici notre chef.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C\u2019est un gars de chez nous qui siffle par moments.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il n\u2019a pas son pareil pour les gouvernements.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il a la t\u00eate dure et le geste un peu bref.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Reine qui vous levez sur tous les oc\u00e9ans,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous penserez \u00e0 nous quand nous serons au large.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aujourd\u2019hui c\u2019est le jour d\u2019embarquer notre charge.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici l\u2019\u00e9norme grue et les longs meuglements.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "S\u2019il fallait le charger de nos pauvre vertus,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce vaisseau s\u2019en irait vers votre auguste seuil",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Plus creux que la noisette apr\u00e8s que l\u2019\u00e9cureuil",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019a laiss\u00e9e retomber de ses ongles pointus.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nuls ballots n\u2019entreraient par les panneaux b\u00e9ants,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nous arriverions dans la mer de Sargasse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tra\u00eenant cette inutile et grotesque carcasse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les Anglais diraient : ils n\u2019ont rien mis dedans.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais nous saurons l\u2019emplir et nous vous le jurons",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il sera le plus beau dans cet illustre port",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La cargaison ira jusque sur le plat-bord",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et quand il sera plein nous le couronnerons.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous n\u2019y chargerons pas notre pauvre ma\u00efs,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais de l\u2019or et du bl\u00e9 que nous emporterons.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et il tiendra la mer : car nous le chargerons",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du poids de nos p\u00e9ch\u00e9s pay\u00e9s par votre Fils.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PEG_2/PEG11",
+        "author": "Charles Peguy",
+        "work": "La Tapisserie De Notre-Dame",
+        "date": "1913",
+        "title": "Paris vaisseau de charge",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=PEG_2&code_text=PEG11_7",
+        "text": [
+            [
+                {
+                    "verse": "Double vaisseau de charge aux deux rives de Seine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vaisseau de pourpre et d\u2019or, de myrrhe et de cinname,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vaisseau de bl\u00e9, de seigle, et de justesse d\u2019\u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019humilit\u00e9, d\u2019orgueil, et de simple verveine ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nos p\u00e8res t'ont combl\u00e9 d\u2019une si longue peine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Depuis mille et mille ans que tu viens \u00e0 la lame,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que nulle cargaison n\u2019est si lourde \u00e0 la rame,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que nul b\u00e2timent n\u2019a la panse aussi pleine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais nous apporterons un regret si s\u00e9v\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et si nourri d'honneur, et si creus\u00e9 de flamme,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Que le chef le prendra pour un sac de pri\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Et le fera hisser jusque sous l\u2019oriflamme,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Navire appareill\u00e9 sous Septime S\u00e9v\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Double vaisseau de charge aux pieds de Notre Dame.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PEG_2/PEG12",
+        "author": "Charles Peguy",
+        "work": "La Tapisserie De Notre-Dame",
+        "date": "1913",
+        "title": "Paris double gal\u00e8re",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=PEG_2&code_text=PEG12_7",
+        "text": [
+            [
+                {
+                    "verse": "Depuis le Point-du-Jour jusqu\u2019aux c\u00e8dres bibliques",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Double gal\u00e8re assise au long du grand bazar,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et du grand minist\u00e8re, et du morne alcazar,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Parmi les deuils priv\u00e9s et les vertus publiques ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sous les quatre-vingts rois et les trois R\u00e9publiques,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sous Napol\u00e9on, Alexandre et C\u00e9sar,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nos p\u00e8res ont tent\u00e9 le centuple hasard,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fid\u00e8lement courb\u00e9s sur tes rames obliques.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nous prenant leur place au m\u00eame banc de ch\u00eane,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Nous ramerons des reins, de la nuque, de l\u2019\u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Pli\u00e9s, cass\u00e9s, meurtris, saignants sous notre cha\u00eene ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nous tiendrons le coup, riv\u00e9s sur notre rame,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "For\u00e7ats fils de for\u00e7ats aux deux rives de Seine,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Gal\u00e9riens couch\u00e9s aux pieds de Notre Dame.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PEG_2/PEG13",
+        "author": "Charles Peguy",
+        "work": "La Tapisserie De Notre-Dame",
+        "date": "1913",
+        "title": "Paris vaisseau de guerre",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=PEG_2&code_text=PEG13_7",
+        "text": [
+            [
+                {
+                    "verse": "Double vaisseau de ligne au long des colonnades,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Autrefois b\u00e2timent au centuple sabord,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aujourd'hui lourde usine, \u00e9norme coffre-fort",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ferm\u00e9 sur le secret des sourdes canonnades.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nos p\u00e8res t'ont dans\u00e9 de chaudes s\u00e9r\u00e9nades,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils t'ont fleuri du sang de la plus belle mort,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand au gaillard d'avant vers l'un et l'autre bord",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Bondissait le troupeau des graves caronades.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais nous apporterons \u00e0 tes destins g\u00e9ants",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Un c\u0153ur si s\u00e9rieux et si br\u00fbl\u00e9 de flamme,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Un c\u0153ur si curieux de tous les oc\u00e9ans,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Soldats fils de soldats sous la m\u00eame oriflamme,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Qu'on nous mettra valets de tes canons b\u00e9ants,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Monstres verts accroupis aux pieds de Notre Dame.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PEG_2/PEG14",
+        "author": "Charles Peguy",
+        "work": "La Tapisserie De Notre-Dame",
+        "date": "1913",
+        "title": "Pr\u00e9sentation de la Beauce \u00e0 Notre-Dame de Chartres",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=PEG_2&code_text=PEG14_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00c9toile de la mer voici la lourde nappe",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et la profonde houle et l\u2019oc\u00e9an des bl\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la mouvante \u00e9cume et nos greniers combl\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici votre regard sur cette immense chape",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et voici votre voix sur cette lourde plaine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nos amis absents et nos c\u0153urs d\u00e9peupl\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici le long de nous nos poings d\u00e9sassembl\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et notre lassitude et notre force pleine.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c9toile du matin, inaccessible reine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici que nous marchons vers votre illustre cour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et voici le plateau de notre pauvre amour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et voici l\u2019oc\u00e9an de notre immense peine.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Un sanglot r\u00f4de et court par-del\u00e0 l\u2019horizon.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 peine quelques toits font comme un archipel.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du vieux clocher retombe une sorte d\u2019appel.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019\u00e9paisse \u00e9glise semble une basse maison.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ainsi nous naviguons vers votre cath\u00e9drale.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De loin en loin surnage un chapelet de meules,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rondes comme des tours, opulentes et seules",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme un rang de ch\u00e2teaux sur la barque amirale.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Deux mille ans de labeur ont fait de cette terre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un r\u00e9servoir sans fin pour les \u00e2ges nouveaux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mille ans de votre gr\u00e2ce on fait de ces travaux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un reposoir sans fin pour l\u2019\u00e2me solitaire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous nous voyez marcher sur cette route droite,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout poudreux, tout crott\u00e9s, la pluie entre les dents.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur ce large \u00e9ventail ouvert \u00e0 tous les vents",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La route nationale est notre porte \u00e9troite.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous allons devant nous, les mains le long des poches,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans aucun appareil, sans fatras, sans discours,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019un pas toujours \u00e9gal, sans h\u00e2te ni recours,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des champs les plus pr\u00e9sents vers les champs les plus proches.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous nous voyez marcher, nous sommes la pi\u00e9taille.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous n\u2019avan\u00e7ons jamais que d\u2019un pas \u00e0 la fois.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais vingt si\u00e8cles de peuple et vingt si\u00e8cles de rois,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et toute leur s\u00e9quelle et toute leur volaille",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et leurs chapeaux \u00e0 plume avec leur valetaille",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ont appris ce que c\u2019est que d\u2019\u00eatre familiers,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et comme on peut marcher, les pieds dans ses souliers,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vers un dernier carr\u00e9 le soir d\u2019une bataille.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous sommes n\u00e9s pour vous au bord de ce plateau,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans le recourbement de notre blonde Loire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ce fleuve de sable et ce fleuve de gloire",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N\u2019est l\u00e0 que pour baiser votre auguste manteau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous sommes n\u00e9s au bord de ce vaste plateau,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans l\u2019antique Orl\u00e9ans s\u00e9v\u00e8re et s\u00e9rieuse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la Loire coulante et souvent limoneuse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N\u2019est l\u00e0 que pour laver les pieds de ce coteau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous sommes n\u00e9s au bord de votre plate Beauce",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nous avons connu d\u00e8s nos plus jeunes ans",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le portail de la ferme et les durs paysans",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019enclos dans le bourg et la b\u00eache et la fosse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous sommes n\u00e9s au bord de votre Beauce plate",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nous avons connu d\u00e8s nos premiers regrets",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce que peut rec\u00e9ler de d\u00e9sespoirs secrets",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un soleil qui descend dans un ciel \u00e9carlate",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et qui se couche au ras d\u2019un sol in\u00e9vitable",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dur comme une justice, \u00e9gal comme une barre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Juste comme une loi, ferm\u00e9 comme une mare,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ouvert comme un beau socle et plan comme une table.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Un homme de chez nous, de la gl\u00e8be f\u00e9conde",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A fait jaillir ici d\u2019un seul enl\u00e8vement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et d\u2019une seule source et d\u2019un seul portement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vers votre assomption la fl\u00e8che unique au monde.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tour de David voici votre tour beauceronne.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C\u2019est l\u2019\u00e9pi le plus dur qui soit jamais mont\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vers un ciel de cl\u00e9mence et de s\u00e9r\u00e9nit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le plus beau fleuron dedans votre couronne.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Un homme de chez nous a fait ici jaillir,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Depuis le ras du sol jusqu\u2019au pied de la croix,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Plus haut que tous les saints, plus haut que tous les rois,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La fl\u00e8che irr\u00e9prochable et qui ne peut faillir.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est la gerbe et le bl\u00e9 qui ne p\u00e9rira point,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui ne fanera point au soleil de septembre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui ne g\u00e8lera point aux rigueurs de d\u00e9cembre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est votre serviteur et c\u2019est votre t\u00e9moin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est la tige et le bl\u00e9 qui ne pourrira pas,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui ne fl\u00e9trira point aux ardeurs de l\u2019\u00e9t\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui ne moisira point dans un hiver g\u00e2t\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui ne transira point dans le commun tr\u00e9pas.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est la pierre sans tache et la pierre sans faute,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La plus haute oraison qu\u2019on ait jamais port\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La plus droite raison qu\u2019on ait jamais jet\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et vers un ciel sans bord la ligne la plus haute.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Celle qui ne mourra le jour d\u2019aucunes morts,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le gage et le portrait de nos arrachements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019image et le trac\u00e9 de nos redressements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La laine et le fuseau des plus modestes sorts.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous arrivons vers vous du lointain Parisis.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous avons pour trois jours quitt\u00e9 notre boutique,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019arch\u00e9ologie avec la s\u00e9mantique,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la maigre Sorbonne et ses pauvres petits.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u2019autres viendront vers vous du lointain Beauvaisis.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous avons pour trois jours laiss\u00e9 notre n\u00e9goce,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la rumeur g\u00e9ante et la ville colosse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019autres viendront vers vous du lointain Cambr\u00e9sis.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous arrivons vers vous de Paris capitale.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C\u2019est l\u00e0 que nous avons notre gouvernement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et notre temps perdu dans le lanternement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et notre libert\u00e9 d\u00e9cevante et totale.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous arrivons vers vous de l\u2019autre Notre-Dame,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De celle qui s\u2019\u00e9l\u00e8ve au c\u0153ur de la cit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans sa royale robe et dans sa majest\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans sa magnificence et sa justesse d\u2019\u00e2me.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme vous commandez un oc\u00e9an d\u2019\u00e9pis,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u00e0-bas vous commandez un oc\u00e9an de t\u00eates,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la moisson des deuils et la moisson des f\u00eates",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se couche chaque soir devant votre parvis.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous arrivons vers vous du noble Hurepoix.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C\u2019est un commencement de Beauce \u00e0 notre usage,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des fermes et des champs taill\u00e9s \u00e0 votre image,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais coup\u00e9s plus souvent par des rideaux de bois,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et coup\u00e9s plus souvent par de creuses vall\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour l\u2019Yvette et la Bi\u00e8vre et leurs accroissements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et leurs savants d\u00e9tours et leurs d\u00e9gagements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et par les beaux ch\u00e2teaux et les longues all\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u2019autres viendront vers vous du noble Vermandois,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et des vallonnements de bouleaux et de saules.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019autres viendront vers vous des palais et des ge\u00f4les.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et du pays picard et du vert Vend\u00f4mois.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais c\u2019est toujours la France, ou petite ou plus grande,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le pays des beaux bl\u00e9s et des encadrements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le pays de la grappe et des ruissellements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le pays de gen\u00eats, de bruy\u00e8re, de lande.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous arrivons vers vous du lointain Palaiseau",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et des faubourgs d\u2019Orsay par Gometz-le-Ch\u00e2tel,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Autrement dit Saint-Clair ; ce n\u2019est pas un castel ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est un village au bord d\u2019une route en biseau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons d\u00e9bouch\u00e9, montant de ce coteau,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur le ras de la plaine et sur Gometz-la-Ville",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au-dessus de Saint-Clair ; ce n\u2019est pas une ville ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est un village au bord d\u2019une route en plateau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons descendu la c\u00f4te de Limours.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous avons rencontr\u00e9 trois ou quatre gendarmes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils nous ont regard\u00e9, non sans quelques alarmes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Consulter les poteaux aux coins des carrefours.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons pu coucher dans le calme Dourdan.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C\u2019est un gros bourg tr\u00e8s riche et qui sent sa province.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fiers nous avons long\u00e9, regard\u00e9s comme un prince,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les foss\u00e9s du ch\u00e2teau coup\u00e9s comme un redan.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Dans la maison amie, h\u00f4tesse et fraternelle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On nous a fait coucher dans le lit du gar\u00e7on.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vingt ans de souvenirs \u00e9taient notre \u00e9chanson.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le pain nous fut coup\u00e9 d\u2019une main maternelle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Toute notre jeunesse \u00e9tait l\u00e0 solennelle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On pronon\u00e7a pour nous le B\u00e9n\u00e9dicit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quatre si\u00e8cles d\u2019honneur et de fid\u00e9lit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Faisaient des draps du lit une couche \u00e9ternelle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons fait semblant d\u2019\u00eatre un gai p\u00e8lerin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et m\u00eame un bon vivant et d\u2019aimer les voyages,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et d\u2019avoir parcouru cent trente-et-un bailliages,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et d\u2019\u00eatre accoutum\u00e9s d\u2019\u00eatre sur le chemin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "La clart\u00e9 de la lampe \u00e9blouissait la nappe.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On nous fit visiter le jardin potager.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il donnait sur la treille et sur un beau verger.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tel fut le premier g\u00eete et la t\u00eate d\u2019\u00e9tape.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le jardin \u00e9tait clos dans un coude de l\u2019Orge.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vers la droite il donnait sur un mur bocager",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Surmont\u00e9 de rameaux et d\u2019un arceau l\u00e9ger.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En face un mar\u00e9chal, et l\u2019enclume, et la forge.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous nous sommes lev\u00e9s ce matin devant l\u2019aube.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous nous sommes quitt\u00e9s apr\u00e8s les beaux adieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le temps s\u2019annon\u00e7ait bien. On nous a dit tant mieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On nous a fait go\u00fbter de quelque b\u0153uf en daube,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Puisqu\u2019il est entendu que le bon p\u00e8lerin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est celui qui boit ferme et tient sa place \u00e0 table,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qu\u2019il n\u2019a pas besoin de faire le comptable,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que c\u2019est bien assez de se lever matin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le jour \u00e9tait en route et le soleil montait",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand nous avons pass\u00e9 Sainte-Mesme et les autres.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous avancions d\u00e9j\u00e0 comme deux bons ap\u00f4tres.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la gauche et la droite \u00e9tait ce qui comptait.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous sommes remont\u00e9s par le Gu\u00e9 de Longroy.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C\u2019en est fait d\u00e9sormais de nos atermoiements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de l\u2019iniquit\u00e9 des d\u00e9nivellements :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici la juste plaine et le secret effroi",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "De nous trouver tout seuls et voici le charroi",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et la roue et les b\u0153ufs et le joug et la grange,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la poussi\u00e8re \u00e9gale et l\u2019\u00e9quitable fange",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la d\u00e9tresse \u00e9gale et l\u2019\u00e9gal d\u00e9sarroi.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous voici parvenus sur la haute terrasse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 rien ne cache plus l\u2019homme de devant Dieu,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 nul d\u00e9guisement ni du temps ni du lieu",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne pourra nous sauver, Seigneur, de votre chasse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici la gerbe immense et l\u2019immense liasse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le grain sous la meule et nos \u00e9crasements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la gr\u00eale javelle et nos renoncements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019immense horizon que le regard embrasse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et notre indignit\u00e9 cette immuable masse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et notre basse peur en un pareil moment,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la juste terreur et le secret tourment",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De nous trouver tout seuls par devant votre face.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais voici que c\u2019est vous, reine de majest\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comment avons-nous pu nous laisser d\u00e9cevoir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et marcher devant vous sans vous apercevoir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous serons donc toujours ce peuple inconcert\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce pays est plus ras que la plus rase table.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 peine un creux du sol, \u00e0 peine un l\u00e9ger pli.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est la table du juge et le fait accompli,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019arr\u00eat sans appel et l\u2019ordre in\u00e9luctable.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et c\u2019est le prononc\u00e9 du texte insurmontable,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et la mesure comble et c\u2019est le sort empli,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et c\u2019est la vie \u00e9tale et l\u2019homme enseveli,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et c\u2019est le h\u00e9raut d\u2019arme et le sceau redoutable.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais vous apparaissez, reine myst\u00e9rieuse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cette pointe l\u00e0-bas dans le moutonnement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des moissons et des bois et dans le flottement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l\u2019extr\u00eame horizon ce n\u2019est point une yeuse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ni le profil connu d\u2019un arbre interchangeable.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C\u2019est d\u00e9j\u00e0 plus distante, et plus basse, et plus haute,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ferme comme un espoir sur la derni\u00e8re c\u00f4te,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur le dernier coteau la fl\u00e8che inimitable.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u2019ici vers vous, \u00f4 reine, il n\u2019est plus que la route.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Celle-ci nous regarde, on en a bien fait d\u2019autres.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous avez votre gloire et nous avons les n\u00f4tres.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous l\u2019avons entam\u00e9e, on la mangera toute.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous savons ce que c\u2019est qu\u2019un tron\u00e7on qui s\u2019ajoute",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au tron\u00e7on d\u00e9j\u00e0 fait et ce qu\u2019un kilom\u00e8tre",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Demande de jarret et ce qu\u2019il faut en mettre :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous passerons ce soir par le pont et la vo\u00fbte",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et ce foss\u00e9 profond qui cerne le rempart.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous marchons dans le vent coup\u00e9s par les autos.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est ici la contr\u00e9e imprenable en photos,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La route nue et grave allant de part en part.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons eu bon vent de partir d\u00e8s le jour.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous coucherons ce soir \u00e0 deux pas de chez vous,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans cette vieille auberge o\u00f9 pour quarante sous",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous dormirons tout pr\u00e8s de votre illustre tour.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous serons si fourbus que nous regarderons,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Assis sur une chaise aupr\u00e8s de la fen\u00eatre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans un \u00e9crasement du corps et de tout l\u2019\u00eatre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec des yeux battus, presque avec des yeux ronds,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et les sourcils hauss\u00e9s jusque dedans nos fronts,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019angle une fois trouv\u00e9 par un seul homme au monde,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019unique mont\u00e9e ascendante et profonde,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nous serons recrus et nous contemplerons.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici l\u2019axe et la ligne et la g\u00e9ante fleur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici la dure pente et le contentement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici l\u2019exactitude et le consentement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la s\u00e9v\u00e8re larme, \u00f4 reine de douleur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici la nudit\u00e9, le reste est v\u00eatement.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici le v\u00eatement, tout le reste est parure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici la puret\u00e9, tout le reste est souillure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici la pauvret\u00e9, le reste est ornement.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici la seule force et le reste est faiblesse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici l\u2019ar\u00eate unique et le reste est bavure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la seule noblesse et le reste est ordure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la seule grandeur et le reste est bassesse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici la seule foi qui ne soit point parjure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici le seul \u00e9lan qui sache un peu monter.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici le seul instant qui vaille de compter.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici le seul propos qui s\u2019ach\u00e8ve et qui dure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le monument, tout le reste est doublure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et voici notre amour et notre entendement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et notre port de t\u00eate et notre apaisement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le rien de dentelle et l\u2019exacte moulure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le beau serment, le reste est forfaiture.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici l\u2019unique prix de nos arrachements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le salaire pay\u00e9 de nos retranchements.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici la v\u00e9rit\u00e9, le reste est imposture.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le firmament, le reste est proc\u00e9dure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et vers le tribunal voici l\u2019ajustement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et vers le paradis voici l\u2019ach\u00e8vement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la feuille de pierre et l\u2019exacte nervure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous resterons clou\u00e9s sur la chaise de paille.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nous n\u2019entendrons pas et nous ne verrons pas",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le tumulte des voix, le tumulte des pas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et dans la salle en bas l\u2019innocente ripaille.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ni les rouliers venus pour le jour du march\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ni la feinte col\u00e8re et l\u2019\u00e9clat des jurons :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car nous contemplerons et nous m\u00e9diterons",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019un seul embrassement la fl\u00e8che sans p\u00e9ch\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne sentirons pas ni nos faces raidies,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ni la faim ni la soif ni nos renoncements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ni nos raides genoux ni nos raisonnements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ni dans nos pantalons nos jambes engourdies.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Perdus dans cette chambre et parmi tant d\u2019h\u00f4tels,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous ne descendrons pas \u00e0 l\u2019heure du repas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nous n\u2019entendrons pas et nous ne verrons pas",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La ville prostern\u00e9e au pied de vos autels.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et quand se l\u00e8vera le soleil de demain,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous nous r\u00e9veillerons dans une aube lustrale,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 l\u2019ombre des deux bras de votre cath\u00e9drale,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Heureux et malheureux et perclus du chemin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous venons vous prier pour ce pauvre gar\u00e7on",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui mourut comme un sot au cours de cette ann\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Presque dans la semaine et devers la journ\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 votre fils naquit dans la paille et le son.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 Vierge, il n\u2019\u00e9tait pas le pire du troupeau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il n\u2019avait qu\u2019un d\u00e9faut dans sa jeune cuirasse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais la mort qui nous piste et nous suit \u00e0 la trace",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A pass\u00e9 par ce trou qu\u2019il s\u2019est fait dans la peau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Il \u00e9tait n\u00e9 vers nous dans notre G\u00e2tinais.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il commen\u00e7ait la route o\u00f9 nous redescendons.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il gagnait tous les jours tout ce que nous perdons.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et pourtant c\u2019\u00e9tait lui que tu te destinais,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 mort qui fus vaincue en un premier caveau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il avait mis ses pas dans nos m\u00eames empreintes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais le seul manquement d\u2019une seule des craintes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Laissa passer la mort par un chemin nouveau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le voici maintenant dedans votre r\u00e9gence.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous \u00eates reine et m\u00e8re et saurez le montrer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019\u00e9tait un \u00eatre pur. Vous le ferez rentrer",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans votre patronage et dans votre indulgence.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 reine qui lisez dans le secret du c\u0153ur,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous savez ce que c\u2019est que la vie ou la mort,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et vous savez ainsi dans quel secret du sort",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se coud et se d\u00e9coud la ruse du traqueur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et vous savez ainsi sur quel accent du ch\u0153ur",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se noue et se d\u00e9noue un accompagnement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ce qu\u2019il faut d\u2019espace et de d\u00e9boisement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour laisser d\u00e9bouler la meute du piqueur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et vous savez ainsi dans quel recreux du port",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se pr\u00e9pare et s\u2019ach\u00e8ve un noble enl\u00e8vement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et par quel jeu d\u2019adresse et de gouvernement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se d\u00e9robe ou se fixe un illustre support.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et vous savez ainsi sur quel tranchant du glaive",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se joue et se d\u00e9joue un \u00e9pouvantement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et par quel coup de pouce et quel balancement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019un des plateaux descend pour que l\u2019autre s\u2019\u00e9l\u00e8ve.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et ce que peut co\u00fbter la l\u00e8vre du moqueur,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ce qu\u2019il faut de force et de recroisement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour faire par le coup d\u2019un seul retournement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019un vaincu malheureux un malheureux vainqueur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "M\u00e8re le voici donc, il \u00e9tait notre race,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et vingt ans apr\u00e8s nous notre redoublement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Reine recevez-le dans votre amendement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 la mort a pass\u00e9, passera bien la gr\u00e2ce.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous, nous retournerons par ce m\u00eame chemin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce sera de nouveau la terre sans cachette,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le ch\u00e2teau sans un coin et sans une oubliette,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ce sol mieux grav\u00e9 qu\u2019un parfait parchemin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nunc et in hora, nous vous prions pour nous",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui sommes plus grands sots que ce pauvre gamin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et sans doute moins purs et moins dans votre main,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et moins achemin\u00e9s vers vos sacr\u00e9s genoux.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Quand nous aurons jou\u00e9 nos derniers personnages,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand nous aurons pos\u00e9 la cape et le manteau,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand nous aurons jet\u00e9 le masque et le couteau,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Veuillez vous rappeler nos longs p\u00e8lerinages.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Quand nous retournerons en cette froide terre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ainsi qu\u2019il fut prescrit pour le premier Adam,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Reine de Saint-Ch\u00e9ron, Saint-Arnould et Dourdan,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Veuillez vous rappeler ce chemin solitaire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Quand on nous aura mis dans une \u00e9troite fosse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand on aura sur nous dit l\u2019absoute et la messe,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Veuillez vous rappeler, reine de la promesse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le long cheminement que nous faisons en Beauce.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Quand nous aurons quitt\u00e9 ce sac et cette corde,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand nous aurons trembl\u00e9 nos derniers tremblements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand nous aurons racl\u00e9 nos derniers raclements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Veuillez vous rappelez votre mis\u00e9ricorde.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons rien, refuge du p\u00e9cheur,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que la derni\u00e8re place en votre Purgatoire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour pleurer longuement notre tragique histoire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et contempler de loin votre jeune splendeur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PEG_2/PEG15",
+        "author": "Charles Peguy",
+        "work": "La Tapisserie De Notre-Dame",
+        "date": "1913",
+        "title": "Les cinq pri\u00e8res dans la cath\u00e9drale de Chartres",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=PEG_2&code_text=PEG15_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00d4 reine voici donc apr\u00e8s la longue route,",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Avant de repartir par ce m\u00eame chemin,",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Le seul asile ouvert au creux de votre main,",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Et le jardin secret o\u00f9 l'\u00e2me s'ouvre toute.",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le lourd pilier et la montante vo\u00fbte ;",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Et l'oubli pour hier, et l'oubli pour demain ;",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Et l'inutilit\u00e9 de tout calcul humain ;",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Et plus que le p\u00e9ch\u00e9, la sagesse en d\u00e9route.",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le lieu du monde o\u00f9 tout devient facile,",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Le regret, le d\u00e9part, m\u00eame l'\u00e9v\u00e9nement,",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Et l'adieu temporaire et le d\u00e9tournement,",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Le seul coin de la terre o\u00f9 tout devient docile,",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                }
+            ],
+            [
+                {
+                    "verse": "Et m\u00eame ce vieux c\u0153ur qui faisait le rebelle ;",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Et cette vieille t\u00eate et ses raisonnements ;",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Et ces deux bras raidis dans les casernements ;",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Et cette jeune enfant qui faisait trop la belle.",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le lieu du monde o\u00f9 tout est reconnu,",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Et cette vieille t\u00eate et la source des larmes ;",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Et ces deux bras raidis dans le m\u00e9tier des armes ;",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Le seul coin de la terre o\u00f9 tout soit contenu.",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le lieu du monde o\u00f9 tout est revenu",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Apr\u00e8s tant de d\u00e9parts, apr\u00e8s tant d'arriv\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "Voici le lieu du monde o\u00f9 tout est pauvre et nu",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Apr\u00e8s tant de hasards, apr\u00e8s tant de corv\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le lieu du monde et la seule retraite,",
+                    "metre": "6+6",
+                    "rhyme": "9"
+                },
+                {
+                    "verse": "Et l'unique retour et le recueillement,",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Et la feuille et le fruit et le d\u00e9feuillement,",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Et les rameaux cueillis pour cette unique f\u00eate.",
+                    "metre": "6+6",
+                    "rhyme": "9"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le lieu du monde o\u00f9 tout rentre et se tait,",
+                    "metre": "6+6",
+                    "rhyme": "10"
+                },
+                {
+                    "verse": "Et le silence et l'ombre et la charnelle absence,",
+                    "metre": "6+6",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "Et le commencement d'\u00e9ternelle pr\u00e9sence,",
+                    "metre": "6+6",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "Le seul r\u00e9duit o\u00f9 l'\u00e2me est tout ce qu'elle \u00e9tait.",
+                    "metre": "6+6",
+                    "rhyme": "10"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le lieu du monde o\u00f9 la tentation",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Se retourne elle-m\u00eame et se met \u00e0 l'envers.",
+                    "metre": "6+6",
+                    "rhyme": "13"
+                },
+                {
+                    "verse": "Car ce qui tente ici c'est la soumission ;",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Et c'est l'aveuglement dans l'immense univers.",
+                    "metre": "6+6",
+                    "rhyme": "13"
+                }
+            ],
+            [
+                {
+                    "verse": "Et le d\u00e9posement est ici ce qui tente,",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Et ce qui vient tout seul est l'abdication,",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Et ce qui vient soi-m\u00eame et ce qui se pr\u00e9sente",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "N'est ici que grandesse et pr\u00e9sentation.",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "C'est la r\u00e9volte ici qui devient impossible,",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "Et ce qui se pr\u00e9sente est la d\u00e9mission.",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Et c'est l'effacement qui devient invincible.",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "Et tout n'est que bonjour et salutation.",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une accession",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "N'est ici qu'un total et sourd abrasement.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un entassement",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "N'est ici que bassesse et que d\u00e9pression.",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une oppression",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "N'est ici que l'effet d'un noble \u00e9crasement.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un empressement",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "N'est ici qu'h\u00e9ritage et que succession.",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une rude guerre",
+                    "metre": "6+6",
+                    "rhyme": "16"
+                },
+                {
+                    "verse": "N'est ici que la paix d'un long d\u00e9laissement.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un affaissement",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Est ici la loi m\u00eame et la norme vulgaire.",
+                    "metre": "6+6",
+                    "rhyme": "17"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une \u00e2pre bataille",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "Et sur le cou tendu le couteau du boucher,",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est la greffe et la taille",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "N'est ici que la fleur et le fruit du p\u00eacher.",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est la rude mont\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "N'est ici que descente et qu'aboutissement.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est la mer d\u00e9mont\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "N'est ici que bonace et qu'\u00e9tablissement.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une dure loi",
+                    "metre": "6+6",
+                    "rhyme": "21"
+                },
+                {
+                    "verse": "N'est ici qu'un beau pli sous vos commandements.",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Et dans la libert\u00e9 de nos amendements",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Une fid\u00e9lit\u00e9 plus tendre que la foi.",
+                    "metre": "6+6",
+                    "rhyme": "21"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une obsession",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "N'est ici sous vos lois qu'une place rendue.",
+                    "metre": "6+6",
+                    "rhyme": "22"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est une \u00e2me vendue",
+                    "metre": "6+6",
+                    "rhyme": "22"
+                },
+                {
+                    "verse": "N'est ici que pri\u00e8re et qu'intercession.",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une lassitude",
+                    "metre": "6+6",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "N'est ici que des clefs sur un humble plateau.",
+                    "metre": "6+6",
+                    "rhyme": "24"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est la vicissitude",
+                    "metre": "6+6",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "N'est ici qu'une vigne \u00e0 m\u00eame le coteau.",
+                    "metre": "6+6",
+                    "rhyme": "24"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est la longue habitude",
+                    "metre": "6+6",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "Assise au coin du feu les poings sous le menton,",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est une solitude",
+                    "metre": "6+6",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "N'est ici qu'un vivace et ferme rejeton.",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est la d\u00e9cr\u00e9pitude",
+                    "metre": "6+6",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "Assise au coin du feu les poings sur les genoux",
+                    "metre": "6+6",
+                    "rhyme": "25"
+                },
+                {
+                    "verse": "N'est ici que tendresse et que sollicitude",
+                    "metre": "6+6",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "Et deux bras maternels qui se tournent vers nous.",
+                    "metre": "6+6",
+                    "rhyme": "26"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous nous sommes lav\u00e9s d'une telle amertume,",
+                    "metre": "6+6",
+                    "rhyme": "27"
+                },
+                {
+                    "verse": "\u00c9toile de la mer et des r\u00e9cifs sal\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Nous nous sommes lav\u00e9s d'une si basse \u00e9cume,",
+                    "metre": "6+6",
+                    "rhyme": "27"
+                },
+                {
+                    "verse": "\u00c9toile de la barque et des souples filets.",
+                    "metre": "6+6",
+                    "rhyme": "29"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons d\u00e9lav\u00e9 nos malheureuses t\u00eates",
+                    "metre": "6+6",
+                    "rhyme": "30"
+                },
+                {
+                    "verse": "D'un tel fatras d'ordure et de raisonnement,",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Nous voici d\u00e9sormais, \u00f4 reine des proph\u00e8tes,",
+                    "metre": "6+6",
+                    "rhyme": "30"
+                },
+                {
+                    "verse": "Plus clairs que l'eau du puits de l'ancien testament.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons gouvern\u00e9 de si modestes arches,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voile du seul vaisseau qui ne p\u00e9rira pas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous avons consult\u00e9 de si pauvres compas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Arche du seul salut, reine des patriarches.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons consomm\u00e9 de si lointains voyages,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour les pays \u00e9tranges.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Reine des confesseurs, des vierges et des anges,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous voici retourn\u00e9s dans nos premiers villages.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "On nous en a tant dit, \u00f4 reine des ap\u00f4tres,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour la p\u00e9roraison.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous n'avons plus d'autels que ceux qui sont les v\u00f4tres,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous ne savons plus rien qu'une simple oraison.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons essuy\u00e9 de si vastes naufrages,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour le transbordement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous voici revenus, au d\u00e9clin de nos \u00e2ges,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9toile du seul Nord dans votre b\u00e2timent.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est de dispersion",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que l'effet d'un beau rassemblement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un d\u00e9membrement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est ici que cort\u00e8ge et que procession.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs demande un examen",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que l'effet d'une pauvre jeunesse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs demande un lendemain",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que l'effet de soudaine faiblesse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs demande un parchemin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que l'effet d'une pauvre tendresse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs demande un tour de main",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que l'effet d'une humble maladresse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est un d\u00e9traquement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que justesse et que d\u00e9clinaison.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un baraquement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'une \u00e9paisse et durable maison.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est la guerre et la paix",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que d\u00e9faite et que reddition.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est de s\u00e9dition",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est ici qu'un beau peuple et d\u00e8s \u00e9pis \u00e9pais.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une immense arm\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec ses trains de vivre et ses encombrements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ses trains de bagage et ses retardements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est ici que d\u00e9cence et bonne renomm\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est un effondrement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'une lente et courbe inclinaison.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est de comparaison",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est ici sans pareil et sans redoublement.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est un accablement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que l'effet de pauvre ob\u00e9issance.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un grand parlement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que l'effet de la seule audience.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est un encadrement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un candide et calme reposoir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un ajournement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que l'oubli du matin et du soir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Les matins sont partis vers les temps r\u00e9volus,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et les soirs partiront vers le soir \u00e9ternel,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les jours entreront dans un jour solennel,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les fils deviendront des hommes r\u00e9solus.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les \u00e2ges rentreront dans un \u00e2ge absolu,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les fils retourneront vers le seuil paternel",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et raviront de force et l'amour fraternel",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l'antique h\u00e9ritage et le bien d\u00e9volu.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le lieu du monde o\u00f9 tout devient enfant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et surtout ce vieil homme avec sa barbe grise,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ses cheveux m\u00eal\u00e9s au souffle de la brise,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et son regard modeste et jadis triomphant.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici le lieu du monde o\u00f9 tout devient novice,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et cette vieille t\u00eate et ses lanternements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ces deux bras raidis dans les gouvernements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le seul coin de la terre o\u00f9 tout devient complice,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et m\u00eame ce grand sot qui faisait le malin,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "(C'est votre serviteur, \u00f4 premi\u00e8re servante),",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qui tournait en rond dans une orbe savante,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qui portait de l'eau dans le bief du moulin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est un arrachement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que la fleur de la jeune saison.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un retranchement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un soleil au ras de l'horizon.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est un dur labourage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que r\u00e9colte et dessaisissement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est le d\u00e9clin d'un \u00e2ge",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un candide et cher vieillissement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une r\u00e9sistance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que de suite et d'accompagnement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un prosternement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est ici qu'une douce et longue ob\u00e9issance.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est r\u00e8gle de contrainte",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que d\u00e9clenche et qu'abandonnement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est une dure astreinte",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que faiblesse et que soul\u00e8vement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est r\u00e8gle de conduite",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que bonheur et que renforcement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est \u00e9pargne produite",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un honneur et qu'un grave serment.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une courbature",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que la fleur de la jeune oraison ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est la lourde armature",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que la laine et la blanche toison.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs serait un tour de force",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que simplesse et que d\u00e9lassement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est la rugueuse \u00e9corce",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que la s\u00e8ve et les pleurs du sarment",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une longue usure",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que renfort et que recroissement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est bouleversement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est ici que le jour de la bonne aventure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs se tient sur la r\u00e9serve",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'abondance et que d\u00e9passement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs se gagne et se conserve",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que d\u00e9pense et que d\u00e9sistement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs se tient sur la d\u00e9fense",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que liesse et d\u00e9mant\u00e8lement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l'oubli de l'injure et l'oubli de l'offense",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que paresse et que bannissement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une liaison",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un fid\u00e8le et noble attachement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un encerclement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est ici qu'un passant dedans votre maison.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une ob\u00e9dience",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'une gerbe au temps de fauchaison ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs se fait par surveillance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un beau foin au temps de fenaison.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une forcerie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que la plante \u00e0 m\u00eame le jardin ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est une gagerie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que le seuil \u00e0 m\u00eame le gradin.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une r\u00e9torsion",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que d\u00e9tente et que d\u00e9sarmement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est une contraction",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un muet et calme engagement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est un bien p\u00e9rissable",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un tranquille et bref d\u00e9gagement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un rengorgement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est ici qu'une rose et des pas sur le sable.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est un efforcement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que la fleur de la jeune raison ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est un redressement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici que la pente et le pli du gazon.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est une \u00e9corcherie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un modeste et beau d\u00e9v\u00eatement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est une affouillerie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un durable et s\u00fbr d\u00e9pouillement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est un raidissement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'une souple et candide fontaine ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est une illustre peine",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est ici qu'un profond et pur jaillissement.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs se querelle et se prend",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un beau fleuve aux confins de sa source,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00d4 reine et c'est ici que toute \u00e2me se rend",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme un jeune guerrier retomb\u00e9 dans sa course.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est la route gravie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 reine qui r\u00e9gnez dans votre illustre cour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9toile du matin, reine du dernier jour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce qui partout ailleurs est la table servie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce qui partout ailleurs est la route suivie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est ici qu'un paisible et fort d\u00e9tachement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et dans un calme temple et loin d'un plat tourment",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'attente d'une mort plus vivante que vie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que le grain sous la meule",
+                    "metre": "6+6",
+                    "rhyme": "58"
+                },
+                {
+                    "verse": "Soit jamais replac\u00e9 dans le c\u0153ur de l'\u00e9pi,",
+                    "metre": "6+6",
+                    "rhyme": "59"
+                },
+                {
+                    "verse": "Nous ne demandons pas que l'\u00e2me errante et seule",
+                    "metre": "6+6",
+                    "rhyme": "60"
+                },
+                {
+                    "verse": "Soit jamais repos\u00e9e en un jardin fleuri.",
+                    "metre": "6+6",
+                    "rhyme": "59"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que la grappe \u00e9cras\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Soit jamais replac\u00e9e au fronton de la treille,",
+                    "metre": "6+6",
+                    "rhyme": "61"
+                },
+                {
+                    "verse": "Et que le lourd frelon et que la jeune abeille",
+                    "metre": "6+6",
+                    "rhyme": "61"
+                },
+                {
+                    "verse": "Y reviennent jamais se gorger de ros\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que la ros\u00e9 vermeille",
+                    "metre": "6+6",
+                    "rhyme": "61"
+                },
+                {
+                    "verse": "Soit jamais replac\u00e9e aux cerceaux du rosier,",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Et que le paneton et la lourde corbeille",
+                    "metre": "6+6",
+                    "rhyme": "61"
+                },
+                {
+                    "verse": "Retourne vers le fleuve et redevienne osier.",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que cette page \u00e9crite",
+                    "metre": "6+6",
+                    "rhyme": "46"
+                },
+                {
+                    "verse": "Soit jamais effac\u00e9e au livre de m\u00e9moire,",
+                    "metre": "6+6",
+                    "rhyme": "62"
+                },
+                {
+                    "verse": "Et que le lourd soup\u00e7on et que la jeune histoire",
+                    "metre": "6+6",
+                    "rhyme": "62"
+                },
+                {
+                    "verse": "Vienne rem\u00e9morer cette peine prescrite.",
+                    "metre": "6+6",
+                    "rhyme": "46"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que la tige ploy\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Soit jamais redress\u00e9e au livre de nature,",
+                    "metre": "6+6",
+                    "rhyme": "47"
+                },
+                {
+                    "verse": "Et que le lourd bourgeon et la jeune nervure",
+                    "metre": "6+6",
+                    "rhyme": "47"
+                },
+                {
+                    "verse": "Perce jamais l'\u00e9corce et soit red\u00e9ploy\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que le rameau broy\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Reverdisse jamais au livre de la gr\u00e2ce,",
+                    "metre": "6+6",
+                    "rhyme": "63"
+                },
+                {
+                    "verse": "Et que le lourd surgeon et que la jeune race",
+                    "metre": "6+6",
+                    "rhyme": "63"
+                },
+                {
+                    "verse": "Rejaillisse jamais de l'arbre foudroy\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que la branche effeuill\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Se tourne jamais plus vers un jeune printemps,",
+                    "metre": "6+6",
+                    "rhyme": "64"
+                },
+                {
+                    "verse": "Et que la lourde s\u00e8ve et que le jeune temps",
+                    "metre": "6+6",
+                    "rhyme": "64"
+                },
+                {
+                    "verse": "Sauve une cime au moins dans la for\u00eat noy\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que le pli de la nappe",
+                    "metre": "6+6",
+                    "rhyme": "65"
+                },
+                {
+                    "verse": "Soit effac\u00e9 devant que revienne le ma\u00eetre,",
+                    "metre": "6+6",
+                    "rhyme": "66"
+                },
+                {
+                    "verse": "Et que votre servante et qu'un malheureux \u00eatre",
+                    "metre": "6+6",
+                    "rhyme": "66"
+                },
+                {
+                    "verse": "Soient lib\u00e9r\u00e9s jamais de cette lourde chape.",
+                    "metre": "6+6",
+                    "rhyme": "67"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que cette auguste table",
+                    "metre": "6+6",
+                    "rhyme": "52"
+                },
+                {
+                    "verse": "Soit jamais resservie, \u00e0 moins que pour un Dieu,",
+                    "metre": "6+6",
+                    "rhyme": "68"
+                },
+                {
+                    "verse": "Mais nous n'esp\u00e9rons pas que le grand conn\u00e9table",
+                    "metre": "6+6",
+                    "rhyme": "52"
+                },
+                {
+                    "verse": "Chauffe deux fois ses mains vers un si maigre feu.",
+                    "metre": "6+6",
+                    "rhyme": "68"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas qu'une \u00e2me fourvoy\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Soit jamais replac\u00e9e au chemin du bonheur.",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "\u00d4 reine il nous suffit d'avoir gard\u00e9 l'honneur",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Et nous ne voulons pas qu'une aide apitoy\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous remette jamais au chemin de plaisance,",
+                    "metre": "6+6",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "Et nous ne voulons pas qu'une amour soudoy\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Nous remette jamais au chemin d'all\u00e9geance,",
+                    "metre": "6+6",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "\u00d4 seul gouvernement d'une \u00e2me guerroy\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                }
+            ],
+            [
+                {
+                    "verse": "R\u00e9gente de la mer et de l'illustre port",
+                    "metre": "6+6",
+                    "rhyme": "70"
+                },
+                {
+                    "verse": "Nous ne demandons rien dans ces amendements",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Reine que de garder sous vos commandements",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Une fid\u00e9lit\u00e9 plus forte que la mort.",
+                    "metre": "6+6",
+                    "rhyme": "70"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons pas que cette belle nappe",
+                    "metre": "6+6",
+                    "rhyme": "65"
+                },
+                {
+                    "verse": "Soit jamais repli\u00e9e aux rayons de l'armoire,",
+                    "metre": "6+6",
+                    "rhyme": "62"
+                },
+                {
+                    "verse": "Nous ne demandons pas qu'un pli de la m\u00e9moire",
+                    "metre": "6+6",
+                    "rhyme": "62"
+                },
+                {
+                    "verse": "Soit jamais effac\u00e9 de cette lourde chape.",
+                    "metre": "6+6",
+                    "rhyme": "67"
+                }
+            ],
+            [
+                {
+                    "verse": "Ma\u00eetresse de la voie et du raccordement,",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "\u00d4 miroir de justice et de justesse d'\u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": "71"
+                },
+                {
+                    "verse": "Vous seule vous savez, \u00f4 grande notre Dame,",
+                    "metre": "6+6",
+                    "rhyme": "71"
+                },
+                {
+                    "verse": "Ce que c'est que la halte et le recueillement.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                }
+            ],
+            [
+                {
+                    "verse": "Ma\u00eetresse de la race et du recroisement,",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "\u00d4 temple de sagesse et de jurisprudence,",
+                    "metre": "6+6",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "Vous seule connaissez, \u00f4 s\u00e9v\u00e8re prudence,",
+                    "metre": "6+6",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "Ce que c'est que le juge et le balancement.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                }
+            ],
+            [
+                {
+                    "verse": "Quand il fallut s'asseoir \u00e0 la croix des deux routes",
+                    "metre": "6+6",
+                    "rhyme": "72"
+                },
+                {
+                    "verse": "Et choisir le regret d'avecque le remords,",
+                    "metre": "6+6",
+                    "rhyme": "73"
+                },
+                {
+                    "verse": "Quand il fallut s'asseoir au coin des doubles sorts",
+                    "metre": "6+6",
+                    "rhyme": "74"
+                },
+                {
+                    "verse": "Et fixer le regard sur la clef des deux vo\u00fbtes,",
+                    "metre": "6+6",
+                    "rhyme": "72"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous seule vous savez, ma\u00eetresse du secret,",
+                    "metre": "6+6",
+                    "rhyme": "10"
+                },
+                {
+                    "verse": "Que l'un des deux chemins allait en contre-bas,",
+                    "metre": "6+6",
+                    "rhyme": "32"
+                },
+                {
+                    "verse": "Vous connaissez celui que choisirent nos pas,",
+                    "metre": "6+6",
+                    "rhyme": "32"
+                },
+                {
+                    "verse": "Comme on choisit un c\u00e8dre et le bois d'un coffret.",
+                    "metre": "6+6",
+                    "rhyme": "10"
+                }
+            ],
+            [
+                {
+                    "verse": "Et non point par vertu car nous n'en avons gu\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "17"
+                },
+                {
+                    "verse": "Et non point par devoir car nous ne l'aimons pas,",
+                    "metre": "6+6",
+                    "rhyme": "32"
+                },
+                {
+                    "verse": "Mais comme un charpentier s'arme de son compas,",
+                    "metre": "6+6",
+                    "rhyme": "32"
+                },
+                {
+                    "verse": "Par besoin de nous mettre au centre de mis\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "17"
+                }
+            ],
+            [
+                {
+                    "verse": "Et pour bien nous placer dans l'axe de d\u00e9tresse,",
+                    "metre": "6+6",
+                    "rhyme": "36"
+                },
+                {
+                    "verse": "Et par ce besoin sourd d'\u00eatre plus malheureux,",
+                    "metre": "6+6",
+                    "rhyme": "75"
+                },
+                {
+                    "verse": "Et d'aller au plus dur et de souffrir plus creux,",
+                    "metre": "6+6",
+                    "rhyme": "75"
+                },
+                {
+                    "verse": "Et de prendre le mal dans sa pleine justesse.",
+                    "metre": "6+6",
+                    "rhyme": "36"
+                }
+            ],
+            [
+                {
+                    "verse": "Par ce vieux tour de main, par cette m\u00eame adresse,",
+                    "metre": "6+6",
+                    "rhyme": "36"
+                },
+                {
+                    "verse": "Qui ne servira plus \u00e0 courir le bonheur,",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Puissions-nous, \u00f4 r\u00e9gente, au moins tenir l'honneur,",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Et lui garder lui seul notre pauvre tendresse.",
+                    "metre": "6+6",
+                    "rhyme": "36"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons gouvern\u00e9 de si vastes royaumes,",
+                    "metre": "6+6",
+                    "rhyme": "76"
+                },
+                {
+                    "verse": "\u00d4 r\u00e9gente des rois et des gouvernements,",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Nous avons tant couch\u00e9 dans la paille et les chaumes,",
+                    "metre": "6+6",
+                    "rhyme": "76"
+                },
+                {
+                    "verse": "R\u00e9gente des grands gueux et des soul\u00e8vements.",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour les grands majordomes,",
+                    "metre": "6+6",
+                    "rhyme": "77"
+                },
+                {
+                    "verse": "R\u00e9gente du pouvoir et des renversements,",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour les chambardements,",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "R\u00e9gente des frontons, des palais et des d\u00f4mes.",
+                    "metre": "6+6",
+                    "rhyme": "76"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons combattu de si ferventes guerres",
+                    "metre": "6+6",
+                    "rhyme": "78"
+                },
+                {
+                    "verse": "Par-devant le Seigneur et le Dieu des arm\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "Nous avons parcouru de si mouvantes terres,",
+                    "metre": "6+6",
+                    "rhyme": "78"
+                },
+                {
+                    "verse": "Nous nous sommes acquis si hautes renomm\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour le m\u00e9tier des armes,",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Reine des grandes paix et des d\u00e9sarmements,",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour le m\u00e9tier des larmes,",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Reine des sept douleurs et des sept sacrements.",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons gouvern\u00e9 de si vastes provinces,",
+                    "metre": "6+6",
+                    "rhyme": "79"
+                },
+                {
+                    "verse": "R\u00e9gente des pr\u00e9fets et des procurateurs,",
+                    "metre": "6+6",
+                    "rhyme": "80"
+                },
+                {
+                    "verse": "Nous avons lantern\u00e9 sous tant d'augustes princes,",
+                    "metre": "6+6",
+                    "rhyme": "79"
+                },
+                {
+                    "verse": "Reine des tableaux peints et des deux donateurs.",
+                    "metre": "6+6",
+                    "rhyme": "80"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour les d\u00e9partements,",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Ni pour la pr\u00e9fecture et pour la capitale,",
+                    "metre": "6+6",
+                    "rhyme": "81"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour les embarquements,",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Nous ne respirons plus vers la terre natale,",
+                    "metre": "6+6",
+                    "rhyme": "81"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons encouru de si hautes fortunes,",
+                    "metre": "6+6",
+                    "rhyme": "82"
+                },
+                {
+                    "verse": "\u00d4 clef du seul honneur qui ne p\u00e9rira point,",
+                    "metre": "6+6",
+                    "rhyme": "83"
+                },
+                {
+                    "verse": "Nous avons d\u00e9pouill\u00e9 de si basses rancunes,",
+                    "metre": "6+6",
+                    "rhyme": "82"
+                },
+                {
+                    "verse": "Reine du t\u00e9moignage et du double t\u00e9moin.",
+                    "metre": "6+6",
+                    "rhyme": "84"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour les forfanteries,",
+                    "metre": "6+6",
+                    "rhyme": "85"
+                },
+                {
+                    "verse": "Ma\u00eetresse de sagesse et de silence et d'ombre,",
+                    "metre": "6+6",
+                    "rhyme": "86"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour les argenteries,",
+                    "metre": "6+6",
+                    "rhyme": "85"
+                },
+                {
+                    "verse": "\u00d4 clef du seul tr\u00e9sor et d'un bonheur sans nombre.",
+                    "metre": "6+6",
+                    "rhyme": "86"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous en avons tant vu, dame de pauvret\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour de nouveaux regards,",
+                    "metre": "6+6",
+                    "rhyme": "87"
+                },
+                {
+                    "verse": "Nous en avons tant fait, temple de puret\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour de nouveaux hasards.",
+                    "metre": "6+6",
+                    "rhyme": "87"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons tant p\u00e9ch\u00e9, refuge du p\u00e9cheur,",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour les atermoiements,",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Nous avons tant cherch\u00e9, miracle de candeur,",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Nous n'avons plus de go\u00fbt pour les enseignements.",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons tant appris dans les maisons d'\u00e9cole,",
+                    "metre": "6+6",
+                    "rhyme": "88"
+                },
+                {
+                    "verse": "Nous ne savons plus rien que vos commandements.",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Nous avons tant failli par l'acte et la parole,",
+                    "metre": "6+6",
+                    "rhyme": "88"
+                },
+                {
+                    "verse": "Nous ne savons plus rien que nos amendements.",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous sommes ces soldats qui grognaient par le monde,",
+                    "metre": "6+6",
+                    "rhyme": "89"
+                },
+                {
+                    "verse": "Mais qui marchaient toujours et n'ont jamais pli\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Nous sommes cette \u00c9glise et ce faisceau li\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Nous sommes cette race internelle et profonde.",
+                    "metre": "6+6",
+                    "rhyme": "89"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne demandons plus de ces biens p\u00e9rissables,",
+                    "metre": "6+6",
+                    "rhyme": "90"
+                },
+                {
+                    "verse": "Nous ne demandons plus vos gr\u00e2ces de bonheur,",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Nous ne demandons plus que vos gr\u00e2ces d'honneur,",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Nous ne b\u00e2tirons plus nos maisons sur ces sables.",
+                    "metre": "6+6",
+                    "rhyme": "90"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous ne savons plus rien de ce qu'on nous a lu,",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Nous ne savons plus rien de ce qu'on nous a dit.",
+                    "metre": "6+6",
+                    "rhyme": "91"
+                },
+                {
+                    "verse": "Nous ne connaissons plus qu'un \u00e9ternel \u00e9dit,",
+                    "metre": "6+6",
+                    "rhyme": "91"
+                },
+                {
+                    "verse": "Nous ne savons plus rien que votre ordre absolu.",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous en avons trop pris, nous sommes r\u00e9solus.",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Nous ne voulons plus rien que par ob\u00e9issance,",
+                    "metre": "6+6",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "Et rester sous les coups d'une auguste puissance,",
+                    "metre": "6+6",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "Miroir des temps futurs et des temps r\u00e9volus.",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                }
+            ],
+            [
+                {
+                    "verse": "S'il est permis pourtant que celui qui n'a rien",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Puisse un jour disposer, et l\u00e9guer quelque chose,",
+                    "metre": "6+6",
+                    "rhyme": "92"
+                },
+                {
+                    "verse": "S'il n'est pas d\u00e9fendu, myst\u00e9rieuse rose,",
+                    "metre": "6+6",
+                    "rhyme": "92"
+                },
+                {
+                    "verse": "Que celui qui n'a pas reporte un jour son bien ;",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                }
+            ],
+            [
+                {
+                    "verse": "S'il est permis au gueux de faire un testament,",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Et de l\u00e9guer l'asile et la paille et le chaume,",
+                    "metre": "6+6",
+                    "rhyme": "93"
+                },
+                {
+                    "verse": "S'il est permis au roi de l\u00e9guer le royaume,",
+                    "metre": "6+6",
+                    "rhyme": "93"
+                },
+                {
+                    "verse": "Et si le grand dauphin pr\u00eate un nouveau serment ;",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                }
+            ],
+            [
+                {
+                    "verse": "S'il est admis pourtant que celui qui doit tout",
+                    "metre": "6+6",
+                    "rhyme": "94"
+                },
+                {
+                    "verse": "Se fasse ouvrir un compte et porter un cr\u00e9dit,",
+                    "metre": "6+6",
+                    "rhyme": "91"
+                },
+                {
+                    "verse": "Si le virement tourne et n'est pas interdit,",
+                    "metre": "6+6",
+                    "rhyme": "91"
+                },
+                {
+                    "verse": "Nous ne demandons rien, nous irons jusqu'au bout.",
+                    "metre": "6+6",
+                    "rhyme": "94"
+                }
+            ],
+            [
+                {
+                    "verse": "Si donc il est admis qu'un humble d\u00e9biteur",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Puisse \u00e9lever la voix pour ce qui n'est pas d\u00fb,",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "S'il peut toucher un prix quand il n'a pas vendu,",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Et faire balancer par solde cr\u00e9diteur ;",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous qui n'avons connu que vos gr\u00e2ces de guerre",
+                    "metre": "6+6",
+                    "rhyme": "16"
+                },
+                {
+                    "verse": "Et vos gr\u00e2ces de deuil et vos gr\u00e2ces de peine,",
+                    "metre": "6+6",
+                    "rhyme": "53"
+                },
+                {
+                    "verse": "(Et vos gr\u00e2ces de joie, et cette lourde plaine),",
+                    "metre": "6+6",
+                    "rhyme": "53"
+                },
+                {
+                    "verse": "Et le cheminement des gr\u00e2ces de mis\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "17"
+                }
+            ],
+            [
+                {
+                    "verse": "Et la procession des gr\u00e2ces de d\u00e9tresse,",
+                    "metre": "6+6",
+                    "rhyme": "36"
+                },
+                {
+                    "verse": "Et les champs labour\u00e9s et les sentiers battus,",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Et les c\u0153urs lac\u00e9r\u00e9s et les reins courbatus,",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Nous ne demandons rien, vigilante ma\u00eetresse.",
+                    "metre": "6+6",
+                    "rhyme": "36"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous qui n'avons connu que votre adversit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "(Mais qu'elle soit b\u00e9nie, \u00f4 temple de sagesse),",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00d4 veuillez reporter, merveille de largesse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vos gr\u00e2ces de bonheur et de prosp\u00e9rit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Veuillez les reposer sur quatre jeunes t\u00eates,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vos gr\u00e2ces de douceur et de consentement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et tresser pour ces fronts, reine du pur froment,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelques \u00e9pis cueillis dans la moisson des f\u00eates.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tant d'amis d\u00e9tourn\u00e9s de ce c\u0153ur solitaire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'ont point lass\u00e9 l'amour ni la fid\u00e9lit\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tant de d\u00e9robement et de mobilit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'ont point d\u00e9courag\u00e9 ce c\u0153ur involontaire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tant de coups de fortune et de coups de mis\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'ont point sonn\u00e9 le jour de la fragilit\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tant de malendurance et de brutalit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'ont point la\u00efcis\u00e9 ce c\u0153ur sacramentaire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tant de fausse cr\u00e9ance et tant de faux myst\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'ont point lass\u00e9 la foi ni la docilit\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tant de renoncements n'ont point d\u00e9bilit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le sang du rouge c\u0153ur et le sang de l'art\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pourtant s'il faut ce jour dresser un inventaire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que la mort devait seule et conclure et sceller ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'il faut red\u00e9couvrir ce qu'il fallait celer ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et s'il faut devenir son propre secr\u00e9taire ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "S'il faut s'instituer et son propre notaire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et son propre greffier et son double t\u00e9moin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et mettre le paraphe apr\u00e8s le dernier point,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et frapper sur le sceau le chiffre signataire ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "S'il faut fermer la clause et lier le contrat,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et d\u00e9couper l'article avec le paragraphe,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et creuser dans la pierre et graver l'\u00e9pigraphe,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'il faut s'instituer recteur et magistrat ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "S'il faut articuler ce nouveau r\u00e9pertoire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans nulle exception et sans atermoiement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et sans transcription et sans transbordement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et sans transgression et sans \u00e9chappatoire ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "S'il faut sur ces d\u00e9bris dresser un nouveau code,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sur ces ch\u00e2timents dresser un nouveau roi,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et planter l'appareil d'une derni\u00e8re loi,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sans nul \u00e9v\u00e9nement et sans nul \u00e9pisode :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nul ne passera plus le seuil de ce d\u00e9sert",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui ne vous soit f\u00e9al et ne vous soit fid\u00e8le,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nul ne passera dans cette citadelle",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui n'ait donn\u00e9 le mot qu'on donne \u00e0 mot couvert.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nul ne visitera ce temple de m\u00e9moire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce temple de m\u00e9moire et ce temple d'oubli,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et cette gratitude et ce destin rempli,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ces regrets pli\u00e9s aux rayons de l'armoire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nul ne visitera ce c\u0153ur enseveli",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui ne se soit rang\u00e9 dessous votre conduite",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ne se soit perdu dans votre auguste suite",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme une voix se perd dans un ch\u0153ur accompli.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nulle n'entrera dans cette solitude",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui ne vous soit sujette et ne vous soit servante",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ne vous soit seconde et ne vous soit suivante,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nulle n'entrera dans cette servitude,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nul ne franchira le seuil de ce palais,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et la porte centrale et le parvis de marbre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la vasque et la source et le pourpris et l'arbre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui ne soit votre esclave et l'un de vos valets.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nul ne passera dans cette pl\u00e9nitude",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui ne soit votre fils et votre serviteur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme il est votre serf et votre d\u00e9biteur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nul ne passera dans cette qui\u00e9tude,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour l'amour le plus pur et le plus salutaire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le retranchement et le m\u00eame regret,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nul ne passera le seuil de ce secret",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour l'amour le plus dur et le plus statutaire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et l'amour le plus m\u00fbr et le plus plein de peine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le plus plein de deuil et le plus plein de larmes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le plus plein de guerre et le plus plein d'alarmes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le plus plein de mort au seuil de cette plaine.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et pour le plus gonfl\u00e9 du plus ancien sanglot,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et pour le plus vid\u00e9 de la vieille amertume,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et pour le plus lav\u00e9 de la plus basse \u00e9cume,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et pour le plus gorg\u00e9 du plus antique flot.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et pour le plus pareil \u00e0 cette lourde grappe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et pour le plus astreint aux treilles de ce mur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et pour le plus contraint comme pour le plus s\u00fbr,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et pour le plus pareil \u00e0 ce pli de la nappe.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nul ne passera dans cette certitude,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour l'amer souvenir et le regret plus doux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le morne avenir et l'\u00e9ternel remous",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des vagues de silence et de sollicitude.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nul ne franchira le seuil de cette tombe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour un culte \u00e9ternel encor que p\u00e9rissable,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le profond remous de ces vagues de sable",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 le pied du silence \u00e0 chaque pas retombe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Qui ne soit inclin\u00e9 vers vos sacr\u00e9s genoux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ne soit sous vos pieds comme un chemin de feuille,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ne consente et laisse et ne pr\u00e9tende et veuille,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l'\u00e9paisseur d'un monde \u00eatre aim\u00e9 moins que vous.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    }
+]

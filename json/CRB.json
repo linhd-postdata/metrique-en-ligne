@@ -1,0 +1,232 @@
+[
+    {
+        "code": "CRB_1/CRB1",
+        "author": "Tristan Corbi\u00e8re",
+        "work": "LES AMOURS JAUNES",
+        "date": "1873",
+        "title": "\u00c0 MARCELLE",
+        "profile": "7",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=CRB_1&code_text=CRB1_7",
+        "text": [
+            [
+                {
+                    "verse": "Un po\u00e8te ayant rim\u00e9,",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "IMPRIM\u00c9",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vit sa Muse d\u00e9pourvue",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De marraine, et presque nue :",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pas le plus petit morceau",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De vers \u2026 ou de vermisseau.",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il alla crier famine",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chez une blonde voisine,",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La priant de lui pr\u00eater",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son petit nom pour rimer.",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "(C'\u00e9tait une rime en elle)",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 Oh ! je vous pa\u00eerai, Marcelle,",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avant l'ao\u00fbt, foi d'animal !",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Int\u00e9r\u00eat et principal. \u2014",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La voisine est tr\u00e8s pr\u00eateuse,",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est son plus joli d\u00e9faut :",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "\u2014 Quoi : c'est tout ce qu'il vous faut ?",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Votre Muse est bien heureuse\u2026",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nuit et jour, \u00e0 tout venant,",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rimez mon nom\u2026 Qu'il vous plaise !",
+                    "metre": "7",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Voyons : chantez maintenant.",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CRB_1/CRB101",
+        "author": "Tristan Corbi\u00e8re",
+        "work": "LES AMOURS JAUNES",
+        "date": "1873",
+        "title": "\u00c0 MARCELLE",
+        "profile": "7",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=CRB_1&code_text=CRB101_7",
+        "text": [
+            [
+                {
+                    "verse": "Le po\u00e8te ayant chant\u00e9,",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vit sa Muse presque bue.",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rouler en bas de sa nue",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De carton, sur des lambeaux",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De papiers et d'oripeaux.",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il alla coller sa mine",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux carreaux de sa voisine,",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour lui peindre ses regrets",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'avoir fait \u2014 Oh : pas expr\u00e8s ! \u2014",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son honteux monstre de livre !\u2026",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 \u00ab Mais : vous \u00e9tiez donc bien ivre ?",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 Ivre de vous !\u2026 Est-ce mal ?",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 \u00c9crivain public banal !",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui pouvait si bien le dire\u2026",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, si bien ne pas l'\u00e9crire !",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 J'y pensais, en revenant\u2026",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On n'est pas parfait, Marcelle\u2026",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 Oh ! c'est tout comme, dit-elle,",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Si vous chantiez, maintenant !",
+                    "metre": "7",
+                    "rhyme": "c"
+                }
+            ]
+        ]
+    }
+]

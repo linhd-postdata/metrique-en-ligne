@@ -1,0 +1,2767 @@
+[
+    {
+        "code": "VIV_2/VIV39",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "INVOCATION",
+        "profile": "8, 6, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV39_7",
+        "text": [
+            [
+                {
+                    "verse": "Les yeux tourn\u00e9s sans fin vers les splendeurs \u00e9teintes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous \u00e9voquons l\u2019effroi, l\u2019angoisse et le tourment",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De tes baisers, plus doux que le miel d\u2019hyacinthes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Amante qui versas imp\u00e9rieusement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Devant l\u2019Aphrodit\u00e2 dont le furtif sourire",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "D\u00e9passe en cruaut\u00e9 les fl\u00e8ches de l\u2019\u00c9r\u00f4s,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Les si\u00e8cles attentifs se penchent pour entendre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les lambeaux de tes chants. Ton visage est pareil",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 des roses d\u2019hiver recouvertes de cendre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ton lit nuptial ignore le soleil.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ta chevelure ondoie au reflux des mar\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Comme l\u2019algue marine et les sombres coraux,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Que t\u2019importe l\u2019\u00e9loge \u00e9loquent des Po\u00e8tes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 Toi dont le front large est las d\u2019\u00e9ternit\u00e9s ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu\u2019importent le frisson des strophes inqui\u00e8tes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les \u00e9blouissements et les sonorit\u00e9s ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La musique des flots a rempli ton oreille,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ce remous de la mer qui murmure \u00e0 ses morts",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 parfum de Paph\u00f4s ! \u00f4 Po\u00e8te ! \u00f4 Pr\u00eatresse !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Apprends-nous le secret des divines douleurs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Apprends-nous les soupirs, l\u2019implacable caresse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 pleure le plaisir, fl\u00e9tri parmi les fleurs !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00d4 langueur de Lesb\u00f4s ! Charme de Mityl\u00e8ne !",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Apprends-nous le vers d\u2019or que ton r\u00e2le \u00e9touffa,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV40",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "LET THE DEAD BURY THEIR DEAD",
+        "profile": "6\u22126",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV40_7",
+        "text": [
+            [
+                {
+                    "verse": "Voici la nuit : je vais ensevelir mes morts,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les songes, les d\u00e9sirs, les douceurs, les remords,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout le pass\u00e9\u2026 Je vais ensevelir mes morts.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je cacherai, parmi les sombres violettes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ton visage d\u2019amie aux tendresses muettes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 toi qui dors parmi les sombres violettes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je pleurerai l\u2019\u00e9toile \u00e9teinte du regard\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans l\u2019effort de la vie et les heurts du hasard,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je pleurerai l\u2019\u00e9toile \u00e9teinte du regard\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je couvrirai d\u2019encens, de roses et de roses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La p\u00e2le chevelure et les paupi\u00e8res closes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019un amour dont l\u2019ardeur mourut parmi les roses.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je sentirai monter vers moi l\u2019odeur des morts,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Abolissant en moi les craintes, les remords,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et m\u2019apportant l\u2019esprit indiff\u00e9rent des morts.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je trouverai, sous les grappes de violettes,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les sanglots apais\u00e9s et les larmes muettes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous les fleurs de la mort, les sombres violettes\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u00e9j\u00e0, se rass\u00e9r\u00e8ne au fond de mon regard",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019\u00e9ternel cr\u00e9puscule au sourire blafard :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les couleurs cesseront d\u2019offenser mon regard.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019emporterai l\u00e0-bas le souvenir des roses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l\u2019on effeuillera sur mes paupi\u00e8res closes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les lilas et les lys, les roses et les roses.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV41",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "LES AMAZONES",
+        "profile": "6+6",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV41_7",
+        "text": [
+            [
+                {
+                    "verse": "On voit errer au loin les yeux d\u2019or des lionnes\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u2019Art\u00e9mis, \u00e0 qui pla\u00eet l\u2019orgueil des c\u00e9libats,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui sourit aux fronts purs sous les blanches couronnes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Contemple cependant sans col\u00e8re, l\u00e0-bas,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S\u2019accomplir dans la nuit l\u2019hymen des Amazones,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fier, et semblable au choc souverain des combats.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Leur regard de d\u00e9go\u00fbt enveloppe les m\u00e2les",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Engloutis par les flots nocturnes du sommeil.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u2019ombre est lourde d\u2019\u00e9chos, de ti\u00e9deurs et de r\u00e2les\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elles semblent attendre un frisson de r\u00e9veil.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La clart\u00e9 se rapproche, et leurs prunelles p\u00e2les",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Victorieusement refl\u00e8tent le soleil.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Elles gardent une \u00e2me \u00e9clatante et sonore",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 le r\u00eave s\u2019\u00e9mousse, o\u00f9 l\u2019amour s\u2019abolit,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et ressentent, dans l\u2019air affranchi de l\u2019aurore,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le m\u00e9pris du baiser et le d\u00e9dain du lit.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Leur chastet\u00e9 sanglante et sans faiblesse abhorre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les \u00e9poux de hasard que le rut avilit.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Nous ne souffrirons pas que nos baisers sublimes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et l\u2019\u00e9blouissement de nos bras glorieux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Soient oubli\u00e9s demain dans les l\u00e2ches ab\u00eemes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 tombent les vaincus et les luxurieux.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nous vous immolerons ainsi que les victimes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des autels d\u2019Art\u00e9mis au geste imp\u00e9rieux.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Parmi les rayons morts et les cendres \u00e9teintes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vos l\u00e8vres et vos yeux ne profaneront pas",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u2019immortel souvenir d\u2019h\u00e9ro\u00efques \u00e9treintes.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Loin des couches sans \u00e2me et de l\u2019impur repas,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vous garderez au c\u0153ur nos caresses empreintes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et nos soupirs m\u00eal\u00e9s aux soupirs du tr\u00e9pas ! \u00bb",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV42",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "SOMMEIL",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV42_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00d4 Sommeil, \u00f4 Mort ti\u00e8de, \u00f4 musique muette !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ton visage s\u2019incline, \u00e9ternellement las,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le songe fleurit \u00e0 l\u2019ombre de tes pas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ainsi qu\u2019une nocturne et sombre violette.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les parfums affaiblis et les astres d\u00e9crus",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Revivent dans tes mains aux p\u00e2les transparences,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9vocateur d\u2019espoirs et vainqueur de souffrances",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui nous rends la beaut\u00e9 des \u00eatres disparus.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV43",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "L\u2019AUTOMNE",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV43_7",
+        "text": [
+            [
+                {
+                    "verse": "L\u2019automne s\u2019exasp\u00e8re ainsi qu\u2019une Bacchante,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Folle du sang des fruits et du sang des baisers",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et dont on voit fr\u00e9mir les seins inapais\u00e9s\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019Automne s\u2019assombrit ainsi qu\u2019une Bacchante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au sortir des festins empourpr\u00e9s. Elle chante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La moite lassitude et l\u2019oubli des baisers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Les yeux \u00e0 demi-morts, l\u2019Automne se r\u00e9veille",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans le d\u00e9faillement des clart\u00e9s et des fleurs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le soir appauvrit le faste des couleurs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les yeux \u00e0 demi-morts, l\u2019Automne se r\u00e9veille :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ses membres sont meurtris et son \u00e2me est pareille",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux coupes sans ivresse o\u00f9 s\u2019effeuillent les fleurs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ayant bu l\u2019amertume et la haine de vivre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans le flot triomphal des vignes de l\u2019\u00e9t\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle a connu le go\u00fbt de la sati\u00e9t\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019\u00e9ternelle amertume et la haine de vivre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Corrompent le festin o\u00f9 le monde s\u2019enivre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9tendu sur le lit de roses de l\u2019\u00e9t\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L\u2019Automne, ouvrant ses mains d\u2019appel et de faiblesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se meurt du souvenir accablant de l\u2019amour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et n\u2019ose en esp\u00e9rer l\u2019impossible retour.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sa chair de volupt\u00e9, de langueur, de faiblesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Implore le venin de la bouche qui blesse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qui sait recueillir les sanglots de l\u2019amour.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le c\u0153ur \u00e0 demi-mort, l\u2019Automne se r\u00e9veille",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et contemple l\u2019amour \u00e0 travers le pass\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le feu vacille au fond de son regard lass\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le c\u0153ur \u00e0 demi-mort, l\u2019Automne se r\u00e9veille :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La vigne se dess\u00e8che et p\u00e9rit sur la treille\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans le lointain p\u00e2lit la rive du pass\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV44",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "SONNET",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV44_7",
+        "text": [
+            [
+                {
+                    "verse": "Les algues entr\u2019ouvraient leurs \u00e2pres cassolettes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019o\u00f9 montait une odeur de phosphore et de sel,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, jetant leurs reflets empourpr\u00e9s vers le ciel,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Semblaient, au fond des eaux, des lits de violettes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "La blancheur d\u2019un essor palpitant de mouettes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00ealait au frais nuage un frisson fraternel ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les vagues prolongeaient leur r\u00eave et leur appel",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vers la ti\u00e9deur de l\u2019air aux caresses muettes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les flots tr\u00e8s purs brillaient d\u2019un reflet de miroir\u2026",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "La Sir\u00e8ne aux cheveux rouges comme le soir",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Chantait la volupt\u00e9 d\u2019une mort amoureuse.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Dans la nuit, sanglotait et s\u2019agitait encor",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Un soupir de la vie inqui\u00e8te et fi\u00e9vreuse\u2026",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Les \u00e9toiles pleuraient de longues larmes d\u2019or.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV45",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "CHANSON",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV45_7",
+        "text": [
+            [
+                {
+                    "verse": "Il se fait tard\u2026 tu vas dormir,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les paupi\u00e8res d\u00e9j\u00e0 mi-closes.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au fond de l\u2019ombre, on sent fr\u00e9mir",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019agonie ardente des roses.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sur ton front lourd d\u2019accablement",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tes cheveux font de l\u00e9gers voiles.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans le ciel, br\u00fble infiniment",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La flamme blanche des \u00e9toiles.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la D\u00e9esse du Sommeil,",
+                    "metre": "8",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "De ses mains lentes, fait \u00e9clore",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des fleurs qui craignent le soleil",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qui meurent avant l\u2019aurore.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV46",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "PROPH\u00c9TIE",
+        "profile": "5+5, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV46_7",
+        "text": [
+            [
+                {
+                    "verse": "Tes cheveux aux blonds verts s\u2019impr\u00e8gnent d\u2019\u00e9meraude",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, proph\u00e9tiquement, je pleure ta beaut\u00e9 !",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Puisque telle est la loi lamentable et stupide,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019amour d\u00e9senchant\u00e9 ne te conna\u00eetra plus !",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ton sein ne battra plus comme l\u2019essor de l\u2019aile",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S\u2019\u00e9teindra dans tes yeux plus froids que les tombeaux.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV47",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "D\u00c9SIR",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV47_7",
+        "text": [
+            [
+                {
+                    "verse": "Elle est lasse, apr\u00e8s tant d\u2019\u00e9puisantes luxures.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le parfum \u00e9man\u00e9 de ses membres meurtris",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est plein du souvenir des lentes meurtrissures.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La d\u00e9bauche a creus\u00e9 ses yeux bleus assombris.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et la fi\u00e8vre des nuits avidement r\u00eav\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rend plus p\u00e2les encor ses p\u00e2les cheveux blonds.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ses attitudes ont des langueurs \u00e9nerv\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais voici que l\u2019Amante aux cruels ongles longs",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Soudain la ressaisit, et l\u2019\u00e9treint, et l\u2019embrasse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019une ardeur si sauvage et si douce \u00e0 la fois,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que le beau corps bris\u00e9 s\u2019offre, en demandant gr\u00e2ce,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans un r\u00e2le d\u2019amour, de d\u00e9sirs et d\u2019effrois.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et le sanglot qui monte avec monotonie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S\u2019exasp\u00e9rant enfin de trop de volupt\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Hurle comme l\u2019on hurle aux moments d\u2019agonie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans espoir d\u2019attendrir l\u2019immense surdit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Puis, l\u2019atroce silence, et l\u2019horreur qu\u2019il apporte,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le brusque \u00e9touffement de la plaintive voix,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et sur le cou, pareil \u00e0 quelque tige morte,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bl\u00eamit la marque verte et sinistre des doigts.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV48",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "CHANSON",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV48_7",
+        "text": [
+            [
+                {
+                    "verse": "La mer murmure une musique",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux g\u00e9missements continus ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les sables font, sous les pieds nus,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des tapis de velours magique.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et les algues, s\u0153urs des coraux,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Semblent, \u00e0 demi d\u00e9couvertes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019\u00e9tranges chevelures vertes",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De sir\u00e8nes au fond des eaux.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le vent rude des mers rugueuses",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne souffle point la gu\u00e9rison\u2026",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ah ! le parfum, ah ! le poison",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De tes l\u00e8vres, fleurs v\u00e9n\u00e9neuses !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu viens troubler les fiers desseins",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par des effluves de caresses",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019enchev\u00eatrement des tresses",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur les frissons ail\u00e9s des seins.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ta beaut\u00e9 veut l\u2019attrait factice",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des attitudes et du fard :",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tes yeux rec\u00e8lent le regard",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l\u2019\u00e9ternelle Tentatrice.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV49",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "LA PLEUREUSE",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV49_7",
+        "text": [
+            [
+                {
+                    "verse": "Elle vend aux passants ses larmes mercenaires,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme d\u2019autres l\u2019encens et l\u2019odeur des baisers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019amour ne br\u00fble plus dans ses yeux apais\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et sa robe a le pli rigide des suaires.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Son deuil impartial, \u00e0 l\u2019heure des sommeils,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "G\u00e9mit sur les Anciens aux paupi\u00e8res bl\u00eamies",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et sur le blanc repos des vierges endormies,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec la m\u00eame angoisse et des gestes pareils.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le vent des nuits d\u2019hiver se lamente comme elle,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pleurant sur les pervers et les purs tour \u00e0 tour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car elle les confond dans un unique amour",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et verse \u00e0 leur n\u00e9ant la douleur fraternelle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les jours n\u2019apportent plus, dans leurs reflets mouvants,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu\u2019un instant de parfum, de beaut\u00e9, d\u2019all\u00e9gresse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 son \u00e2me qu\u2019un r\u00e2le inexorable oppresse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lasse de la souffrance ardente des vivants.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vers le soir, quand d\u00e9cro\u00eet l\u2019odeur des ancolies",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et quand la luciole illumine les pr\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle s\u2019\u00e9tend parmi les morts qu\u2019elle a pleur\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Parmi les rois sanglants et les vierges p\u00e2lies.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sous les pieux cypr\u00e8s, tels des flambeaux \u00e9teints,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle vient partager leur couche d\u00e9sirable.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019ombre sans regrets des s\u00e9pulcres l\u2019accable",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De sanglots oubli\u00e9s et de d\u00e9sirs atteints.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle y vient prolonger son r\u00eave solitaire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ivre de v\u00e9nust\u00e9s et de vagues chaleurs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle sent, le visage enfi\u00e9vr\u00e9 par les fleurs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019anciennes volupt\u00e9s sommeiller dans la terre.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV50",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "FLEURS DE S\u00c9L\u00c9N\u00c9",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV50_7",
+        "text": [
+            [
+                {
+                    "verse": "Elles ont des cheveux p\u00e2les comme la lune,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et leurs yeux sans amour s\u2019ouvrent p\u00e2les et bleus,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Leurs yeux que la couleur de l\u2019aurore importune.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elles ont des regards p\u00e2les comme la lune,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui semblent refl\u00e9ter les astres n\u00e9buleux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Leurs paupi\u00e8res d\u2019argent, qu\u2019un baiser importune,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rec\u00e8lent des rayons langoureusement bleus.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Elles viennent charmer leur \u00e2me solitaire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans le recueillement des sombres chastet\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l\u2019haleine des cieux, des souffles de la terre.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nul parfum n\u2019a troubl\u00e9 leur \u00e2me solitaire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019ivoire des hivers, la pourpre des \u00e9t\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne les effleurent point des reflets de la terre :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elles gardent l\u2019amour des sombres chastet\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Leur robe a la lourdeur du linceul qu\u2019on d\u00e9ploie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Blanche sous le regard nocturne des hiboux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et leur sourire \u00e9teint la caresse et la joie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur robe a la lourdeur du linceul qu\u2019on d\u00e9ploie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elles penchent leur front et leurs gestes tr\u00e8s doux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur les agonisants du songe et de la joie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui r\u00e2lent sous les yeux nocturnes des hiboux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Elles aiment la mort et la blancheur des larmes\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ces vierges d\u2019azur sont les fleurs de S\u00e9l\u00e9n\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Poss\u00e9dant le secret des philtres et des charmes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elles aiment la mort et la lenteur des larmes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et la fleur v\u00e9n\u00e9neuse au calice fan\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elles viennent cueillir les philtres et les charmes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et leurs yeux p\u00e2les sont les fleurs de S\u00e9l\u00e9n\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV51",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "RESSEMBLANCE INQUI\u00c9TANTE",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV51_7",
+        "text": [
+            [
+                {
+                    "verse": "J\u2019ai vu dans ton front bas le charme du serpent.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tes l\u00e8vres ont hum\u00e9 le sang d\u2019une blessure,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et quelque chose en moi s\u2019\u00e9coeure et se repent,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lorsque ton froid baiser me darde sa morsure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Un regard de vip\u00e8re est dans tes yeux mi-clos,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ta t\u00eate furtive et plate se redresse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Plus mena\u00e7ante apr\u00e8s la langueur du repos.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J\u2019ai senti le venin au fond de ta caresse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pendant les jours d\u2019hiver \u00e9nerv\u00e9s et frileux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu r\u00eaves aux ti\u00e9deurs des profondes vall\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019on songe, en voyant ton long corps onduleux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 des \u00e9cailles d\u2019or lentement d\u00e9roul\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je te hais, mais ta souple et splendide beaut\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Me prend et me fascine et m\u2019attire sans cesse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et mon c\u0153ur, plein d\u2019effroi devant ta cruaut\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Te m\u00e9prise et t\u2019adore, \u00f4 Reptile et D\u00e9esse !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV52",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "VELL\u00c9IT\u00c9",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV52_7",
+        "text": [
+            [
+                {
+                    "verse": "D\u00e9noue enfin tes bras fi\u00e9vreux, \u00f4 ma Ma\u00eetresse !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9livre-moi du joug de ton baiser amer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, loin de ton parfum dont l\u2019opulence oppresse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Laisse-moi respirer les souffles de la mer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Loin des langueurs du lit, de l\u2019ombre de l\u2019alc\u00f4ve,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J\u2019aspirerai le sel du vent et l\u2019\u00e2cret\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des algues, et j\u2019irai vers la profondeur fauve,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "P\u00e2le de solitude, ivre de chastet\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV53",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "LE SANG DES FLEURS",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV53_7",
+        "text": [
+            [
+                {
+                    "verse": "Le soir s\u2019attriste encor de ses clart\u00e9s \u00e9teintes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des r\u00eaves ont troubl\u00e9 l\u2019air p\u00e2le et languissant,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et chantant leurs amours, les p\u00e2tres, en passant,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9crasent lourdement les fr\u00eales hyacinthes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "L\u2019herbe est pourpre et semblable \u00e0 des champs de combats",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous le rouge d\u2019un ciel aux tons de cornaline,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le sang de la fleur assombrit la colline.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le soleil pitoyable agonise l\u00e0-bas.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sans aspirer la paix des divines campagnes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je songe avec ferveur, et mon c\u0153ur inquiet",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Porte le l\u00e9ger deuil et le l\u00e9ger regret",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De la muette mort des fleurs sur les montagnes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV54",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "TON \u00c2ME",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV54_7",
+        "text": [
+            [
+                {
+                    "verse": "Ton \u00c2me, c\u2019est la chose exquise et parfum\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui s\u2019ouvre avec lenteur, en silence, en tremblant,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qui, pleine d\u2019amour, s\u2019\u00e9tonne d\u2019\u00eatre aim\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ton \u00c2me, c\u2019est le lys, le lys divin et blanc.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme un souffle des bois o\u00f9 sont les violettes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ton souffle vient baiser le front du d\u00e9sespoir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019on apprend de toi les bravoures muettes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ton \u00c2me est le po\u00e8me, et le chant, et le soir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ton \u00c2me est la fra\u00eecheur, ton \u00c2me est la ros\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sa tr\u00e8s douce piti\u00e9 console du destin",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ranime d\u2019un mot l\u2019esp\u00e9rance bris\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ton \u00c2me est le sourire au regard du matin.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV55",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "RYTHME SAPHIQUE",
+        "profile": "5+6, 5",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV55_7",
+        "text": [
+            [
+                {
+                    "verse": "L\u2019ombre se drapait en des voiles de veuves,",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La mer aspirait le sang ti\u00e8de des fleuves,",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019Aphrodit\u00e2 blonde au regard d\u00e9cevant",
+                    "metre": "5+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019entendis g\u00e9mir, au profond de l\u2019espace,",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Celle qui versa la strophe ardente et lasse,",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et dont le laurier fleurit et triompha :",
+                    "metre": "5+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Le rossignol r\u00e2le et fr\u00e9mit par saccades,",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l\u2019ombre engloutit la lune et les Pl\u00e9iades :",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019heure sans espoir et sans extase fuit",
+                    "metre": "5+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00ab Parmi les parfums glorieux de la terre,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je r\u00eave d\u2019amour et je dors solitaire,",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vierge au corps p\u00e9tri dans l\u2019ivoire et dans l\u2019or,",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV56",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "LOCUSTA",
+        "profile": "6+6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV56_7",
+        "text": [
+            [
+                {
+                    "verse": "Nul n\u2019a m\u00eal\u00e9 ses pleurs au souffle de ma bouche,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nul sanglot n\u2019a troubl\u00e9 l\u2019ivresse de ma couche,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J\u2019\u00e9pargne \u00e0 mes amants les ranc\u0153urs de l\u2019amour.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019\u00e9carte de leur front la br\u00fblure du jour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J\u2019\u00e9loigne le matin de leurs paupi\u00e8res closes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils ne contemplent pas la ruine des roses.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Seule, je sais donner des nuits sans lendemains.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019allume dans leurs yeux d\u2019inexprimables fi\u00e8vres,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et, fastueusement, je leur offre mes l\u00e8vres,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Mes flancs, et la lenteur savante de mes mains.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je verse les soupirs, l\u2019accablante caresse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et les mots de langueur murmur\u00e9s dans la nuit.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J\u2019estompe les rayons, les senteurs et le bruit.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je suis la pitoyable et la tendre Ma\u00eetresse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Car je sais les secrets des merveilleux poisons,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Insinuants et doux comme les trahisons",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et plus voluptueux que l\u2019\u00e9loquent mensonge.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Lorsque au fond de la nuit un r\u00e2le se prolonge",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et se m\u00eale \u00e0 la fuite heureuse d\u2019un accord,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J\u2019effeuille une couronne et souris \u00e0 la Mort.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je l\u2019ai dompt\u00e9e ainsi qu\u2019une amoureuse esclave.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle me suit, passive, imp\u00e9n\u00e9trable et grave,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et je sais la m\u00ealer aux effluves des fleurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et la verser dans l\u2019or des coupes des Bacchantes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019\u00e9teins le souvenir importun du soleil",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Dans les yeux alourdis qui craignent le r\u00e9veil",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Sous le regard perfide et cruel des amantes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019apporte le sommeil dans le creux de mes mains",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Seule, je sais donner des nuits sans lendemains.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV57",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "\u00c0 UNE FEMME",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV57_7",
+        "text": [
+            [
+                {
+                    "verse": "Tendre \u00e0 qui te lapide et mortelle \u00e0 qui t\u2019aime,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Faisant de l\u2019attitude un frisson de po\u00e8me,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 Femme dont la gr\u00e2ce enfantine et supr\u00eame",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Triomphe dans la fange et les pleurs et le sang,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu n\u2019aimes que la main qui meurtrit ta faiblesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La parole qui trompe et le baiser qui blesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019antique pr\u00e9jug\u00e9 qui meurt avec noblesse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le d\u00e9sir d\u2019un jour qui sourit en passant.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "F\u00e9rocit\u00e9 passive, \u00e2me l\u00e9g\u00e8re et douce,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour t\u2019attirer, il faut que le geste repousse :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ta chair inerte appelle, en r\u00e2lant, la secousse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l\u2019effort sans beaut\u00e9 du m\u00e2le triomphant.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Esclave du hasard, des choses et de l\u2019heure,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00catre ondoyant, en qui rien de vrai ne demeure,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu n\u2019accueilles jamais la passion qui pleure",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ni l\u2019amour qui languit sous ton regard d\u2019enfant.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Le baume du banal et le fard du factice,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019absurdit\u00e9 des lois, la vanit\u00e9 du vice",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l\u2019amant dont l\u2019orgueil contente ton caprice,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Suffisent \u00e0 ton c\u0153ur sans r\u00eave et sans espoir.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Jamais tu ne t\u2019\u00e9prends de la gr\u00e2ce d\u2019un songe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019un reflet dont le charme expirant se prolonge,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019un \u00e9cho dans lequel le souvenir se plonge,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jamais tu ne p\u00e2lis \u00e0 l\u2019approche du soir.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV58",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "SONNET F\u00c9MININ",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV58_7",
+        "text": [
+            [
+                {
+                    "verse": "Ta voix a la langueur des lyres lesbiennes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019anxi\u00e9t\u00e9 des chants et des odes saphiques,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et tu sais le secret d\u2019accablantes musiques",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 pleure le soupir d\u2019unions anciennes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les A\u00e8des fervents et les Musiciennes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "T\u2019enseign\u00e8rent l\u2019ampleur des strophes \u00e9rotiques",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui versent dans la nuit leurs ardentes suppliques,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ton \u00e2me a recueilli les nudit\u00e9s pa\u00efennes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu sembles \u00e9couter l\u2019\u00e9cho des harmonies ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Bleus de ce bleu divin des clart\u00e9s infinies,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Tes yeux ont le reflet du ciel de Mityl\u00e8ne.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Les fleurs ont parfum\u00e9 tes \u00e9tranges mains creuses ;",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "De ton corps monte, ainsi qu\u2019une l\u00e9g\u00e8re haleine,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "La blanche volupt\u00e9 des vierges amoureuses.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV59",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "DEVANT LA MORT",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV59_7",
+        "text": [
+            [
+                {
+                    "verse": "Ils me disent, tandis que je sanglote encore :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00ab Dans l\u2019ombre du s\u00e9pulcre o\u00f9 sa gr\u00e2ce p\u00e2lit,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle aspire la paix passag\u00e8re du lit.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les t\u00e9n\u00e8bres au front, et dans les yeux l\u2019aurore.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Elle aura la splendeur de l\u2019Esprit d\u00e9livr\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "R\u00eave, haleine, musique, essor, parfum, lumi\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le cercueil ne la peut contenir tout enti\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ni le sol, de chair morte et de pleurs enivr\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Le cierge aux larmes d\u2019or, le r\u00e2le du cantique,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les lys fan\u00e9s, ne sont qu\u2019un symbole menteur :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans une aube d\u2019avril qui vient avec lenteur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle refleurira, violette mystique. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Et j\u2019\u00e9coute parmi les temples de la mort.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je sens monter vers moi la chaleur de la terre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dont l\u2019accablante odeur rec\u00e8le le myst\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du sanglot qui se tait et du rayon qui dort.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019\u00e9coute, mais le vent des espaces emporte",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019audacieux espoir des infinis sereins\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle ne sera plus dans l\u2019heure que j\u2019\u00e9treins,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019heure unique et certaine, et moi, je la crois morte.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "La nuit, dont la langueur ne craint plus le soleil,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019enveloppant du bleu f\u00e9erique de ses voiles,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9teint jusqu\u2019aux lueurs lointaines des \u00e9toiles,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le vin des pavots lui verse le sommeil.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 Morte que j\u2019aimais, \u00f4 P\u00e2leur \u00e9tendue",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans l\u2019immobilit\u00e9 des n\u00e9ants noirs et froids,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je n\u2019ose t\u2019apporter que les fleurs d\u2019autrefois",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et mes sanglots pa\u00efens sur ta beaut\u00e9 perdue.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV60",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "LES ARBRES",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV60_7",
+        "text": [
+            [
+                {
+                    "verse": "Dans l\u2019azur de l\u2019avril et dans l\u2019air de l\u2019automne,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les arbres ont un charme inquiet et mouvant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le peuplier se ploie et se tord sous le vent,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pareil aux corps de femme o\u00f9 le d\u00e9sir frissonne.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sa gr\u00e2ce a des langueurs de chair qui s\u2019abandonne ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son feuillage murmure et fr\u00e9mit en r\u00eavant,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et s\u2019incline, amoureux des roses du Levant\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le tremble porte au front une p\u00e2le couronne.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "V\u00eatu de clair de lune et de reflets d\u2019argent,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Le bouleau virginal \u00e0 l\u2019ivoire changeant",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Projette avec pudeur ses blancheurs incertaines.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Les tilleuls ont l\u2019odeur des \u00e2pres cheveux bruns,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Et des acacias aux verdures lointaines",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Tombe divinement la neige des parfums.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV61",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "VERS D\u2019AMOUR",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV61_7",
+        "text": [
+            [
+                {
+                    "verse": "Tu gardes dans tes yeux la volupt\u00e9 des nuits,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 Joie inesp\u00e9r\u00e9e au fond des solitudes !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ton baiser est pareil \u00e0 la saveur des fruits",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ta voix fait songer aux merveilleux pr\u00e9ludes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Murmur\u00e9s par la mer \u00e0 la beaut\u00e9 des nuits.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu portes sur ton front la langueur et l\u2019ivresse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les serments \u00e9ternels et les aveux d\u2019amour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu sembles \u00e9voquer la craintive caresse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont l\u2019ardeur se d\u00e9robe \u00e0 la clart\u00e9 du jour",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qui te laisse au front la langueur et l\u2019ivresse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV62",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "LASSITUDE",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV62_7",
+        "text": [
+            [
+                {
+                    "verse": "Je dormirai ce soir d\u2019un large et doux sommeil\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fermez bien les rideaux, tenez les portes closes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Surtout, ne laissez pas p\u00e9n\u00e9trer le soleil.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mettez autour de moi le soir tremp\u00e9 de roses.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Posez, sur la blancheur d\u2019un oreiller profond,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De ces fleurs sans \u00e9clat et dont l\u2019odeur obs\u00e8de.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Posez-les dans mes mains, sur mon c\u0153ur, sur mon front,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les fleurs p\u00e2les au souffle amoureusement ti\u00e8de.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et je dirai tr\u00e8s bas : \u00ab Rien de moi n\u2019est rest\u00e9\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mon \u00e2me enfin repose\u2026 ayez donc piti\u00e9 d\u2019elle\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu\u2019elle puisse dormir toute une \u00e9ternit\u00e9. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je dormirai, ce soir, de la mort la plus belle.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Que s\u2019effeuillent les fleurs, tub\u00e9reuses et lys,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que meure et s\u2019\u00e9teigne, au seuil des portes closes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019\u00e9cho triste et lointain des sanglots de jadis.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ah ! le soir infini ! le soir tremp\u00e9 de roses !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIV_2/VIV63",
+        "author": "Ren\u00e9e Vivien",
+        "work": "Cendres et Poussi\u00e8res",
+        "date": "1902",
+        "title": "\u00c9PITAPHE",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIV_2&code_text=VIV63_7",
+        "text": [
+            [
+                {
+                    "verse": "Doucement tu passas du sommeil \u00e0 la mort,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la nuit \u00e0 la tombe et du r\u00eave au silence,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme s\u2019\u00e9vanouit le sanglot d\u2019un accord",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans l\u2019air d\u2019un soir d\u2019\u00e9t\u00e9 qui meurt de somnolence.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au fond du Cr\u00e9puscule o\u00f9 sombrent les couleurs,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "O\u00f9 le monde p\u00e2li s\u2019estompe au fond du r\u00eave,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Tu sembles \u00e9couter le reflux de la s\u00e8ve",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Murmurer, musical, dans les veines des fleurs.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Le velours de la terre aux caresses muettes",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "T\u2019enserre, et sur ton front pleurent les violettes.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    }
+]

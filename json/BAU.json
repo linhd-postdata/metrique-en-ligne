@@ -1,0 +1,234 @@
+[
+    {
+        "code": "BAU_1/BAU1",
+        "author": "Charles Baudelaire",
+        "work": "LES FLEURS DU MAL",
+        "date": "1857-1861",
+        "title": "Au Lecteur",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BAU_1&code_text=BAU1_7",
+        "text": [
+            [
+                {
+                    "verse": "La sottise, l\u2019erreur, le p\u00e9ch\u00e9, la l\u00e9sine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Occupent nos esprits et travaillent nos corps,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nous alimentons nos aimables remords,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme les mendiants nourrissent leur vermine.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nos p\u00e9ch\u00e9s sont t\u00eatus, nos repentirs sont l\u00e2ches ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous nous faisons payer grassement nos aveux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et nous rentrons ga\u00eement dans le chemin bourbeux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Croyant par de vils pleurs laver toutes nos taches.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sur l\u2019oreiller du mal c\u2019est Satan Trism\u00e9giste",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui berce longuement notre esprit enchant\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le riche m\u00e9tal de notre volont\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est tout vaporis\u00e9 par ce savant chimiste.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est le Diable qui tient les fils qui nous remuent !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux objets r\u00e9pugnants nous trouvons des appas ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chaque jour vers l\u2019Enfer nous descendons d\u2019un pas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sans horreur, \u00e0 travers des t\u00e9n\u00e8bres qui puent.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ainsi qu\u2019un d\u00e9bauch\u00e9 pauvre qui baise et mange",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le sein martyris\u00e9 d\u2019une antique catin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous volons au passage un plaisir clandestin",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que nous pressons bien fort comme une vieille orange.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Serr\u00e9, fourmillant, comme un million d\u2019helminthes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans nos cerveaux ribote un peuple de D\u00e9mons,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, quand nous respirons, la Mort dans nos poumons",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Descend, fleuve invisible, avec de sourdes plaintes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Si le viol, le poison, le poignard, l\u2019incendie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N\u2019ont pas encor brod\u00e9 de leurs plaisants dessins",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le canevas banal de nos piteux destins,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est que notre \u00e2me, h\u00e9las ! n\u2019est pas assez hardie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais parmi les chacals, les panth\u00e8res, les lices,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les singes, les scorpions, les vautours, les serpents,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les monstres glapissants, hurlants, grognants, rampants,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans la m\u00e9nagerie inf\u00e2me de nos vices,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Il en est un plus laid, plus m\u00e9chant, plus immonde !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quoiqu\u2019il ne pousse ni grands gestes ni grands cris,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il ferait volontiers de la terre un d\u00e9bris",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et dans un b\u00e2illement avalerait le monde ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est l\u2019Ennui ! \u2014 L\u2019\u0153il charg\u00e9 d\u2019un pleur involontaire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il r\u00eave d\u2019\u00e9chafauds en fumant son houka.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu le connais, lecteur, ce monstre d\u00e9licat,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 Hypocrite lecteur, \u2014 mon semblable, \u2014 mon fr\u00e8re !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    }
+]

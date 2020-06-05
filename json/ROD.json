@@ -1,0 +1,102 @@
+[
+    {
+        "code": "ROD_1/ROD106",
+        "author": "Georges Rodenbach",
+        "work": "Le R\u00e8gne Du Silence",
+        "date": "1891",
+        "title": "\u00c9PILOGUE",
+        "profile": "6\u22126",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=ROD_1&code_text=ROD106_7",
+        "text": [
+            [
+                {
+                    "verse": "C'est l'automne, la pluie et la mort de l'ann\u00e9e !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La mort de la jeunesse et du seul noble effort",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Auquel nous songerons \u00e0 l'heure de la mort :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'effort de se survivre en l'\u0153uvre termin\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais c'est la fin de cet espoir, du grand espoir,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et c'est la fin d'un r\u00eave aussi vain que les autres :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le nom du dieu s'efface aux l\u00e8vres des ap\u00f4tres",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le plus vigilant trahit avant le soir.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Guirlandes de la gloire, ah ! Vaines, toujours vaines !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais c'est triste pourtant quand on avait r\u00eav\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De ne pas trop p\u00e9rir et d'\u00eatre un peu sauv\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de laisser de soi dans les barques humaines.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Las ! Le rose de moi je le sens d\u00e9fleurir,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je le sens qui se fane et je sens qu'on le cueille !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mon sang ne coule pas ; on dirait qu'il s'effeuille\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et puisque la nuit vient, \u2014 j'ai sommeil de mourir !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    }
+]

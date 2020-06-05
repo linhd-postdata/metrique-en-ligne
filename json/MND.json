@@ -1,0 +1,1625 @@
+[
+    {
+        "code": "MND_2/MND16",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Nirvana",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND16_7",
+        "text": [
+            [
+                {
+                    "verse": "L'universel d\u00e9sir guette comme une proie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le troupeau des vivants ; tous viennent tour \u00e0 tour",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 sa flamme br\u00fbler leurs ailes, comme, autour",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'une lampe, l'essaim des phal\u00e8nes tournoie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Heureux qui sans regret, sans espoir, sans amour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tranquille et connaissant le fond de toute joie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Marche en paix dans la droite et v\u00e9ritable voie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9daigneux de la vie et des plaisirs d'un jour !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "N\u00e9ant divin, je suis plein du d\u00e9go\u00fbt des choses ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Las de l'illusion et des m\u00e9tempsycoses,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "J'implore ton sommeil sans r\u00eave ; absorbe-moi,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Lieu des trois mondes, source et fin des existences,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Seul vrai, seul immobile au sein des apparences ;",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Tout est dans toi, tout sort de toi, tout rentre en toi !",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND17",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Initiation",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND17_7",
+        "text": [
+            [
+                {
+                    "verse": "Du haut du ciel profond, vers le monde agit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'abaissent les regards des \u00e2mes \u00e9ternelles :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elles sentent monter de la terre vers elles",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'ivresse de la vie et de la volupt\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les effluves d'en bas leur dess\u00e8chent les ailes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, tombant de l'\u00e9ther et du cercle lact\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elles boivent, avec l'oubli du ciel quitt\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le poison du d\u00e9sir dans les coupes mortelles.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pourtant, dans leur exil, un reflet du ciel bleu",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Les remplit du d\u00e9go\u00fbt des choses passag\u00e8res ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Mais c'est par la douleur qu'on franchit les sept sph\u00e8res ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "L'initiation, qui fait de l'homme un dieu,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "La mort en tient les clefs ; le sacrifice \u00e9pure,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Et le sang r\u00e9dempteur lave toute souillure.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND18",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Icare",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND18_7",
+        "text": [
+            [
+                {
+                    "verse": "J'ai souvent r\u00e9p\u00e9t\u00e9 les paroles des sages,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que tout bonheur humain se paye et qu'il vaut mieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Libre et fort, dans la paix immobile des dieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voir la vie \u00e0 ses pieds, du bord calme des plages.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais maintenant, l'ab\u00eeme a fascin\u00e9 mes yeux ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je voudrais, comme Icare, au-dessus des nuages,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vers la zone de flamme o\u00f9 germent les orages",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M'\u00e9lancer, et mourir quand j'aurai vu les cieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je sais, je sais d\u00e9j\u00e0 tout ce que vous me dites,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Mais la vision sainte est l\u00e0 ; je veux saisir",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Mon r\u00eave et, sous le ciel embras\u00e9 du d\u00e9sir,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Braver la soif ardente et les fi\u00e8vres maudites",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et les remords sans fin, pour ce bonheur d'un jour,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Le divin, l'infini, l'insatiable amour.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND19",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Th\u00e9ba\u00efde",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND19_7",
+        "text": [
+            [
+                {
+                    "verse": "Quand notre dernier r\u00eave est \u00e0 jamais parti,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il est une heure dure \u00e0 traverser ; c'est l'heure",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 ceux pour qui la vie est mauvaise ont senti",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'il faut bien qu'\u00e0 son tour chaque illusion meure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils se disent alors que la part la meilleure",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est celle de l'asc\u00e8te au c\u0153ur an\u00e9anti,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils cherchent au d\u00e9sert la paix int\u00e9rieure,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais cette fois encor l'esp\u00e9rance a menti.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J'ai voulu vivre ainsi sans amour et sans haine,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et j'ai ferm\u00e9 mon \u00e2me au d\u00e9sir, qui n'am\u00e8ne",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Que le regret, souvent le remords, apr\u00e8s lui.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais je ne trouve, au lieu de la b\u00e9atitude,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Au lieu du ciel r\u00eav\u00e9 dans l'\u00e2pre solitude,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Que la morne impuissance et l'incurable ennui.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND20",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "\u00c9rinnyes",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND20_7",
+        "text": [
+            [
+                {
+                    "verse": "Je sais que toute joie est une illusion,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu\u2019il faut que tout se paye et que tout se compense,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je devrais b\u00e9nir la dure providence",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui m\u2019impose l\u2019\u00e9preuve ou l\u2019expiation.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les st\u00e9riles regrets, la menteuse esp\u00e9rance",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N\u2019atteignent pas la pure et calme r\u00e9gion",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 le sage s\u2019endort, libre de passion,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans la sereine paix de son intelligence,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je le sais, mais je garde au c\u0153ur le souvenir",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "D\u2019un r\u00eave \u00e9blouissant, qui ne peut revenir",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ni dans ce monde-ci, ni dans l\u2019autre : personne,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Ange, d\u00e9mon ou Dieu, n\u2019y peut rien ; j\u2019ai perdu",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Un bonheur bien plus grand que ce que le ciel donne,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Et ce bonheur jamais ne me sera rendu.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND21",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Le Soir",
+        "profile": "6+6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND21_7",
+        "text": [
+            [
+                {
+                    "verse": "Plus fra\u00eeche qu'un parfum d'avril apr\u00e8s l'hiver,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'esp\u00e9rance b\u00e9nie arrive et nous enlace,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La menteuse \u00e9ternelle, avec son rire clair",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ses folles chansons qui s'\u00e9gr\u00e8nent dans l'air.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais comme on voit, la nuit, sous le flot noir qui passe",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Glisser les p\u00e2les feux des \u00e9toiles de mer,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Tous nos r\u00eaves ail\u00e9s, dans le lugubre espace",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Disparaissent, \u00e0 l'heure o\u00f9 l'esp\u00e9rance est lasse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "En vain on les rappelle, on tend les bras vers eux ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les fant\u00f4mes ch\u00e9ris s'en vont, silencieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Par le chemin perdu des paradis qu'on pleure :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ah ! Mon ciel \u00e9tait l\u00e0, je m'en suis aper\u00e7u",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Trop tard, l'ange est parti, j'ai laiss\u00e9 passer l'heure,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et maintenant tout est fini : si j'avais su !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND22",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Circ\u00e9",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND22_7",
+        "text": [
+            [
+                {
+                    "verse": "Douce comme un rayon de lune, un son de lyre,",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Pour dompter les plus forts, elle n'a qu'\u00e0 sourire.",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Les magiques lueurs de ses yeux caressants",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Versent l'ardente extase \u00e0 tout ce qui respire.",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                }
+            ],
+            [
+                {
+                    "verse": "Les grands ours, les lions fauves et rugissants",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "L\u00e8chent ses pieds d'ivoire ; un nuage d'encens",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "L'enveloppe ; elle chante, elle encha\u00eene, elle attire,",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "La Volupt\u00e9 sinistre, aux philtres tout-puissants.",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                }
+            ],
+            [
+                {
+                    "verse": "Sous le joug du d\u00e9sir, elle tra\u00eene \u00e0 sa suite",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "L'innombrable troupeau des \u00eatres, les charmant",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Par son regard de vierge et sa bouche qui ment,",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                }
+            ],
+            [
+                {
+                    "verse": "Tranquille, irr\u00e9sistible. Ah ! maudite, maudite !",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Puisque tu changes l'homme en b\u00eate, au moins endors",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Dans nos cours pleins de toi la honte et le remords.",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND23",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "La Sir\u00e8ne",
+        "profile": "6\u22126",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND23_7",
+        "text": [
+            [
+                {
+                    "verse": "La vie appelle \u00e0 soi la foule haletante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des germes anim\u00e9s ; sous le clair firmament",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils se pressent, et tous boivent avidement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 la coupe magique o\u00f9 le d\u00e9sir fermente.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils savent que l'ivresse est courte ; \u00e0 tout moment",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Retentissent des cris d'horreur et d'\u00e9pouvante,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais la molle sir\u00e8ne, \u00e0 la voix caressante,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les attire comme un irr\u00e9sistible aimant.",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Puisqu'ils ont soif de vivre, ils ont leur raison d'\u00eatre :",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qu'ils se baignent, joyeux, dans le rayon vermeil",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Que leur dispense \u00e0 tous l'impartial soleil ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais moi, je ne sais pas pourquoi j'ai voulu na\u00eetre ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "J'ai mal fait, je me suis tromp\u00e9, je devrais bien",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "M'en aller de ce monde o\u00f9 je n'esp\u00e8re rien.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND24",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "R\u00e9signation",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND24_7",
+        "text": [
+            [
+                {
+                    "verse": "C'est une pauvre vieille, humble, le dos vo\u00fbt\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Autrefois on l'aimait, on s'est tu\u00e9 pour elle.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui sait ? Peut-\u00eatre un jour tu seras regrett\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De celle qui dit non, maintenant qu'elle est belle.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle aussi vieillira, puis l'ombre universelle",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La no\u00eera, comme toi, dans son immensit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il faut que les grands dieux, pour leur \u0153uvre \u00e9ternelle,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Reprennent le bonheur qu'ils nous avaient pr\u00eat\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous sommes trop petits dans l'ensemble des choses ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "La nature m\u00fbrit ses bl\u00e9s, fleurit ses roses",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et d\u00e9daigne nos v\u0153ux, nos regrets, nos efforts.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Attendons, r\u00e9sign\u00e9s, la fin des heures lentes ;",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Les \u00e9toiles, l\u00e0-haut, roulent indiff\u00e9rentes ;",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Qu'elles versent l'oubli sur nous ; heureux les morts !",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND25",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Th\u00e9rapeutique",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND25_7",
+        "text": [
+            [
+                {
+                    "verse": "J'ai lu, je ne sais o\u00f9, la l\u00e9gende amoureuse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De Raymond Lulle : on dit qu'un jour il rencontra",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une femme fort belle, et l'amour p\u00e9n\u00e9tra",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans son c\u0153ur calme, et vint troubler sa vie heureuse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Il quitta, comme Faust, la route t\u00e9n\u00e9breuse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'aust\u00e8re science, et son amour dura",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jusqu'au jour o\u00f9 l'objet qu'il aimait lui montra",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Son sein, que d\u00e9vorait une l\u00e8pre hideuse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Miroirs de volupt\u00e9, beaux lacs aux flots d'azur",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "O\u00f9 se cache toujours quelque reptile impur,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Anges d'illusion, d\u00e9mons au corps de femmes,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Sir\u00e8nes et Circ\u00e9s, qu'il est triste le jour",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "O\u00f9, pour gu\u00e9rir nos c\u0153urs du poison de l'amour,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Vous nous montrez \u00e0 nu la l\u00e8pre de vos \u00e2mes !",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND26",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Le Rishi",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND26_7",
+        "text": [
+            [
+                {
+                    "verse": "Dans la sph\u00e8re du nombre et de la diff\u00e9rence,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Encha\u00een\u00e9s \u00e0 la vie, il faut que nous montions,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Par l'\u00e9chelle sans fin des transmigrations,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tous les degr\u00e9s de l'\u00eatre et de l'intelligence.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Gr\u00e2ce, \u00f4 vie infinie, assez d'illusions !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Depuis l'\u00e9ternit\u00e9 ce r\u00eave recommence.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand donc viendra la paix, la mort sans renaissance ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est-il pas bient\u00f4t temps que nous nous reposions ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le silence, l'oubli, le n\u00e9ant qui d\u00e9livre,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Voil\u00e0 ce qu'il me faut ; je voudrais m'affranchir",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Du mouvement, du lieu, du temps, du devenir ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Je suis las, rien ne vaut la fatigue de vivre,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et pas un paradis n'a de bonheur pareil,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Nuit calme, nuit b\u00e9nie, \u00e0 ton divin sommeil.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND27",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "L\u2019Athl\u00e8te",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND27_7",
+        "text": [
+            [
+                {
+                    "verse": "Je suis initi\u00e9, je connais le myst\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la vie : une ar\u00e8ne o\u00f9 l'immortalit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est le prix de la lutte, et je m'y suis jet\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Librement, voulant na\u00eetre et vivre sur la terre.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les h\u00e9ros demi-dieux ont souffert et lutt\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour conqu\u00e9rir au ciel leur place h\u00e9r\u00e9ditaire :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que la lutte virile et la douleur aust\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Trempent comme l'airain ma libre volont\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Suivons sans peur le cours de nos m\u00e9tempsycoses,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et de l'ascension montons le dur chemin,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Sous les yeux de nos morts qui nous tendent la main.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils recevront, du haut de leurs apoth\u00e9oses,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Dans l'olympe \u00e9toil\u00e9 conquis par leur vertu,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "L'\u00e2me qui combattra comme ils ont combattu.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND28",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Alastor",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND28_7",
+        "text": [
+            [
+                {
+                    "verse": "Le d\u00e9couragement, la fatigue et l'ennui",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Me saisissent, devant l'implacable puissance",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des choses ; loi, destin, hasard ou providence,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelqu'un m'\u00e9crase, et moi, je ne puis rien sur lui.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Peut-\u00eatre les d\u00e9mons de ceux \u00e0 qui j'ai nui",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Autrefois, quelque part, dans une autre existence,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Invisibles dans l'air, m'entourent en silence,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et du mal que j'ai fait se vengent aujourd'hui.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Quelle que soit leur force et quel que soit leur nombre,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Je voudrais bien les voir face \u00e0 face ; il est temps",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Que mon mauvais destin prenne un corps, je l'attends ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais je ne puis toujours lutter ainsi dans l'ombre,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et s'il faut que j'expie, au moins je veux, pareil",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Au fier Ajax, combattre et mourir au soleil.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND29",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Sto\u00efcisme",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND29_7",
+        "text": [
+            [
+                {
+                    "verse": "Sois fort, tu seras libre ; accepte la souffrance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui grandit ton courage et t'\u00e9pure ; sois roi",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du monde int\u00e9rieur, et suis ta conscience,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cet infaillible dieu que chacun porte en soi.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Esp\u00e8res-tu que ceux qui, par leur providence",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Guident les sph\u00e8res d'or, vont violer pour toi",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'ordre de l'univers ? Allons, souffre en silence,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et t\u00e2che d'\u00eatre un homme et d'accomplir ta loi.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Les grands dieux savent seuls si l'\u00e2me est immortelle ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Mais le juste travaille \u00e0 leur \u0153uvre \u00e9ternelle,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "F\u00fbt-ce un jour, leur laissant le soin de l'avenir,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Sans rien leur envier, car lui, pour la justice",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Il offre librement sa vie en sacrifice,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Tandis qu'un dieu ne peut ni souffrir ni mourir.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND30",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "Panth\u00e9on",
+        "profile": "5+5, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND30_7",
+        "text": [
+            [
+                {
+                    "verse": "Renferme tous les dieux que le monde a connus.",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9voqu\u00e9s \u00e0 la fois de tous les sanctuaires,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Avant le premier jour de la cr\u00e9ation,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ceux qu'adore, en ses jours de vieillesse tardive,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Contemplent, \u00e0 travers l'\u00e9ternit\u00e9 sans fin,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le monde, qui toujours finit et recommence",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Qui, dans les profondeurs du multiple univers,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Font ruisseler les flots bouillonnants de la vie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Qui marchent dans leur force et leur m\u00e2le beaut\u00e9,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Guidant les peuples fiers et les races puissantes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La voix des hymnes monte ainsi qu'aux jours de foi ;",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 l'entour de l'autel, un peuple immense adore",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Il faut le bec sanglant du vautour \u00e9ternel",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ou l'inf\u00e2me gibet de l'\u00e9ternel supplice,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Veulent avoir leur part des divines douleurs ;",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le b\u00fbcher sur l'\u0152ta, la croix sur le Calvaire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Discr\u00e8te et recueillie, o\u00f9, des cieux entr'ouverts,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La colombe divine ombrage de son aile",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Puisque ton chaste sein con\u00e7ut le dernier dieu,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "R\u00e8gne aupr\u00e8s de ton fils, rayonnante, \u00e9toil\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MND_2/MND31",
+        "author": "Louis M\u00e9nard",
+        "work": "R\u00eaveries d'un Pa\u00efen mystique",
+        "date": "1876",
+        "title": "La Derni\u00e8re Nuit de Julien",
+        "profile": "6+6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MND_2&code_text=MND31_7",
+        "text": [
+            [
+                {
+                    "verse": "Par-dessus tous les dieux du ciel et de la terre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'adore ton pouvoir immuable indompt\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9esse des vieux jours, morne fatalit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce pouvoir implacable, aveugle et solitaire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9crase mon orgueil et ma force, et je vois",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que l'on d\u00e9cline en vain tes inflexibles lois.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les peuples adoraient le joug qui les encha\u00eene,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rome dormait en paix sur son char triomphal,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Des oracles veillaient sur son sommeil royal.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Maintenant, du destin la force souveraine",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Brise le sceptre d'or de Rome dans mes mains,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et Sapor va venger les Francs et les Germains.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'ai relev\u00e9 l'autel des dieux de la patrie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et j'aper\u00e7ois d\u00e9j\u00e0 le temps qui foule aux pieds",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Les vieux temples d\u00e9serts de mes dieux oubli\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Au culte du pass\u00e9 j'ai d\u00e9vou\u00e9 ma vie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Bient\u00f4t sous sa ruine il va m'ensevelir.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le pass\u00e9 meurt en moi, victoire \u00e0 l'avenir !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ne crains pas l'avenir, toi dont les mains sont pures,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O dernier d\u00e9fenseur d'un culte d\u00e9sert\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui voulus porter seul toutes les fl\u00e9trissures",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du vieux monde romain, et couvrir ses souillures",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du manteau de ta gloire et de ta puret\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "En vain tes ennemis ont vou\u00e9 ta m\u00e9moire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A l'ex\u00e9cration des si\u00e8cles \u00e0 venir ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le glaive est dans tes mains : l'incorruptible histoire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dira ce qu'il fallut \u00e0 l'amant de la gloire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De force et de vertu pour ne s'en pas servir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La fortune rendra blessure pour blessure",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A ces peuples nouveaux, aujourd'hui ses \u00e9lus,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand leurs crimes aussi combleront la mesure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais mille ans passeront sans laver son injure,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car N\u00e9m\u00e9sis est lente \u00e0 venger les vaincus.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O C\u00e9sar, tu mourras sous une arme romaine.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La tardive justice un jour effacera",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce surnom d'apostat que te donne la haine ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais le monde \u00e9branl\u00e9 dans sa chute t'entra\u00eene,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ton culte proscrit avec toi p\u00e9rira.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et moi, je te suivrai, car je suis le g\u00e9nie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De Rome et de l'empire ; unissant leurs efforts,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tes ennemis, les miens, las de mon agonie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Veulent voir le dernier soleil de la patrie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C\u00e9dons-leur, le destin le veut, nos dieux sont morts.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

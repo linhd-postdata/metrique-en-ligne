@@ -1,0 +1,3518 @@
+[
+    {
+        "code": "DUC_1/DUC1",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "A JEAN REB0UL",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC1_7",
+        "text": [
+            [
+                {
+                    "verse": "Vous dont le livre ouvert sous mes yeux a souvent",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vers\u00e9 comme un tr\u00e9sor, dans mon \u00e2me bris\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des consolations, ineffable ros\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui faisait oublier mes maux en la buvant ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Myst\u00e9rieux calice o\u00f9 je trempais ma vie,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui, maintenant, h\u00e9las ! de sanglots est suivie",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et flotte comme un brin de paille au gr\u00e9 du vent ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Oh ! maintenant que l'\u00e2ge a fait na\u00eetre le doute",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que les passions luttent avec l'esprit ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Maintenant que je vais vers cette sombre nuit",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui descend quand la Foi n'\u00e9claire plus la route,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ma\u00eetre ! devant mes pas laissez tomber encor,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Comme un son \u00e9chapp\u00e9 de votre harpe d'or,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Un mot qui soit: courage!\u2026 Oh ! j'attends et j'\u00e9coute.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Car ma faiblesse est grande, et le chemin est long,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout parsem\u00e9 d'\u00e9cueils et pendu sur l'ab\u00eeme.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est un sombre rocher. Pour atteindre \u00e0 sa cime.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'oeil en vain sur ses bords chercherait un jalon\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le pauvre voyageur, que le hasard dirige,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Sans guide, sans appui, s'y sent pris de vertige,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ferme les yeux alors et roule jusqu'au fond !\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC2",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "SOUVENIRS",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC2_7",
+        "text": [
+            [
+                {
+                    "verse": "Revenez tous dans ma demeure,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O vous, mes jeunes souvenirs !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Retracez mes jeunes plaisirs ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lorsque mon \u00e2me est triste et pleure,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Venez apaiser ses soupirs.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Rapportez ma douce croyance",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec ma na\u00efve ignorance",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et m\u00eame mes chagrins d'enfant ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Alors qu'un baiser de ma m\u00e8re,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Effa\u00e7ant leur ombre \u00e9ph\u00e9m\u00e8re,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Rendait mon front plus souriant.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oh ! dans ma chambre vaste et nue,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 j'entends mon c\u0153ur sangloter,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Revenez tous vous abriter",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec votre joie inconnue\u2026",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pourquoi m'avez-vous pu quitter ?\u2026",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous auriez embelli ma route ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Votre voix, que toujours j'\u00e9coute",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme un murmure, un bruit lointain,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aurait conseill\u00e9 ma pens\u00e9e,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Guid\u00e9 mes pas dans la vall\u00e9e",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "O\u00f9 le doute cro\u00eet au chemin.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous m'auriez dit : \u2014 \u00ab Enfant, ta m\u00e8re \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Te fit une bien douce loi,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00ab Lorsque, son front pench\u00e9 sur toi,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00ab Elle t'apprit cette pri\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00ab Que tu r\u00e9citais avec foi\u2026 \u00bb",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "De la foi naquit l'esp\u00e9rance,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui sait calmer toute souffrance",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qui fait croire \u00e0 tout bonheur.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous m'auriez montr\u00e9 celte voie,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et vous auriez, par tant de joie,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Tari les larmes de mon c\u0153ur !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous auriez grandi mon courage",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans les jours de l'adversit\u00e9 ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chacun de vous m'e\u00fbt r\u00e9p\u00e9t\u00e9",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que jadis je bravais l'orage",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'ignorait ma simplicit\u00e9.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous m'auriez dit ces douces choses,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mots suspendus aux l\u00e8vres roses",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'enfant qui b\u00e9gaie et rit ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mots qu'il ne comprend pas encore,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qu'il adresse au Dieu qu'il ignore,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Mais qu'il voit pourtant en esprit.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous m'auriez dit mon jeune, r\u00eave,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mes na\u00efves illusions,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mes jours exempts de passions,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pareils au soleil qui se l\u00e8ve",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qui promet tant de rayons.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous auriez d\u00e9vi\u00e9 ma course",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De cet ab\u00eeme, vaste source",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De maux et de corruptions,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De d\u00e9go\u00fbt, d'implacable haine,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Fosse b\u00e9ante et toujours pleine",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "De cris de mal\u00e9dictions.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Souvenirs\u2026 image si ch\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De tout mon bonheur d'autrefois,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Revenez encore une fois,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M\u00ealez \u00e0 la voix de ma m\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le bruit sacr\u00e9 de votre voix.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oh ! revenez, candide troupe,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ma pr\u00e9senter encor la coupe",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 sont tant de pr\u00e9cieux dons\u2026",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car j'ai bu l'absinthe fatale,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Laiss\u00e9 ma robe virginale",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Sur les ronces et les chardons\u2026",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC3",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "R\u00caVERIE",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC3_7",
+        "text": [
+            [
+                {
+                    "verse": "Oh ! quand les chants m\u00e9lodieux",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Frappaient mon oreille ravie,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Alors je croyais que la vie",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9tait plus douce que les cieux.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ta voix, que ma douleur regrette",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que j'\u00e9coute en mon sommeil,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9tait les perles que l'on jette",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et retombent sur le vermeil.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle dissipait ma souffrance,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle faisait r\u00eaver mon c\u0153ur,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "El ce r\u00eave \u00e9tait le bonheur,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce bonheur \u00e9tait l'esp\u00e9rance.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je t'\u00e9coutais en murmurant",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout bas une douce louange ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Puis, croyant \u00e0 la voix d'un ange,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je t'adorais en t'\u00e9coulant.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et je te disais : Chante encore ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chante ! que la joie ait son tour !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Enfant, si ma vie est d'un jour,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jusqu'au soir prolonge l'aurore.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "A tes chants mon \u00e2me s'endort,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et lorsque leur doux bruit s'ach\u00e8ve,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il recommence dans mon r\u00eave,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 j'entends mille harpes d'or.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais loin de nous tu t'es enfuie :",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Maintenant, tout n'est que douleurs !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec l'absence sont les pleurs,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les pleurs que nulle main n'essuie.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pourquoi partir ?\u2026 O\u00f9 donc es-tu ?",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chacun te regrette, \u00f4 colombe !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et sans toi je sens vers la tombe",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'incliner mon front abattu.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Car, je t'aimais, je te le jure,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais d'un amour saint et profond,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Plus doux que l'aur\u00e9ole pure",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que les anges portent au front.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "N'\u00e9tais-tu pas mon bien supr\u00eame ?",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ton c\u0153ur ne m'avait-il pas dit",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce mot auquel le ciel sourit,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce mot qu'on dit tout bas : Je t'aime !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC4",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "LA CHARIT\u00c9",
+        "profile": "8, 7",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC4_7",
+        "text": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                {
+                    "verse": "Muse ! dont la voix accompagne",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et souvent raffermit mes pas,",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dis lui, dis-lui que chaque aum\u00f4ne,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Goutte de ros\u00e9e et de miel,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Deviendra perle \u00e0 la couronne",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que Dieu lui garde encore au Ciel",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC5",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "MON R\u00caVE D'OR",
+        "profile": "4, 6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC5_7",
+        "text": [
+            [
+                {
+                    "verse": "Comme un l\u00e9ger murmure,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme un chant de bonheur,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme une flamme pure",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Parle ou brille en mon c\u0153ur,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Viens encor, mon beau r\u00eave ;",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme un parfum des fleurs,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ta pr\u00e9sence fait tr\u00eave",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A mes sombres douleurs.",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Viens, comme une louange,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Une pri\u00e8re \u00e0 Dieu,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme l'aile d'un ange,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toucher mon front de feu.",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans mon \u00e2me bless\u00e9e",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et pleurant un beau jour,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Viens comme une pens\u00e9e,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme un soupir d'amour.",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme une voix b\u00e9nie,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme un rayon dor\u00e9,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Guide, \u00e9claire ma vie,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O mon r\u00eave ador\u00e9 !",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme tout ce qui chante,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Accours dans mon sommeil.",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O r\u00eave qui m'enchante !",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pourquoi fuir au r\u00e9veil ?\u2026",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC6",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "FEMME ET FLEUR",
+        "profile": "7",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC6_7",
+        "text": [
+            [
+                {
+                    "verse": "La femme dit \u00e0 la rose :",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 \u00ab Il te faut, pour \u00eatre \u00e9close, \u00bb",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De cet horizon vermeil",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00ab Attendre, \u00f4 ma bien-aim\u00e9e !",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "\u00ab Sur ta tige parfum\u00e9e,",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "\u00ab Un doux rayon de soleil. \u00bb",
+                    "metre": "7",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La rose dit \u00e0 la femme :",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 \u00ab Il te faut, pour que ton \u00e2me",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00bb S'entr'ouvre au bonheur d'un jour, \u00bb",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Attendre comme la rose, \u00bb",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ma s\u0153ur, et c'est autre chose :",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "\u00ab C'est un doux rayon d'amour.",
+                    "metre": "7",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC7",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "LA FLEUR ET LE PAPILLON",
+        "profile": "6, 6+6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC7_7",
+        "text": [
+            [
+                {
+                    "verse": "\u2014 \u00ab C'est pour toi mon parfum et ma riche couleur ; \u00bb",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur mon calice d'or le bonheur se butine :",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le pauvre papillon s'envola confondu :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC8",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "LES RUBANS DE MARIE",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC8_7",
+        "text": [
+            [
+                {
+                    "verse": "Elle dort. Une lampe \u00e9claire son visage ;",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Son front n'est obscurci par aucun noir nuage :",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Rien ne trouble sa paix \u2014 ni sa s\u00e9r\u00e9nit\u00e9. '",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Elle a pri\u00e9 ce soir, et, maintenant, son r\u00eave,",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "De ses travaux du jour douce et paisible tr\u00eave,",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Emporte son esprit vers un monde enchant\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                }
+            ],
+            [
+                {
+                    "verse": "Du Dieu qu'elle a pri\u00e9 son regard voit la face.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Parmi l\u00e8s saints esprits il lui montre sa place ;",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Elle court dans des champs sem\u00e9s d'or et d'azur",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Ces spacieux jardins aux fleurs toujours nouvelles",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Qui r\u00e9pandent au sein des sph\u00e8res \u00e9ternelles,",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Comme pour louer Dieu, leur parfum le plus pur.",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                }
+            ],
+            [
+                {
+                    "verse": "Son oreille attentive \u00e9coute l'harmonie",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Et recueille les sons de la harpe, b\u00e9nie",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Qui vibre sous les doigts de mille s\u00e9raphins.",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "A ce concert sacr\u00e9, sa voix douce et craintive",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "Se m\u00eale avec transport, et sa pri\u00e8re arrive",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "A Dieu, sur l'aile d'or des cantiques divins.",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                }
+            ],
+            [
+                {
+                    "verse": "R\u00eave heureux ! et qui na\u00eet de sa jeune ignorance !",
+                    "metre": "6+6",
+                    "rhyme": "9"
+                },
+                {
+                    "verse": "R\u00eave qui, chaque nuit, s'ach\u00e8ve et recommence,",
+                    "metre": "6+6",
+                    "rhyme": "9"
+                },
+                {
+                    "verse": "Oh ! tu n'es point de ceux qui viennent abuser.",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "L'\u00e2me que tu ravis, est comme un lac tranquille :",
+                    "metre": "6+6",
+                    "rhyme": "10"
+                },
+                {
+                    "verse": "Nul remords ne la trouble, et tu la vois, docile,",
+                    "metre": "6+6",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "S'endormir, s'\u00e9veiller au bruit d'un doux baiser.",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                }
+            ],
+            [
+                {
+                    "verse": "Un baiser de sa m\u00e8re ! Oh ! c'est tout ce qu'elle aime !",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Pour elle, sa tendresse est divine et supr\u00eame !",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "\u2014 Son p\u00e8re, h\u00e9las ! son p\u00e8re est mort depuis longtemps.",
+                    "metre": "6+6",
+                    "rhyme": "13"
+                },
+                {
+                    "verse": "Depuis, tout son amour s'est port\u00e9 sur sa m\u00e8re :",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Pour elle ses baisers, pour elle sa pri\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Pour elle, doux tr\u00e9sors ! les fleurs de son printemps.",
+                    "metre": "6+6",
+                    "rhyme": "13"
+                }
+            ],
+            [
+                {
+                    "verse": "Dans ses cheveux, elle a pour unique parure",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "Un simple ruban blanc, dont le pli s'aventure",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "Sur son sein, o\u00f9 la soie et l'or sont inconnus ;",
+                    "metre": "6+6",
+                    "rhyme": "16"
+                },
+                {
+                    "verse": "Un ruban seulement et sa robe d'indienne,",
+                    "metre": "6+6",
+                    "rhyme": "17"
+                },
+                {
+                    "verse": "Qui, de tant de beaut\u00e9s modeste gardienne,",
+                    "metre": "6+6",
+                    "rhyme": "17"
+                },
+                {
+                    "verse": "Ne laisse contempler que ses bras demi-nus.",
+                    "metre": "6+6",
+                    "rhyme": "16"
+                }
+            ],
+            [
+                {
+                    "verse": "Aupr\u00e8s de la fen\u00eatre, un oiseau dans sa cage,",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Par ses chants de bonheur anime son ouvrage ;",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "L'aiguille diligente \u00e9loigne tout souci",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "De son seuil, o\u00f9 le pauvre, en recevant l'aum\u00f4ne,",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Fait qu'une perle encor s'ajoute \u00e0 la couronne",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Que Dieu garde \u00e0 cet ange, auquel il dit : merci !",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle est heureuse ainsi ; qui peut troubler cet \u00eatre ?",
+                    "metre": "6+6",
+                    "rhyme": "21"
+                },
+                {
+                    "verse": "Elle marche au milieu du monde, sans conna\u00eetre",
+                    "metre": "6+6",
+                    "rhyme": "21"
+                },
+                {
+                    "verse": "Ce qu'il a de m\u00e9chant, d'\u00e9go\u00efste et de froid.",
+                    "metre": "6+6",
+                    "rhyme": "22"
+                },
+                {
+                    "verse": "Les cailloux du chemin pour elle sont de sable ;",
+                    "metre": "6+6",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "Sa candeur la d\u00e9fend ; la foule impitoyable",
+                    "metre": "6+6",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "S'\u00e9carte avec respect sit\u00f4t qu'elle la voit.",
+                    "metre": "6+6",
+                    "rhyme": "24"
+                }
+            ],
+            [
+                {
+                    "verse": "Son travail la nourrit. \u2014 Elle est pauvre. \u2014 Sa m\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Ne peut plus travailler : dans une \u00e9preuve am\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Le Seigneur fit tomber ses membres engourdis.",
+                    "metre": "6+6",
+                    "rhyme": "25"
+                },
+                {
+                    "verse": "Elle travaille et chante. \u2014 Oh ! va, Dieu te regarde,",
+                    "metre": "6+6",
+                    "rhyme": "26"
+                },
+                {
+                    "verse": "Pauvre enfant ! et les chants ont fait de ta mansarde",
+                    "metre": "6+6",
+                    "rhyme": "26"
+                },
+                {
+                    "verse": "Un nid joyeux et saint, un nouveau paradis.",
+                    "metre": "6+6",
+                    "rhyme": "25"
+                }
+            ],
+            [
+                {
+                    "verse": "Ton c\u0153ur ignore encor ce mal qui nous d\u00e9vore,",
+                    "metre": "6+6",
+                    "rhyme": "27"
+                },
+                {
+                    "verse": "Ce mal qu'on nomme amour, et que chacun adore.",
+                    "metre": "6+6",
+                    "rhyme": "27"
+                },
+                {
+                    "verse": "Si ton front est r\u00eaveur, certes, ce n'est pas lui",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "Qui trouble tes instants et cause tes alarmes ;",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "A tes yeux si l'on voit se balancer deux larmes,",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "C'est que la m\u00e8re, h\u00e9las ! a souffert aujourd'hui.",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                }
+            ],
+            [
+                {
+                    "verse": "Non, non ; tu ne connais ni ses douleurs aigu\u00ebs,",
+                    "metre": "6+6",
+                    "rhyme": "29"
+                },
+                {
+                    "verse": "Ni ses nombreux acc\u00e8s de fi\u00e8vres inconnues,",
+                    "metre": "6+6",
+                    "rhyme": "29"
+                },
+                {
+                    "verse": "Ni son espoir d'un jour, qu'un autre jour d\u00e9truit.",
+                    "metre": "6+6",
+                    "rhyme": "30"
+                },
+                {
+                    "verse": "Non ; ton sommeil est calme et ton \u00e2me est sereine,",
+                    "metre": "6+6",
+                    "rhyme": "31"
+                },
+                {
+                    "verse": "Par souffles mesur\u00e9s s'\u00e9chappe ton haleine.",
+                    "metre": "6+6",
+                    "rhyme": "31"
+                },
+                {
+                    "verse": "Non ; \u2014 tu chantes le jour et tu r\u00eaves la nuit.",
+                    "metre": "6+6",
+                    "rhyme": "30"
+                }
+            ],
+            [
+                {
+                    "verse": "L'amour ? Et que t'importe \u00e0 toi l'amour, pauvre ange ?",
+                    "metre": "6+6",
+                    "rhyme": "32"
+                },
+                {
+                    "verse": "Ton c\u0153ur en poss\u00e8de un, un qui jamais ne change,",
+                    "metre": "6+6",
+                    "rhyme": "32"
+                },
+                {
+                    "verse": "Un amour que du ciel Dieu b\u00e9nit chaque jour ;",
+                    "metre": "6+6",
+                    "rhyme": "33"
+                },
+                {
+                    "verse": "Tu le connais, enfant, car lui seul fait ta joie ;",
+                    "metre": "6+6",
+                    "rhyme": "34"
+                },
+                {
+                    "verse": "Sur un \u00eatre ador\u00e9 tout ton c\u0153ur le d\u00e9ploie :",
+                    "metre": "6+6",
+                    "rhyme": "34"
+                },
+                {
+                    "verse": "N'est-ce pas que ta m\u00e8re est ton unique amour ?",
+                    "metre": "6+6",
+                    "rhyme": "33"
+                }
+            ],
+            [
+                {
+                    "verse": "De ton ruban ch\u00e9ri la couleur virginale",
+                    "metre": "6+6",
+                    "rhyme": "35"
+                },
+                {
+                    "verse": "Nous le dit \u00e0 chacun. \u2014 Oh ! l'aube matinale",
+                    "metre": "6+6",
+                    "rhyme": "35"
+                },
+                {
+                    "verse": "A moins de puret\u00e9, moins de calme profond",
+                    "metre": "6+6",
+                    "rhyme": "36"
+                },
+                {
+                    "verse": "Que tes jours \u00e9coul\u00e9s dans cette paix obscure,",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "Et par ton ruban blanc, ang\u00e9lique parure,",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "L'image de ton c\u0153ur se refl\u00e8te \u00e0 ton front.",
+                    "metre": "6+6",
+                    "rhyme": "37"
+                }
+            ],
+            [
+                {
+                    "verse": "Je vous l'ai d\u00e9j\u00e0 dit : sur sa chaise de paille,",
+                    "metre": "6+6",
+                    "rhyme": "38"
+                },
+                {
+                    "verse": "Libre, d\u00e8s le matin, elle chante et travaille.",
+                    "metre": "6+6",
+                    "rhyme": "38"
+                },
+                {
+                    "verse": "Ses sens dorment encor ; les vives passions",
+                    "metre": "6+6",
+                    "rhyme": "39"
+                },
+                {
+                    "verse": "Au c\u0153ur de cette enfant sont loin d'\u00eatre germ\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Sa joie est dans sa m\u00e8re, et ses fleurs bien aim\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Dans son beau ruban blanc et ses jeunes chansons.",
+                    "metre": "6+6",
+                    "rhyme": "39"
+                }
+            ],
+            [
+                {
+                    "verse": "Ton front est inquiet, \u00d4 Marie ! et ta m\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Ne t'a pas entendu r\u00e9p\u00e9ter la pri\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Qu'ensemble, \u00e0 ton chevet, vous faisiez le matin.",
+                    "metre": "6+6",
+                    "rhyme": "41"
+                },
+                {
+                    "verse": "Bien des fois de tes doigts ton aiguille est tomb\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": "42"
+                },
+                {
+                    "verse": "Vis-\u00e0-vis ton regard erre \u00e0 la d\u00e9rob\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "42"
+                },
+                {
+                    "verse": "Et ton oiseau tout seul a chant\u00e9 son refrain.",
+                    "metre": "6+6",
+                    "rhyme": "41"
+                }
+            ],
+            [
+                {
+                    "verse": "Qu'as-tu ? quelle langueur d\u00e9colore ta joue",
+                    "metre": "6+6",
+                    "rhyme": "43"
+                },
+                {
+                    "verse": "Et quel esprit malin de ton repos se joue ?\u2026",
+                    "metre": "6+6",
+                    "rhyme": "43"
+                },
+                {
+                    "verse": "Hier encor tu riais, libre comme \u00e0 seize ans ;",
+                    "metre": "6+6",
+                    "rhyme": "44"
+                },
+                {
+                    "verse": "Mais ta m\u00e8re va mieux, tu dois \u00eatre joyeuse.",
+                    "metre": "6+6",
+                    "rhyme": "45"
+                },
+                {
+                    "verse": "Es-tu malade ?\u2026 Non ! \u2014 Ma jeune soucieuse,",
+                    "metre": "6+6",
+                    "rhyme": "45"
+                },
+                {
+                    "verse": "Pourquoi ce front r\u00eaveur et ces yeux languissants ?",
+                    "metre": "6+6",
+                    "rhyme": "46"
+                }
+            ],
+            [
+                {
+                    "verse": "D'o\u00f9 na\u00eet ce changement ? Regarde en ta demeure :",
+                    "metre": "6+6",
+                    "rhyme": "47"
+                },
+                {
+                    "verse": "Gaie et contente hier, maintenant tout y pleure.",
+                    "metre": "6+6",
+                    "rhyme": "47"
+                },
+                {
+                    "verse": "Pourquoi, mon Dieu, pourquoi ce subit abandon ?",
+                    "metre": "6+6",
+                    "rhyme": "48"
+                },
+                {
+                    "verse": "Tu rougis !\u2026 ma question te trouble et t'embarrasse.",
+                    "metre": "6+6",
+                    "rhyme": "49"
+                },
+                {
+                    "verse": "Tu te sens donc coupable ? Oh ! r\u00e9ponds-nous, de gr\u00e2ce",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Toujours le repentir am\u00e8ne le pardon !",
+                    "metre": "6+6",
+                    "rhyme": "48"
+                }
+            ],
+            [
+                {
+                    "verse": "Tout aupr\u00e8s, vis-\u00e0-vis, dans une chambre \u00e9troite",
+                    "metre": "6+6",
+                    "rhyme": "50"
+                },
+                {
+                    "verse": "Que l'\u00e9t\u00e9 rend br\u00fblante et l'hiver toute moite",
+                    "metre": "6+6",
+                    "rhyme": "50"
+                },
+                {
+                    "verse": "D'humidit\u00e9, depuis quinze jours environ",
+                    "metre": "6+6",
+                    "rhyme": "48"
+                },
+                {
+                    "verse": "Habitait un jeune homme ; orphelin d\u00e8s l'enfance,",
+                    "metre": "6+6",
+                    "rhyme": "9"
+                },
+                {
+                    "verse": "Il n'avait pas connu sa m\u00e8re ; \u00e0 sa naissance,",
+                    "metre": "6+6",
+                    "rhyme": "9"
+                },
+                {
+                    "verse": "Le signe du m\u00e9pris avait meurtri son front !",
+                    "metre": "6+6",
+                    "rhyme": "37"
+                }
+            ],
+            [
+                {
+                    "verse": "Un soir, de bonnes gens avaient sur une pierre",
+                    "metre": "6+6",
+                    "rhyme": "51"
+                },
+                {
+                    "verse": "Amass\u00e9 cet enfant qui pleurait ; car sa m\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Qu'on ne revit jamais, l'avait abandonn\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Ils en eurent piti\u00e9 ; ses pleurs les attendrirent.",
+                    "metre": "6+6",
+                    "rhyme": "52"
+                },
+                {
+                    "verse": "Ce que n'avait point fait une m\u00e8re, ils le firent :",
+                    "metre": "6+6",
+                    "rhyme": "52"
+                },
+                {
+                    "verse": "Ils donn\u00e8rent leur pain \u00e0 l'enfant nouveau-n\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                }
+            ],
+            [
+                {
+                    "verse": "Plus tard, lorsqu'il grandit, il dut gagner sa vie.",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Bien des fois il jetait un long regard d'envie",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Sur les autres enfants dont il voyait les jeux.",
+                    "metre": "6+6",
+                    "rhyme": "53"
+                },
+                {
+                    "verse": "Oh ! qu'il aurait aim\u00e9 leur troupe fortun\u00e9e !",
+                    "metre": "6+6",
+                    "rhyme": "42"
+                },
+                {
+                    "verse": "Mais, l'ouvrage \u00e9tait l\u00e0, son pain de la journ\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "42"
+                },
+                {
+                    "verse": "Et l'enfant retournait au chantier, soucieux.",
+                    "metre": "6+6",
+                    "rhyme": "53"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Toujours seul ! disait-il, jamais une voix douce ;",
+                    "metre": "6+6",
+                    "rhyme": "54"
+                },
+                {
+                    "verse": "Celui que je voudrais pour ami me repousse,",
+                    "metre": "6+6",
+                    "rhyme": "55"
+                },
+                {
+                    "verse": "Et je vais d\u00e9vorer mes larmes \u00e0 l'\u00e9cart.",
+                    "metre": "6+6",
+                    "rhyme": "56"
+                },
+                {
+                    "verse": "Je n'ai pas demand\u00e9 pourtant, Seigneur, \u00e0 na\u00eetre",
+                    "metre": "6+6",
+                    "rhyme": "21"
+                }
+            ],
+            [
+                {
+                    "verse": "N'aurais-tu pas mieux fait de d\u00e9rober \u00e0 l'\u00eatre",
+                    "metre": "6+6",
+                    "rhyme": "21"
+                },
+                {
+                    "verse": "Le pauvre paria qu'on appelle b\u00e2tard !\u2026",
+                    "metre": "6+6",
+                    "rhyme": "57"
+                },
+                {
+                    "verse": "Louis \u2014 c'\u00e9tait son nom \u2014 voyait passer Marie ;",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Il l'attendait le soir. C'\u00e9tait l\u00e0 de sa vie",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Le seul bonheur, h\u00e9las ! \u2014 Marie, en souriant,",
+                    "metre": "6+6",
+                    "rhyme": "58"
+                },
+                {
+                    "verse": "Lui donnait un bonsoir, lorsqu'elle entrait chez elle,",
+                    "metre": "6+6",
+                    "rhyme": "59"
+                },
+                {
+                    "verse": "Et lui la contemplait : il la trouvait si belle,",
+                    "metre": "6+6",
+                    "rhyme": "59"
+                },
+                {
+                    "verse": "Qu'il n'osait lui parler dans son ravissement !",
+                    "metre": "6+6",
+                    "rhyme": "58"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais il \u00e9tait toujours plac\u00e9 sur son passage.",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Un regard bienveillant lui donnait du courage.",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "\u2014 Si tu voulais m'aimer, ange murmurait-il,",
+                    "metre": "6+6",
+                    "rhyme": "60"
+                },
+                {
+                    "verse": "Mais si bas, que lui seul l'entendait dans son \u00e2me ;",
+                    "metre": "6+6",
+                    "rhyme": "61"
+                },
+                {
+                    "verse": "Si tu voulais m'aimer, de celte foule inf\u00e2me",
+                    "metre": "6+6",
+                    "rhyme": "61"
+                },
+                {
+                    "verse": "Je braverais l'affront ! \u2014 Comme la fleur d'avril",
+                    "metre": "6+6",
+                    "rhyme": "60"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u00e9gage doucement l'\u00e9corce de sa tige",
+                    "metre": "6+6",
+                    "rhyme": "62"
+                },
+                {
+                    "verse": "Et vient ouvrir son sein \u00e0 l'oiseau qui voltige ;",
+                    "metre": "6+6",
+                    "rhyme": "62"
+                },
+                {
+                    "verse": "Comme elle, douce enfant, je l'ouvrirais mon c\u0153ur,",
+                    "metre": "6+6",
+                    "rhyme": "63"
+                },
+                {
+                    "verse": "Ferm\u00e9 jusqu'aujourd'hui. \u2014 De ton amour la force",
+                    "metre": "6+6",
+                    "rhyme": "64"
+                },
+                {
+                    "verse": "Saurait briser, crois-moi, sa grossi\u00e8re \u00e9corce",
+                    "metre": "6+6",
+                    "rhyme": "64"
+                },
+                {
+                    "verse": "Et serait le soleil qui fait na\u00eetre la fleur !",
+                    "metre": "6+6",
+                    "rhyme": "63"
+                }
+            ],
+            [
+                {
+                    "verse": "Un jour, elle venait de rapporter l'ouvrage ;",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Marie, en regardant, aper\u00e7ut dans la cage",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Un nouveau compagnon pour son oiseau ch\u00e9ri.",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "Deux ou trois jours avant, elle en fit la demande ;",
+                    "metre": "6+6",
+                    "rhyme": "65"
+                },
+                {
+                    "verse": "Elle crut deviner de qui venait l'offrande.",
+                    "metre": "6+6",
+                    "rhyme": "65"
+                },
+                {
+                    "verse": "Car cet oiseau portait son ruban favori.",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 C'est toi, m\u00e8re ! dit-elle. Oh ! je te remercie.",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "\u2014 Je ne te comprends pas ! Que me dis-tu, Marie ?",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Dit la m\u00e8re \u00e9tonn\u00e9e. H\u00e9las ! depuis un mois,",
+                    "metre": "6+6",
+                    "rhyme": "66"
+                },
+                {
+                    "verse": "Je n'ai pas, tu le sais, descendu dans la rue.",
+                    "metre": "6+6",
+                    "rhyme": "67"
+                },
+                {
+                    "verse": "L'oiseau vient du voisin. \u2014 Ah ! fit Marie \u00e9mue,",
+                    "metre": "6+6",
+                    "rhyme": "67"
+                },
+                {
+                    "verse": "C'est le sien, car la cage est vide, lu le vois.",
+                    "metre": "6+6",
+                    "rhyme": "66"
+                }
+            ],
+            [
+                {
+                    "verse": "Le soir, lorsque Louis eut fini sa journ\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "42"
+                },
+                {
+                    "verse": "Marie, en rougissant (elle en fut \u00e9tonn\u00e9e),",
+                    "metre": "6+6",
+                    "rhyme": "42"
+                },
+                {
+                    "verse": "Alla remercier son g\u00e9n\u00e9reux voisin.",
+                    "metre": "6+6",
+                    "rhyme": "41"
+                },
+                {
+                    "verse": "L'ouvrier, en l'\u00e9coutant, avait comme la fi\u00e8vre.",
+                    "metre": "6+6",
+                    "rhyme": "68"
+                },
+                {
+                    "verse": "Un mot : Oh ! je vous aime\u2026 ! \u00e9chappa de sa l\u00e8vre,",
+                    "metre": "6+6",
+                    "rhyme": "68"
+                },
+                {
+                    "verse": "Qui de la pauvre enfant vint effleurer la main.",
+                    "metre": "6+6",
+                    "rhyme": "41"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle r\u00eava la nuit !\u2026 Mais non plus ce beau songe",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Dans lequel, chaque soir, le c\u0153ur en paix se plonge,",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Car elle ne vit point le paradis et Dieu !",
+                    "metre": "6+6",
+                    "rhyme": "70"
+                },
+                {
+                    "verse": "Cet aveu de Louis, le songe le r\u00e9p\u00e8te :",
+                    "metre": "6+6",
+                    "rhyme": "71"
+                },
+                {
+                    "verse": "R\u00eaveuse le matin, elle mit sur sa t\u00e8te,",
+                    "metre": "6+6",
+                    "rhyme": "71"
+                },
+                {
+                    "verse": "Au lieu du ruban blanc, un autre ruban bleu !",
+                    "metre": "6+6",
+                    "rhyme": "70"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Un mois s'est \u00e9coul\u00e9 depuis que, dans son \u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": "61"
+                },
+                {
+                    "verse": "Marie avait senti br\u00fbler une autre flamme",
+                    "metre": "6+6",
+                    "rhyme": "72"
+                },
+                {
+                    "verse": "Et na\u00eetre un autre amour qu'elle ignorait alors ;",
+                    "metre": "6+6",
+                    "rhyme": "73"
+                },
+                {
+                    "verse": "Elle avait, \u00e0 son tour, dit \u00e0 Louis : Je t'aime !",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Oh ! qu'il \u00e9tait heureux ! Pour cet aveu supr\u00eame,",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Il n'aurait pas voulu les plus riches tr\u00e9sors.",
+                    "metre": "6+6",
+                    "rhyme": "73"
+                }
+            ],
+            [
+                {
+                    "verse": "Chaque jour apportait des moments pleins de charmes,",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Car leur amour encore ignorait les alarmes ;",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Ils s'enivraient ensemble \u00e0 leur f\u00e9licit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Le pr\u00e9sent \u00e9tait tout. L'avenir, chose obscure,",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "Ne venait point troubler leur f\u00e9licit\u00e9 pure,",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "Car ils n'y songeaient point dans leur tranquillit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                }
+            ],
+            [
+                {
+                    "verse": "Peut-\u00eatre ignorez-vous, ma charmante Lectrice",
+                    "metre": "6+6",
+                    "rhyme": "74"
+                },
+                {
+                    "verse": "(Je ne vous bl\u00e2me pas et je vous rends justice ;",
+                    "metre": "6+6",
+                    "rhyme": "74"
+                },
+                {
+                    "verse": "Votre c\u0153ur est trop pur) ; peut-\u00eatre ignorez-vous",
+                    "metre": "6+6",
+                    "rhyme": "75"
+                },
+                {
+                    "verse": "Tous ces mille tourments que l'amour fait d'une ombre,",
+                    "metre": "6+6",
+                    "rhyme": "76"
+                },
+                {
+                    "verse": "Ces boutades et puis tous ces accords sans nombre",
+                    "metre": "6+6",
+                    "rhyme": "76"
+                },
+                {
+                    "verse": "Que suscite l'amour pour peu qu'on soit jaloux.",
+                    "metre": "6+6",
+                    "rhyme": "77"
+                }
+            ],
+            [
+                {
+                    "verse": "C'\u00e9tait ainsi chez eux ; d'accord, brouill\u00e9s encore ;",
+                    "metre": "6+6",
+                    "rhyme": "27"
+                },
+                {
+                    "verse": "Et plus on est brouill\u00e9, mieux apr\u00e8s on s'adore :",
+                    "metre": "6+6",
+                    "rhyme": "27"
+                },
+                {
+                    "verse": "C'est la r\u00e8gle en amour, point d'uniformit\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Un plaisir qu'on acquiert sans d\u00e9sirs est bien fade.",
+                    "metre": "6+6",
+                    "rhyme": "78"
+                },
+                {
+                    "verse": "Mais je vous vois rougir de ma sotte incartade ;",
+                    "metre": "6+6",
+                    "rhyme": "78"
+                },
+                {
+                    "verse": "Veuillez me pardonner cette immoralit\u00e9\u2026",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                }
+            ],
+            [
+                {
+                    "verse": "L'ivresse de Louis ne peut pas se d\u00e9crire.",
+                    "metre": "6+6",
+                    "rhyme": "79"
+                },
+                {
+                    "verse": "Il avait ignor\u00e9 jusqu'alors qu'un sourire,",
+                    "metre": "6+6",
+                    "rhyme": "79"
+                },
+                {
+                    "verse": "Un mot, un seul regard, c'\u00e9tait l\u00e0 du bonheur.",
+                    "metre": "6+6",
+                    "rhyme": "63"
+                },
+                {
+                    "verse": "\u2014 Oh ! merci ! disait-il, merci pour ta tendresse",
+                    "metre": "6+6",
+                    "rhyme": "80"
+                },
+                {
+                    "verse": "Car elle a de mon c\u0153ur dissip\u00e9 la tristesse",
+                    "metre": "6+6",
+                    "rhyme": "80"
+                },
+                {
+                    "verse": "Et le nuage obscur qui pesait sur mon c\u0153ur.",
+                    "metre": "6+6",
+                    "rhyme": "63"
+                }
+            ],
+            [
+                {
+                    "verse": "Au seul bruit de ta voix, j'ai senti fuir le doute,",
+                    "metre": "6+6",
+                    "rhyme": "81"
+                },
+                {
+                    "verse": "Et, pr\u00eat \u00e0 succomber,' j'ai poursuivi ma route ;",
+                    "metre": "6+6",
+                    "rhyme": "81"
+                },
+                {
+                    "verse": "Car, seul, abandonn\u00e9, moi je voulais mourir.",
+                    "metre": "6+6",
+                    "rhyme": "82"
+                },
+                {
+                    "verse": "Chacun me repoussait ; maintenant je veux vivre.",
+                    "metre": "6+6",
+                    "rhyme": "83"
+                },
+                {
+                    "verse": "Tu m'aimes ! n'est-ce pas ? Oh ! ton amour m'enivre ;",
+                    "metre": "6+6",
+                    "rhyme": "83"
+                },
+                {
+                    "verse": "J'ai v\u00e9cu de douleur, je mourrai de plaisir !\u2026.",
+                    "metre": "6+6",
+                    "rhyme": "82"
+                }
+            ],
+            [
+                {
+                    "verse": "En \u00e9coutant ces mots, Marie \u00e9tait heureuse.",
+                    "metre": "6+6",
+                    "rhyme": "45"
+                },
+                {
+                    "verse": "Ils se voyaient une heure, heure d\u00e9licieuse.",
+                    "metre": "6+6",
+                    "rhyme": "45"
+                },
+                {
+                    "verse": "La m\u00e8re ne prenait point garde \u00e0 cet amour.",
+                    "metre": "6+6",
+                    "rhyme": "33"
+                },
+                {
+                    "verse": "Vous savez\u2026 la vieillesse est toujours confiante ;",
+                    "metre": "6+6",
+                    "rhyme": "84"
+                },
+                {
+                    "verse": "Et puis, ils parlaient d'elle, et leur flamme innocente",
+                    "metre": "6+6",
+                    "rhyme": "84"
+                },
+                {
+                    "verse": "Lui promettait aussi bien du bonheur un jour.",
+                    "metre": "6+6",
+                    "rhyme": "33"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Louis, tu l'aimeras ? disait alors Marie.",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "\u2014 Je n'ai jamais connu de m\u00e8re dans ma vie :",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Elle m'en tiendra lieu\u2026 Tu vois je l'aimerai.",
+                    "metre": "6+6",
+                    "rhyme": "85"
+                },
+                {
+                    "verse": "\u2014 Nous aurons bien soin d'elle. Oh ! c'est qu'elle est si bonne !",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Nous n'aurons pas besoin, pour vivre, de personne :",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Toi, tu travailleras ; moi, je la soignerai.",
+                    "metre": "6+6",
+                    "rhyme": "85"
+                }
+            ],
+            [
+                {
+                    "verse": "H\u00e9las ! un jour, Louis rentra triste ; \u2014 des larmes",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "S'\u00e9chappaient de ses yeux. \u2014 Quelles sont tes alarmes ?",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Dit Marie effray\u00e9e. \u2014 Il faut partir demain !",
+                    "metre": "6+6",
+                    "rhyme": "41"
+                },
+                {
+                    "verse": "R\u00e9pondit le jeune homme \u2014 Eh ! pourquoi donc ? \u2014 L'arm\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "42"
+                },
+                {
+                    "verse": "Me r\u00e9clame. \u2014 Soldat ! fit Marie accabl\u00e9e\u2026.",
+                    "metre": "6+6",
+                    "rhyme": "42"
+                },
+                {
+                    "verse": "Et son front abattu s'inclina sur sa main.",
+                    "metre": "6+6",
+                    "rhyme": "41"
+                }
+            ],
+            [
+                {
+                    "verse": "Il partit\u2026 Et Marie, en comptant les journ\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Attendait son retour. Il fallait sept ann\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Avant qu'il ne rev\u00eent au pays. C'\u00e9tait long !",
+                    "metre": "6+6",
+                    "rhyme": "86"
+                },
+                {
+                    "verse": "Et nous vivions alors dans ces jours o\u00f9 la guerre",
+                    "metre": "6+6",
+                    "rhyme": "51"
+                },
+                {
+                    "verse": "Du bruit de ses canons \u00e9pouvantait la terre,",
+                    "metre": "6+6",
+                    "rhyme": "51"
+                },
+                {
+                    "verse": "O\u00f9 les rois p\u00e2lissaient devant Napol\u00e9on.",
+                    "metre": "6+6",
+                    "rhyme": "48"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle attendait toujours et prenait du courage ;",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Un bruit dans l'escalier suspendait son ouvrage,",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Elle y courait alors. \u2014 Mon Dieu ! ce n'est pas lui !",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "Disait, en remontant, la pauvre jeune fille.",
+                    "metre": "6+6",
+                    "rhyme": "10"
+                },
+                {
+                    "verse": "Puis elle murmurait,en reprenant l'aiguille : \u2014",
+                    "metre": "6+6",
+                    "rhyme": "87"
+                },
+                {
+                    "verse": "Je crois que.cela fait juste un an aujourd'hui.",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle continuait : \u2014 Je veux \u00eatre jolie,",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Je veux qu'\u00e0 son retour il me trouve embellie.",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Si Louis aujourd'hui, mon Dieu, pouvait me voir",
+                    "metre": "6+6",
+                    "rhyme": "88"
+                },
+                {
+                    "verse": "Comme il serait content ! Je suis encor plus belle",
+                    "metre": "6+6",
+                    "rhyme": "59"
+                },
+                {
+                    "verse": "Chaque minute, aussi, toujours la trouvait-elle",
+                    "metre": "6+6",
+                    "rhyme": "59"
+                },
+                {
+                    "verse": "Consultant le reflet de son petit miroir.",
+                    "metre": "6+6",
+                    "rhyme": "88"
+                }
+            ],
+            [
+                {
+                    "verse": "Il sera g\u00e9n\u00e9ral \u00e0 son retour, peut-\u00eatre !",
+                    "metre": "6+6",
+                    "rhyme": "21"
+                },
+                {
+                    "verse": "Disait la pauvre enfant courant \u00e0 la fen\u00eatre,",
+                    "metre": "6+6",
+                    "rhyme": "21"
+                },
+                {
+                    "verse": "En \u00e9coutant un bruit qu'on entendait dehors.",
+                    "metre": "6+6",
+                    "rhyme": "73"
+                },
+                {
+                    "verse": "Il sera g\u00e9n\u00e9ral ! Comme je serai fi\u00e8re !",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Elle attendait toujours sans savoir, pauvre ouvri\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Que la gloire souvent n'escorte que les morts.",
+                    "metre": "6+6",
+                    "rhyme": "89"
+                }
+            ],
+            [
+                {
+                    "verse": "Enfin, elle attendait, tant\u00f4t triste ou joyeuse,",
+                    "metre": "6+6",
+                    "rhyme": "45"
+                },
+                {
+                    "verse": "Gaie ou sombre aujourd'hui, demain triste ou rieuse.",
+                    "metre": "6+6",
+                    "rhyme": "45"
+                },
+                {
+                    "verse": "Le seuil de sa mansarde \u00e9tait toujours ouvert,",
+                    "metre": "6+6",
+                    "rhyme": "90"
+                },
+                {
+                    "verse": "Comme on fait pour quelqu'un qu'on attend \u00e0 toute heure \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "47"
+                },
+                {
+                    "verse": "Ses yeux semblaient chercher l'absent clans sa demeure,",
+                    "metre": "6+6",
+                    "rhyme": "47"
+                },
+                {
+                    "verse": "Et dans ses cheveux blonds brillait un ruban vert.",
+                    "metre": "6+6",
+                    "rhyme": "90"
+                }
+            ],
+            [
+                {
+                    "verse": "Le clairon a sonn\u00e9\u2026 tout s'\u00e9meut et tout tremble.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On dirait un seul homme \u00e0 voir tout cet ensemble",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De mille bataillons marchant \u00e0 rangs serr\u00e9s\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le silence est partout. L'heure d'une bataille",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "R\u00e9pand un morne effroi. Mais bient\u00f4t la mitraille",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Dissipe la terreur de ces fronts assur\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils vaincront ou mourront ! En avant !\u2026 La victoire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur est promise \u00e0 tous. Ils couvriront de gloire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et d'immortalit\u00e9 leurs drapeaux triomphants.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'o\u00f9 leur vient donc ainsi celte noble assurance ?",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui les guide ? Un g\u00e9nie a fait, par sa pr\u00e9sence,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Passer d'un seul coup d'\u0153il la victoire en leurs rangs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Un seul coup d'\u0153il, un geste, un signe, une parole,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Celle qui fit franchir d'un bond le pont d'Arcole ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car ce g\u00e9nie \u00e9tait le vainqueur d'Austerlitz !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'\u00e9tait Napol\u00e9on ! qui, ravageant la terre,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Dans ses vastes desseins avait r\u00eav\u00e9 de faire",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Des couronnes des rois des jouets pour son fils.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "En avant ! en avant ! la fanfare r\u00e9sonne.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par cent bouches d'airain la mort s'\u00e9lance et tonne,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le champ de bataille est jonch\u00e9 de mourants.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En avant ! vieux soldat, quelles sont donc tes craintes ?",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "N'entends-tu pas ces cris de victoire et de plaintes,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Cet horrible concert que font des combattants ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Napol\u00e9on est l\u00e0 ; son regard, regard d'aigle,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mesure tous les plans ; il court, il vient, il r\u00e8gle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les chances du succ\u00e8s. Il a vu ta valeur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il te fait signe ; approche ! et que ton front s'incline.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Pour payer ton courage, il va, sur la poitrine,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Faire luire, soldat, l'\u00e9toile de l'honneur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Va te faire tuer, maintenant, que t'importe !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu jetteras encor, d'une voix assez forte,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un cri d'enthousiasme, et vive l'Empereur !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais les rangs ennemis faiblissent et s'affaissent ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Leurs derniers bataillons devant vous disparaissent ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Napol\u00e9on encor se prom\u00e8ne vainqueur !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais que de morts, mon Dieu ! dorment dans la poussi\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui pourrait les compter ? Leurs corps couvrent la terre ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A l'appel du clairon ils ne r\u00e9pondront plus.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un lourd sommeil de plomb p\u00e8se sur leur paupi\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils ne reverront plus leurs parents, leur chaumi\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 depuis si longtemps ils \u00e9taient attendus !\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Retournons maintenant \u00e0 la pauvre Marie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que fait-elle ? Elle attend, elle croit, elle prie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un noir pressentiment attriste son amour ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 Oh ! s'il \u00e9tait tu\u00e9 ! \u2014 se disait-elle \u00e9mue.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Un jour, elle descend, en courant, dans la rue :",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Elle avait entendu comme un bruit de tambour.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Un r\u00e9giment passait. \u2014 C'est le sien !\u2026 cria-t-elle. \u2014",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il revient donc, enfin ! Et puis elle chancelle,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car Louis n'\u00e9tait pas parmi tous ces soldats.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle s'informe, alors, elle demande et pleure.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "\u2014 Avez-vous vu Louis ? Pourquoi donc \u00e0 cette heure",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "N'est-il pas' avec vous ? \u2014 On ne r\u00e9pondait pas.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Parlez, dites un mot ; j'\u00e9tais sa s\u0153ur ch\u00e9rie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sa compagne, son bien, le bonheur de sa vie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous voulez m'effrayer, Messieurs, vous avez tort",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tenez, je ris ; parlez, d\u00e9j\u00e0 l'heure s'\u00e9coule ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Pourquoi retardez-vous mon bonheur ? \u2014 De la foule",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Une voix s'\u00e9chappa, disant : \u2014 Louis est mort !\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Mort !!\u2026 \u2014 Ce cri de l'enfant fut la seule parole,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et puis elle tomba pour se relever folle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lorsque de sa mansarde elle prit le chemin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ses yeux \u00e9taient hagards ; pas une plainte am\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ne sortait de sa bouche ; elle embrassa sa m\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui, quelques jours apr\u00e8s, expirait de chagrin !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oh ! comme tout \u00e9tait chang\u00e9 dans la mansarde !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plus de chant, plus d'ouvrage, et la lueur blafarde",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'une lampe \u00e9clairait tout ce morne abandon.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les voisins, par piti\u00e9, secouraient la mis\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "De Marie, accroupie au foyer solitaire,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et qui semblait n'avoir retenu qu'un seul nom.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La nuit, on l'entendait parfois \u00e0 sa fen\u00eatre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pousser un long \u00e9clat de rire. \u2014 Il va para\u00eetre !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Criait-elle aux passants\u2026 Il revient aujourd'hui !\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Parfois, elle arr\u00eatait un soldat au passage ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Elle le regardait en dessous du visage,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Puis, le laissait aller, disant : \u2014 Ce n'est pas lui.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle avait enlev\u00e9, dans un moment lucide,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son ruban vert, h\u00e9las ! de tant de pleurs humide",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A quoi bon d\u00e9sormais l'embl\u00e8me de l'espoir !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Seulement et parfois, aux jeunes amoureuses,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "De leur bonheur pr\u00e9sent si fi\u00e8res, si joyeuses,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC9",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "A MADAME H\u00c9BERT-MASSY",
+        "profile": "8, 6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC9_7",
+        "text": [
+            [
+                {
+                    "verse": "On m'a dit que, passant certain jour par un bois,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous chant\u00e2tes, Madame, et que la gent \u00e0 plume",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "(Celle des rossignols) entendant votre voix,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, confuse \u00e0 vos chants, se mit \u00e0 d\u00e9serter",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            []
+        ]
+    },
+    {
+        "code": "DUC_1/DUC10",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "LE BOUTON DE LA ROSE",
+        "profile": "6+6, 4+6, 8",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC10_7",
+        "text": [
+            [
+                {
+                    "verse": "Une rose \u00e9talait ses brillantes couleurs ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le soleil chaque jour la dore d'un rayon.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La rose s'inclinant laissa voir un bouton.",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nous venons d\u00e9j\u00e0 te faire notre cour ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "On se tut\u2026 Et, soudain entr'ouvrant son calice,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le boulon, rose alors, leur offrit le pr\u00e9mice",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il vous dira le nom de la rose adorable,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et seule vous pourrez deviner le bouton.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC11",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "A MADEMOISELLE E. H.",
+        "profile": "6+6, 4+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC11_7",
+        "text": [
+            [
+                {
+                    "verse": "Une douce aur\u00e9ole, un rayon, une flamme.",
+                    "metre": "4+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 tout homme faibl\u00eet quand le doute l'accable,",
+                    "metre": "4+6",
+                    "rhyme": "b"
+                }
+            ],
+            []
+        ]
+    },
+    {
+        "code": "DUC_1/DUC12",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "LE R\u00caVE D'UN ANGE",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC12_7",
+        "text": [
+            [
+                {
+                    "verse": "Oh ! ma m\u00e8re ! pourquoi ces pleurs",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'en secret je te vois r\u00e9pandre ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu me dis, h\u00e9las ! que je meurs !\u2026",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Non ; dans le ciel je vais me rendre.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est-ce mourir d'aller \u00e0 Dieu",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Go\u00fbter un bonheur sans m\u00e9lange ?",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Que de fuir ce terrestre lieu",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Pour aller vivre comme un ange ?",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Lorsque aupr\u00e8s de moi tu veillais,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que la nuit couvrait de son voile",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le monde, et que je sommeillais,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur mon front une blanche \u00e9toile",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est descendue, et puis, mes yeux",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ont vu de splendides phalanges.",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Oui, ma m\u00e8re, j'ai vu les cieux,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Les cieux remplis de petits anges\u2026",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "j'ai vu, m\u00e8re, j'ai vu Celui",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont tu m'as appris la tendresse,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que tu m'as dit \u00eatre l'appui",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du faible que chacun d\u00e9laisse ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans des jardins toujours fleuris,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "J'ai vu bien des choses \u00e9tranges :",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "J'\u00e9tais, je crois, au paradis",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et je jouais avec les anges.",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous allions sur des buissons d'or",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cueillir des fleurs toujours nouvelles,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que l'on jetait pour prendre encor",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'autres fleurs mille fois plus belles,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "El nous les tressions en festons",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Aux accords des saintes louanges ;",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Au Dieu d'amour nous les offrions,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et Dieu souriait \u00e0 ses anges.",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Devant ce Dieu tout de bont\u00e9",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je tremblais et n'osais para\u00eetre,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand sur ton fils il a jet\u00e9",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un doux regard, et ce bon ma\u00eetre",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M'a dit : \u2014 Je l'ai bien entendu :",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Veux-tu pour tes mortelles langes",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Le nymbe d'or ? \u2014 J'ai r\u00e9pondu :",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Je veux rester avec tes anges !",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Et quittant alors le bon Dieu,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Redescendant vers toi, ma m\u00e8re,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je suis venu te dire : adieu !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puis m'envoler loin de la terre.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mon \u00e2me, pour le paradis,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Va fuir un corps p\u00e9tri de fange.",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Ici-bas si tu perds un fils,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "L\u00e0-haut tu trouveras un ange.",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC13",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "JOUEZ, ENFANTS !",
+        "profile": "6+6, 8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC13_7",
+        "text": [
+            [
+                {
+                    "verse": "Avec tous ses tourments, son hiver, sa tristesse.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Plus de m\u00e8re, demain, pour calmer vos alarmes !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Jusqu'\u00e0 demain encor gardez votre innocence.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC14",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "LE CHEVAL ET LE MULET",
+        "profile": "6+6, 8, 7",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC14_7",
+        "text": [
+            [
+                {
+                    "verse": "Que mon sort est cent fois plus noble que le tien.",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car je sers le travail\u2026 toi, tu sers la paresse.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DUC_1/DUC15",
+        "author": "Alexandre Ducros",
+        "work": "Les Capricieuses",
+        "date": "1854",
+        "title": "A MA NI\u00c8CE",
+        "profile": "8",
+        "structure": "double ballade",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=DUC_1&code_text=DUC15_7",
+        "text": [
+            [
+                {
+                    "verse": "Petite enfant, chacun s'empresse",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De te sourire tour-\u00e0-tour.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour toi, baisers, tendre caresse",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sont prodigu\u00e9s avec amour.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si tu pleures, on te console",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Par des doux mots, et doucement",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Le chagrin loin de toi s'envole\u2026",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ah ! que ne suis-je encore enfant !",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu ne connais que les doux charmes",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que l'on r\u00e9pand sur ton berceau.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si parfois tu verses des larmes,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Apr\u00e8s, ton sourire est plus beau.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nul ami ne calme ma peine ;",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Nulle main vers moi ne se tend ;",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "De noirs chagrins mon \u00e2me est pleine.",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ah ! que ne suis-je encore enfant !",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu ne demandes qu'\u00e0 sourire,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu ne demandes que des jeux.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Homme, aujourd'hui, moi je soupire,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand tout enfant j'\u00e9tais heureux.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Homme, j'ai connu les alarmes ;",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Enfant, j'\u00e9tais insouciant :",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Je riais !\u2026 Je verse des larmes !\u2026",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ah ! que ne suis-je encore enfant",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "La croyance \u00e9tait sur ma route",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "(Car, innocent, on croit \u00e0 tout),",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais l'\u00e2ge a fait na\u00eetre le doute ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Homme, la foi n'est plus debout.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les r\u00eaves d'or de mon enfance,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "R\u00eaves b\u00e9nis que j'aimais tant,",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Ont fui devant l'indiff\u00e9rence\u2026",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ah ! que ne suis-je encore enfant !",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme toi, j'ai cru que la vie",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'aurait jamais que de beaux jours\u2026",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'ai pris sa coupe\u2026 h\u00e9las ! la lie",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A ma l\u00e8vre se pend toujours !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour apaiser ma soif br\u00fblante,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Je voulus y boire en passant\u2026",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "De son poison la marche est lente !\u2026",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ah ! que ne suis-je encore enfant !",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme toi, sous le vert feuillage,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'irais courir, et, sans effroi,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au flot limpide du rivage",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'irais me mirer comme toi\u2026",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je n'aimerais que la voix douce",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "De l'oiseau qui redit son chant ;",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "J'aimerais fleur, fruit ruisseau, mousse\u2026",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Que ne peux-tu rester enfant !",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    }
+]

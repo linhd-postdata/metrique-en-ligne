@@ -1,0 +1,41 @@
+[
+    {
+        "code": "MOR_2/MOR24",
+        "author": "Jean Mor\u00e9as",
+        "work": "Les Cantil\u00e8nes",
+        "date": "1886",
+        "title": "Les Cantil\u00e8nes",
+        "profile": "5=6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=MOR_2&code_text=MOR24_7",
+        "text": [
+            [
+                {
+                    "verse": "Le soir n'est plus des ganses et de la danse.",
+                    "metre": "6+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tel un petit vieillard qui tombe en enfance,",
+                    "metre": "6+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous prenons le go\u00fbt des vieux colifichets :",
+                    "metre": "5+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Souvenirs fl\u00e9tris comme un jardin d'Octobre,",
+                    "metre": "5+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "R\u00eaves radoteurs, orgueils que vous fauchez,",
+                    "metre": "5+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

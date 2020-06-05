@@ -1,0 +1,4301 @@
+[
+    {
+        "code": "APO_2/APO31",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Zone",
+        "profile": "",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO31_7",
+        "text": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "APO_2/APO32",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Le pont Mirabeau",
+        "profile": "6, 7, 4, 4=6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO32_7",
+        "text": [
+            [
+                {
+                    "verse": "Sous le pont Mirabeau coule la Seine",
+                    "metre": "6+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La joie venait toujours apr\u00e8s la peine.",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ],
+            [],
+            [
+                {
+                    "verse": "Les mains dans les mains restons face \u00e0 face",
+                    "metre": "4\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des \u00e9ternels regards l'onde si lasse",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ],
+            [],
+            [
+                {
+                    "verse": "L'amour s'en va comme cette eau courante",
+                    "metre": "4+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et comme l'Esp\u00e9rance est violente",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ],
+            [],
+            [
+                {
+                    "verse": "Passent les jours et passent les semaines",
+                    "metre": "4+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous le pont Mirabeau coule la Seine",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO39",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Les colchiques",
+        "profile": "5=8, 6, 6+6, 6=8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO39_7",
+        "text": [
+            [
+                {
+                    "verse": "Le pr\u00e9 est v\u00e9n\u00e9neux mais joli en automne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les vaches y paissant",
+                    "metre": "6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lentement s'empoisonnent",
+                    "metre": "6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le colchique couleur de cerne et de lilas",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Y fleurit tes yeux sont comme cette fleur-la",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Viol\u00e2tres comme leur cerne et comme cet automne",
+                    "metre": "8+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et ma vie pour tes yeux lentement s'empoisonne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les enfants de l'\u00e9cole viennent avec fracas",
+                    "metre": "8+5",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "V\u00eatus de hoquetons et jouant de l'harmonica",
+                    "metre": "6+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ils cueillent les colchiques qui sont comme des m\u00e8res",
+                    "metre": "8+5",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Filles de leurs filles et sont couleur de tes paupi\u00e8res",
+                    "metre": "8+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui battent comme les fleurs battent au vent d\u00e9ment",
+                    "metre": "8+5",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Le gardien du troupeau chante tout doucement",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tandis que lentes et meuglant les vaches abandonnent",
+                    "metre": "6+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour toujours ce grand pr\u00e9 mal fleuri par l'automne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO40",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Palais",
+        "profile": "6=6, 6",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO40_7",
+        "text": [
+            [
+                {
+                    "verse": "Vers le palais de Rosemonde au fond du R\u00eave",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mes r\u00eaveuses pens\u00e9es pieds nus vont en soir\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le palais don du roi comme un roi nu s'\u00e9l\u00e8ve",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des chairs fouett\u00e9es des roses de la roseraie",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "On voit venir au fond du jardin mes pens\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui sourient du concert jou\u00e9 par les grenouilles",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elles ont envie des cypr\u00e8s grandes quenouilles",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et le soleil miroir des roses s'est bris\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Le stigmate sanglant des mains contre les vitres",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quel archet mal bless\u00e9 du couchant le troua",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La r\u00e9sine qui rend amer le vin de Chypre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ma bouche aux agapes d'agneau blanc l'\u00e9prouva",
+                    "metre": "8+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Sur les genoux pointus du monarque adult\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur le mai de son \u00e2ge et sur son trente et un",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Madame Rosemonde roule avec myst\u00e8re",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ses petits yeux tout ronds pareils aux yeux des Huns",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Dame de mes pens\u00e9es au cul de perle fine",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dont ni perle ni cul n'\u00e9gale l'orient",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui donc attendez-vous",
+                    "metre": "6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De r\u00eaveuses pens\u00e9es en marche \u00e0 l'Orient",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mes plus belles voisines",
+                    "metre": "6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Toc toc Entrez dans l'antichambre le jour baisse",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La veilleuse dans l'ombre est un bijou d'or cuit",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pendez vos t\u00eates aux pat\u00e8res par les tresses",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le ciel presque nocturne a des lueurs d'aiguilles",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "On entra dans la salle \u00e0 manger les narines",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Reniflaient une odeur de graisse et de graillon",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On eut vingt potages dont trois couleurs d'urine",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et le roi prit deux \u0153ufs poch\u00e9s dans du bouillon",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Puis les marmitons apport\u00e8rent les viandes",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des r\u00f4tis de pens\u00e9es mortes dans mon cerveau",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mes beaux r\u00eaves mort-n\u00e9s en tranches bien saignantes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et mes souvenirs faisand\u00e9s en godiveaux",
+                    "metre": "8+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Or ces pens\u00e9es mortes depuis des mill\u00e9naires",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Avaient le fade go\u00fbt des grands mammouths gel\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les os ou songe-creux venaient des ossuaires",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En danse macabre aux plis de mon cervelet",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et tous ces mets criaient des choses nonpareilles",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et les convives mastiquaient \u00e0 qui mieux mieux",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ah! nom de Dieu! qu'ont donc cri\u00e9 ces entrec\u00f4tes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ces grands p\u00e2t\u00e9s ces os \u00e0 moelle et mirotons",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Langues de feu o\u00f9 sont-elles mes pentec\u00f4tes",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour mes pens\u00e9es de tous pays de tous les temps",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO41",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Chantre",
+        "profile": "12i",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO41_7",
+        "text": [
+            [
+                {
+                    "verse": "Et l'unique cordeau des trompettes marines",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO42",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Cr\u00e9puscule",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO42_7",
+        "text": [
+            [
+                {
+                    "verse": "Fr\u00f4l\u00e9e par les ombres des morts",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur l'herbe o\u00f9 le jour s'ext\u00e9nue",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'arlequine s'est mise nue",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et dans l'\u00e9tang mire son corps",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Un charlatan cr\u00e9pusculaire",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vante les tours que l'on va faire",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le ciel sans teinte est constell\u00e9",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'astres p\u00e2les comme du lait",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sur les tr\u00e9taux l'arlequin bl\u00eame",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Salue d'abord les spectateurs",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des sorciers venus de Boh\u00eame",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quelques f\u00e9es et les enchanteurs",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ayant d\u00e9croch\u00e9 une \u00e9toile",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il la manie \u00e0 bras tendu",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tandis que des pieds un pendu",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sonne en mesure les cymbales",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "L'aveugle berce un bel enfant",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La biche passe avec ses faons",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le nain regarde d'un air triste",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Grandir l'arlequin trism\u00e9giste",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO43",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Annie",
+        "profile": "",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO43_7",
+        "text": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "APO_2/APO44",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "La maison des morts",
+        "profile": "",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO44_7",
+        "text": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "APO_2/APO45",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Clotilde",
+        "profile": "8, 7",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO45_7",
+        "text": [
+            [
+                {
+                    "verse": "L'an\u00e9mone et l'ancolie",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ont pouss\u00e9 dans le jardin",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 dort la m\u00e9lancolie",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Entre l'amour et le d\u00e9dain",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Il y vient aussi nos ombres",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que la nuit dissipera",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le soleil qui les rend sombres",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec elles dispara\u00eetra",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Les d\u00e9it\u00e9s des eaux vives",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Laissent couler leurs cheveux",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Passe il faut que tu poursuives",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cette belle ombre que tu veux",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO46",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Cort\u00e8ge",
+        "profile": "",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO46_7",
+        "text": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "APO_2/APO47",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Marizibill",
+        "profile": "8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO47_7",
+        "text": [
+            [
+                {
+                    "verse": "Dans la Haute-Rue \u00e0 Cologne",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elle allait et venait le soir",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Offerte \u00e0 tous en tout mignonne",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puis buvait lasse des trottoirs",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tr\u00e8s tard dans les brasseries borgnes",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Elle se mettait sur la paille",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour un maquereau roux et rose",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'\u00e9tait un juif il sentait l'ail",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et l'avait venant de Formose",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tir\u00e9e d'un bordel de Changa\u00ef",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Je connais gens de toutes sortes",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ils n'\u00e9galent pas leurs destins",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ind\u00e9cis comme feuilles mortes",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Leurs yeux sont des feux mal \u00e9teints",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Leurs c\u0153urs bougent comme leurs portes",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO48",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Le voyageur",
+        "profile": "",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO48_7",
+        "text": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "APO_2/APO49",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Marie",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO49_7",
+        "text": [
+            [
+                {
+                    "verse": "Vous y dansiez petite fille",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Y danserez-vous m\u00e8re-grand",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est la maclotte qui sautille",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Toutes les cloches sonneront",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand donc reviendrez-vous Marie",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les masques sont silencieux",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et la musique est si lointaine",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'elle semble venir des cieux",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oui je veux vous aimer mais vous aimer \u00e0 peine",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et mon mal est d\u00e9licieux",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les brebis s'en vont dans la neige",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Flocons de laine et ceux d'argent",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des soldats passent et que n'ai-je",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un c\u0153ur \u00e0 moi ce c\u0153ur changeant",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Changeant et puis encor que sais-je",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sais-je o\u00f9 s'en iront tes cheveux",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cr\u00e9pus comme mer qui moutonne",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sais-je o\u00f9 s'en iront tes cheveux",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et tes mains feuilles de l'automne",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que jonchent aussi nos aveux",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je passais au bord de la Seine",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un livre ancien sous le bras",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le fleuve est pareil \u00e0 ma peine",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il s'\u00e9coule et ne tarit pas",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand donc finira la semaine",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO50",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "La blanche neige",
+        "profile": "4, 8, 4=5",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO50_7",
+        "text": [
+            [
+                {
+                    "verse": "Les anges les anges dans le ciel",
+                    "metre": "5+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'un est v\u00eatu en officier",
+                    "metre": "4+5",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'un est v\u00eatu en cuisinier",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Bel officier couleur du ciel",
+                    "metre": "5+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le doux printemps longtemps apr\u00e8s No\u00ebl",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Te m\u00e9daillera d'un beau soleil",
+                    "metre": "5+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Le cuisinier plume les oies",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ma bien-aim\u00e9e entre mes bras",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO51",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Po\u00e8me lu au mariage d'Andr\u00e9 Salmon",
+        "profile": "",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO51_7",
+        "text": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "APO_2/APO52",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "L'Adieu",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO52_7",
+        "text": [
+            [
+                {
+                    "verse": "J'ai cueilli ce brin de bruy\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'automne est morte souviens-t'en",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous ne nous verrons plus sur terre",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Odeur du temps brin de bruy\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et souviens-toi que je t'attends",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO53",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Salom\u00e9",
+        "profile": "6, 6\u22126",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO53_7",
+        "text": [
+            [
+                {
+                    "verse": "Pour que sourie encore une fois Jean-Baptiste",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sire je danserais mieux que les s\u00e9raphins",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ma m\u00e8re dites-moi pourquoi vous \u00eates triste",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En robe de comtesse \u00e0 c\u00f4t\u00e9 du Dauphin",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mon c\u0153ur battait battait tr\u00e8s fort \u00e0 sa parole",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand je dansais dans le fenouil en \u00e9coutant",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et je brodais des lys sur une banderole",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Destin\u00e9e \u00e0 flotter au bout de son b\u00e2ton",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et pour qui voulez-vous qu'\u00e0 pr\u00e9sent je la brode",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son b\u00e2ton refleurit sur les bords du Jourdain",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et tous les lys quand vos soldats \u00f4 roi H\u00e9rode",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'emmen\u00e8rent se sont fl\u00e9tris dans mon jardin",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Venez tous avec moi l\u00e0-bas sous les quinconces",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Prends cette t\u00eate au lieu de ta marotte et danse",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'y touchez pas son front ma m\u00e8re est d\u00e9j\u00e0 froid",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Sire marchez devant trabants marchez derri\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous creuserons un trou et l'y enterrerons",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous planterons des fleurs et danserons en rond",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jusqu'\u00e0 l'heure o\u00f9 j'aurai perdu ma jarreti\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO54",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "La porte",
+        "profile": "6=6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO54_7",
+        "text": [
+            [
+                {
+                    "verse": "La porte de l'h\u00f4tel sourit terriblement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'est-ce que cela peut me faire \u00f4 ma maman",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'\u00eatre cet employ\u00e9 pour qui seul rien n'existe",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pi-mus couples allant dans la profonde eau triste",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Anges frais d\u00e9barqu\u00e9s \u00e0 Marseille hier matin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'entends mourir et remourir un chant lointain",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Humble comme je suis qui ne suis rien qui vaille",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Enfant je t'ai donn\u00e9 ce que j'avais travaille",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO55",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Merlin et la vieille femme",
+        "profile": "6=6",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO55_7",
+        "text": [
+            [
+                {
+                    "verse": "Le soleil ce jour-l\u00e0 s'\u00e9talait comme un ventre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Maternel qui saignait lentement sur le ciel",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La lumi\u00e8re est ma m\u00e8re \u00f4 lumi\u00e8re sanglante",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les nuages coulaient comme un flux menstruel",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Au carrefour o\u00f9 nulle fleur sinon la rose",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des vents mais sans \u00e9pine n'a fleuri l'hiver",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Merlin guettait la vie et l'\u00e9ternelle cause",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui fait mourir et puis rena\u00eetre l'univers",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Une vieille sur une mule \u00e0 chape verte",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'en vint suivant la berge du fleuve en aval",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et l'antique Merlin dans la plaine d\u00e9serte",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Se frappait la poitrine en s'\u00e9criant Rival",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "O mon \u00eatre glac\u00e9 dont le destin m'accable",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dont ce soleil de chair grelotte veux-tu voir",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ma M\u00e9moire venir et m'aimer ma semblable",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et quel fils malheureux et beau je veux avoir",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Son geste fit crouler l'orgueil des cataclysmes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le soleil en dansant remuait son nombril",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et soudain le printemps d'amour et d'h\u00e9ro\u00efsme",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Amena par la main un jeune jour d'avril",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les voies qui viennent de l'ouest \u00e9taient couvertes",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'ossements d'herbes drues de destins et de fleurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des monuments tremblants pr\u00e8s des charognes vertes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand les vents apportaient des poils et des malheurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Laissant sa mule \u00e0 petits pas s'en vint l'amante",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "A petits coups le vent d\u00e9fripait ses atours",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puis les p\u00e2les amants joignant leurs mains d\u00e9mentes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'entrelacs de leurs doigts fut leur seul laps d'amour",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Elle balla mimant un rythme d'existence",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Criant Depuis cent ans j'esp\u00e9rais ton appel",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les astres de ta vie influaient sur ma danse",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Morgane regardait du haut du mont Gibel",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ah! qu'il fait doux danser quand pour vous se d\u00e9clare",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un mirage o\u00f9 tout chante et que les vents d'horreur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Feignent d'\u00eatre le rire de la lune hilare",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et d'effrayer les fant\u00f4mes avants-coureurs",
+                    "metre": "4+8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "J'ai fait des gestes blancs parmi les solitudes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des l\u00e9mures couraient peupler les cauchemars",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mes tournoiements exprimaient les b\u00e9atitudes",
+                    "metre": "4+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui toutes ne sont rien qu'un pur effet de l'Art",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Je n'ai jamais cueilli que la fleur d'aub\u00e9pine",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux printemps finissants qui voulaient d\u00e9fleurir",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand les oiseaux de proie proclamaient leurs rapines",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'agneaux mort-n\u00e9s et d'enfants-dieux qui vont mourir",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et j'ai vieilli vois-tu pendant ta vie je danse",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais j'eusse \u00e9t\u00e9 t\u00f4t lasse et l'aub\u00e9pine en fleurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Cet avril aurait eu la pauvre confidence",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un corps de vieille morte en mimant la douleur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et leurs mains s'\u00e9levaient comme un vol de colombes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Clart\u00e9 sur qui la nuit fondit comme un vautour",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puis Merlin s'en alla vers l'est disant Qu'il monte",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le fils de ma M\u00e9moire \u00e9gale de l'Amour",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Qu'il monte de la fange ou soit une ombre d'homme",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il sera bien mon fils mon ouvrage immortel",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le front nimb\u00e9 de feu sur le chemin de Rome",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il marchera tout seul en regardant le ciel",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "La dame qui m'attend se nomme Viviane",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et vienne le printemps des nouvelles douleurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Couch\u00e9 parmi la marjolaine et les pas-d'\u00e2ne",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je m'\u00e9terniserai sous l'aub\u00e9pine en fleurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO56",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Saltimbanques",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO56_7",
+        "text": [
+            [
+                {
+                    "verse": "Dans la plaine les baladins",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'\u00e9loignent au long des jardins",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Devant l'huis des auberges grises",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Par les villages sans \u00e9glises",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et les enfants s'en vont devant",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les autres suivent en r\u00eavant",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chaque arbre fruitier se r\u00e9signe",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand de tr\u00e8s loin ils lui font signe",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils ont des poids ronds ou carr\u00e9s",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des tambours des cerceaux dor\u00e9s",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'ours et le singe animaux sages",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu\u00eatent des sous sur leur passage",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO57",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Le larron",
+        "profile": "6\u00f76",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO57_7",
+        "text": [
+            [
+                {
+                    "verse": "Maraudeur \u00e9tranger malheureux malhabile",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Voleur voleur que ne demandais-tu ces fruits",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais puisque tu as faim que tu es en exil",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il pleure il est barbare et bon pardonnez-lui",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Je confesse le vol des fruits doux des fruits m\u00fbrs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais ce n'est pas l'exil que je viens simuler",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et sachez que j'attends de moyennes tortures",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Injustes si je rends tout ce que j'ai vol\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Issu de l'\u00e9cume des mers comme Aphrodite",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sois docile puisque tu es beau Naufrag\u00e9",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vois les sages te font des gestes socratiques",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vous parlerez d'amour quand il aura mang\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Maraudeur \u00e9tranger malhabile et malade",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ton p\u00e8re fut un sphinx et ta m\u00e8re une nuit",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui charma de lueurs Zacinthe et les Cyclades",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "As-tu feint d'avoir faim quand tu volas les fruits",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Possesseurs de fruits m\u00fbrs que dirai-je aux insultes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ou\u00efr ta voix ligure en n\u00e9nie \u00f4 maman",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puisqu'ils n'eurent enfin la pub\u00e8re et l'adulte",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De pr\u00e9texte sinon de s'aimer nuitamment",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Il y avait des fruits tout ronds comme des \u00e2mes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et des amandes de pomme de pin jonchaient",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Votre jardin marin o\u00f9 j'ai laiss\u00e9 mes rames",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et mon couteau punique au pied de ce p\u00eacher",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les citrons couleur d'huile et \u00e0 saveur d'eau froide",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pendaient parmi les fleurs des citronniers tordus",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les oiseaux de leur bec ont bless\u00e9 vos grenades",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et presque toutes les figues \u00e9taient fendues",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Il entra dans la salle aux fresques qui figurent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'inceste solaire et nocturne dans les nues",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Assieds-toi l\u00e0 pour mieux ou\u00efr les voix ligures",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au son des cinyres des Lydiennes nues",
+                    "metre": "12",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Or les hommes ayant des masques de th\u00e9\u00e2tre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et les femmes ayant des colliers o\u00f9 pendaient",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La pierre prise au foie d'un vieux coq de Tanagre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Parlaient entre eux le langage de la Chald\u00e9e",
+                    "metre": "4+8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les autans langoureux dehors feignaient l'automne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les convives c'\u00e9taient tant de couples d'amants",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui dirent tour \u00e0 tour Voleur je te pardonne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Re\u00e7ois d'abord le sel puis le pain de froment",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Le brouet qui froidit sera fade \u00e0 tes l\u00e8vres",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais l'outre en peau de bouc maintient frais le vin blanc",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Par ironie veux-tu qu'on serve un plat de f\u00e8ves",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ou des beignets de fleurs tremp\u00e9s dans du miel blond",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Une femme lui dit Tu n'invoques personne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Crois-tu donc au hasard qui coule au sablier",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Voleur connais-tu mieux les lois malgr\u00e9 les hommes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Veux-tu le talisman heureux de mon collier",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Larron des fruits tourne vers moi tes yeux lyriques",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Emplissez de noix la besace du h\u00e9ros",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il est plus noble que le paon pythagorique",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le dauphin la vip\u00e8re m\u00e2le ou le taureau",
+                    "metre": "8+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Qui donc es-tu toi qui nous vins gr\u00e2ce au vent scythe",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il en est tant venu par la route ou la mer",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Conqu\u00e9rants \u00e9gar\u00e9s qui s'\u00e9loignaient trop vite",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Colonnes de clins d'yeux qui fuyaient aux \u00e9clairs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Un homme b\u00e8gue ayant au front deux jets de flammes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Passa menant un peuple infime pour l'orgueil",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De manger chaque jour les cailles et la manne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et d'avoir vu la mer ouverte comme un \u0153il",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les puiseurs d'eau barbus coiff\u00e9s de bandelettes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Noires et blanches contre les maux et les sorts",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Revenaient de l'Euphrate et les yeux des chouettes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Attiraient quelquefois les chercheurs de tr\u00e9sors",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Cet insecte jaseur \u00f4 po\u00e8te barbare",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Regagnait chastement \u00e0 l'heure d'y mourir",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La for\u00eat pr\u00e9cieuse aux oiseaux gemmipares",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux crapauds que l'azur et les sources m\u00fbrirent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Un triomphe passait g\u00e9mir sous l'arc-en-ciel",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Avec de bl\u00eames laur\u00e9s debout dans les chars",
+                    "metre": "4+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les statues suant les scurriles les agnelles",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et l'angoisse rauque des paonnes et des jars",
+                    "metre": "8+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les veuves pr\u00e9c\u00e9daient en \u00e9grenant des grappes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les \u00e9v\u00eaques noir r\u00e9v\u00e9rant sans le savoir",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au triangle isoc\u00e8le ouvert au mors des chapes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pallas et chantaient l'hymne \u00e0 la belle mais noire",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les chevaucheurs nous jet\u00e8rent dans l'avenir",
+                    "metre": "4+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les alcancies pleines de cendre ou bien de fleurs",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nous aurons des baisers florentins sans le dire",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais au jardin ce soir tu vins sage et voleur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ceux de ta secte adorent-ils un signe obsc\u00e8ne",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Belph\u00e9gor le soleil le silence ou le chien",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Cette furtive ardeur des serpents qui s'entr'aiment",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et le larron des fruits cria Je suis chr\u00e9tien",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ah! Ah! les colliers tinteront cherront les masques",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Va-t'en va-t'en contre le feu l'ombre pr\u00e9vaut",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ah! Ah! le larron de gauche dans la bourrasque",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Rira de toi comme hennissent les chevaux",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Larron des fruits tourne vers moi tes yeux lyriques",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Emplissez de noix la besace du h\u00e9ros",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il est plus noble que le paon pythagorique",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le dauphin la vip\u00e8re m\u00e2le ou le taureau",
+                    "metre": "8+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ah! Ah! nous secouerons toute la nuit les sistres",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La voix ligure \u00e9tait-ce donc un talisman",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et si tu n'es pas de droite tu es sinistre",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme une tache grise ou le pressentiment",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Puisque l'absolu choit la chute est une preuve",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui double devient triple avant d'avoir \u00e9t\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nous avouerons que les grossesses nous \u00e9meuvent",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les ventres pourront seuls nier l'as\u00e9it\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Vois les vases sont pleins d'humides fleurs morales",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Va-t'en mais d\u00e9nud\u00e9 puisque tout est \u00e0 nous",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ou\u00efs du ch\u0153ur des vents les cadences plagales",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et prends l'arc pour tuer l'unicorne ou le gnou",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "L'ombre \u00e9quivoque et tendre est le deuil de ta chair",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et sombre elle est humaine et puis la n\u00f4tre aussi",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Va-t'en le cr\u00e9puscule a des lueurs l\u00e9g\u00e8res",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et puis aucun de nous ne croirait tes r\u00e9cits",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Il brillait et attirait comme la pantaure",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que n'avait-il la voix et les jupes d'Orph\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et les femmes la nuit feignant d'\u00eatre des taures",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'eussent aim\u00e9 comme on l'aima puisqu'en effet",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Il \u00e9tait p\u00e2le il \u00e9tait beau comme un roi ladre",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que n'avait-il la voix et les jupes d'Orph\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La pierre prise au foie d'un vieux coq de Tanagre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au lieu du roseau triste et du fun\u00e8bre faix",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Que n'alla-t-il vivre \u00e0 la cour du roi D'\u00c9desse",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Maigre et magique il e\u00fbt scrut\u00e9 le firmament",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "P\u00e2le et magique il e\u00fbt aim\u00e9 des po\u00e9tesses",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Juste et magique il e\u00fbt \u00e9pargn\u00e9 les d\u00e9mons",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Va-t'en errer cr\u00e9dule et roux avec ton ombre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Soit! la triade est m\u00e2le et tu es vierge et froid",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le tact est relatif mais la vue est oblongue",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tu n'as de signe que le signe de la croix",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO58",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Le vent nocturne",
+        "profile": "6\u22126",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO58_7",
+        "text": [
+            [
+                {
+                    "verse": "Oh! les cimes des pins grincent en se heurtant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l'on entend aussi se lamenter l'autan",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et du fleuve prochain \u00e0 grand'voix triomphales",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les elfes rire au vent ou corner aux rafales",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Attys Attys Attys charmant et d\u00e9braill\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est ton nom qu'en la nuit les elfes ont raill\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Parce qu'un de tes pins s'abat au vent gothique",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La for\u00eat fuit au loin comme une arm\u00e9e antique",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dont les lances \u00f4 pins s'agitent au tournant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les villages \u00e9teints m\u00e9ditent maintenant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme les vierges les vieillards et les po\u00e8tes",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ne s'\u00e9veilleront au pas de nul venant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ni quand sur leurs pigeons fondront les gypa\u00e8tes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO59",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Lul de Faltenin",
+        "profile": "8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO59_7",
+        "text": [
+            [
+                {
+                    "verse": "Sir\u00e8nes j'ai ramp\u00e9 vers vos",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Grottes tiriez aux mers la langue",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En dansant devant leurs chevaux",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puis battiez de vos ailes d'anges",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et j'\u00e9coutais ces ch\u0153urs rivaux",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Une arme \u00f4 ma t\u00eate inqui\u00e8te",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "J'agite un feuillard d\u00e9fleuri",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour \u00e9carter l'haleine ti\u00e8de",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'exhalent contre mes grands cris",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vos terribles bouches muettes",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Il y a l\u00e0-bas la merveille",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au prix d'elle que valez-vous",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le sang jaillit de mes otelles",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "A mon aspect et je l'avoue",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le meurtre de mon double orgueil",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Si les bateliers ont ram\u00e9",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Loin des l\u00e8vres \u00e0 fleur de l'onde",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mille et mille animaux charm\u00e9s",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Flairent la route \u00e0 la rencontre",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De mes blessures bien-aim\u00e9es",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Leurs yeux \u00e9toiles bestiales",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c9clairent ma compassion",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'importe ma sagesse \u00e9gale",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Celle des constellations",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Car c'est moi seul nuit qui t'\u00e9toile",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Sir\u00e8nes enfin je descends",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans une grotte avide J'aime",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vos yeux Les degr\u00e9s sont glissants",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au loin que vous devenez naines",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'attirez plus aucun passant",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Dans l'attentive et bien-apprise",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "J'ai vu feuilloler nos for\u00eats",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mer le soleil se gargarise",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 les matelots d\u00e9siraient",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que vergues et m\u00e2ts reverdissent",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Je descends et le firmament",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'est chang\u00e9 tr\u00e8s vite en m\u00e9duse",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puisque je flambe atrocement",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que mes bras seuls sont les excuses",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et les torches de mon tourment",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Oiseaux tiriez aux mers la langue",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le soleil d'hier m'a rejoint",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les otelles nous ensanglantent",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans le nid des Sir\u00e8nes loin",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du troupeau d'\u00e9toiles oblongues",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO60",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "La tzigane",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO60_7",
+        "text": [
+            [
+                {
+                    "verse": "La tzigane savait d'avance",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nos deux vies barr\u00e9es par les nuits",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous lui d\u00eemes adieu et puis",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De ce puits sortit l'Esp\u00e9rance",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "L'amour lourd comme un ours priv\u00e9",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dansa debout quand nous voul\u00fbmes",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l'oiseau bleu perdit ses plumes",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les mendiants leurs Ave",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "On sait tr\u00e8s bien que l'on se damne",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais l'espoir d'aimer en chemin",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous fait penser main dans la main",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A ce qu'a pr\u00e9dit la tzigane",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO61",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "L'ermite",
+        "profile": "6=6",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO61_7",
+        "text": [
+            [
+                {
+                    "verse": "Un ermite d\u00e9chaux pr\u00e8s d'un cr\u00e2ne blanchi",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Cria Je vous maudis martyres et d\u00e9tresses",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Trop de tentations malgr\u00e9 moi me caressent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tentations de lune et de logomachies",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Trop d'\u00e9toiles s'enfuient quand je dis mes pri\u00e8res",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00d4 chef de morte \u00d4 vieil ivoire Orbites Trous",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des narines rong\u00e9es J'ai faim Mes cris s'enrouent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Voici donc pour mon je\u00fbne un morceau de gruy\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 Seigneur flagellez les nu\u00e9es du coucher",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui vous tendent au ciel de si jolis culs roses",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et c'est le soir les fleurs de jour d\u00e9j\u00e0 se closent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et les souris dans l'ombre incantent le plancher",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les humains savent tant de jeux l'amour la mourre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'amour jeu des nombrils ou jeu de la grande oie",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La mourre jeu du nombre illusoire des doigts",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Saigneur faites Seigneur qu'un jour je m'\u00e9namoure",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "J'attends celle qui me tendra ses doigts menus",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Combien de signes blancs aux ongles les paresses",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les mensonges pourtant j'attends qu'elle les dresse",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ses mains \u00e9namour\u00e9es devant moi l'Inconnue",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Seigneur que t'ai-je fait Vois Je suis unicorne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pourtant malgr\u00e9 son bel effroi concupiscent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme un poupon ch\u00e9ri mon sexe est innocent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'\u00eatre anxieux seul et debout comme une borne",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Seigneur le Christ est nu jetez jetez sur lui",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La robe sans couture \u00e9teignez les ardeurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au puits vont se noyer tant de tintements d'heures",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand isochrones choient des gouttes d'eau de pluie",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "J'ai veill\u00e9 trente nuits sous les lauriers-roses",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "As-tu su\u00e9 du sang Christ dans Geths\u00e9mani",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Crucifi\u00e9 r\u00e9ponds Dis non Moi je le nie",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Car j'ai trop esp\u00e9r\u00e9 en vain l'h\u00e9matidrose",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "J'\u00e9coutais \u00e0 genoux toquer les battements",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du c\u0153ur le sang roulait toujours en ses art\u00e8res",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui sont de vieux coraux ou qui sont des clavaires",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et mon aorte \u00e9tait avare \u00e9perdument",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Une goutte tomba Sueur Et sa couleur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lueur Le sang si rouge et j'ai ri des damn\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puis enfin j'ai compris que je saignais du nez",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "A cause des parfums violents de mes fleurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et j'ai ri du vieil ange qui n'est point venu",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De vol tr\u00e8s indolent me tendre un beau calice",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "J'ai ri de l'aile grise et j'\u00f4te mon cilice",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tiss\u00e9 de crins soyeux par de cruels canuts",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Vertuchou Riotant des vulves des papesses",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De saintes sans t\u00e9tons j'irai vers les cit\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et peut-\u00eatre y mourir pour ma virginit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Parmi les mains les peaux les mots et les promesses",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Malgr\u00e9 les autans bleus je me dresse divin",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme un rayon de lune ador\u00e9 par la mer",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En vain j'ai suppli\u00e9 tous les saints a\u00e9m\u00e8res",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aucun n'a consacr\u00e9 mes doux pains sans levain",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et je marche Je fuis \u00f4 nuit Lilith ulule",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et clame vainement et je vois de grands yeux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'ouvrir tragiquement \u00d4 nuit je vois tes cieux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'\u00e9toiler calmement de splendides pilules",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Un squelette de reine innocente est pendu",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "A un long fil d'\u00e9toile en d\u00e9sespoir s\u00e9v\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La nuit les bois sont noirs et se meurt l'espoir vert",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand meurt les jour avec un r\u00e2le inattendu",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et je marche je fuis \u00f4 jour l'\u00e9moi de l'aube",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ferma le regard fixe et doux de vieux rubis",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des hiboux et voici le regard des brebis",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et des truies aux t\u00e9tins roses comme des lobes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Des corbeaux \u00e9ploy\u00e9s comme des tildes font",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Une ombre vaine aux pauvres champs de seigle m\u00fbr",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Non loin des bourgs o\u00f9 des chaumi\u00e8res sont impures",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'avoir des hiboux morts clou\u00e9s \u00e0 leur plafond",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mes kilom\u00e8tres longs Mes tristesses pl\u00e9ni\u00e8res",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les squelettes de doigts terminant les sapins",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ont \u00e9gar\u00e9 ma route et mes r\u00eaves poupins",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Souvent et j'ai dormi au sol des sapini\u00e8res",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Enfin \u00d4 soir p\u00e2m\u00e9 Au bout de mes chemins",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La ville m'apparut tr\u00e8s grave au son des cloches",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et ma luxure meurt \u00e0 pr\u00e9sent que j'approche",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En entrant j'ai b\u00e9ni les foules des deux mains",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Cit\u00e9 j'ai ri de tes palais tels que des truffes",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Blanches au sol fouill\u00e9 de clairi\u00e8res bleues",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Or mes d\u00e9sirs s'en vont tous \u00e0 la queue leu leu",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ma migraine pieuse a coiff\u00e9 sa cucuphe",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Car toutes sont venues m'avouer leurs p\u00e9ch\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et Seigneur je suis saint par le v\u0153u des amantes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Z\u00e9lotide et Lorie Louise et Diamante",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ont dit Tu peux savoir \u00f4 toi l'effarouch\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ermite absous nos fautes jamais v\u00e9nielles",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00d4 toi le pur et le contrit que nous aimons",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sache nos c\u0153urs sache les jeux que nous aimons",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et nos baisers quintessenci\u00e9s comme du miel",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et j'absous les aveux pourpres comme leur sang",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des po\u00e9tesses nues des f\u00e9es des fornarines",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aucun pauvre d\u00e9sir ne gonfle ma poitrine",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lorsque je vois le soir les couples s'enla\u00e7ant",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Car je ne veux plus rien sinon laisser se clore",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mes yeux couple lass\u00e9 au verger pantelant",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Plein du r\u00e2le pompeux des groseillers sanglants",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et de la sainte cruaut\u00e9 des passiflores",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO62",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Automne",
+        "profile": "6+6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO62_7",
+        "text": [
+            [
+                {
+                    "verse": "Dans le brouillard s'en vont un paysan cagneux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et son b\u0153uf lentement dans le brouillard d'automne",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui cache les hameaux pauvres et vergogneux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et s'en allant l\u00e0-bas le paysan chantonne",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une chanson d'amour et d'infid\u00e9lit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui parle d'une bague et d'un c\u0153ur que l'on brise",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oh! l'automne l'automne a fait mourir l'\u00e9t\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans le brouillard s'en vont deux silhouettes grises",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO63",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "L'\u00c9migrant de Landor Road",
+        "profile": "6\u00f76, 6, 8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO63_7",
+        "text": [
+            [
+                {
+                    "verse": "Le chapeau \u00e0 la main il entra du pied droit",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chez un tailleur tr\u00e8s chic et fournisseur du roi",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce commer\u00e7ant venait de couper quelques t\u00eates",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De mannequins v\u00eatus comme il faut qu'on se v\u00eate",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "La foule en tous les sens remuait en m\u00ealant",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des ombres sans amour qui se tra\u00eenaient par terre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et des mains vers le ciel pleins de lacs de lumi\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'envolaient quelquefois comme des oiseaux blancs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mon bateau partira demain pour l'Am\u00e9rique",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Avec l'argent gard\u00e9 dans les prairies lyriques",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Guider mon ombre aveugle en ces rues que j'aimais",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Car revenir c'est bon pour un soldat des Indes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les boursiers ont vendu tous mes crachats d'or fin",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais habill\u00e9 de neuf je veux dormir enfin",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sous des arbres pleins d'oiseaux muets et de singes",
+                    "metre": "12",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les mannequins pour lui s'\u00e9tant d\u00e9shabill\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Battirent leurs habits puis les lui essay\u00e8rent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le v\u00eatement d'un lord mort sans avoir pay\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au rabais l'habilla comme un millionnaire",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [],
+            [
+                {
+                    "verse": "Intercal\u00e9es dans l'an c'\u00e9taient les journ\u00e9es neuves",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les vendredis sanglants et lents d'enterrements",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De blancs et de tout noirs vaincus des cieux qui pleuvent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand la femme du diable a battu son amant",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Puis dans un port d'automne aux feuilles ind\u00e9cises",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand les mains de la foule y feuillolaient aussi",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur le pont du vaisseau il posa sa valise",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les vents de l'Oc\u00e9an en soufflant leurs menaces",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Laissaient dans ses cheveux de longs baisers mouill\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des \u00e9migrants tendaient vers le port leurs mains lasses",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et d'autres en pleurant s'\u00e9taient agenouill\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Il regarda longtemps les rives qui moururent",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Seuls des bateaux d'enfants tremblaient \u00e0 l'horizon",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un tout petit bouquet flottant \u00e0 l'aventure",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Couvrit l'Oc\u00e9an d'une immense floraison",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Il aurait voulu ce bouquet comme la gloire",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Jouer dans d'autres mers parmi tous les dauphins",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ces tisseuses t\u00eatues qui sans cesse interrogent",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux cris d'une sir\u00e8ne moderne sans \u00e9poux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Gonfle-toi vers la nuit O Mer Les yeux des squales",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Jusqu'\u00e0 l'aube ont guett\u00e9 de loin avidement",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des cadavres de jours rong\u00e9s par les \u00e9toiles",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Parmi le bruit des flots et des derniers serments",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO64",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Rosemonde",
+        "profile": "8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO64_7",
+        "text": [
+            [
+                {
+                    "verse": "Longtemps au pied du perron de",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La maison o\u00f9 entra la dame",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que j'avais suivie pendant deux",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Bonnes heures \u00e0 Amsterdam",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mes doigts jet\u00e8rent des baisers",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mais le canal \u00e9tait d\u00e9sert",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le quai aussi et nul ne vit",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comment mes baisers retrouv\u00e8rent",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Celle \u00e0 qui j'ai donn\u00e9 ma vie",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un jour pendant plus de deux heures",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Je la surnommai Rosemonde",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Voulant pouvoir me rappeler",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sa bouche fleurie en Hollande",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puis lentement je m'en allai",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour qu\u00eater la Rose du Monde",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO76",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Signe",
+        "profile": "6=6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO76_7",
+        "text": [
+            [
+                {
+                    "verse": "Je suis soumis au Chef du Signe de l'Automne",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Partant j'aime les fruits je d\u00e9teste les fleurs",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je regrette chacun des baisers que je donne",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tel un noyer gaul\u00e9 dit au vent ses douleurs",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mon Automne \u00e9ternelle \u00f4 ma saison mentale",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les mains des amantes d'antan jonchent ton sol",
+                    "metre": "8+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une \u00e9pouse me suit c'est mon ombre fatale",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les colombes ce soir prennent leur dernier vol",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO77",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Un soir",
+        "profile": "6, 8, 6=6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO77_7",
+        "text": [
+            [
+                {
+                    "verse": "Un aigle descendit de ce ciel blanc d'archanges",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Laisserez-vous trembler longtemps toutes ces lampes",
+                    "metre": "6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "La ville est m\u00e9tallique et c'est la seule \u00e9toile",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand les tramways roulaient jaillissaient des feux p\u00e2les",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et tout ce qui tremblait dans tes yeux de mes songes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous les feux de gaz roux comme la fausse oronge",
+                    "metre": "6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Vois l'histrion tire la langue aux attentives",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'ap\u00f4tre au figuier pend et lentement salive",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Des cloches aux sons clairs annon\u00e7aient ta naissance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les chemins sont fleuris et les palmes s'avancent",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO78",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "La dame",
+        "profile": "8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO78_7",
+        "text": [
+            [
+                {
+                    "verse": "Toc toc Il a ferm\u00e9 sa porte",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les lys du jardin sont fl\u00e9tris",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quel est donc ce mort qu'on emporte",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Tu viens de toquer \u00e0 sa porte",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO88",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Clair de lune",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO88_7",
+        "text": [
+            [
+                {
+                    "verse": "Lune mellifluente aux l\u00e8vres des d\u00e9ments",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les vergers et les bourgs cette nuit sont gourmands",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les astres assez bien figurent les abeilles",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De ce miel lumineux qui d\u00e9goutte des treilles",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car voici que tout doux et leur tombant du ciel",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chaque rayon de lune est un rayon de miel",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Or cach\u00e9 je con\u00e7ois la tr\u00e8s douce aventure",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'ai peur du dard de feu de cette abeille Arcture",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui posa dans mes mains des rayons d\u00e9cevants",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et prit son miel lunaire \u00e0 la rose des vents",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO89",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "1909",
+        "profile": "",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO89_7",
+        "text": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "APO_2/APO96",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Automne malade",
+        "profile": "",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO96_7",
+        "text": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "APO_2/APO97",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "H\u00f4tels",
+        "profile": "4",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO97_7",
+        "text": [
+            [
+                {
+                    "verse": "La chambre est veuve",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chacun pour soi",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pr\u00e9sence neuve",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On paye au mois",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Le patron doute",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Payera-t-on",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je tourne en route",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme un toton",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Le bruit des fiacres",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mon voisin laid",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui fume un \u00e2cre",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tabac anglais",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 La Valli\u00e8re",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui boite et rit",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De mes pri\u00e8res",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Table de nuit",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et tous ensemble",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans cet h\u00f4tel",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Savons la langue",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme \u00e0 Babel",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Fermons nos Portes",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 double tour",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chacun apporte",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Son seul amour",
+                    "metre": "4",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO98",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Cors de chasse",
+        "profile": "8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO98_7",
+        "text": [
+            [
+                {
+                    "verse": "Notre histoire est noble et tragique",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme le masque d'un tyran",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nul drame hasardeux ou magique",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aucun d\u00e9tail indiff\u00e9rent",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ne rend notre amour path\u00e9tique",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et Thomas de Quincey buvant",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'opium poison doux et chaste",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 sa pauvre Anne allait r\u00eavant",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Passons passons puisque tout passe",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je me retournerai souvent",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les souvenirs sont cors de chasse",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dont meurt le bruit parmi le vent",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "APO_2/APO99",
+        "author": "Guillaume Apollinaire",
+        "work": "ALCOOLS",
+        "date": "1913",
+        "title": "Vend\u00e9miaire",
+        "profile": "",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=APO_2&code_text=APO99_7",
+        "text": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    }
+]

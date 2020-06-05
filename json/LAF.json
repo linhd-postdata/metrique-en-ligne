@@ -1,0 +1,3406 @@
+[
+    {
+        "code": "LAF_1/LAF1",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "UN MOT AU SOLEIL\nPOUR COMMENCER",
+        "profile": "6\u00f76, 5=6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF1_7",
+        "text": [
+            [
+                {
+                    "verse": "Soleil ! Soudard plaqu\u00e9 d'ordres et de crachats,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Planteur mal \u00e9lev\u00e9, sache que les vestales",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 qui la lune, en son \u00e9quivoque \u0153il-de-chat,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est la rosace de l'unique cath\u00e9drale,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sache que les Pierrots, phal\u00e8nes des dolmens",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et des nymph\u00e9as blancs des lacs o\u00f9 dort Gomorrhe,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et tous les bienheureux qui p\u00e2turent l'\u00c9den",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toujours printanier des renoncements, \u2014 t'abhorrent.",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et qu'ils gardent pour toi des m\u00e9pris sp\u00e9ciaux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bell\u00e2tre, maquignon, ruffian, rastaqou\u00e8re",
+                    "metre": "6+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 breloques d'\u0153ufs d'or qui le prends de si haut",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec la terre et son orpheline lunaire.",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Continue \u00e0 fournir de couchants avin\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les lendemains vomis des f\u00eates nationales,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 styler tes saisons, \u00e0 nous bien d\u00e9cha\u00eener",
+                    "metre": "8+4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Va, Ph\u0153bus ! Mais, D\u00e8va, dieu des r\u00e9veils cabr\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Regarde un peu parfois ce port-royal d'esth\u00e8tes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui, dans leurs d\u00e9cam\u00e9rons lunaires au frais,",
+                    "metre": "12",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne parlent de rien moins que mettre \u00e0 prix ta t\u00eate.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Certes, tu as encor devant toi de beaux jours ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais la tribu s'accro\u00eet, de ces vieilles pratiques",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l'a quoi bon ? qui vont r\u00eavant l'art et l'amour",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au seuil lointain de l'agr\u00e9gat inorganique.",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour aujourd'hui, vieux beau, nous nous contenterons",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De mettre sous le nez de ta badauderie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le mot dont l'homme t'a d\u00e9j\u00e0 marqu\u00e9 au front ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu ne t'en \u00e9tais jamais dout\u00e9, je parie ?",
+                    "metre": "12",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Sache qu'on va disant d'une belle phrase, os",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sonore, mais tr\u00e8s nul comme suc m\u00e9dullaire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De tout boniment creux enfin : c'est du pathos,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est du ph\u0153bus !\u2014 ah ! Pas besoin de commentaires\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 vision du temps o\u00f9 l'\u00eatre trop puni,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un : \" eh ! Va donc, Ph\u0153bus ! \" te rentrera ton pr\u00eache",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De vieux crescite et multiplicamini,",
+                    "metre": "5+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour s'inoculer \u00e0 jamais la lune fra\u00eeche !",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF2",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "LITANIES\nDES PREMIERS\nQUARTIERS DE LUNE",
+        "profile": "4",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF2_7",
+        "text": [
+            [
+                {
+                    "verse": "Lune b\u00e9nie",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des insomnies,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Blanc m\u00e9daillon",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des endymions,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Astre fossile",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que tout exile,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "jaloux tombeau",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De Salammb\u00f4,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Embarcad\u00e8re",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des grands myst\u00e8res,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Madone et miss",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sainte vigie",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De nos orgies,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "jettatura",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des baccarats,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Dame tr\u00e8s lasse",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De nos terrasses,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Philtre attisant",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les vers-luisants,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Rosace et d\u00f4me",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des derniers psaumes,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Bel \u0153il-de-chat",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De nos rachats,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sois l'ambulance",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De nos croyances !",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sois l'\u00e9dredon",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du grand-pardon !",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF3",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "AU LARGE",
+        "profile": "5\u00f75",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF3_7",
+        "text": [
+            [
+                {
+                    "verse": "Comme la nuit est lointainement pleine",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De silencieuse infinit\u00e9 claire !",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pas le moindre \u00e9cho des gens de la terre,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sous la lune m\u00e9diterran\u00e9enne !",
+                    "metre": "10",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Voil\u00e0 le n\u00e9ant dans sa p\u00e2le gangue,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voil\u00e0 notre hostie et sa sainte-table,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le seul bras d'ami par l'inconnaissable,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le seul mot solvable en nos folles langues !",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Au del\u00e0 des cris choisis des \u00e9poques,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au del\u00e0 des sens, des larmes, des vierges,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voil\u00e0 quel astre indiscutable \u00e9merge,",
+                    "metre": "10",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voil\u00e0 l'immortel et seul soliloque !",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et toi, l\u00e0-bas, pot-au-feu, pauvre terre !",
+                    "metre": "5\u22125",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec tes essais de mettre en rubriques",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tes reflets perdus du grand dynamique !",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu fais un m\u00e9tier, ah ! Bien s\u00e9dentaire !",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF4",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "CLAIR DE LUNE",
+        "profile": "4\u22127, 5\u00f75",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF4_7",
+        "text": [
+            [
+                {
+                    "verse": "Penser qu'on vivra jamais dans cet astre,",
+                    "metre": "5+5",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Parfois me flanque un coup dans l'\u00e9pigastre.",
+                    "metre": "5\u22125",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ah ! Tout pour toi, lune, quand tu t'avances",
+                    "metre": "5\u22125",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux soirs d'ao\u00fbt par les f\u00e9eries du silence !",
+                    "metre": "5\u22125",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et quand tu roules, d\u00e9m\u00e2t\u00e9e, au large",
+                    "metre": "10",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 travers les brisants noirs des nuages !",
+                    "metre": "10",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Oh ! Monter, perdu, m'\u00e9tancher \u00e0 m\u00eame",
+                    "metre": "5+5",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ta vasque de b\u00e9atifiants bapt\u00eames !",
+                    "metre": "4\u22127",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Astre atteint de c\u00e9cit\u00e9, fatal phare",
+                    "metre": "10",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des vols migrateurs des plaintifs Icares !",
+                    "metre": "5+5",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u0152il st\u00e9rile comme le suicide,",
+                    "metre": "5\u22125",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nous sommes le congr\u00e8s des las, pr\u00e9side ;",
+                    "metre": "10",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Cr\u00e2ne glac\u00e9, raille les calvities",
+                    "metre": "5\u22125",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De nos incurables bureaucraties ;",
+                    "metre": "5\u22125",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 pilule des l\u00e9thargies finales,",
+                    "metre": "5\u22125",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Infuse-toi dans nos durs enc\u00e9phales !",
+                    "metre": "5\u22125",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 Diane \u00e0 la chlamyde tr\u00e8s dorique,",
+                    "metre": "4\u22127",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'amour cuve, prend ton carquois et pique",
+                    "metre": "5+5",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ah ! D'un trait inoculant l'\u00eatre apt\u00e8re,",
+                    "metre": "10",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les c\u0153urs de bonne volont\u00e9 sur terre !",
+                    "metre": "10",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Astre lav\u00e9 par d'inou\u00efs d\u00e9luges,",
+                    "metre": "5\u22125",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'un de tes chastes rayons f\u00e9brifuges,",
+                    "metre": "10",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ce soir, pour inonder mes draps, d\u00e9vie,",
+                    "metre": "10",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que je m'y lave les mains de la vie !",
+                    "metre": "10",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF5",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "CLIMAT, FAUNE, FLORE DE LA LUNE",
+        "profile": "5\u00f78, 6\u00f76",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF5_7",
+        "text": [
+            [
+                {
+                    "verse": "Des nuits, \u00f4 lune d'immacul\u00e9e-conception,",
+                    "metre": "13",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Moi, vermine des n\u00e9buleuses d'occasion,",
+                    "metre": "8+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "j'aime, du frais des toits de notre Babylone,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Concevoir ton climat et ta flore et ta faune.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ne sachant qu'inventer pour t'offrir mes ennuis,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 radeau du nihil aux quais seuls de nos nuits !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ton atmosph\u00e8re est fixe, et tu r\u00eaves, fig\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En climats de silence, \u00e9cho de l'hypog\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'un ciel atone o\u00f9 nul nuage ne s'endort",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par des vents chuchotant tout au plus qu'on est mort ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des montagnes de nacre et des golfes d'ivoire",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se renvoient leurs parois de mystiques ciboires,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En anses o\u00f9, sur maint pilotis, d'un air lent,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des sir\u00e8nes font leurs nattes, l\u00e8chent leurs flancs,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Bl\u00eames d'avoir gorg\u00e9 de lunaires luxures",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u00e0-bas, ces gais dauphins aux geysers de mercure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, c'est l'automne incantatoire et permanent",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans thermom\u00e8tre, embaumant mers et continents,",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9tangs aveugles, lacs ophtalmiques, fontaines",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De L\u00e9th\u00e9, cendres d'air, d\u00e9serts de porcelaine,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Oasis, solfatares, crat\u00e8res \u00e9teints,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Arctiques sierras, cataractes l'air en zinc,",
+                    "metre": "8+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Hauts-plateaux crayeux, carri\u00e8res abandonn\u00e9es,",
+                    "metre": "12",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N\u00e9cropoles moins vieilles que leurs gramin\u00e9es,",
+                    "metre": "8+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et des dolmens par caravanes, \u2014 et tout tr\u00e8s",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ravi d'avoir fait son temps, de r\u00eaver au frais.",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Salut, lointains crapauds rid\u00e9s, en sentinelles",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur les pics, claquant des dents \u00e0 ces tourterelles",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "jeunes qu'intriguent vos airs ! Salut, c\u00e9tac\u00e9s",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lumineux ! Et vous, beaux comme des cuirass\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cygnes d'antan, nobles t\u00e9moins des cataclysmes ;",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et vous, paons blancs cabr\u00e9s en aurores de prismes ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et vous, f\u0153tus vo\u00fbt\u00e9s, glabres contemporains",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des sphinx brouteurs d'ennuis aux moustaches d'airain",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, dans le clapotis des grottes basaltiques,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ruminez l'enfin ! Comme une immortelle chique !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, rennes aux andouillers de cristal ; ours blancs",
+                    "metre": "12",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Graves comme des mages, vous d\u00e9ambulant,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les bras en croix vers les miels du divin silence !",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Porcs-\u00e9pics fourbissant sans but vos bl\u00eames lances ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Oui, papillons aux reins pavois\u00e9s de joyaux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ouvrant vos ailes \u00e0 deux battants d'in-folios ;",
+                    "metre": "13",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oui, g\u00e9latines d'hippopotames en p\u00e2les",
+                    "metre": "4+8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Flottaisons de troupeaux \u00e9claireurs d'enc\u00e9phales ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pythons en intestins de cerveaux morts d'abstrait,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bancs d'\u00e9l\u00e9phas moisis qu'un souffle effriterait !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et vous, fleurs fixes ! Mandragores \u00e0 visages,",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cactus ob\u00e9liscals aux fruits en sarcophages,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "For\u00eats de cierges massifs, parcs de polypiers,",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Palmiers de corail blanc aux r\u00e9sines d'acier !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lys marmor\u00e9ens \u00e0 sourires hyst\u00e9riques,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui vous mettez \u00e0 d\u00e9biter d'albes musiques",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tous les cent ans, quand vous allez avoir du lait !",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Champignons am\u00e9nag\u00e9s comme des palais !",
+                    "metre": "8+4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 fixe ! On ne sait plus \u00e0 qui donner la palme",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du lunaire ; et surtout quelle le\u00e7on de calme !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout a l'air \u00e9man\u00e9 d'un m\u00eame acte de foi",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au n\u00e9ant quotidien sans comment ni pourquoi !",
+                    "metre": "13",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et rien ne fait de l'ombre, et ne se d\u00e9sagr\u00e8ge ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne na\u00eet, ni ne m\u00fbrit ; tout vit d'un sortil\u00e8ge",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sans foyer qui n'induit gu\u00e8re \u00e0 se mettre en frais",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que pour des amours blancs, lunaires et distraits\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Non, l'on finirait par en avoir mal de t\u00eate,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec le rire idiot des marbres \u00e9gyn\u00e8tes",
+                    "metre": "13",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour jamais tant tout \u00e7a stagne en un miroir mort !",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l'on oublierait vite comment on en sort.",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et pourtant, ah ! C'est l\u00e0 qu'on en revient encore",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et toujours, quand on a compris le madr\u00e9pore.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF6",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "GUITARE",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF6_7",
+        "text": [
+            [
+                {
+                    "verse": "Astre sans c\u0153ur et sans reproche,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 maintenon de vieille roche !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tr\u00e8s r\u00e9v\u00e9rende sup\u00e9rieure",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D'un port-royal port de Circ\u00e9e",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 Pascal n'a d'autres pens\u00e9es",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Que celles du roseau qui jase",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne sait plus quoi, ivre de vase\u2026",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Oh ! Qu'un Philippe De Champaigne,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais ne pierrot, vienne et te peigne !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Un rien, une miniature",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la largeur d'une tonsure ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00e7a nous ferait un scapulaire",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont le contact anti-solaire,",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Par exemple aux pieds de la femme,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ah ! Nous serait tout un programme !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF12",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "PIERROTS II",
+        "profile": "6\u00f76, 4\u22125",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF12_7",
+        "text": [
+            [
+                {
+                    "verse": "Elle disait, de son air vain fondamental :",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\" je t'aime pour toi seul ! \" \u2014 oh ! L\u00e0, l\u00e0, gr\u00eale histoire ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Oui, comme l'art ! Du calme, \u00f4 salaire illusoire",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle faisait : \" j'attends, me voici, je sais pas\u2026 \"",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le regard pris de ces larges candeurs des lunes ;",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 Oh ! L\u00e0, l\u00e0, ce n'est pas peut-\u00eatre pour des prunes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais voici qu'un beau soir, infortun\u00e9e \u00e0 point,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle meurt ! \u2014 oh ! L\u00e0, l\u00e0 ; bon, changement de th\u00e8me !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On sait que tu dois ressusciter le troisi\u00e8me",
+                    "metre": "12",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Dans l'odeur, les verdures, les eaux des beaux mois !",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et tu iras, levant encor bien plus de dupes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vers le za\u00efmph de la Joconde, vers la jupe !",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF13",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "PIERROTS III",
+        "profile": "6\u00f76, 5=8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF13_7",
+        "text": [
+            [
+                {
+                    "verse": "Il me faut, vos yeux ! D\u00e8s que je perds leur \u00e9toile,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le mal des calmes plats s'engouffre dans ma voile,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le frisson du vae soli ! gargouille en mes moelles\u2026",
+                    "metre": "12",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous auriez d\u00fb me voir apr\u00e8s cette querelle !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'errais dans l'agitation la plus cruelle,",
+                    "metre": "8+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Criant aux murs : mon dieu ! Mon dieu ! Que dira-t-elle ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais aussi, vrai, vous me bless\u00e2tes aux antennes",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'\u00e2me, avec les mensonges de votre tra\u00eene.",
+                    "metre": "4+8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et votre tas de complications mondaines.",
+                    "metre": "4+8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je voyais que vos yeux me lan\u00e7aient sur des pistes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "je songeais : oui, divins, ces yeux ! Mais rien n'existe",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Derri\u00e8re ! Son \u00e2me est affaire d'oculiste.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Moi, je suis lamin\u00e9 d'esth\u00e9tiques loyales !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je hais les tr\u00e9molos, les phrases nationales ;",
+                    "metre": "8+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bref, le violet gros deuil est ma couleur locale.",
+                    "metre": "5+8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je ne suis point \" ce gaillard-l\u00e0 ! \" ni le superbe !",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais mon \u00e2me, qu'un cri un peu cru exacerbe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est au fond distingu\u00e9e et franche comme une herbe.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J'ai des nerfs encor sensibles au son des cloches,",
+                    "metre": "12",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et je vais en plein air sans peur et sans reproche,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans jamais me sourire en un miroir de poche.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C'est vrai, j'ai bien roul\u00e9 ! J'ai r\u00e2l\u00e9 dans des g\u00eetes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Peu vous ; mais, n'en ai-je pas plus de m\u00e9rite",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Allons, faisons la paix, venez, que je vous berce,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Enfant. Eh bien ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Enfant. Eh bien ? \u2014 C'est que, votre pardon me verse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF30",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "DIALOGUE\nAVANT LEVER DE LA LUNE",
+        "profile": "8",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF30_7",
+        "text": [
+            [
+                {
+                    "verse": "\u2014 Je veux bien vivre ; mais vraiment,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'id\u00e9al est trop \u00e9lastique !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 C'est l'id\u00e9al, son nom l'implique,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Hors son non-sens, le verbe ment.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Mais, tout est conteste ; les livres",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'accouchent, s'entretuent sans lois !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Certes ! L'absolu perd ses droits,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u00e0, o\u00f9 le vrai consiste \u00e0 vivre.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Et, si j'am\u00e8ne pavillon",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et repasse au n\u00e9ant ma charge ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 L'infini, qui souffle du large,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dit : \" pas de b\u00eatises, voyons ! \"",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Ces chantiers du possible ululent",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 l'inconcevable, pourtant !",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Un degr\u00e9, comme il en est tant",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Entre l'aube et le cr\u00e9puscule.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 \u00catre actuel, est-ce, du moins,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00eatre ad\u00e9quat \u00e0 quelque chose ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Cons\u00e9quemment, comme la rose",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est n\u00e9cessaire \u00e0 ses besoins.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Fa\u00e7on de dire peu commune",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que tout est cercles vicieux ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Vicieux, mais tout !",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u2014 Vicieux, mais tout ! \u2014 j'aime mieux",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF31",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "LUNES EN D\u00c9TRESSE",
+        "profile": "8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF31_7",
+        "text": [
+            [
+                {
+                    "verse": "Vous voyez, la lune chevauche",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les nuages noirs \u00e0 tous crins,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Cependant que le vent embouche",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ses trente-six mille buccins !",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Adieu, petits c\u0153urs benjamins",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Choy\u00e9s comme J\u00e9sus en cr\u00e8che,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui vous vantiez d'\u00eatre orphelins",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour avoir toute la brioche !",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Partez dans le vent qui se f\u00e2che,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sous la lune sans lendemains,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Cherchez la p\u00e2t\u00e9e et la niche",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et les douceurs d'un traversin.",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et vous, nuages \u00e0 tous crins,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Rentrez ces profils de reproche,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est les trente-six mille buccins",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "D'autant que je ne suis pas riche,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et que ses yeux dans leurs \u00e9crins",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ont d\u00e9j\u00e0 fait de fortes br\u00e8ches",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans mon patrimoine enfantin.",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Partez, partez, jusqu'au matin !",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ou, si ma mis\u00e8re vous touche,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Eh bien, cachez aux traversins",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vos t\u00eates, na\u00efves autruches,",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c9ternelles, ch\u00e8res emb\u00fbches",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 la chim\u00e8re encor tr\u00e9buche !",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF32",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "PETITS MYST\u00c8RES",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF32_7",
+        "text": [
+            [
+                {
+                    "verse": "Chut ! Oh ! Ce soir, comme elle est pr\u00e8s !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vrai, je ne sais ce qu'elle pense,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Me ferait-elle des avances ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est-ce l\u00e0 le rayon qui fiance",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Par quels ennuis kilom\u00e9triques",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mener ma silhouette encor,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avant de prendre mon essor",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour arrimer, veuf de tout corps,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 ses dortoirs madr\u00e9poriques.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mets de la lune dans ton vin,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M'a dit sa moue cadenass\u00e9e ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "je ne bois que de l'eau glac\u00e9e,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de sa seule panac\u00e9e",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mes tissus qui stagnent ont faim.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Lune, consomme mon bapt\u00eame,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lave mes yeux de ton linceul ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'aux hommes, je sois ton filleul ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et pour nos compagnes, le seul",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui les d\u00e9livre d'elles-m\u00eames.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Lune, mise au ban du progr\u00e8s",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des populaces des \u00e9toiles.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Volatilise-moi les moelles,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que je t'arrive \u00e0 pleines voiles,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dolmen, cypr\u00e8s, amen, au frais !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF33",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "NUITAMMENT",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF33_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00d4 lune, coule dans mes veines",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que je me soutienne \u00e0 peine,",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et croie t'aplatir sur mon c\u0153ur !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais, elle est p\u00e2le \u00e0 faire peur !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et montre par son teint, sa mise,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Combien elle en a vu de grises !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et ram\u00e8ne, se sentant mal,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son cachemire sid\u00e9ral,",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Errante Delos, n\u00e9cropole,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "je veux que tu fasses \u00e9cole ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "je te promets en ex-voto",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les Putiphars de mes manteaux !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et tiens, adieu ; je rentre en ville",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mettre en train deux ou trois idylles,",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "En m'annon\u00e7ant par un p\u00e9an",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'\u00e9pithalame \u00e0 ton n\u00e9ant.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF34",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "\u00c9TATS",
+        "profile": "6\u00f76",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF34_7",
+        "text": [
+            [
+                {
+                    "verse": "Ah ! Ce soir, j'ai le c\u0153ur mal, le c\u0153ur \u00e0 la lune.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00d4 nappes du silence, \u00e9talez vos lagunes ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00d4 toits, terrasses, bassins, colliers d\u00e9nou\u00e9s",
+                    "metre": "4+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De perles, tombes, lys, chats en peine, louez",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La lune, notre ma\u00eetresse \u00e0 tous, dans sa gloire :",
+                    "metre": "4+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elle est l'hostie ! Et le silence est son ciboire !",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ah ! Qu'il fait bon, oh ! Bel et bon, dans le halo",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De deuil de ce diamant de la plus belle eau !",
+                    "metre": "12",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00d4 lune, vous allez me trouver romanesque,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais voyons, oh ! Seulement de temps en temps est-c'que",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce serait fol \u00e0 moi de me dire, entre nous,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ton Christophe Colomb, \u00f4 colombe, \u00e0 genoux ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Allons, n'en parlons plus ; et d\u00e9roulons l'office",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des minuits, confits dans l'alcool de tes d\u00e9lices.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "ralentendo vers nous, \u00f4 dolente cit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Cellule en fibro\u00efne aux organes rat\u00e9s !",
+                    "metre": "4+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Rappelle-toi les centaures, les villes mortes,",
+                    "metre": "12",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Palmyre, et les sphinx camards des Th\u00e8be aux cent portes ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et quelle Gomorrhe a sous ton lac de L\u00e9th\u00e9",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ses catacombes vers la st\u00e9rile Astart\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et combien l'homme, avec ses relatifs \"je t'aime \",",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est trop anthropomorphe au del\u00e0 de lui-m\u00eame,",
+                    "metre": "4+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et ne sait que vivoter comm'\u00e7a des bonjours",
+                    "metre": "4+4+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux bonsoirs tout en s'arrangeant avec l'amour.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u2014 Ah ! Je vous disais donc, et cent fois plut\u00f4t qu'une",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF35",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "LA LUNE EST ST\u00c9RILE",
+        "profile": "6\u00f76, 5\u00f78",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF35_7",
+        "text": [
+            [
+                {
+                    "verse": "Lune, pape abortif \u00e0 l'amiable, pape",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des mormons pour l'art, dans la jalouse Paphos",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 l'\u00e9tat tient gratis les fils de la soupape",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'\u00e9chappement des apoplectiques cosmos !",
+                    "metre": "4+8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "C'est toi, l\u00e9ger manuel d'instincts, toi qui circules,",
+                    "metre": "13",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Gla\u00e7ant, apr\u00e8s les grandes averses, les \u0153ufs",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Obtus de ces myriades d'animalcules",
+                    "metre": "12",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dont les simouns mettraient nos muqueuses en feu !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Tu ne sais que la fleur des sanglantes chimies ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et perces nos rideaux, nous offrant le lotus",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui constipe les plus larges polygamies,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tout net, de l'excr\u00e9ment logique des f\u0153tus.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Carguez-lui vos rideaux, citoyens de m\u0153urs l\u00e2ches ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est l'extase qui paie comptant, donne son ut",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des deux sexes et veut pas m\u00eame que l'on sache",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'il se peut qu'elle ait, hors de l'art pour l'art, un but.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "On all\u00e8che de vie humaine, \u00e0 pleines voiles,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les Tantales virtuels, peu int\u00e9ressants",
+                    "metre": "8+4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'ailleurs, sauf leurs cordiaux, qui r\u00eavent dans nos moelles.",
+                    "metre": "8+5",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et c'est un produit net qu'encaissent nos bons sens.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et puis, l'atteindrons-nous, l'oasis aux citernes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 nos c\u0153urs toucheraient les payes qu'on leur doit ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Non, c'est la rosse aveugle aux cercles sempiternes",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui tourne pour autrui les bons chevaux de bois.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Ne vous distrayez pas, avec vos grosses douanes ;",
+                    "metre": "5+8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Clefs de fa, clefs de sol, huit stades de claviers,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Laissez faire, laissez passer la caravane",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui porte \u00e0 l'id\u00e9al ses plus riches dossiers !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "L'art est tout, du droit divin de l'inconscience ;",
+                    "metre": "12",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Apr\u00e8s lui, le d\u00e9luge ! Et son moindre regard",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est le cercle infini dont la circonf\u00e9rence",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est partout, et le centre immoral nulle part.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Pour moi, d\u00e9boulonn\u00e9 du p\u00f4le de stylite",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui me sied, d\u00e8s qu'un corps a trop de son secret,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "j'affiche : celles qui voient tout, je les invite",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 venir, \u00e0 mon bras, des soirs, prendre le frais.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Or voici : nos deux cris, abaissant leurs visi\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Passent mutuellement, apr\u00e8s quiproquos,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux chers peignes du cru leurs moelles \u00e9pini\u00e8res",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et les ciels familiers liser\u00e9s de folie",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Neigeant en charpie \u00e9blouissante, faut voir",
+                    "metre": "12",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme le moindre appel : c'est pour nous seuls ! Rallie",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les louables efforts men\u00e9s \u00e0 l'abattoir !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et la sant\u00e9 en deuil ronronne ses vertiges,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et chante, pour la forme : \" h\u00e9las ! Ce n'est pas bien,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\" par ces pays, pays si tournoyants, vous dis-je,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\" o\u00f9 la faim d'infini justifie les moyens. \"",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Lors, qu'ils sont beaux les flancs tirant leurs r\u00e9v\u00e9rences",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au sanglant capitaliste bern\u00e9 des nuits,",
+                    "metre": "12",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En s'affalant cuver ces jeux sans cons\u00e9quence !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Oh ! N'avoir \u00e0 songer qu'\u00e0 ses propres ennuis !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Bons a\u00efeux qui geigniez semaine sur semaine,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vers mon c\u0153ur, baobab des v\u00e9diques terroirs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "je m'agite aussi ! Mais l'inconscient me m\u00e8ne ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Or, il sait ce qu'il fait, je n'ai rien \u00e0 y voir.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF36",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "ST\u00c9RILIT\u00c9S",
+        "profile": "3, 7",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF36_7",
+        "text": [
+            [
+                {
+                    "verse": "Caut\u00e9rise et coagule",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ses lagunes des cerises",
+                    "metre": "3",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des f\u00e9lines Oph\u00e9lies",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Orphelines en folie.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Tarentule de feintises",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sans rancune des ovules",
+                    "metre": "3",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux f\u00e9lines Oph\u00e9lies",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Orphelines en folie.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Sourd aux brises des scrupules,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De la lune, adieu, nolise",
+                    "metre": "3",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ces f\u00e9lines Oph\u00e9lies",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Orphelines en folie !",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF37",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "LES LINGES, LE CYGNE",
+        "profile": "7, 6=6",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF37_7",
+        "text": [
+            [
+                {
+                    "verse": "H\u00f4pitaux consacr\u00e9s aux cruors et aux fanges ;",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 l'on voudrait, ah ! Redorloter ses m\u00e9ninges !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Vos linges pollu\u00e9s, No\u00ebls de Bethl\u00e9em !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la lessive des linceuls des requiems",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De nos touchantes personnalit\u00e9s, aux langes",
+                    "metre": "4+8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des berceaux, vite \u00e0 bas, sans doubles de rechange,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui nous suivent, transfigur\u00e9s (fatals vauriens",
+                    "metre": "8+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que nous sommes) ainsi que des langes gardiens.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est la guimpe qui dit, m\u00eame aux trois quarts meurtrie :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\" ah ! Pas de ces familiarit\u00e9s, je vous prie\u2026 \"",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est la peine aval\u00e9e aux \u00e9dredons d'eider ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est le mouchoir laiss\u00e9, parlant d'\u00e2me et de chair",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de sc\u00e8nes ! (je vous pris la main sous la table,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "j'eus m\u00eame des accents vraiment inimitables),",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais ces malentendus ! L'adieu noir ! \u2014 je m'en vais !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 Il fait nuit ! \u2014 que m'importe ! \u00e0 moi, chemins mauvais !",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Puis, comme Ph\u00e8dre en ses illicites malaises :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\" ah ! Que ces draps d'un lit d'occasion me p\u00e8sent ! \"",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Linges adolescents, nuptiaux, maternels ;",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nappe qui drape la sainte-table ou l'autel,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Purificatoire au calice, manuterges,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Refuges des baisers convolant vers les cierges.",
+                    "metre": "8+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 langes invalides, linges aveuglants !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oreillers du bon c\u0153ur toujours convalescent",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui dit, m\u00eame \u00e0 la s\u0153ur, dont le toucher l'\u00e9c\u0153ure :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\" rien qu'une cuiller\u00e9e, ah ! Toutes les deux heures\u2026 \"",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voie lact\u00e9e \u00e0 charpie en surplis : lourds jupons",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 plis d'ordre dorique \u00e0 lesquels nous rampons",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rien que pour y r\u00e2ler, doux comme la tortue",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui grignote au soleil une vieille laitue.",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Linges des grandes maladies ; champs-clos des draps",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fleurant : soulagez-vous, va, tant que \u00e7a ira !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les cols rabattus des jeunes filles fi\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les bas blancs bien tir\u00e9s, les chants des Lavandi\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le peignoir sur la chair de poule apr\u00e8s le bain,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les cornettes des s\u0153urs, les voiles, les b\u00e9guins,",
+                    "metre": "4+8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La province et ses armoires, les lingeries",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du lyc\u00e9e et du clo\u00eetre ; et les bonnes prairies",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Blanches des traversins rafra\u00eechissant leurs creux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De parfums de famille aux tempes sans aveux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la mort ! Pavoisez les balcons de draps p\u00e2les,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les cloches ! Car voici que des rideaux s'exhale",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La procession du beau cygne ambassadeur",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "H\u00f4pitaux consacr\u00e9s aux cruors et aux fanges !",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 l'on voudrait, ah ! Redorloter ses m\u00e9ninges.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF38",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "NOBLES ET TOUCHANTES DIVAGATIONS\nSOUS LA LUNE",
+        "profile": "5\u00f78, 6\u00f76",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF38_7",
+        "text": [
+            [
+                {
+                    "verse": "Un chien perdu grelotte en abois \u00e0 la lune\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oh ! Pourquoi ce sanglot quand nul ne l'a battu ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, nuits ! Que partout la m\u00eame \u00e2me ! En est-il une",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui n'aboie \u00e0 l'exil ainsi qu'un chien perdu ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Non, non ; pas un caillou qui ne r\u00eave un m\u00e9nage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pas un soir qui ne pleure : encore un aujourd'hui !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pas un moi qui n'\u00e9cume aux barreaux de sa cage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et n'\u00e9pluche ses jours en filaments d'ennui.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et les bons v\u00e9g\u00e9taux ! Des fossiles qui gisent",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En plioc\u00e8nes tufs de squelettes parias,",
+                    "metre": "13",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux printemps asperg\u00e9s par les steppes kirghyses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux roses des contreforts de l'Himalaya !",
+                    "metre": "12",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et le vent qui beugle, apocalyptique b\u00eate",
+                    "metre": "4+8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'abattant sur des toits aux habitants pourris,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui secoue en vain leur huis-clos, et puis s'arr\u00eate,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pleurant sur son c\u0153ur \u00e0 sept-glaives d'incompris.",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tout vient d'un seul imp\u00e9ratif cat\u00e9gorique,",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais qu'il a le bras long, et la matrice loin !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'amour, l'amour qui r\u00eave, asc\u00e9tise et fornique ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que n'aimons-nous pour nous dans notre petit coin ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Infini, d'o\u00f9 sors-tu ? Pourquoi nos sens superbes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sont-ils fous d'au del\u00e0 les claviers octroy\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Croient-ils \u00e0 des miroirs plus heureux que le verbe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et se tuent ? Infini, montre un peu tes papiers !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Motifs d\u00e9coratifs, et non but de l'histoire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Non le bonheur pour tous, mais de coquets moyens",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'objectivant en nous, substratums sans pourboires,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Trinit\u00e9 de Molochs, le vrai, le beau, le bien.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Nuages \u00e0 profils de ka\u00efns ? Vents d'automne",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, dans l'antiquit\u00e9 des Pans soi-disant gais,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous lamentiez aux toits des temples heptagones,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voyez, nous rebrodons les m\u00eames anank\u00e8s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Jadis les gants violets des r\u00e9v\u00e9rendissimes",
+                    "metre": "13",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la th\u00e9ologie en conciles cit\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l'\u00e9v\u00eaque d'Hippone attelant ses victimes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au char du Jaggernaut \u0153cum\u00e9nicit\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Aujourd'hui, microscope de t\u00e9lescope ! Encore,",
+                    "metre": "13",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous voil\u00e0 relan\u00e7ant l'ogive au toujours lui,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'il y tourne casaque, \u00e0 neuf qu'il s'y redore",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour venir nous bercer un printemps notre ennui.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Une place plus fra\u00eeche \u00e0 l'oreiller des fi\u00e8vres,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un mirage in\u00e9dit au d\u00e9tour du chemin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des rampements plus fous vers le bonheur des l\u00e8vres,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et des opiums plus longs \u00e0 r\u00eaver. Mais demain ?",
+                    "metre": "5+8",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Recommencer encore ? Ah ! L\u00e2chons les \u00e9cluses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 la fin ! Oublions tout ! Nous faut convoyer",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vers ces ciels o\u00f9, s'aimer et pa\u00eetre \u00e9tant les muses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cuver sera le dieu p\u00e9nate des foyers !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oh ! L'\u00c9den imm\u00e9diat des braves empirismes !",
+                    "metre": "13",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Peigner ses fiers cheveux avec l'ar\u00eate des",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Poissons qu'on lui offrit crus dans un paroxysme",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De d\u00e9vouement ! S'aimer sans serments, ni rabais.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, vivre pur d'habitudes et de programmes,",
+                    "metre": "4+8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pacageant mes milieux, \u00e0 travers et \u00e0 tort,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Choyant comme un beau chat ma ch\u00e8re petite \u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'arriver qu'ivre-mort de moi-m\u00eame \u00e0 la mort !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, par del\u00e0 nos arts, par del\u00e0 nos \u00e9poques",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et nos h\u00e9r\u00e9dit\u00e9s, tes \u00eeles de candeur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Inconscience ! Et elle, au seuil, l\u00e0, qui se moque",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De mes regards en arri\u00e8re, et fait : n'aie pas peur.",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Que non, je n'ai plus peur ; je rechois en enfance ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mon bateau de fleurs est pr\u00eat, j'y veux r\u00eaver \u00e0",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'ombre de tes maternelles protub\u00e9rances,",
+                    "metre": "12",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En t'offrant le miroir de mes et c\u00e6tera\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF39",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "JEUX",
+        "profile": "3\u00f76",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF39_7",
+        "text": [
+            [
+                {
+                    "verse": "Ah ! La lune, la lune m'obs\u00e8de\u2026",
+                    "metre": "6+3",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Croyez-vous qu'il y ait un rem\u00e8de ?",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Morte ? Se peut-il pas qu'elle dorme",
+                    "metre": "6+3",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Grise de cosmiques chloroformes ?",
+                    "metre": "3\u22126",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Rosace en tombale efflorescence",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la basilique du silence.",
+                    "metre": "9",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu persistes dans ton attitude,",
+                    "metre": "9",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand je suffoque de solitude !",
+                    "metre": "9",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Oui, oui, tu as la gorge bien faite ;",
+                    "metre": "6+3",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais, si jamais je ne m'y allaite ? \u2026",
+                    "metre": "9",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Encore un soir, et mes berquinades",
+                    "metre": "3\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'en iront rire \u00e0 la d\u00e9bandade,",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Traitant mon platonisme si digne",
+                    "metre": "6+3",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'extase de p\u00eacheur \u00e0 la ligne !",
+                    "metre": "6+3",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Salve, regina des lys ! reine,",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je veux baiser ta pat\u00e8ne triste,",
+                    "metre": "9",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plat veuf du chef de saint Jean-Baptiste !",
+                    "metre": "6+3",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je veux trouver un lied ! qui te touche",
+                    "metre": "6+3",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 te faire \u00e9migrer vers ma bouche !",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Mais, m\u00eame plus de rimes \u00e0 lune\u2026",
+                    "metre": "6+3",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ah ! Quelle regrettable lacune !",
+                    "metre": "6+3",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF40",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "LITANIES\nDES DERNIERS QUARTIERS\nDE LUNE",
+        "profile": "4",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF40_7",
+        "text": [
+            [
+                {
+                    "verse": "Eucharistie",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'Arcadie,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Qui fais de l'\u0153il",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux c\u0153urs en deuil,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ciel des idylles",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'on veut st\u00e9riles,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Fonts baptismaux",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des blancs pierrots.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Dernier ciboire",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De notre histoire,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vortex-nombril",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du tout-nihil,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Miroir et bible",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des impassibles,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "H\u00f4tel garni",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'infini,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sphinx et Joconde",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des d\u00e9funts mondes,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 Chanaan",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du bon n\u00e9ant,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "N\u00e9ant, la Mecque",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "L\u00e9th\u00e9, Lotos,",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Exaudi nos !",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LAF_1/LAF41",
+        "author": "Jules Laforgue",
+        "work": "L'IMITATION DE NOTRE-DAME LA LUNE",
+        "date": "1886",
+        "title": "AVIS, JE VOUS PRIE",
+        "profile": "7, 4=5, 6+6, 6, 5\u00f76",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=LAF_1&code_text=LAF41_7",
+        "text": [
+            [],
+            [
+                {
+                    "verse": "En floraison de chair par guirlandes d'ennuis !",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ],
+            [],
+            [
+                {
+                    "verse": "Oh ! J'ai \u00e9t\u00e9 frapp\u00e9 de cette vie \u00e0 moi,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'autre dimanche, m'en allant par une plaine !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Oh ! Laissez-moi seulement reprendre haleine,",
+                    "metre": "11",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et vous aurez un livre enfin de bonne foi.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "En attendant, ayez piti\u00e9 de ma mis\u00e8re !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que je vous sois \u00e0 tous un \u00eatre bienvenu !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que je sois absous pour mon \u00e2me sinc\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme le fut Phryn\u00e9 pour son sinc\u00e8re nu.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

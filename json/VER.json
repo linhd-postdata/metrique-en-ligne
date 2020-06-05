@@ -1,0 +1,3082 @@
+[
+    {
+        "code": "VER_33/VER918",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "GAZETTE RIM\u00c9E",
+        "profile": "5\u22125",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER918_7",
+        "text": [
+            [
+                {
+                    "verse": "Muse pr\u00e9f\u00e9r\u00e9e, \u00f4 jeune compagne,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Trop longtemps parmi les fleurs du chemin",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous avons couru la verte campagne,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les yeux dans les yeux, la main dans la main.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Trop longtemps selon le vol du nuage,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Trop longtemps au gr\u00e9 du fleuve qui va,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous f\u00eemes \u00e0 deux le joli voyage",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que tout \u00e9colier de vingt ans r\u00eava.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Il faut revenir \u00e0 Paris, ma ch\u00e8re,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car je connais seul, maussade pr\u00eacheur,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce que co\u00fbtent tes chapeaux de berg\u00e8re",
+                    "metre": "5\u22125",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et tes robes d'une enti\u00e8re blancheur.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Cesse ton charmant ramage de pie.",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu dois, en d\u00e9pit du beau soleil d'ao\u00fbt,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Me laisser en paix faire ma copie,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Or donc racontons, malgr\u00e9 notre envie,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De faire un m\u00e9tier un peu moins' banal,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les \u00e9v\u00e9nements de la Haute vie",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 l'ami lecteur de notre journal.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "On dit qu'aujourd'hui, pr\u00e8s de la Roquette,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le vieil impotent qui surveillait Mob,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ainsi qu'un enfant joue \u00e0 la raquette,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et cela gr\u00e2ce au zouave Jacob.",
+                    "metre": "5\u22125",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce magn\u00e9tiseur fait de maint podagre",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un pur L\u00e9otard, et m\u00eame l'on dit",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que, rendus l\u00e9gers plus que M\u00e9l\u00e9agre,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Viennet s'\u00e9mancipe et Forey bondit.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Il bondit, mais moins qu'Azella qui p\u00e8se",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le poids des oiseaux et des papillons,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qu'\u00e0 l'Hippodrome emporte un trap\u00e8ze",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vers le soleil qui dore ses paillons.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais l'Homme masqu\u00e9, Muse, nous r\u00e9clame :",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il demande un hymne, il l'a m\u00e9rit\u00e9.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car le Porte-Lyre a toujours dans l'\u00e2me",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'amour de la force et de la beaut\u00e9.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Que Marseille a\u00een\u00e9, maigre par le je\u00fbne",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et par le d\u00e9pit, verse des pleurs sur",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le d\u00e9sastre de Marseille jeune.",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais, ainsi que dans l'Op\u00e9ra-Comique.",
+                    "metre": "5\u22125",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 tout r\u00e9cemment Achard excella,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La foule devant cette pol\u00e9mique",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Veut savoir quel est ce myst\u00e8re-l\u00e0.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Serait-ce Vall\u00e8s, fatal aux Hom\u00e8res,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Albert Wolff ou bien Ernest Legouv\u00e9,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ou le vieux Barbey banni des grammaires,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ou Monsieur Jouvin, si bien \u00e9lev\u00e9 ?",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Cependant, tu viens me tirer la manche,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Muse, et tu me dis qu'il faut m'habiller,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, pour le d\u00e9but de ta robe blanche,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que je t'ai promis d'aller \u00e0 Bullier.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "H\u00e9las ! ces bosquets o\u00f9 courent les biches",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et les crev\u00e9s bras dessus bras dessous,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sont aujourd'hui pleins d'\u00e9trangers tr\u00e8s riches",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que proclame un bruit de pi\u00e8ces-cent-sous.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu vas me quitter \u00e0 leur moindre signe.",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De cela vos c\u0153urs sont bien coutumiers ;",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais tu reviendras, et je me r\u00e9signe.",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 Messieurs les Anglais, tirez les premiers !",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER919",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "GAZETTE RIM\u00c9E",
+        "profile": "4, 8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER919_7",
+        "text": [
+            [
+                {
+                    "verse": "C'est assez, encore une fois",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Faire des choses dans les bois",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Laissons la ferme et son pain bis,",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Muse, et reviens \u00e0 nos brebis",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "La Calypso du pont des Arts",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur le plus fran\u00e7ois des ponsards",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que l'oiseau de Cambrai la peint,",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans sa douleur elle se plaint",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et tout en pleurs, ce club b\u00e9nin",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dont s'exile Jules Janin,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Exalte un c\u00e9l\u00e8bre tribun",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et beaucoup de vertus de l'une",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Voici revenir la Patti !",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et les boyards dilettanti,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Plus attentifs que les hiboux,",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mangeraient ga\u00eement les deux bouts",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les proc\u00e9d\u00e9s du Figaro",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Font sortir un sombre haro",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quoi ! Villemot, sur le billot",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tu te vois navr\u00e9 par Veuillot,",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Quoi ! d\u00e8s l'article qu'exhala",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Jouvin, et tout semblable \u00e0 la",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Toi, te voil\u00e0 sur le pav\u00e9,",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Journaliste mal \u00e9lev\u00e9,",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Pareil au P\u00e8re ci-dessus,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vall\u00e8s, moins gai que les bossus,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et ce chien du pauvre enrag\u00e9",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Jappe vers ton buste outrag\u00e9,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "R\u00e9volt\u00e9 du luxe effr\u00e9n\u00e9",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que fl\u00e9trit feu le fr\u00e8re a\u00een\u00e9",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Maint crev\u00e9 qu'elle pressura",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De Baden a chass\u00e9 Cora",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "C'est beau, c'est grand, c'est g\u00e9n\u00e9reux !",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dor\u00e9navant plus d'on\u00e9reux",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Plus de huit ressorts par milliers !",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et le compte des Mobiliers",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mais qu'apprends-je ? et quel bulletin",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nous est arriv\u00e9 ce matin",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Muse, et toi, Marx, nous qui tous trois",
+                    "metre": "4",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Gardons les respects dus aux Rois,",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER920",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "COMPLAINTE DE BEREZOWSKI",
+        "profile": "7, 8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER920_7",
+        "text": [
+            [
+                {
+                    "verse": "Gens de Brives-la-Gaillard",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De Pantin, de Tombouctou",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Venez apprendre de nous",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Jusqu'o\u00f9 le crime s'hazarde.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Oyez, gens des nations",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Venus pour l'Exposition.",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Napol\u00e9on-le-Troisi\u00e8me",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 visiter les Beaux-Arts",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Avait invit\u00e9 le Czar",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Alexandre-le-Deuxi\u00e8me.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 ses c\u00f4t\u00e9s on admir",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le grand duc et Vladimir.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "On passa une grand' revue",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans de Boulogne-le-Bois",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ni hommes ni femm'tous rois",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En casque et en grande tenue",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "M\u00eame que sur leurs sommets",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ils avaient tous leurs plumets.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les Cent-gardes et les Guides",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les Chasseurs et les Turcos",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En turbans de calicots",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Avaient des airs intr\u00e9pides.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tous brandissent leurs drapeaux",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Trou\u00e9s \u00e0 Solf\u00e9rino.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Les Zouaves de la garde,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les artilleurs, les pompiers,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et m\u00eame les infirmiers",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D\u00e9fil\u00e8rent sous les arbres,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Avec un chic martial",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui fait r\u00e9fl\u00e9chir Bismark.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Et la foule enthousiaste",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'\u00e9crie : Vive l'Empereur !",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sauf d'avocats en fureur",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme \u00e7a arrive dans c'te caste",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui s'\u00e9crient des Rois au nez",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Pas tr\u00e8s loin de la cascade",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les souverains ont fil\u00e9",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "(Aussit\u00f4t le d\u00e9fil\u00e9)",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans les carosses de parade.",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'Emp'reur, ce second C\u00e9sar,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est dans le m\u00eam' que le Czar.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Soudain du sein de la foule",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sort un jeune homme agit\u00e9",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D\u00e9pourvu d'humanit\u00e9",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et qui sous ses pieds la foule,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et qui tire un pistolet",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'la doublure de son gilet.",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Heureusement qu'\u00e0 la porti\u00e8re",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Galoppe un jeune \u00e9cuyer",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Brave, galant et qui est",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'ange de la France enti\u00e8re.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il comprend \u00e0 d'mi mot, car",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est le gendre de Mocquard.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Le coup part, le ch'val se cabre",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et r'\u00e7oit la charge dans l'naseau.",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'effroi s'r\u00e9pand aussit\u00f4t.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un g\u00e9n\u00e9ral tire son sabre.",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La ball'que le Czar \u00e9vite",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Couvr'de sang le Czarewit\u2026ch !",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Lors tout de suit' ce bon p\u00e8re",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00ab \u00cates-vous tu\u00e9s, mes fistons ? \u00bb",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u2014 Non, papa, vous \u00eates bien bon.",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u2014 Ni vous non plus, je l'esp\u00e8re,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce n'est pas du sang royal,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais c'est du sang d'animal.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Notr'Emp'reur qui jamais n'tremble",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Se levant de son s\u00e9ant",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dit : \u00ab Il fallait que c\u00e9ans",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nous vissions le feu ensemble. \u00bb",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puis d'son fiacre de gala",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il dit : \u00ab Arr\u00eatez c'gas-l\u00e0 ! \u00bb",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Pendant c'temps-l\u00e0 l'arme \u00e9clate",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'horreur pour ce noir dessein.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La main gauch' de l'assassin",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En devient tout \u00e9carlate.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La foule empoigne tout c'qui",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Put s'prendre de Berezowski.",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "L'chef de la police secr\u00e8te",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Arrive avec ses agents ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il le tire des mains d'ces gens",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et dans un remise le jette",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et dit : \u00ab Les morceaux sont bons",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour \u00eatre mis en prison. \u00bb",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "M'sieur Rouher prend un'voiture",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puis il enfil' son pal'tot.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et puis il se rend aussit\u00f4t",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au d\u00e9p\u00f4t d'la Pr\u00e9fecture.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et lui dit : \u00ab Jeune \u00e9tranger",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je vais vous interroger. \u00bb",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Poss\u00e9dez-vous des complices ?",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dit l'ministre avec douceur.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'autre lui r\u00e9pond ! Et ta s\u0153ur ? \u00bb",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sans respect pour la justice",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D\u00fbt-on de coups me rouer",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "J'en ai pas, Monsieur. Rouher.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "O\u00f9 avez-vous pris cette arme ?",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u2014 J'vais vous l'dire, car je suis franc,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elle m'a co\u00fbt\u00e9 neuf francs.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je l'jure devant les gendarmes",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "M\u00eame qu'il m'a dit l'arq'busier,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Faut pas qu'vous en abusiez.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Continuant sa semonce,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Rouher, toujours plein de douceur,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dit : \"Vous pouviez tuer l'Empereur.",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u2014 Non ! que lui r\u00e9pond ce monstre :",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La balle d'un Polonais",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ne peut se tromper jamais.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Le soir bal \u00e0 l'Ambassade",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Raimbaud r'\u00e7ut la croix d'honneur",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et pour comble de bonheur",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De l'Empereur l'embrassade",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et la plaqu' de Stanislas",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pendant qu'l'autre est \u00e0 Mazas.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "On mande le v\u00e9t\u00e9rinaire",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pr\u00e8s du cheval de Raimbaux.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il lui trouve les reins beaux",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais l'air val\u00e9tudinaire.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Marx pr\u00e9tendait qu'il est mort,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Maillard dit qu'il vit encor.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Dans cette histoire f\u00e2cheuse",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La Pologne n'est pour rien.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le troupeau se porte bien",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Malgr\u00e9 la brebis galeuse.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Donc, pas d'exag\u00e9ration,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et vive Napol\u00e9on !",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER921",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "SI VOUS TENEZ \u00c0 CONNA\u00ceTRE",
+        "profile": "7",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER921_7",
+        "text": [
+            [
+                {
+                    "verse": "Si vous tenez \u00e0 conna\u00eetre",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'auteur de ces couplets idiots,",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'vous l'glisserai dans l'tuyau",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l'oreille un jour peut-\u00eatre.",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'ai l'honneur, en attendant,",
+                    "metre": "4+6",
+                    "rhyme": "c"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER922",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "COMPLAINTE DE L'ASSASSINAT\nDE LA FOR\u00caT DE FONTAINEBLEAU",
+        "profile": "8, 7",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER922_7",
+        "text": [
+            [
+                {
+                    "verse": "C'est \u00e0 vous que je m'adresse",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Bourgeois de Fontainebleau",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour vous peindre le tableau",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'la grande ind\u00e9licatesse",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'a faite madam' Frigard",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur la route de Franchard.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Cette personne insensible",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vint \u00e0 Paris r\u00e9cemment",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour y gagner de l'argent",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Par tous les moyens possibles ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce qui fit qu'elle fr\u00e9quenta",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les dam's du quartier Br\u00e9da.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Elle y connut Sidonie,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un' second' Manon Lescaut,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui lui payait son \u00e9cot",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 chaqu' nouvelle infamie.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On dit m\u00eam' qu'ell' lui cherchait",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chaqu'jour un autre\u2026 monsieur.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Pour couvrir son industrie",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et s'\u00e9tablir d\u00e9cemment,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ell' prend \u00e0 temp\u00e9rament",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un commerc' de fruiterie.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais ell' n'avait pas de quoi",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Payer les hommes de loi.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Alor pour purger son compte,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ell' song', dans sa m\u00e9chanc't\u00e9",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que l'autre a d'l'argent d'c\u00f4t\u00e9",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans l'sein du Compte d'escompte,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et s'dit : C'est tout ce qu'il me faut",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En commettant quelques faux.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Puis elle invit' sa compagne,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans son cynisme hideux,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 s'en aller toutes deux",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Faire un tour \u00e0 la campagne.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme il faisait un beau ciel",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c7a parut tout naturel.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Quoiqu'ell' jou\u00e2t bien son r\u00f4le",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En assouvissant sa faim,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'aubergiste, homme tr\u00e8s-fin,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lui trouva l'air un peu dr\u00f4le.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'on vienne apr\u00e8s c' renseignement",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nier le pressentiment.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Madam' Mertens sans d\u00e9fiance",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fit honneur \u00e0 ce repas",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'elle ne dig\u00e9ra pas,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comm' l'a prouv\u00e9 la science ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Entre autr's ces pommes de terr'",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'on leur fit payer tr\u00e8s-cher.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Si bien qu'la pauvre gourmande",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand on alla s' promener,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Au guid' qui voulait les m'ner",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "R\u00e9pondit : Je me l'demande !",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elle \u00e9tait d' tr\u00e8s-bonne humeur",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 preuv' qu'ell' cueillait des fleurs.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Bient\u00f4', tout' tremblant' de fi\u00e8vre,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La Frigard plein' d'entregent",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Revient sans aucun argent",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et s'en va chez un orf\u00e8vre ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Puis d'un air assez peu franc",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ell' change un billet d' cent francs.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Pendant trois jours \u2014 Chos' qui navre ! \u2014",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un cocher dans la for\u00eat",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vit une femm' qui dormait,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais ce n'\u00e9tait qu'un cadavre :",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et tous fur'nt bient\u00f4t certains",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que c'\u00e9tait madam' Mertens.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Trois centim\u00e8tres d'insectes",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La couvraient de toutes parts",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et cet ange aux doux regards",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'\u00e9tait plus qu'un affreux spectre.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Seul' son ombrelle au soleil",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Avait fait croire au sommeil.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mais \u2014 comble de maladresse ! \u2014",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La Frigard sans se m\u00e9fier",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chez l'honn\u00eate bijoutier",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Avait laiss\u00e9 son adresse ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et ce morceau de papier",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Suffit pour la faire \u00e9pier.",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "L'habile agent, monsieur Claude,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La voit toucher des coupons,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et conclut qu'ils n' sont pas bons",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et soup\u00e7onne quelque fraude ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et rempli d'un z\u00e8le ardent",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il la fait mettre dedans.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Aussit\u00f4t elle est traduite",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Devant la Cour de Melun ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les juges, l'autre apr\u00e8s l'un,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'interrog'nt sur sa conduite ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Malgr\u00e9 son toupet d'enfer,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ils trouv'nt que \u00e7a n'est pas clair.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Alors le proc\u00e8s commence",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et aussi un' grande \u00e9motion",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et malgr\u00e9 l'Exposition",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il y vient une foule immense.",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On r\u00e9serv' dans l'monument",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des plac's au sexe charmant.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Enfreignant toute d\u00e9fense,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On se press', quoiqu'il fass' chaud,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce fameux ma\u00eetr' Lachaud",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est au banc de la d\u00e9fense ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et cette c\u00e9l\u00e9brit\u00e9",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "La Frigard avec col\u00e8re,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quand on lui parl' du forfait,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dit : C'est Williams qu'a tout fait.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Recherchez cette [sic] insulaire.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais cet enfant d'Albion",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'\u00e9tait q'une invention.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Comme dans l'affaire Lafarge,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On proc\u00e8de avec grand soin ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On interrog' des t\u00e9moins",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 charge et m\u00eame \u00e0 d\u00e9charge",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et des m\u00e9decins l\u00e9gaux",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Portant de sombres bocaux.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "On exhibe, entre les pi\u00e8ces,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un photographique album",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Plein d'un immoral parfum",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et d'cartes de toute esp\u00e8ce.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On voit parmi les viveurs",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des officiers sup\u00e9rieurs.",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Delarue, \u00e9l\u00e8v' sublime",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De Saint-Omer et de Biard,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fait l'\u00e9loge de son art",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et prouve amplement le crime ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et Lasserr' d'amour tremblant",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est un t\u00e9moin accablant.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Cet expert des plus lucides",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Donne comme un fait certain",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que l'infortun\u00e9 Mertens",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Avait les pets plus rapides",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et que l'autre avait les o",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Bien plus ronds et bien plus gros.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mais on va l'ver la s\u00e9ance,",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L' plaidoyer \u00e9tant fini.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Monsieur le chef du jury",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dit : Sur mon \u00e2me et conscience,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je le d\u00e9clare aujourd'hui.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est-elle coupable ? Oui.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Aux travaux qu'on fait de force",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On la condamne pour toujours.",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il n' lui reste plus que l' recours ;",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais ell' n' mord pas \u00e0 l'amorce.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Car elle a tout c'qui lui faut ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sans \u00e7a, \u00e7a s'rait l'\u00e9chafaud.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "De cette histoire si triste",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La morale la voici :",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est qu'on en f'ra des r\u00e9cits",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dont fr\u00e9mira la touriste ;",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et que jamais le bonheur",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ne s' trouv' dans le d\u00e9shonneur.",
+                    "metre": "7",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Qu'apprends-je par la chronique ?",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La Frigard fait des aveux.",
+                    "metre": "7",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais qu' Sidonie aux longs cheveux",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Soit mort' par l'acide prussique",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ou par la strangulation,",
+                    "metre": "8",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est un' bien mauvaise action.",
+                    "metre": "8",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER923",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "GAZETTE RIM\u00c9E",
+        "profile": "6\u22126",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER923_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00c0 moi, Francis, deux mots. \u2014 Parle. \u2014 \u00d4te-moi d'un doute.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu connais bien Victor ? \u2014 S\u00e9jour ? \u2014 Non, l'autre. \u00c9coute.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sais-tu que cet Hugo fut la m\u00eame vertu,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le g\u00e9nie et l'honneur de son temps ? Le sais-tu ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 Peut-\u00eatre. \u2014 Cette ardeur que dans mes vers j'apporte,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sais-tu que c'est son sang . Le sais-tu ? \u2014 Que m'importe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 Alors pourquoi sur lui, dans chaque num\u00e9ro",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l'organe que fut le premier Figaro",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ext\u00e9nuer, ainsi que sur la t\u00eate more,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ton poing faible, \u00f4 Coupeur qui n'est pas Fenimore ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pourquoi, quand tu pourrais, quand tu devais, Francis,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "T'armer de tes ciseaux et d\u00e9couper dans six",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ou sept journaux des faits divers dont on s'\u00e9tonne",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chez les marchands de cuirs du quartier Tiquetonne",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et dont r\u00eave Sarcey, peut-\u00eatre, oh ! dis pourquoi,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand tu pourrais, ami, victorieux et coi,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vivre de ton m\u00e9tier que Pelloquet souhaite,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Te montrer envieux de cet humble po\u00ebte ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Va, quitte ces soucis et reviens au grand art",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'offrir \u00e0 l'abonn\u00e9 palpitant le moins tard",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le plus \u00ab comme il faut \u00bb possible les nouvelles :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Caissiers prenant le train de minuit dix, cervelles",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui sautent, duel de Paul d'Y avec Alfred",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De Xiks, pour les yeux noirs de la petite Zzed,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et c\u00e6tera. D'ailleurs notre Muse, qu'amuse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Beaucoup plus que nos vers un souper, et qui muse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toujours devant Samper, vient de nous planter l\u00e0",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour un Chactas ayant perdu son Atala.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Francis, remplace-la. Dis-nous, muse amicale,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que voici revenir ces dames de Cancale,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Duschesne qu'une veste immuable rev\u00eat,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 Gloire du Figaro ! triomphe de Chevet !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les membres du congr\u00e8s de Malines, les courses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et les grands coups de Bourse o\u00f9 se vident les bourses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et Wolff ! Dis-nous aussi l'Od\u00e9on restaur\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et George Sand et son Monsieur de Bois Dor\u00e9 !",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dis-nous Barth\u00e9l\u00e9my mort et M\u00e9ry-sur-Oise,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Barri\u00e8re aussi nerveux que libre, cherchant noise",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au Si\u00e8cle, et par del\u00e0 des chemins vicinaux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Donnant son c\u0153ur au fils de Bondy-les-Tonneaux !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dis-nous cela ! dis-nous cela ! \u2014 Mais si ton r\u00eave",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pourtant a soif encor de la r\u00e9clame br\u00e8ve",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que Lucr\u00e8ce, Ruy-Blas, la L\u00e9gende, Hernani",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ont acquise autrefois \u00e0 cet Hugo fini,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ach\u00e8te ce qu'il faut pour \u00e9crire \u00e0 Clairville,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Trouve des rimes, b\u00e2cle un drame, un vaudeville,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'importe quoi, fais des tirades et prends-moi",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce lyrisme qui met le parterre en \u00e9moi.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Soi sublime ! Sois grand ! Enfin fais les Burgraves",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 Mais non, ne quitte pas tes besognes plus graves ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'\u00e9coute pas le chant surann\u00e9 des oiseaux !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Francis, reste Magnard ! Sculpteur ; \u00e0 tes ciseaux !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voltige, enfant ail\u00e9 que g\u00e2ta la chronique,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la verve gauloise \u00e0 l'humour britannique ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le public te sera cent fois reconnaissant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pourtant un seul conseil, dis \u00e0 Villemessant",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que Bourdin et Jouvin feraient bien de se taire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oh ! dis-lui que Jouvin est de trop sur la terre !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qu'il est un proverbe excellent quoique vieux :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 Tous les gendres sont bons, hors le gendre ennuyeux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER924",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "SUR M. BARBEY D'AUREVILLY",
+        "profile": "8",
+        "structure": "triolet classique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER924_7",
+        "text": [
+            [
+                {
+                    "verse": "Des Trente-sept il a tant ri,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'il faut que Pommier le d\u00e9lace ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Son corset en est tout marri :",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des Trente-sept il a tant ri !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ranc, E. Spuller, Castagnary,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La r\u00e9daction en est lasse :",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des Trente-sept il a tant ri,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'il faut que Pommier le d\u00e9lace.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER925",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "C\u00c9SAR BORGIA",
+        "profile": "6\u22126",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER925_7",
+        "text": [
+            [
+                {
+                    "verse": "Le duc C\u00e9sar, tout d'or v\u00eatu, rit doucement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au chanteur de quinze ans qu'il a sur les genoux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et passe \u00e0 travers les \u00e9normes cheveux roux",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du jeune homme sa main o\u00f9 brille un diamant.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le luth r\u00e9sonne encore, aigre, vague et charmant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous les doigts allanguis [sic] de l'enfant qui, jaloux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De plaire, se souvient de ses airs les plus doux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et C\u00e9sar Borgia sourit languissamment.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le long des murs, d'un air tendrement obsesseur",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "L'Image de son P\u00e8re et celle de sa S\u0153ur",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Paraissent reprocher bien des choses au Duc.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Lui \u2014 sourit \u00e0 l'enfant qui le baise et parmi",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "La longue barbe noire et molle de l'Ami",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Prom\u00e8ne ses doigts fins et blancs comme du stuc.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER926",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "HENRI III",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER926_7",
+        "text": [
+            [
+                {
+                    "verse": "Livide sous son fard et roide gr\u00e2ce au busc",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Qui maintient son pourpoint sans plis ainsi qu'il sied",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Le Roi flaire un mouchoir de poche imbu de musc",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                }
+            ],
+            [
+                {
+                    "verse": "Il est assis. Il r\u00eave, et balance son pied",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Indolent que mordille un jeune chien jappeur",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Et tremble par moment, comme s'il avait peur.",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce n'est plus au grand Guise assassin\u00e9 d'hier",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Qu'il a l'air de penser ni certes au petit",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "B\u00e9arnais, bataillant suivant son app\u00e9tit",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Tr\u00e8s-loin, malgr\u00e9 les temps hazardeux [sic] et l'hiver.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                }
+            ],
+            [
+                {
+                    "verse": "Car il regarde (avec son \u0153il sinistre et clair",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Qui sait devenir tendre et se voiler la nuit)",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Il regarde inquiet de tant d'acier qui luit",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Le groupe de Mignons, splendide, fort et fier.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER927",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "NOUS ERRIONS SUR LA MER DES SUPR\u00caMES D\u00c9SASTRES",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER927_7",
+        "text": [
+            [
+                {
+                    "verse": "\u2014 Nous errions sur la mer des supr\u00eames d\u00e9sastres",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous un ciel irrit\u00e9, sans boussole et sans astres,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9bris d'un grand combat perdu par trahisons",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Autour de nous rampaient les flots, phosphore et souffre ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Le radeau lentement s'enfon\u00e7ait dans le gouffre ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "D\u00e9j\u00e0 nous nous sentions guett\u00e9s par les poisons\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "O Livre, tu parais dans ce hideux naufrage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tel qu'un inesp\u00e9r\u00e9 vaisseau de grand tonnage",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 nous grimpons, nageurs \u00e0 demi-submerg\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la seule vertu de ta bonne m\u00e2ture",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et les rangs de canons pr\u00eats \u00e0 toute aventure",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Nous ont soudain \u2014 par quel miracle ? \u2014 encourag\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous combattions ! \u2014 Que vienne \u00e0 pr\u00e9sent le pirate,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous accueillerons bien l'escadre sc\u00e9l\u00e9rate\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mousqueton, caronnade, oh ! l'admirable ch\u0153ur ! \u2014",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et s'il ne nous \u00e9choit qu'une belle d\u00e9faite,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Du moins nous aurons eu cette supr\u00eame f\u00eate",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Nous aussi, de couler \u00e0 fond sur le Vengeur !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER928",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "H\u00c9LAS, TU FUS HECTOR AU PRINTEMPS DE LA VIE",
+        "profile": "6+6",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER928_7",
+        "text": [
+            [
+                {
+                    "verse": "H\u00e9las tu fus Hector, au printemps de la vie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Enlev\u00e9 sans espoir \u00e0 ta m\u00e8re ch\u00e9rie",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Cher enfant, re\u00e7ois donc le tribut de nos pleurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ton pieux souvenir est grav\u00e9 dans nos c\u0153urs.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O .............................................................",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER929",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "LA VIE EST UNE ESCARPOLETTE, C'EST NOTOIRE",
+        "profile": "4=6, 8, 6=6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER929_7",
+        "text": [
+            [
+                {
+                    "verse": "La vie est une escarpolette, c'est notoire",
+                    "metre": "8+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Seul je tiens un des bouts de cette balan\u00e7oire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 je suis seul abandonn\u00e9",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous dont les malheureux connaissent l'\u00e2me,",
+                    "metre": "6+4",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Par charit\u00e9, voulez-vous pas madame",
+                    "metre": "4+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Vous mettre \u00e0 l'autre extr\u00e9mit\u00e9.",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER930",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "VOUS \u00caTES LA REINE AU PAYS DU TENDRE",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER930_7",
+        "text": [
+            [
+                {
+                    "verse": "Vous \u00eates la reine au pays du tendre",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que vous r\u00e9gentez \u00e0 loisir",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ce, pendant que moi, comme la salamandre",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER931",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "RESTE C\u00c9LIBATAIRE",
+        "profile": "6",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER931_7",
+        "text": [
+            [
+                {
+                    "verse": "Reste c\u00e9libataire,",
+                    "metre": "6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mon gar\u00e7on,",
+                    "metre": "6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER932",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "MAIS QU'EST-CE QU'ILS ONT DONC \u00c0 DIRE QUE C'EST LAID ?",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER932_7",
+        "text": [
+            [
+                {
+                    "verse": "Mais qu'est-ce qu'ils ont donc \u00e0 dire que c'est laid ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne ruissellent-ils pas de tendresse et de lait ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER933",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "LES COPP\u00c9ES ONT FAIT LEUR TEMPS",
+        "profile": "7",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER933_7",
+        "text": [
+            [
+                {
+                    "verse": "J'inaugure pour te plaire,",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Une seconde mani\u00e8re.",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER934",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "VIEUX-VERLAINES",
+        "profile": "4=5",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER934_7",
+        "text": [
+            [
+                {
+                    "verse": "J'ai fr\u00e9mi comme un archet frivole",
+                    "metre": "4+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur la fibre p\u00e2le qui d\u00e9tonne",
+                    "metre": "5+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De cette fin de cette p\u00e2le automne.",
+                    "metre": "4+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'ai fr\u00e9mi comme un archet frivole !",
+                    "metre": "4+5",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER935",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "LES DERNI\u00c8RES CLASSES DE L'ANN\u00c9E SCOLAIRE",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER935_7",
+        "text": [
+            [
+                {
+                    "verse": "Son \u0153il qui semble tr\u00e8s-f\u00e2ch\u00e9",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Parmi l'or d'un mortel silince,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dit \u00e0 ce tas effarouch\u00e9",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De gosses : \u00ab Que je vous y pince ! \u00bb",
+                    "metre": "8",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER936",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "DE L'EXPOSITION TOUT CE QUE C'MONSS' RET\u00ceNT",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER936_7",
+        "text": [
+            [
+                {
+                    "verse": "De l'Exposition tout ce que c'monss' ret\u00eent",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'Exposition tout ce que c'monss' ret\u00eent",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est les Tzigan's avec leurs rigolards de teint !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VER_33/VER937",
+        "author": "Paul Verlaine",
+        "work": "VARIA",
+        "date": "1867",
+        "title": "SONGEZ \u00c0 CE GORITZ AINSI QU'\u00c0 L'\u00c9DITEUR",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VER_33&code_text=VER937_7",
+        "text": [
+            [
+                {
+                    "verse": "Songez \u00e0 ce Goritz ainsi qu'\u00e0 l'\u00c9diteur",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Invraisemblable plus encor que le lecteur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    }
+]

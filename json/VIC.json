@@ -1,0 +1,3714 @@
+[
+    {
+        "code": "VIC_2/VIC37",
+        "author": "Gabriel Vicaire",
+        "work": "A LA BONNE FRANQUETTE",
+        "date": "1892",
+        "title": "Visite Apr\u00e8s Boire",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIC_2&code_text=VIC37_7",
+        "text": [
+            [
+                {
+                    "verse": "J\u2019ai d\u00e9fonc\u00e9 d\u2019un coup de poing",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un caquillon de vieux gravelle.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un rayon d\u2019or en ma cervelle",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S\u2019est introduit, je suis \u00e0 point.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Devant l\u2019armoire aux confitures",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ma table s\u2019est mise \u00e0 valser ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mon lit demande \u00e0 m\u2019embrasser.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Seigneur J\u00e9sus, que d\u2019aventures !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et les bouteilles au long cou",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Me contemplent d\u2019un air si tendre !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je ne me lasse pas d\u2019entendre",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les cascades de mon coucou.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ma foi, tant mieux ! Vive la joie !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et je souris b\u00e9atement.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous croiriez voir un garnement",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui s\u2019attable en face d\u2019une oie.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u2019un rayon d\u2019or je suis f\u00e9ru.",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je ris, je ris ; j\u2019en deviens b\u00eate.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et voil\u00e0 qu\u2019en tournant la t\u00eate,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelque chose m\u2019est apparu.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est comme un bateau qui chavire",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme un prunier qui va branlant,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est rose et bleu, c\u2019est noir, c\u2019est blanc,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c7a tourne, tourne, et vire, vire.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tiens, une femme !\u2026 Eh oui, ma foi,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00eame une assez belle gaillarde ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voyez-la donc qui me regarde",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et se gaudit, Dieu sait pourquoi.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ses larges mains sont assez blanches,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et son visage ! un vrai soleil !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des yeux noirs, un teint plus vermeil",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que le jour au milieu des branches.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pas du tout fi\u00e8re avec cela ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce n\u2019est pas une mijaur\u00e9e.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au pavillon de la mar\u00e9e",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On conna\u00eet de ces beaut\u00e9s-l\u00e0.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Ah ! dis-je, quel est ce myst\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et pourquoi me fixer ainsi ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne savez-vous pas que voici",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un vertueux c\u00e9libataire ? \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Turlututu, chapeau pointu,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rassure-toi, fait la donzelle.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme toi je suis demoiselle ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je n\u2019en veux pas \u00e0 ta vertu.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je suis la muse peu s\u00e9v\u00e8re",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que nos vieux p\u00e8res aimaient tant,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La muse qui laisse, en chantant,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tomber des roses dans son verre.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Marot et le pauvre Villon",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u2019ont fait courir la pr\u00e9tantaine ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur les genoux de La Fontaine",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J\u2019ai retrouss\u00e9 mon cotillon.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Moli\u00e8re aux fers d\u2019une inhumaine",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oubliait tout en mon retrait ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La bonne vieille Lafor\u00eat",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9tait ma cousine germaine.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Despr\u00e9aux voulut m\u2019en conter,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais ce n\u2019\u00e9tait que radotage.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "R\u00e9gnier me plaisait davantage ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il fallait l\u2019entendre chanter !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et Voltaire ! La bonne pi\u00e8ce !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quelle malice ! Avons-nous ri !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce fut mon singe favori ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais je n\u2019aimais pas trop sa ni\u00e8ce.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ah ! Vive Dieu ! que de galants",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u2019ont ador\u00e9e \u00e0 mon aurore !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne suis-je pas plaisante encore ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je n\u2019ai pas m\u00eame deux mille ans ! \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Deux mille ans et si peu chenue !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dis-je, vraiment vous m\u2019\u00e9tonnez. \u00bb",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais elle fait un pied de nez,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tire la langue et continue :",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab H\u00e9las ! nous \u00e9tions si contents !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "V\u00eatu de rose et d\u2019\u00e9meraude,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On s\u2019en allait \u00e0 la maraude",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au jardin de Roger Bontemps.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais la ga\u00eet\u00e9 n\u2019est plus de mode.",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mettre son c\u0153ur \u00e0 l\u2019abandon,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jouer, fol\u00e2trer, allons donc !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019\u00e9tait bon sous le vieil H\u00e9rode !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019ai vu le temps o\u00f9 nos Fran\u00e7ais,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La t\u00eate au vent comme raquette,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aimaient \u00e0 la bonne franquette,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sans autre forme de proc\u00e8s.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils poursuivaient la fantaisie",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au clair soleil, par les pr\u00e9s verts ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toujours leur cervelle \u00e0 l\u2019envers",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Gardait un grain de po\u00e9sie.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Aujourd\u2019hui, quel monde assommant !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plus de jeunesse ! on parle en prose.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le chardon vient apr\u00e8s la rose ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Apr\u00e8s le bal, l\u2019enterrement.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le rire plein, large et sonore,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le franc rire de nos a\u00efeux",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne s\u2019envole plus vers les cieux ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est \u00e0 jurer qu\u2019il d\u00e9shonore !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et le bon vin qui fait loucher,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le vin gaillard, fils de nos vignes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 sont les vaillants qui soient dignes,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ah ! seulement d\u2019en approcher ?",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tandis qu\u2019en mon verre il rougeoie,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plus d\u2019un se r\u00e2pe le palais",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec l\u2019ale ou le gin anglais.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils ont l\u2019ivresse, non la joie.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u2019aucuns en pays allemand",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vont se griser de lourde bi\u00e8re ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Autant vaudrait se mettre en bi\u00e8re",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour attendre le jugement.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u2019autres, que Dieu les r\u00e9compense,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Boivent dans un pot \u00e0 pisser",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelque chose qu\u2019on voit mousser ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le c\u0153ur me l\u00e8ve quand j\u2019y pense.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Fi, pouah, pouah ! Les vilains goulus !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le diable soit de leur bourrache ! \u00bb",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la voil\u00e0 qui tousse et crache :",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00ab Les pauvres gens ! n\u2019en parlons plus. \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Je voudrais, dis-je, belle brune,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous offrir un peu de vin blanc.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les bouteilles sont sur le flanc,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "H\u00e9las ! il n\u2019en reste pas une ! \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Bah ! mon ami, c\u2019est pour le mieux.",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Veux-tu savoir ce qui me f\u00e2che ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est que le monde soit trop l\u00e2che",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour me regarder dans les yeux ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est, quand pointent la violette,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le bouton d\u2019or et le souci,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu\u2019il me faille rester ainsi",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A la maison toute seulette.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Car je suis encor s\u00fbrement",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La mieux faite du voisinage.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aurais-tu devin\u00e9 mon \u00e2ge ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne vaux-je pas un compliment ?",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "On a beau dire, on a beau faire :",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il faut coqueter ; c\u2019est la loi.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On n\u2019est pas belle que pour soi,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019amour est la grande affaire.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Quoi ! Plus m\u00eame un pauvre bouquet",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nou\u00e9 d\u2019un bout de faveur bleue !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pas un pompon rose \u00e0 la queue",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De Sans-Souci, mon bourriquet !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Puisque le monde m\u2019abandonne,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Moi qui l\u2019avais tant diverti,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je te prendrai comme apprenti,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Malgr\u00e9 ton ventre qui bedonne.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tu ne sembles pas tr\u00e8s malin ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je te d\u00e9gourdirai, peut-\u00eatre.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J\u2019ai bien men\u00e9 les vaches pa\u00eetre,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au temps jadis, avec Colin.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous irons au soleil de France",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voir reverdir les \u00e9glantiers. \u00bb",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et j\u2019ai r\u00e9pondu : \u00ab Volontiers !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Grand merci de la pr\u00e9f\u00e9rence.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Que je voudrais vous consoler !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je vous aime tant ! C\u2019est merveille.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et voici qu\u2019en mon c\u0153ur s\u2019\u00e9veille",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un merle pr\u00eat \u00e0 s\u2019envoler.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais je n\u2019ai jamais eu de vice,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J\u2019ai peur de rester en d\u00e9faut.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Saurai-je faire ce qu\u2019il faut ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M\u2019allez-vous pas trouver novice ? \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Sois donc tranquille, mon gar\u00e7on ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je t\u2019apprendrai mes ritournelles,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous chanterons sous les tonnelles",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le vin, l\u2019amour, \u00e0 l\u2019unisson,",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nous ferons tant de tapage",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que les gens nous entendront bien.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu porteras mon petit chien,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu seras mon n\u00e8gre et mon page. \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Belle dame, excusez du peu !",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que de gr\u00e2ces \u00e0 vous rendre !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais, dites-moi, ne peut-on prendre",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un baiser\u2026 pour l\u2019amour de Dieu ? \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "L\u00e0-dessus, tout plein de caut\u00e8le,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je m\u2019approche. Mais en riant :",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00ab Ah ! fi, fi ! Le petit friand !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est qu\u2019il aime la bagatelle !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Plus tard, plus tard, gros \u00e9tourdi ;",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fais d\u2019abord ton apprentissage.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A bas les mains ! Voyons, sois sage !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous verrons \u00e7a l\u2019autre mardi. \u00bb",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et tout \u00e0 coup, par la crois\u00e9e,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La belle s\u2019enfuit prestement.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est un vrai tour d\u2019enchantement ;",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Psit, psit ! Plus rien : une fus\u00e9e !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019ai beau m\u2019\u00e9carquiller les yeux,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rassembler mes pauvres id\u00e9es.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rien que les bouteilles vid\u00e9es",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui s\u2019affalent \u00e0 qui mieux mieux.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et je l\u2019avais l\u00e0 tout \u00e0 l\u2019heure,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et son sourire \u00e9tait si frais !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ah ! pour deux sous je pleurerais",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si je savais comment on pleure.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Amour, ga\u00eet\u00e9, tout est fourbu,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et maintenant, ma foi, j\u2019h\u00e9site.",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est-ce bien vrai, cette visite ?",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui peut savoir ? J\u2019avais tant bu !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIC_2/VIC38",
+        "author": "Gabriel Vicaire",
+        "work": "A LA BONNE FRANQUETTE",
+        "date": "1892",
+        "title": "A Narcisse Quellien",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIC_2&code_text=VIC38_7",
+        "text": [
+            [
+                {
+                    "verse": "Les bardes d\u2019Armorique \u00e9taient de bonnes gens",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qui regardaient tout d\u2019un \u0153il pas trop s\u00e9v\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils avaient un grand c\u0153ur, ils avaient un grand verre ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils buvaient sec et ferme, \u00e9tant intelligents.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u2019ailleurs, tr\u00e8s attentifs \u00e0 l\u2019Angelus qui sonne,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils s\u2019appuyaient au mur quand ils avaient trop bu.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Leur P\u00e9gase breton ne fut jamais fourbu ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nul d\u2019entre eux n\u2019a jamais fait de mal \u00e0 personne.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le sire Du Guesclin, bien qu\u2019il f\u00fbt des plus laids,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9tait aussi des bons, si j\u2019en crois la l\u00e9gende,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ne boudait pas plus, tant sa soif \u00e9tait grande,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Devant un muid de vin que devant un Anglais.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Quant aux saints de Bretagne, oh ! les saints que j\u2019adore !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toujours pr\u00eats \u00e0 lever le coude et volontiers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Leur humble sanctuaire est fleuri d\u2019\u00e9glantiers,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Leur cloche toujours tinte au lever de l\u2019aurore.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Narcisse, mon ami, que le jus du raisin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous r\u00e9jouisse. H\u00e9las ! c\u2019est le sang de la race.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Titubons, s\u2019il te pla\u00eet, mais comme saint Pancrace.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un petit plumet ? Oui, mais comme Tali\u00e9sin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIC_2/VIC43",
+        "author": "Gabriel Vicaire",
+        "work": "A LA BONNE FRANQUETTE",
+        "date": "1892",
+        "title": "Marguerite Des Bois",
+        "profile": "6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIC_2&code_text=VIC43_7",
+        "text": [
+            [
+                {
+                    "verse": "Marguerite des bois,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous souvient-il encore,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Marguerite des bois,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du soleil d\u2019autrefois ?",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et du matin chantant",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de la fra\u00eeche aurore,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et du matin chantant",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 je vous aimais tant.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "On m\u2019a parl\u00e9 de vous",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chez Marthe, la voisine,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On m\u2019a parl\u00e9 de vous.",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mon fin petit c\u0153ur doux.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je sais que vous pleurez,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le soir, \u00e0 la cuisine,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je sais que vous pleurez",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur vos souliers dor\u00e9s.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous aviez rarement",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gentillesse \u00e0 me dire,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous aviez rarement",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Piti\u00e9 de votre amant.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous m\u2019avez d\u00e9sol\u00e9",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec votre sourire,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous m\u2019avez d\u00e9sol\u00e9",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et je m\u2019en suis all\u00e9.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous chasse qui voudra,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 folles alouettes,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous chasse qui voudra,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il s\u2019en repentira.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Moi, je vais en for\u00eat",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cueillir les violettes,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Moi, je vais en for\u00eat",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Attraper le furet.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mes nippes \u00e0 mon cou,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je fais mon tour de France,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mes nippes \u00e0 mon cou.",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je m\u2019en vais, Dieu sait o\u00f9.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tous les chemins sont verts,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et vive l\u2019esp\u00e9rance !",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tous les chemins sont verts,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans le vaste univers.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019ai couch\u00e9 quatre nuits",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En plein ch\u00e2teau des belles,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J\u2019ai couch\u00e9 quatre nuits,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans perdre mes ennuis.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et je reviens encor",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec les hirondelles,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je reviens encor",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 sont les boutons d\u2019or.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Rien n\u2019est aussi charmant",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que nos filles de Bresse,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rien n\u2019est aussi charmant",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que leur habillement.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Au petit jour, leurs yeux",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sont remplis de tendresse,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au petit jour, leurs yeux",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ont la couleur des cieux.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Marguerite des pr\u00e9s,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand le soleil vous dore,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Marguerite des pr\u00e9s,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jamais vous ne pleurez.",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Marguerite des bois,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous souvient-il encore,",
+                    "metre": "6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Marguerite des bois,",
+                    "metre": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du soleil d\u2019autrefois ?",
+                    "metre": "6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIC_2/VIC44",
+        "author": "Gabriel Vicaire",
+        "work": "A LA BONNE FRANQUETTE",
+        "date": "1892",
+        "title": "Lettre d\u2019Amour",
+        "profile": "4",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIC_2&code_text=VIC44_7",
+        "text": [
+            [
+                {
+                    "verse": "Ah ! s\u00fbrement",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous allez rire.",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je viens d\u2019\u00e9crire",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A mon amant :",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Beau capitaine",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans foi ni loi,",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu cours sans moi",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La pr\u00e9tantaine.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Et cependant,",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Joli Bob\u00e8che,",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On se dess\u00e8che",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En t\u2019attendant.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Vrai ! tout m\u2019assomme ;",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je ne veux rien",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que toi, mon chien,",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mon petit homme.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab J\u2019ai pris le deuil.",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Adieu toilette !",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je vis seulette,",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La larme \u00e0 l\u2019\u0153il.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Crois-moi, je t\u2019aime",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019un amour pur ;",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je suis, bien s\u00fbr,",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toujours la m\u00eame. \u00bb",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et puis, tenez,",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sera-t-il aise ?",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Crac, je le baise",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au bout du nez.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Dieu ! que c\u2019est dr\u00f4le !",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pauvre chr\u00e9tien !",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ai-je assez bien",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jou\u00e9 mon r\u00f4le ?",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est trop d\u2019ennui",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu\u2019il ose dire",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu\u2019on ne respire",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu\u2019aupr\u00e8s de lui.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019aime les hommes",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour m\u2019en moquer ;",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je veux croquer",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toutes les pommes.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019aime \u00e0 changer,",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A l\u2019aveuglette,",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la houlette",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le berger.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Qui cherche \u00e0 plaire",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Me fait la cour.",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vogue l\u2019amour",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur la gal\u00e8re !",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Quand l\u2019\u00e9glantier",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rit et verdoie,",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il fait la joie",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du monde entier.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "La rose s\u2019ouvre ;",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son c\u0153ur naissant",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est au passant",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui la d\u00e9couvre.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pauvre cadet !",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tra la la l\u00e8re\u2026",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelle col\u00e8re",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S\u2019il m\u2019entendait !",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Morbleu, gredine,",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Assez jur\u00e9 ;",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je te tuerai",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avant qu\u2019on d\u00eene.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Je suis \u00e0 bout,",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mauvaise b\u00eate ! \u00bb",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est la temp\u00eate.",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il brise tout.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais je ne risque",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pas un cheveu.",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ah ! ah ! Quel jeu !",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et comme il bisque !",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ai-je rempli",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toute la lettre ?",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Non, j\u2019y veux mettre",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mon c\u0153ur joli,",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mon c\u0153ur de blonde,",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En bel argent,",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le plus changeant",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui soit au monde.",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et puis voil\u00e0",
+                    "metre": "4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toute l\u2019affaire !",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu\u2019il s\u2019aille faire\u2026",
+                    "metre": "4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tra la la la !",
+                    "metre": "4",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIC_2/VIC45",
+        "author": "Gabriel Vicaire",
+        "work": "A LA BONNE FRANQUETTE",
+        "date": "1892",
+        "title": "Rosette en paradis",
+        "profile": "5, 6+6, 6, 5+5, 7",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIC_2&code_text=VIC45_7",
+        "text": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                {
+                    "verse": "C\u2019est ainsi, m\u2019a-t-on dit, que la belle parla ;",
+                    "metre": "6+6",
+                    "rhyme": "68"
+                },
+                {
+                    "verse": "Mais le ciel n\u2019entend pas de cette oreille-l\u00e0.",
+                    "metre": "6+6",
+                    "rhyme": "68"
+                },
+                {
+                    "verse": "Scandale \u00e9norme ! Autour de Rosette impassible",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Un cercle s\u2019est form\u00e9. \u00ab Seigneur, est-ce possible !",
+                    "metre": "6+6",
+                    "rhyme": "69"
+                },
+                {
+                    "verse": "Encor ce Lucifer qui nous veut abuser ;",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Vite, vite l\u2019eau sainte ! Il faut l\u2019exorciser. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Et pour la voir de pr\u00e8s on se heurte, on se pousse.",
+                    "metre": "6+6",
+                    "rhyme": "70"
+                },
+                {
+                    "verse": "Aux premiers rangs, pourtant, un vieux saint d\u2019humeur douce",
+                    "metre": "6+6",
+                    "rhyme": "71"
+                },
+                {
+                    "verse": "Murmure : \u00ab Laissez-la, soyons plus complaisants :",
+                    "metre": "6+6",
+                    "rhyme": "30"
+                },
+                {
+                    "verse": "Voyez comme c\u2019est jeune, elle n\u2019a pas seize ans. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Mais la troupe c\u00e9leste : \u00ab Oh ! la d\u00e9vergond\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "72"
+                },
+                {
+                    "verse": "Qui ne conna\u00eet ni Dieu ni diable ! A-t-on id\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "72"
+                },
+                {
+                    "verse": "D\u2019une chose pareille ! Est-ce que par hasard",
+                    "metre": "6+6",
+                    "rhyme": "73"
+                },
+                {
+                    "verse": "On recrute \u00e0 pr\u00e9sent les saints \u00e0 l\u2019Alcazar !",
+                    "metre": "6+6",
+                    "rhyme": "74"
+                },
+                {
+                    "verse": "L\u2019avez-vous entendue avec notre concierge ?",
+                    "metre": "6+6",
+                    "rhyme": "75"
+                },
+                {
+                    "verse": "Elle croit, j\u2019imagine, \u00eatre dans une auberge. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "75"
+                },
+                {
+                    "verse": "Et Rosette, tr\u00e8s digne en son petit complet,",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Dit : \u00ab C\u2019est beaucoup de bruit pour un pauvre couplet.",
+                    "metre": "6+6",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Que de propos en l\u2019air, que de billeves\u00e9es !",
+                    "metre": "6+6",
+                    "rhyme": "76"
+                },
+                {
+                    "verse": "Vous n\u2019avez donc jamais vu les Champs-\u00c9lys\u00e9es ?",
+                    "metre": "6+6",
+                    "rhyme": "76"
+                },
+                {
+                    "verse": "Ah ! vraiment, c\u2019est trop fort. Vous ne connaissez donc",
+                    "metre": "6+6",
+                    "rhyme": "31"
+                },
+                {
+                    "verse": "Ni Rueil, ni Chatou, ni le bois de Meudon ?",
+                    "metre": "6+6",
+                    "rhyme": "32"
+                },
+                {
+                    "verse": "Vous n\u2019avez jamais fait l\u2019ombre d\u2019une fredaine,",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Vous ne savez pas l\u2019air de la Briguedondaine,",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Vous ne riez jamais ! Je vous plains, bonnes gens ;",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Vous en seriez meilleurs et bien plus indulgents. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "30"
+                },
+                {
+                    "verse": "Grand haro pour le coup ! On crie, on s\u2019\u00e9gosille :",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "\u2012 \u00ab Enlevez la sorci\u00e8re. \u2012 A la porte, la fille ! \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Quand, tout \u00e0 coup, chacun reste le bec dans l\u2019eau.",
+                    "metre": "6+6",
+                    "rhyme": "77"
+                },
+                {
+                    "verse": "C\u2019est le P\u00e8re \u00c9ternel, c\u2019est le Bon Dieu. Tableau.",
+                    "metre": "6+6",
+                    "rhyme": "77"
+                },
+                {
+                    "verse": "Comme un p\u00e2tre appuy\u00e9 sur son b\u00e2ton d\u2019\u00e9rable",
+                    "metre": "6+6",
+                    "rhyme": "59"
+                },
+                {
+                    "verse": "Il entre, caressant sa barbe v\u00e9n\u00e9rable,",
+                    "metre": "6+6",
+                    "rhyme": "59"
+                },
+                {
+                    "verse": "Et dans les plis royaux de son long manteau bleu",
+                    "metre": "6+6",
+                    "rhyme": "36"
+                },
+                {
+                    "verse": "Frissonne un soleil d\u2019or. Intimid\u00e9e un peu,",
+                    "metre": "6+6",
+                    "rhyme": "36"
+                },
+                {
+                    "verse": "Rosette gentiment a fait la r\u00e9v\u00e9rence,",
+                    "metre": "6+6",
+                    "rhyme": "78"
+                },
+                {
+                    "verse": "Et lui : \u00ab Mes chers amis, cette enfant vient de France.",
+                    "metre": "6+6",
+                    "rhyme": "78"
+                },
+                {
+                    "verse": "Vous n\u2019y comprenez rien, je n\u2019en suis pas surpris.",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Nous n\u2019avons pas ici grand monde de Paris.",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Mais quoi ! le c\u0153ur est bon si la t\u00eate est l\u00e9g\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "34"
+                },
+                {
+                    "verse": "Saint Pierre, en ton bercail re\u00e7ois cette berg\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "34"
+                },
+                {
+                    "verse": "Elle a l\u2019\u00e9clat de rire et le parler joyeux.",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "Ouvre : pour cette fois nous fermerons les yeux. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                }
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "VIC_2/VIC46",
+        "author": "Gabriel Vicaire",
+        "work": "A LA BONNE FRANQUETTE",
+        "date": "1892",
+        "title": "La Journ\u00e9e de Javotte",
+        "profile": "5",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIC_2&code_text=VIC46_7",
+        "text": [
+            [
+                {
+                    "verse": "Dans son grand lit rose",
+                    "metre": "5",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Aux n\u0153uds de satin,",
+                    "metre": "5",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Depuis le matin",
+                    "metre": "5",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Javotte repose.",
+                    "metre": "5",
+                    "rhyme": "0"
+                }
+            ],
+            [
+                {
+                    "verse": "Souple comme un gant,",
+                    "metre": "5",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Vague comme un songe,",
+                    "metre": "5",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Frissonne et s\u2019allonge",
+                    "metre": "5",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Son corps \u00e9l\u00e9gant.",
+                    "metre": "5",
+                    "rhyme": "2"
+                }
+            ],
+            [
+                {
+                    "verse": "Autour de ses hanches",
+                    "metre": "5",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Au contour l\u00e9ger,",
+                    "metre": "5",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Semblent voltiger",
+                    "metre": "5",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Mille roses blanches.",
+                    "metre": "5",
+                    "rhyme": "4"
+                }
+            ],
+            [
+                {
+                    "verse": "Sous ses cheveux d\u2019or",
+                    "metre": "5",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "A peine on devine",
+                    "metre": "5",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Sa t\u00eate divine,",
+                    "metre": "5",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Toute pure encor.",
+                    "metre": "5",
+                    "rhyme": "6"
+                }
+            ],
+            [
+                {
+                    "verse": "A quoi r\u00eave-t-elle,",
+                    "metre": "5",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "La na\u00efve enfant ?",
+                    "metre": "5",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "A quelque bouffant",
+                    "metre": "5",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "De folle dentelle ;",
+                    "metre": "5",
+                    "rhyme": "8"
+                }
+            ],
+            [
+                {
+                    "verse": "A tant de mignons",
+                    "metre": "5",
+                    "rhyme": "9"
+                },
+                {
+                    "verse": "Qui disent : \u00ab Je t\u2019aime, \u00bb",
+                    "metre": "5",
+                    "rhyme": "10"
+                },
+                {
+                    "verse": "Sans qu\u2019on tienne m\u00eame",
+                    "metre": "5",
+                    "rhyme": "10"
+                },
+                {
+                    "verse": "A savoir leurs noms ;",
+                    "metre": "5",
+                    "rhyme": "9"
+                }
+            ],
+            [
+                {
+                    "verse": "A sa robe \u00e0 queue ;",
+                    "metre": "5",
+                    "rhyme": "11"
+                },
+                {
+                    "verse": "A son beau carlin ;",
+                    "metre": "5",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Peut-\u00eatre au moulin",
+                    "metre": "5",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Qui battait l\u2019eau bleue,",
+                    "metre": "5",
+                    "rhyme": "11"
+                }
+            ],
+            [
+                {
+                    "verse": "Au temps o\u00f9, dit-on,",
+                    "metre": "5",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Fillette champ\u00eatre,",
+                    "metre": "5",
+                    "rhyme": "13"
+                },
+                {
+                    "verse": "Elle menait pa\u00eetre",
+                    "metre": "5",
+                    "rhyme": "13"
+                },
+                {
+                    "verse": "L\u2019\u00e2ne et le mouton !",
+                    "metre": "5",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "Maintenant des perles",
+                    "metre": "5",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Brillent \u00e0 ses doigts.",
+                    "metre": "5",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "Adieu, dans les bois,",
+                    "metre": "5",
+                    "rhyme": "16"
+                },
+                {
+                    "verse": "La chanson des merles.",
+                    "metre": "5",
+                    "rhyme": "14"
+                }
+            ],
+            [
+                {
+                    "verse": "Le lit de gala",
+                    "metre": "5",
+                    "rhyme": "17"
+                },
+                {
+                    "verse": "Garde, en sa paresse,",
+                    "metre": "5",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "Un air d\u2019all\u00e9gresse",
+                    "metre": "5",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "Et de tralala.",
+                    "metre": "5",
+                    "rhyme": "17"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c7\u00e0 et l\u00e0 des ruches,",
+                    "metre": "5",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Des chiffons brod\u00e9s,",
+                    "metre": "5",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Le cornet aux d\u00e9s,",
+                    "metre": "5",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "La cage aux perruches ;",
+                    "metre": "5",
+                    "rhyme": "19"
+                }
+            ],
+            [
+                {
+                    "verse": "Sous un cotillon",
+                    "metre": "5",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Une bo\u00eete \u00e0 mouches,",
+                    "metre": "5",
+                    "rhyme": "21"
+                },
+                {
+                    "verse": "De minces babouches",
+                    "metre": "5",
+                    "rhyme": "21"
+                },
+                {
+                    "verse": "A la Cendrillon ;",
+                    "metre": "5",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "Un bout de mitaine,",
+                    "metre": "5",
+                    "rhyme": "22"
+                },
+                {
+                    "verse": "Des bas, un collier,",
+                    "metre": "5",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Don du chevalier",
+                    "metre": "5",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "De la Pr\u00e9tantaine ;",
+                    "metre": "5",
+                    "rhyme": "22"
+                }
+            ],
+            [
+                {
+                    "verse": "Le c\u0153ur \u00e9plor\u00e9,",
+                    "metre": "5",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Deux amants de S\u00e8vres",
+                    "metre": "5",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "Unissent leurs l\u00e8vres",
+                    "metre": "5",
+                    "rhyme": "23"
+                },
+                {
+                    "verse": "De biscuit dor\u00e9 ;",
+                    "metre": "5",
+                    "rhyme": "5"
+                }
+            ],
+            [
+                {
+                    "verse": "L\u2019empereur de Chine,",
+                    "metre": "5",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Heureux et vermeil,",
+                    "metre": "5",
+                    "rhyme": "24"
+                },
+                {
+                    "verse": "S\u2019esclaffe, un soleil",
+                    "metre": "5",
+                    "rhyme": "24"
+                },
+                {
+                    "verse": "Au bas de l\u2019\u00e9chine,",
+                    "metre": "5",
+                    "rhyme": "7"
+                }
+            ],
+            [
+                {
+                    "verse": "Et tout \u00e0 l\u2019entour,",
+                    "metre": "5",
+                    "rhyme": "25"
+                },
+                {
+                    "verse": "Fine comme l\u2019ambre,",
+                    "metre": "5",
+                    "rhyme": "26"
+                },
+                {
+                    "verse": "R\u00f4de par la chambre",
+                    "metre": "5",
+                    "rhyme": "26"
+                },
+                {
+                    "verse": "Une odeur d\u2019amour.",
+                    "metre": "5",
+                    "rhyme": "25"
+                }
+            ],
+            [
+                {
+                    "verse": "Les heures l\u00e9g\u00e8res",
+                    "metre": "5",
+                    "rhyme": "27"
+                },
+                {
+                    "verse": "Passent en dansant ;",
+                    "metre": "5",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Tel un ch\u0153ur d\u00e9cent",
+                    "metre": "5",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "D\u2019accortes berg\u00e8res.",
+                    "metre": "5",
+                    "rhyme": "27"
+                }
+            ],
+            [
+                {
+                    "verse": "Un flot de galants",
+                    "metre": "5",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Accourt \u00e0 l\u2019offrande,",
+                    "metre": "5",
+                    "rhyme": "29"
+                },
+                {
+                    "verse": "Et chacun demande",
+                    "metre": "5",
+                    "rhyme": "29"
+                },
+                {
+                    "verse": "La belle aux seins blancs.",
+                    "metre": "5",
+                    "rhyme": "30"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c9coliers imberbes",
+                    "metre": "5",
+                    "rhyme": "31"
+                },
+                {
+                    "verse": "Comme des nonnains,",
+                    "metre": "5",
+                    "rhyme": "32"
+                },
+                {
+                    "verse": "G\u00e9ants, petits nains,",
+                    "metre": "5",
+                    "rhyme": "32"
+                },
+                {
+                    "verse": "Cavaliers superbes,",
+                    "metre": "5",
+                    "rhyme": "31"
+                }
+            ],
+            [
+                {
+                    "verse": "Vieux beaux, obstin\u00e9s",
+                    "metre": "5",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Diseurs de sornettes,",
+                    "metre": "5",
+                    "rhyme": "33"
+                },
+                {
+                    "verse": "Avec des lunettes",
+                    "metre": "5",
+                    "rhyme": "33"
+                },
+                {
+                    "verse": "Et la goutte au nez,",
+                    "metre": "5",
+                    "rhyme": "5"
+                }
+            ],
+            [
+                {
+                    "verse": "Gros financiers, dignes",
+                    "metre": "5",
+                    "rhyme": "34"
+                },
+                {
+                    "verse": "D\u2019\u00eatre un jour pendus,",
+                    "metre": "5",
+                    "rhyme": "35"
+                },
+                {
+                    "verse": "Moinillons dodus",
+                    "metre": "5",
+                    "rhyme": "35"
+                },
+                {
+                    "verse": "Toujours dans les vignes,",
+                    "metre": "5",
+                    "rhyme": "34"
+                }
+            ],
+            [
+                {
+                    "verse": "Supp\u00f4ts de la loi",
+                    "metre": "5",
+                    "rhyme": "36"
+                },
+                {
+                    "verse": "En robes \u00e0 tra\u00eene,",
+                    "metre": "5",
+                    "rhyme": "22"
+                },
+                {
+                    "verse": "Pages de la Reine,",
+                    "metre": "5",
+                    "rhyme": "22"
+                },
+                {
+                    "verse": "\u00c9cuyers du Roi,",
+                    "metre": "5",
+                    "rhyme": "36"
+                }
+            ],
+            [
+                {
+                    "verse": "Ma\u00eetres de musique",
+                    "metre": "5",
+                    "rhyme": "37"
+                },
+                {
+                    "verse": "Experts en douceurs,",
+                    "metre": "5",
+                    "rhyme": "38"
+                },
+                {
+                    "verse": "Graves professeurs",
+                    "metre": "5",
+                    "rhyme": "38"
+                },
+                {
+                    "verse": "De m\u00e9taphysique,",
+                    "metre": "5",
+                    "rhyme": "37"
+                }
+            ],
+            [
+                {
+                    "verse": "Tout ce monde rit,",
+                    "metre": "5",
+                    "rhyme": "39"
+                },
+                {
+                    "verse": "Tourne, s\u2019\u00e9moustille,",
+                    "metre": "5",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Babille, fr\u00e9tille,",
+                    "metre": "5",
+                    "rhyme": "40"
+                },
+                {
+                    "verse": "Court apr\u00e8s l\u2019esprit.",
+                    "metre": "5",
+                    "rhyme": "39"
+                }
+            ],
+            [
+                {
+                    "verse": "Et voici vingt re\u00eetres,",
+                    "metre": "5",
+                    "rhyme": "41"
+                },
+                {
+                    "verse": "Arm\u00e9s jusqu\u2019aux dents,",
+                    "metre": "5",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Qui font les fendants",
+                    "metre": "5",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Et parlent en ma\u00eetres.",
+                    "metre": "5",
+                    "rhyme": "41"
+                }
+            ],
+            [
+                {
+                    "verse": "Tous, jeunes ou vieux,",
+                    "metre": "5",
+                    "rhyme": "42"
+                },
+                {
+                    "verse": "Ont m\u00eame assurance ;",
+                    "metre": "5",
+                    "rhyme": "43"
+                },
+                {
+                    "verse": "La m\u00eame esp\u00e9rance",
+                    "metre": "5",
+                    "rhyme": "43"
+                },
+                {
+                    "verse": "Flambe dans leurs yeux.",
+                    "metre": "5",
+                    "rhyme": "42"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab \u00d4 nymphe guerri\u00e8re,",
+                    "metre": "5",
+                    "rhyme": "44"
+                },
+                {
+                    "verse": "Toujours combattant,",
+                    "metre": "5",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Secoue, en chantant,",
+                    "metre": "5",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "L\u2019or de ta crini\u00e8re.",
+                    "metre": "5",
+                    "rhyme": "44"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Jette-moi gaiment",
+                    "metre": "5",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Les fleurs de ta couche.",
+                    "metre": "5",
+                    "rhyme": "45"
+                },
+                {
+                    "verse": "Je veux, sur ta bouche,",
+                    "metre": "5",
+                    "rhyme": "45"
+                },
+                {
+                    "verse": "Mourir en t\u2019aimant.",
+                    "metre": "5",
+                    "rhyme": "2"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Fais de ton esclave",
+                    "metre": "5",
+                    "rhyme": "46"
+                },
+                {
+                    "verse": "Ce que tu voudras,",
+                    "metre": "5",
+                    "rhyme": "47"
+                },
+                {
+                    "verse": "Je veux, en tes bras,",
+                    "metre": "5",
+                    "rhyme": "47"
+                },
+                {
+                    "verse": "Mourir comme un brave. \u00bb",
+                    "metre": "5",
+                    "rhyme": "46"
+                }
+            ],
+            [
+                {
+                    "verse": "Et plus d\u2019un juron",
+                    "metre": "5",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "De France ou d\u2019Espagne",
+                    "metre": "5",
+                    "rhyme": "48"
+                },
+                {
+                    "verse": "Tout bas accompagne",
+                    "metre": "5",
+                    "rhyme": "48"
+                },
+                {
+                    "verse": "L\u2019amoureux ronron.",
+                    "metre": "5",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais la porte est close.",
+                    "metre": "5",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "Chut ! chut ! pas de bruit !",
+                    "metre": "5",
+                    "rhyme": "39"
+                },
+                {
+                    "verse": "Il fait encor nuit",
+                    "metre": "5",
+                    "rhyme": "39"
+                },
+                {
+                    "verse": "Dans le grand lit rose.",
+                    "metre": "5",
+                    "rhyme": "0"
+                }
+            ],
+            [
+                {
+                    "verse": "Au soir cependant,",
+                    "metre": "5",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "N\u2019est-ce pas merveille ?",
+                    "metre": "5",
+                    "rhyme": "49"
+                },
+                {
+                    "verse": "Javotte s\u2019\u00e9veille,",
+                    "metre": "5",
+                    "rhyme": "49"
+                },
+                {
+                    "verse": "S\u2019\u00e9veille en boudant.",
+                    "metre": "5",
+                    "rhyme": "2"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Oh ! quelle existence !",
+                    "metre": "5",
+                    "rhyme": "43"
+                },
+                {
+                    "verse": "Mieux vaudrait, je crois,",
+                    "metre": "5",
+                    "rhyme": "16"
+                },
+                {
+                    "verse": "Seulette en un bois,",
+                    "metre": "5",
+                    "rhyme": "16"
+                },
+                {
+                    "verse": "Faire p\u00e9nitence.",
+                    "metre": "5",
+                    "rhyme": "43"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Bonsoir aux amours !",
+                    "metre": "5",
+                    "rhyme": "50"
+                },
+                {
+                    "verse": "Je suis fatigu\u00e9e",
+                    "metre": "5",
+                    "rhyme": "51"
+                },
+                {
+                    "verse": "D\u2019\u00eatre toujours gaie,",
+                    "metre": "5",
+                    "rhyme": "52"
+                },
+                {
+                    "verse": "De rire toujours.",
+                    "metre": "5",
+                    "rhyme": "50"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Que de s\u00e9r\u00e9nades",
+                    "metre": "5",
+                    "rhyme": "53"
+                },
+                {
+                    "verse": "Et de beaux serments !",
+                    "metre": "5",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Que de compliments",
+                    "metre": "5",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Fades, fades, fades !",
+                    "metre": "5",
+                    "rhyme": "53"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Un printemps cach\u00e9",
+                    "metre": "5",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Fleurit mon visage,",
+                    "metre": "5",
+                    "rhyme": "54"
+                },
+                {
+                    "verse": "Et sous mon corsage",
+                    "metre": "5",
+                    "rhyme": "54"
+                },
+                {
+                    "verse": "Amour est nich\u00e9.",
+                    "metre": "5",
+                    "rhyme": "5"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Je suis plus jolie",
+                    "metre": "5",
+                    "rhyme": "55"
+                },
+                {
+                    "verse": "Que le mois d\u2019Avril ;",
+                    "metre": "5",
+                    "rhyme": "56"
+                },
+                {
+                    "verse": "Chacun, para\u00eet-il,",
+                    "metre": "5",
+                    "rhyme": "56"
+                },
+                {
+                    "verse": "M\u2019aime \u00e0 la folie.",
+                    "metre": "5",
+                    "rhyme": "55"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Fi ! qu\u2019on est moqueur",
+                    "metre": "5",
+                    "rhyme": "57"
+                },
+                {
+                    "verse": "Au pays du Tendre !",
+                    "metre": "5",
+                    "rhyme": "58"
+                },
+                {
+                    "verse": "Comment laisser prendre",
+                    "metre": "5",
+                    "rhyme": "58"
+                },
+                {
+                    "verse": "Un peu de son c\u0153ur ?",
+                    "metre": "5",
+                    "rhyme": "57"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Viens donc \u00e7\u00e0, Nanon,",
+                    "metre": "5",
+                    "rhyme": "12"
+                },
+                {
+                    "verse": "Petite servante ;",
+                    "metre": "5",
+                    "rhyme": "59"
+                },
+                {
+                    "verse": "De ta main savante",
+                    "metre": "5",
+                    "rhyme": "59"
+                },
+                {
+                    "verse": "Lisse mon chignon.",
+                    "metre": "5",
+                    "rhyme": "12"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Ma joue est bl\u00eamie ;",
+                    "metre": "5",
+                    "rhyme": "55"
+                },
+                {
+                    "verse": "C\u2019est quelque vapeur.",
+                    "metre": "5",
+                    "rhyme": "57"
+                },
+                {
+                    "verse": "Suis-je \u00e0 faire peur ?",
+                    "metre": "5",
+                    "rhyme": "57"
+                },
+                {
+                    "verse": "Qu\u2019en dis-tu, ma mie ?",
+                    "metre": "5",
+                    "rhyme": "55"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Et quoi de nouveau ?",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que dit-on en ville ?",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2012 Monsieur de Saint-Gille",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pleure comme un veau.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab C\u2019est \u00e0 fendre l\u2019\u00e2me ;",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il se meurt\u2026 \u2012 Bon, bon !",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Foin de ce barbon !",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quoi de plus ? \u2012 Madame,",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Trois grands avocats",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9barquent du coche,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019\u0153il en fleur, la poche",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pleine de ducats.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2012 Fi ! je n\u2019aime gu\u00e8re",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ces robins crott\u00e9s.",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2012 Alors, \u00e9coutez",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un homme de guerre.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab J\u2019en connais plus d\u2019un",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui perdit la t\u00eate",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En vous\u2026 \u2012 Grande b\u00eate,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rien n\u2019est si commun !",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2012 Le sieur d\u2019Amourette,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Votre beau cousin,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "A fait un dizain",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur votre levrette.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2012 Des vers ? ah ! Dieu non ;",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La belle fadaise !",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sais-tu rien qui plaise ?",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cherche encor, Nanon. \u00bb",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Soudain, \u00e0 la porte",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On frappe en vainqueur.",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00ab Eh ! c\u2019est toi, mon c\u0153ur,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le diable m\u2019emporte !",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Entre donc, l\u2019abb\u00e9,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu te fais attendre ;",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "H\u00e2te-toi de prendre",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ta place au jub\u00e9 ! \u00bb",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "En perruque blonde",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et petit collet,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Entre un prestolet,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le plus gai du monde.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Jusqu\u2019au bout des doigts",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mobile et fantasque,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est le petit masque",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le mieux fait qui soit.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pas une d\u00e9vote",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N\u2019a si fin caquet,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C\u2019est le perroquet",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De dame Javotte.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00ab Friande, bonjour,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bonjour, ma d\u00e9esse. \u00bb",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La belle, en liesse,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rit comme un amour.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sous sa chemisette",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bouffante \u00e0 dessein,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pointe un bout de sein.",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019aimable amusette !",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et lui, folichon,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dit cent bagatelles,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fripe les dentelles,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Flaire le manchon.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 gr\u00e2ces c\u00e2lines",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et tableau charmant !",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tous deux gentiment",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Croquent des pralines.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VIC_2/VIC47",
+        "author": "Gabriel Vicaire",
+        "work": "A LA BONNE FRANQUETTE",
+        "date": "1892",
+        "title": "Passionnette",
+        "profile": "7, 4+6, 5, 4, 8",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VIC_2&code_text=VIC47_7",
+        "text": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                {
+                    "verse": "J\u2019aime ses yeux et j\u2019adore sa bouche.",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sa bouche rose est une fleur de lin ;",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ses yeux sont verts comme l\u2019eau du moulin,",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D\u2019un vert si tendre, oh ! pas du tout farouche.",
+                    "metre": "4+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Elle sourit apr\u00e8s qu\u2019elle a dans\u00e9 ;",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ses cheveux d\u2019or lui font une aur\u00e9ole.",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un peu perverse, adorablement folle,",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elle me rend tout le si\u00e8cle pass\u00e9.",
+                    "metre": "4+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Une malice est au coin de ses l\u00e8vres,",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Une fossette \u00e0 son joli menton,",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et je crois voir, gardant son blanc mouton,",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quelque berg\u00e8re en p\u00e2te de vieux S\u00e8vres.",
+                    "metre": "4+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mais la berg\u00e8re a plus d\u2019un amoureux ;",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Son c\u0153ur est tra\u00eetre, \u00e0 la petite masque.",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Elle est cruelle, elle est surtout fantasque.",
+                    "metre": "4+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ah ! le mouton n\u2019est pas toujours heureux !",
+                    "metre": "4+6",
+                    "rhyme": ""
+                }
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    }
+]

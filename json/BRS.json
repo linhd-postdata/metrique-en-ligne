@@ -1,0 +1,170 @@
+[
+    {
+        "code": "BRS_1/BRS1",
+        "author": "Henri Barbusse",
+        "work": "Les Pleureuses",
+        "date": "1895",
+        "title": "LA PLEUREUSE",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BRS_1&code_text=BRS1_7",
+        "text": [
+            [
+                {
+                    "verse": "Oh bien des fois, au gr\u00e9 du r\u00eave o\u00f9 tu te penches,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tu vis le hameau calme avec ses maisons blanches,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et la paix de l'azur a fait pleurer ta paix.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et bien des fois, la nuit, lorsque tu regardais,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'ai senti ta douleur monter jusqu'aux \u00e9toiles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et te vis \u00e9pier dans l'ombre aux ombres p\u00e2les",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cet immense malheur qu'on ne peut pas savoir\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lorsque nous regardons monter la mer du soir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ainsi que deux faux dieux sur les mornes rivages,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous voyons devant nous passer de grands veuvages",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et c'est ton d\u00e9sespoir qui souffre avec douceur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9sert de ton frisson, pauvret\u00e9 de ton c\u0153ur !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et tu vas inqui\u00e8te, et tr\u00e8s calme et tr\u00e8s seule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 si jeune \u00e2me avec des mains comme une a\u00efeule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toi qui, pauvre r\u00eaveuse, avais aux temps lointains",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans les nuits de bonheur des songes enfantins,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui, berc\u00e9e \u00e0 la voix d'aurore qui se l\u00e8ve",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et souriante encor d'une \u00e9charpe de r\u00eave,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans le ciel du matin n'as trouv\u00e9 que l'azur !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si le dieu de c\u0153ur simple est le seul dieu tr\u00e8s pur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pleure la grande vie et tout ce que vous faites,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 vous qui souriez, \u00f4 ceux que tu rach\u00e8tes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand lasse, dans les champs d'\u00e9t\u00e9s et de sommeil,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu sens se d\u00e9vaster la piti\u00e9 du soleil !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et je te dis souvent que nous sommes sublimes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qu'il est un myst\u00e8re, et que nous l'entend\u00eemes ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et je te dis cela quand nous nous effleurons,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand le demi-sommeil laisse errer nos deux fronts",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que la lampe est douce au fond de l'\u00e2me close\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sans me regarder, tu pleures d'autre chose.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    }
+]

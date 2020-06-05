@@ -1,0 +1,5078 @@
+[
+    {
+        "code": "BOI_1/BOI1",
+        "author": "Nicolas Boileau-Despr\u00e9aux",
+        "work": "L'Art po\u00e9tique",
+        "date": "1674",
+        "title": "Chant I",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BOI_1&code_text=BOI1_7",
+        "text": [
+            [
+                {
+                    "verse": "C'est en vain qu'au Parnasse un t\u00e9m\u00e9raire auteur",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pense de l'art des vers atteindre la hauteur.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'il ne sent point du Ciel l'influence secr\u00e8te,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si son astre en naissant ne l'a form\u00e9 po\u00e8te,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans son g\u00e9nie \u00e9troit il est toujours captif ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour lui Ph\u00e9bus est sourd, et P\u00e9gase est r\u00e9tif.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Courez du bel esprit, la carri\u00e8re \u00e9pineuse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'allez pas sur des vers sans fruit vous consumer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ni prendre pour g\u00e9nie un amour de rimer ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Craignez d'un vain plaisir les trompeuses amorces,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et consultez longtemps votre esprit et vos forces.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sait entre les Auteurs partager les talents",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'un peut tracer en vers une amoureuse flamme ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'autre d'un trait plaisant aiguiser l'\u00e9pigramme.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Malherbe d'un h\u00e9ros peut vanter les exploits ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Racan, chanter Philis, les bergers et les bois",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais souvent un esprit qui se flatte et qui s'aime",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00e9conna\u00eet son g\u00e9nie et s'ignore soi-m\u00eame :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ainsi Tel autrefois qu'on vit avec Faret",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Charbonner de ses vers les murs d'un cabaret",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'en va, mal \u00e0 propos, d'une voix insolente,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chanter du peuple h\u00e9breu la fuite triomphante,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, poursuivant Mo\u00efse au travers des d\u00e9serts,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Court avec Pharaon se noyer dans les mers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que toujours le bon sens s'accorde avec la rime ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'un l'autre vainement ils semblent se ha\u00efr ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La rime est une esclave et ne doit qu'ob\u00e9ir.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lorsqu'\u00e0 la bien chercher d'abord on s'\u00e9vertue,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'esprit \u00e0 la trouver ais\u00e9ment s'habitue ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au joug de la raison sans peine elle fl\u00e9chit",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, loin de la g\u00eaner, la sert et l'enrichit.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais, lorsqu'on la n\u00e9glige, elle devient rebelle,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, pour la rattraper, le sens court apr\u00e8s elle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aimez donc la raison : que toujours vos \u00e9crits",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Empruntent d'elle seule et leur lustre et leur prix.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toujours loin du droit sens vont chercher leur pens\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils croiraient s'abaisser, dans leurs vers monstrueux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'ils pensaient ce qu'un autre a pu penser comme eux.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9vitons ces exc\u00e8s : laissons \u00e0 l'Italie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De tous ces faux brillants l'\u00e9clatante folie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout doit tendre au bon sens : mais, pour y parvenir,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le chemin est glissant et p\u00e9nible \u00e0 tenir ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour peu qu'on s'en \u00e9carte, aussit\u00f4t on se noie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La raison pour marcher n'a souvent qu'une voie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jamais sans l'\u00e9puiser n'abandonne un sujet.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'il rencontre un palais, il m'en d\u00e9peint la face ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il me prom\u00e8ne apr\u00e8s de terrasse en terrasse ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ici s'offre un perron ; l\u00e0 r\u00e8gne un corridor ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u00e0 ce balcon s'enferme en un balustre d'or.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il compte des plafonds les ronds et les ovales ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00ab Ce ne sont que festons, ce ne sont qu'astragales. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je saute vingt feuillets pour en trouver la fin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je me sauve \u00e0 peine au travers du jardin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fuyez de ces auteurs l'abondance st\u00e9rile,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et ne vous chargez point d'un d\u00e9tail inutile.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout ce qu'on dit de trop est fade et rebutant ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'esprit rassasi\u00e9 le rejette \u00e0 l'instant.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui ne sait se borner ne sut jamais \u00e9crire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Souvent la peur d'un mal nous conduit dans un pire",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un vers \u00e9tait trop faible, et vous le rendez dur ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "J'\u00e9vite d'\u00eatre long, et je deviens obscur ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'un n'est point trop fard\u00e9, mais sa Muse est trop nue ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'autre a peur de ramper, il se perd dans la nue.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sans cesse en \u00e9crivant variez vos discours.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un style trop \u00e9gal et toujours uniforme",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En vain brille \u00e0 nos yeux, il faut qu'il nous endorme.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On lit peu ces auteurs, n\u00e9s pour nous ennuyer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui toujours sur un ton semblent psalmodier.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Passer du grave au doux, du plaisant, au s\u00e9v\u00e8re !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son livre, aim\u00e9 du Ciel et ch\u00e9ri des lecteurs,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est souvent chez Barbin entour\u00e9 d'acheteurs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le style le moins noble a pourtant sa noblesse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au m\u00e9pris du bon sens, le Burlesque effront\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Trompa les yeux d'abord, plut par sa nouveaut\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On ne vit plus en vers que pointes triviales ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le Parnasse parla le langage des halles ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La licence \u00e0 rimer alors n'eut plus de frein,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Apollon travesti devint un Tabarin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cette contagion infecta les provinces,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du clerc et du bourgeois passa jusques aux princes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le plus mauvais plaisant eut ses approbateurs ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, jusqu'\u00e0 d'Assouci, tout trouva des lecteurs.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais de ce style enfin la cour d\u00e9sabus\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9daigna de ces vers l'extravagance ais\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Distingua le na\u00eff du plat et du bouffon,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et laissa la province admirer le Typhon.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que ce style jamais ne souille votre ouvrage.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Imitons de Marot l'\u00e9l\u00e9gant badinage,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et laissons le Burlesque aux Plaisants du Pont-Neuf.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00eame en une Pharsale, entasser sur les rives",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00ab De morts et de mourants cent montagnes plaintives \u00bb.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Prenez mieux votre ton, soyez Simple avec art,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sublime sans orgueil, agr\u00e9able sans fard.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ayez pour la cadence une oreille s\u00e9v\u00e8re :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que toujours dans vos vers, le sens, coupant les mots,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Suspende l'h\u00e9mistiche, en marque le repos.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne soit d'une voyelle en son chemin heurt\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fuyez des mauvais sons le concours odieux :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le vers le mieux rempli, la plus noble pens\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne peut plaire \u00e0 l'esprit, quand l'oreille est bless\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le caprice tout seul faisait toutes les lois.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La rime, au bout des mots assembl\u00e9s sans mesure,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tenait lieu d'ornements, de nombre et de c\u00e9sure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Villon sut le premier, dans ces si\u00e8cles grossiers,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9brouiller l'art confus de nos vieux romanciers.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Marot, bient\u00f4t apr\u00e8s, fit fleurir les ballades,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tourna des triolets, rima des mascarades,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 des refrains r\u00e9gl\u00e9s asservit les rondeaux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et montra pour rimer des chemins tout nouveaux.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ronsard, qui le suivit, par une autre m\u00e9thode,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "R\u00e9glant tout, brouilla tout, fit un art \u00e0 sa mode,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et toutefois longtemps eut un heureux destin.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais sa Muse, en fran\u00e7ais parlant grec et latin,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vit, dans l'\u00e2ge suivant, par un retour grotesque,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tomber de ses grands mots le faste p\u00e9dantesque.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce po\u00e8te orgueilleux, tr\u00e9buch\u00e9 de si haut,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rendit plus retenus Desportes et Bertaut.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Enfin Malherbe vint, et, le premier en France,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fit sentir dans les vers une juste cadence,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'un mot mis en sa place enseigna le pouvoir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et r\u00e9duisit la Muse aux r\u00e8gles du devoir.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par ce sage \u00e9crivain la langue r\u00e9par\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'offrit plus rien de rude \u00e0 l'oreille \u00e9pur\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les stances avec gr\u00e2ce apprirent \u00e0 tomber,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le vers sur le vers n'osa plus enjamber.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout reconnut ses lois ; et ce guide fid\u00e8le",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux auteurs de ce temps sert encor de mod\u00e8le.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Marchez donc sur ses pas ; aimez sa puret\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de son tour heureux imitez la clart\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si le sens de vos vers tarde \u00e0 se faire entendre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mon esprit aussit\u00f4t commence \u00e0 se d\u00e9tendre ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, de vos vains discours prompt \u00e0 se d\u00e9tacher,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne suit point un auteur qu'il faut toujours chercher.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sont d'un nuage \u00e9pais toujours embarrass\u00e9es ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le jour de la raison ne le saurait percer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avant donc que d'\u00e9crire, apprenez \u00e0 penser.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Selon que notre id\u00e9e est plus ou moins obscure,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'expression la suit, ou moins nette, ou plus pure.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce que l'on con\u00e7oit bien s'\u00e9nonce clairement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les mots pour le dire arrivent ais\u00e9ment.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans vos plus grands exc\u00e8s vous soit toujours sacr\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En vain, vous me frappez d'un son m\u00e9lodieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si le terme est impropre ou le tour vicieux :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mon esprit n'admet point un pompeux barbarisme,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ni d'un vers ampoul\u00e9 l'orgueilleux sol\u00e9cisme.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans la langue, en un mot, l'auteur le plus divin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est toujours, quoi qu'il fasse, un m\u00e9chant \u00e9crivain.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ne vous piquez point d'une folle vitesse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un style si rapide, et qui court en rimant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Marque moins trop d'esprit que peu de jugement.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'aime mieux un ruisseau qui, sur la molle ar\u00e8ne,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans un pr\u00e9 plein de fleurs lentement se prom\u00e8ne,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'un torrent d\u00e9bord\u00e9 qui, d'un cours orageux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Roule, plein de gravier, sur un terrain fangeux.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "H\u00e2tez-vous lentement, et, sans perdre courage,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vingt fois sur le m\u00e9tier remettez votre ouvrage",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Polissez-le sans cesse et le repolissez ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ajoutez quelquefois, et souvent effacez.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est peu qu'en un ouvrage o\u00f9 les fautes fourmillent,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des traits d'esprit, sem\u00e9s de temps en temps, p\u00e9tillent.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il faut que chaque chose y soit mise en son lieu ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que le d\u00e9but, la fin, r\u00e9pondent au milieu ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que d'un art d\u00e9licat les pi\u00e8ces assorties",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'y forment qu'un seul tout de diverses parties,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que jamais du sujet le discours s'\u00e9cartant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'aille chercher trop loin quelque mot \u00e9clatant.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Soyez-vous \u00e0 vous-m\u00eame un s\u00e9v\u00e8re critique.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'ignorance toujours est pr\u00eate \u00e0 s'admirer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'ils soient de vos \u00e9crits les confidents sinc\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de tous vos d\u00e9fauts les z\u00e9l\u00e9s adversaires.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9pouillez devant eux l'arrogance d'auteur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais sachez de l'ami discerner le flatteur :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tel vous semble applaudir, qui vous raille et vous joue.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aimez qu'on vous conseille, et non pas qu'on vous loue.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un flatteur aussit\u00f4t cherche \u00e0 se r\u00e9crier",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chaque vers qu'il entend le fait extasier.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout est charmant, divin, aucun mot ne le blesse ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il tr\u00e9pigne de joie, il pleure de tendresse ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il vous comble partout d'\u00e9loges fastueux\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La v\u00e9rit\u00e9 n'a point cet air imp\u00e9tueux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur vos fautes jamais ne vous laisse paisible :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il ne pardonne point les endroits n\u00e9glig\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il renvoie en leur lieu les vers mal arrang\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il r\u00e9prime des mots l'ambitieuse emphase ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ici le sens le choque, et plus loin c'est la phrase.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Votre construction semble un peu s'obscurcir,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce terme est \u00e9quivoque : il le faut \u00e9claircir\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est ainsi que vous parle un ami v\u00e9ritable.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais souvent sur ses vers un auteur intraitable,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 les prot\u00e9ger tous se croit int\u00e9ress\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et d'abord prend en main le droit de l'offens\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00ab De ce vers, direz-vous, l'expression est basse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00bb \u2014 Ah ! Monsieur, pour ce vers je vous demande gr\u00e2ce,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00bb R\u00e9pondra-t-il d'abord. \u2014 Ce mot me semble froid,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00bb Je le retrancherais. \u2014 C'est le plus bel endroit !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00bb \u2014 Ce tour ne me pla\u00eet pas. \u2014 Tout le monde l'admire. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ainsi toujours constant \u00e0 ne se point d\u00e9dire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'un mot dans son ouvrage ait paru vous blesser,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est un titre chez lui pour ne point l'effacer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cependant, \u00e0 l'entendre, il ch\u00e9rit la critique ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous avez sur ses vers un pouvoir despotique\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais tout ce beau discours dont il vient vous flatter",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est rien qu'un pi\u00e8ge adroit pour vous les r\u00e9citer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aussit\u00f4t, il vous quitte ; et, content de sa Muse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'en va chercher ailleurs quelque fat qu'il abuse ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car souvent il en trouve : ainsi qu'en sots auteurs,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Notre si\u00e8cle est fertile en sots admirateurs ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, sans ceux que fournit la ville et la province,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il en est chez le duc, il en est chez le prince.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'ouvrage le plus plat a, chez les courtisans,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De tout temps rencontr\u00e9 de z\u00e9l\u00e9s partisans ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, pour finir enfin par un trait de satire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un sot trouve toujours un plus sot qui l'admire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BOI_1/BOI2",
+        "author": "Nicolas Boileau-Despr\u00e9aux",
+        "work": "L'Art po\u00e9tique",
+        "date": "1674",
+        "title": "Chant II",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BOI_1&code_text=BOI2_7",
+        "text": [
+            [
+                {
+                    "verse": "Telle qu'une berg\u00e8re, au plus beau jour de f\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De superbes rubis ne charge point sa t\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, sans m\u00ealer \u00e0 l'or l'\u00e9clat des diamants,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cueille en un champ voisin ses plus beaux ornements",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Telle, aimable en son air, mais humble dans son style,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Doit \u00e9clater sans pompe une \u00e9l\u00e9gante Idylle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son tour, simple et na\u00eff, n'a rien de fastueux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et n'aime point l'orgueil d'un vers pr\u00e9somptueux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il faut que sa douceur flatte, chatouille, \u00e9veille,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et jamais de grands mots n'\u00e9pouvante l'oreille.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais souvent dans ce style un rimeur aux abois",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jette l\u00e0, de d\u00e9pit, la fl\u00fbte et le hautbois ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, follement pompeux, dans sa verve indiscr\u00e8te,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au milieu d'une \u00e9glogue entonne la trompette.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De peur de l'\u00e9couter, Pan fuit dans les roseaux ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les Nymphes, d'effroi, se cachent sous les eaux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fait parler ses bergers comme on parle au village.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ses vers plats et grossiers, d\u00e9pouill\u00e9s d'agr\u00e9ment,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toujours baisent la terre et rampent tristement :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On dirait que Ronsard, sur ses pipeaux rustiques,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vient encor fredonner ses idylles gothiques,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et changer, sans respect de l'oreille et du son,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lycidas en Pierrot, et Philis en Toinon.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Suivez, pour la trouver, Th\u00e9ocrite et Virgile",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que leurs tendres \u00e9crits, par les Gr\u00e2ces dict\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne quittent point vos mains, jour et nuit feuillet\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Seuls, dans leurs doctes vers, ils pourront vous apprendre",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Par quel art, sans bassesse un auteur peut descendre ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chanter Flore, les champs, Pomone, les vergers ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au combat de la fl\u00fbte animer deux bergers ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des plaisirs de l'amour vanter la douce amorce ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Changer Narcisse en fleur, couvrir Daphn\u00e9 d'\u00e9corce ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et par quel art encor l'\u00e9glogue, quelquefois,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rend dignes d'un consul la campagne et les bois.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Telle est de ce po\u00e8me et la force et la gr\u00e2ce.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La plaintive \u00c9l\u00e9gie en longs habits de deuil,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sait, les cheveux \u00e9pars, g\u00e9mir sur un cercueil.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle peint des amants la joie et la tristesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Flatte, menace, irrite, apaise une ma\u00eetresse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais, pour bien exprimer ces caprices heureux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est peu d'\u00eatre po\u00e8te, il faut \u00eatre amoureux.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M'entretient de ses feux, toujours froide et glac\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui s'affligent par art, et, fous de sens rassis,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'\u00e9rigent pour rimer en amoureux transis.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Leurs transports les plus doux ne sont que phrases vaines.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils ne savent jamais que se charger de cha\u00eenes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que b\u00e9nir leur martyre, adorer leur prison,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et faire quereller les sens et la raison.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce n'\u00e9tait pas jadis sur ce ton ridicule",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'Amour dictait les vers que soupirait Tibule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ou que, du tendre Ovide animant les doux sons,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il donnait de son art les charmantes le\u00e7ons.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il faut que le c\u0153ur seul parle dans l'\u00e9l\u00e9gie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9levant jusqu'au ciel son vol ambitieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Entretient dans ses vers commerce avec les dieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux athl\u00e8tes dans Pise elle ouvre la barri\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chante un vainqueur poudreux au bout de la carri\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M\u00e8ne Achille sanglant aux bords du Simo\u00efs,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ou fait fl\u00e9chir l'Escaut sous le joug de Louis.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tant\u00f4t, comme une abeille ardente \u00e0 son ouvrage,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle s'en va de fleurs d\u00e9pouiller le rivage :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Elle peint les festins, les danses et les ris ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vante un baiser cueilli sur les l\u00e8vres d'Iris,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui mollement r\u00e9siste, et, par un doux caprice,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelquefois le refuse afin qu'on le ravisse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son style imp\u00e9tueux souvent marche au hasard",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chez elle un beau d\u00e9sordre est un effet de l'art.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Garde dans ses fureurs un ordre didactique,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui, chantant d'un h\u00e9ros les progr\u00e8s \u00e9clatants,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Maigres historiens, suivront l'ordre des temps !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils n'osent un moment perdre un sujet de vue :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour prendre D\u00f4le, il faut que Lille soit rendue ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que leur vers exact, ainsi que M\u00e9zerai,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ait d\u00e9j\u00e0 fait tomber les remparts de Courtrai.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Apollon de son feu leur fut toujours avare.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voulant pousser \u00e0 bout tous les rimeurs fran\u00e7ois,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Inventa du Sonnet les rigoureuses lois ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voulut qu'en deux quatrains, de mesure pareille,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La rime, avec deux sons, frapp\u00e2t huit fois l'oreille ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qu'ensuite six vers, artistement rang\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fussent en deux tercets par le sens partag\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Surtout, de ce Po\u00e8me il bannit la licence ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lui-m\u00eame en mesura le nombre et la cadence ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9fendit qu'un vers faible y p\u00fbt jamais entrer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ni qu'un mot d\u00e9j\u00e0 mis os\u00e2t s'y remontrer.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du reste, il l'enrichit d'une beaut\u00e9 supr\u00eame",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un sonnet sans d\u00e9faut vaut seul un long Po\u00e8me.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais en vain mille auteurs y pensent arriver,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et cet heureux ph\u00e9nix est encore \u00e0 trouver.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 peine dans Gombaut, Maynard et Malleville,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En peut-on admirer deux ou trois entre mille ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le reste, aussi peu lu que ceux de Pelletier.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'a fait de chez Sercy, qu'un saut chez l'\u00e9picier.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour enfermer son sens dans la borne prescrite,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La mesure est toujours trop longue ou trop petite.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'est souvent qu'un bon mot de deux rimes orn\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jadis, de nos auteurs les pointes ignor\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Furent de l'Italie en nos vers attir\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le vulgaire, \u00e9bloui de leur faux agr\u00e9ment,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 ce nouvel app\u00e2t courut avidement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La faveur du public excitant leur audace,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur nombre imp\u00e9tueux inonda le Parnasse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le madrigal d'abord en fut envelopp\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le sonnet orgueilleux lui-m\u00eame en fut frapp\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La trag\u00e9die en fit ses plus ch\u00e8res d\u00e9lices ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'\u00e9l\u00e9gie en orna ses douloureux caprices ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un h\u00e9ros sur la sc\u00e8ne eut soin de s'en parer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, sans pointe, un amant n'osa plus soupirer",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On vit tous les bergers, dans leurs plaintes nouvelles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fid\u00e8les \u00e0 la pointe encor plus qu'\u00e0 leurs belles ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chaque mot eut toujours deux visages divers ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La prose la re\u00e7ut aussi bien que les vers ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'avocat au Palais en h\u00e9rissa son style,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le docteur en chaire en sema l'\u00c9vangile.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La chassa pour jamais des discours s\u00e9rieux ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, dans tous ces \u00e9crits la d\u00e9clarant inf\u00e2me,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Par gr\u00e2ce lui laissa l'entr\u00e9e en l'\u00e9pigramme,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pourvu que sa finesse, \u00e9clatant \u00e0 propos,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Roul\u00e2t sur la pens\u00e9e et non pas sur les mots.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ainsi de toutes parts les d\u00e9sordres cess\u00e8rent.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toutefois, \u00e0 la cour, les Turlupins, rest\u00e8rent,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Insipides plaisants, bouffons infortun\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un jeu de mots grossiers partisans surann\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce n'est pas quelquefois qu'une Muse un peu fine,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur un mot, en passant, ne joue et ne badine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et d'un sens d\u00e9tourn\u00e9 n'abuse avec succ\u00e8s",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais fuyez sur ce point un ridicule exc\u00e8s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et n'allez pas toujours d'une pointe, frivole",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aiguiser par la queue une \u00e9pigramme folle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le Rondeau, n\u00e9 gaulois, a la na\u00efvet\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La Ballade, asservie \u00e0 ses vieilles maximes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Souvent doit tout son lustre au caprice des rimes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Respire la douceur, la tendresse et l'amour.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Arma la V\u00e9rit\u00e9 du vers de la Satire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lucile le premier osa la faire voir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux vices des Romains pr\u00e9senta le miroir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vengea l'humble vertu de la richesse alti\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l'honn\u00eate homme \u00e0 pied du faquin en liti\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Horace \u00e0 cette aigreur m\u00eala son enjouement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On ne fut plus ni fat ni sot impun\u00e9ment ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et malheur \u00e0 tout nom qui, propre \u00e0 la censure",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Put entrer dans un vers sans rompre la mesure !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Affecta d'enfermer moins de mots que de sens.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Poussa jusqu'\u00e0 l'exc\u00e8s sa mordante hyperbole.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ses ouvrages, tout pleins d'affreuses v\u00e9rit\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9tincellent pourtant de sublimes beaut\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Soit que, sur un \u00e9crit arriv\u00e9 de Capr\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il brise de S\u00e9jan la statue ador\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Soit qu'il fasse au conseil courir les s\u00e9nateurs,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un tyran soup\u00e7onneux p\u00e2les adulateurs ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ou que, poussant \u00e0 bout la luxure latine,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux portefaix de Rome il vende Messaline,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ses \u00e9crits pleins de feu partout brillent aux yeux.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "R\u00e9gnier seul parmi nous form\u00e9 sur leurs mod\u00e8les,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans son vieux style encore a des gr\u00e2ces nouvelles.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Heureux, si ses discours, craints du chaste lecteur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne se sentaient des lieux o\u00f9 fr\u00e9quentait l'auteur,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et si, du son hardi de ses rimes cyniques,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il n'alarmait souvent les oreilles pudiques !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais le lecteur fran\u00e7ais veut \u00eatre respect\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du moindre sens impur la libert\u00e9 l'outrage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si la pudeur des mots n'en adoucit l'image.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je veux dans la satire un esprit de candeur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et fuis un effront\u00e9 qui pr\u00eache la pudeur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le Fran\u00e7ais, n\u00e9 malin, forma le Vaudeville,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Agr\u00e9able indiscret qui, conduit par le chant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Passe de bouche en bouche et s'accro\u00eet en marchant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La libert\u00e9 fran\u00e7aise en ses vers se d\u00e9ploie :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cet enfant du plaisir veut na\u00eetre dans la joie.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toutefois n'allez pas, goguenard dangereux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Faire Dieu le sujet d'un badinage affreux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 la fin tous ces jeux, que l'ath\u00e9isme \u00e9l\u00e8ve,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Conduisent tristement le plaisant \u00e0 la Gr\u00e8ve.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il faut, m\u00eame en chansons, du bon sens et de l'art",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais pourtant on a vu le vin et le hasard",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Inspirer quelquefois une Muse grossi\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et fournir, sans g\u00e9nie, un couplet \u00e0 Lini\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais, pour un vain bonheur qui vous a fait rimer,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gardez qu'un sot orgueil ne vous vienne enfumer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Souvent, l'auteur altier de quelque chansonnette",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au m\u00eame instant prend droit de se croire po\u00e8te",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il ne dormira plus qu'il n'ait fait un sonnet,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il met tous les matins six impromptus au net.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Encore est-ce un miracle, en ses vagues furies,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si bient\u00f4t, imprimant ses sottes r\u00eaveries,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il ne se fait graver au-devant du recueil,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Couronn\u00e9 de lauriers, par la main de Nanteuil.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BOI_1/BOI3",
+        "author": "Nicolas Boileau-Despr\u00e9aux",
+        "work": "L'Art po\u00e9tique",
+        "date": "1674",
+        "title": "Chant III",
+        "profile": "6+6",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BOI_1&code_text=BOI3_7",
+        "text": [
+            [
+                {
+                    "verse": "Il n'est point de serpent, ni de monstre odieux,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui, par l'art imit\u00e9, ne puisse plaire aux yeux ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un pinceau d\u00e9licat l'artifice agr\u00e9able",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du plus affreux objet fait un objet aimable.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ainsi, pour nous charmer, la Trag\u00e9die en pleurs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'\u0152dipe tout sanglant fit parler les douleurs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'Oreste parricide exprima les alarmes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et, pour nous divertir, nous arracha des larmes.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Venez en vers pompeux y disputer le prix,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Voulez-vous sur la sc\u00e8ne \u00e9taler des ouvrages",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 tout Paris en foule apporte ses suffrages,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et qui, toujours plus beaux, plus ils sont regard\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Soient au bout de vingt ans encor redemand\u00e9s ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que dans tous vos discours la passion \u00e9mue",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aille chercher le c\u0153ur, l'\u00e9chauffe et le remue.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Si, d'un beau mouvement l'agr\u00e9able fureur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Souvent ne nous remplit d'une douce terreur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ou n'excite en notre \u00e2me une piti\u00e9 charmante,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En vain vous \u00e9talez une sc\u00e8ne savante ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vos froids raisonnements ne feront qu'atti\u00e9dir",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un spectateur toujours paresseux d'applaudir,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et qui, des vains efforts de votre rh\u00e9torique",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Justement fatigu\u00e9, s'endort ou vous critique.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le secret est d'abord de plaire et de toucher",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Inventez des ressorts qui puissent m'attacher.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sans peine du sujet aplanisse l'entr\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je me ris d'un acteur qui, lent \u00e0 s'exprimer,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De ce qu'il veut, d'abord, ne sait pas m'informer,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et qui, d\u00e9brouillant mal une p\u00e9nible intrigue,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un divertissement me fait une fatigue.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "J'aimerais mieux encor qu'il d\u00e9clin\u00e2t son nom,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et d\u00eet : \u00ab Je suis Oreste, ou bien Agamemnon \u00bb,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que d'aller, par un tas de confuses merveilles,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sans rien dire \u00e0 l'esprit, \u00e9tourdir les oreilles.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le sujet n'est jamais assez t\u00f4t expliqu\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un rimeur, sans p\u00e9ril, del\u00e0 les Pyr\u00e9n\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur la sc\u00e8ne en un jour renferme des ann\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u00e0, souvent, le h\u00e9ros d'un spectacle grossier,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Enfant au premier acte, est barbon au dernier.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais nous, que la raison \u00e0 ses r\u00e8gles engage,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Nous voulons qu'avec art l'action se m\u00e9nage ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'en un lieu, qu'en un jour, un seul fait accompli",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tienne jusqu'\u00e0 la fin le th\u00e9\u00e2tre rempli.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le vrai peut quelquefois n'\u00eatre pas vraisemblable.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Une merveille absurde est pour moi sans appas :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'esprit n'est point \u00e9mu de ce qu'il ne croit pas.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce qu'on ne doit point voir, qu'un r\u00e9cit nous l'expose",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les yeux, en le voyant, saisiraient mieux la chose ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais il est des objets que l'art judicieux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Doit offrir \u00e0 l'oreille et reculer des yeux.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 son comble arriv\u00e9 se d\u00e9brouille sans peine.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'esprit ne se sent point plus vivement frapp\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que lorsqu'en un sujet d'intrigue envelopp\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un secret tout \u00e0 coup la v\u00e9rit\u00e9 connue",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Change tout, donne \u00e0 tout une face impr\u00e9vue.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'\u00e9tait qu'un simple ch\u0153ur, o\u00f9 chacun, en dansant,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et du dieu des raisins entonnant les louanges,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'effor\u00e7ait d'attirer de fertiles vendanges.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u00e0, le vin et la joie \u00e9veillant les esprits,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du plus habile chantre un bouc \u00e9tait le prix.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Thespis fut le premier qui, barbouill\u00e9 de lie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Promena dans les bourgs cette heureuse folie ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et d'acteurs mal orn\u00e9s chargeant un tombereau,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Amusa les passants d'un spectacle nouveau.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Eschyle dans le ch\u0153ur jeta les personnages,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un masque plus honn\u00eate habilla les visages,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur les ais d'un th\u00e9\u00e2tre en public exhauss\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fit para\u00eetre l'acteur d'un brodequin chauss\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sophocle enfin, donnant l'essor \u00e0 son g\u00e9nie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Accrut encor la pompe, augmenta l'harmonie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Int\u00e9ressa le ch\u0153ur dans toute l'action,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des vers trop raboteux polit l'expression,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lui donna chez les Grecs cette hauteur divine",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "O\u00f9 jamais n'atteignit la faiblesse latine.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fut longtemps dans la France un plaisir ignor\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De p\u00e8lerins, dit-on, une troupe grossi\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En public, \u00e0 Paris, y monta la premi\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et, sottement z\u00e9l\u00e9e en sa simplicit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Joua les Saints, la Vierge et Dieu, par pi\u00e9t\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le savoir, \u00e0 la fin dissipant l'ignorance,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fit voir de ce projet la d\u00e9vote imprudence.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On chassa ces docteurs pr\u00eachant sans mission ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On vit rena\u00eetre Hector, Andromaque, Ilion.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Seulement, les acteurs laissant le masque antique,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le violon tint lieu de ch\u0153ur et de musique.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'empara du th\u00e9\u00e2tre ainsi que des romans.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De cette passion la sensible peinture",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est pour aller au c\u0153ur la route la plus s\u00fbre.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Peignez donc, j'y consens, les h\u00e9ros amoureux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais ne m'en formez Pas des bergers doucereux",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'Achille aime autrement que Tircis et Phil\u00e8ne ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'allez pas d'un Cyrus nous faire un Artam\u00e8ne ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et que l'amour, souvent de remords combattu,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Paraisse une faiblesse et non une vertu.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Toutefois, aux grands c\u0153urs donnez quelques faiblesses.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Achille d\u00e9plairait moins bouillant et moins prompt",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "J'aime \u00e0 lui voir verser des pleurs pour un affront.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 ces petits d\u00e9fauts marqu\u00e9s dans sa peinture,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'esprit avec plaisir reconna\u00eet la nature.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'il soit sur ce mod\u00e8le en vos \u00e9crits trac\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'Agamemnon soit fier, superbe, int\u00e9ress\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que pour ses dieux \u00c9n\u00e9e ait un respect aust\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Conservez \u00e0 chacun son propre caract\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Des si\u00e8cles, des pays \u00e9tudiez les m\u0153urs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Les climats font souvent les diverses humeurs.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'air ni l'esprit fran\u00e7ais \u00e0 l'antique Italie ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et, sous des noms romains faisant notre portrait,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Peindre Caton galant, et Brutus dameret.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans un roman frivole ais\u00e9ment tout s'excuse ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est assez qu'en courant la fiction amuse ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Trop de rigueur alors serait hors de saison",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais la sc\u00e8ne demande une exacte raison.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'\u00e9troite biens\u00e9ance y veut \u00eatre gard\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'en tout avec soi-m\u00eame il se montre d'accord,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et qu'il soit jusqu'au bout tel qu'on l'a vu d'abord.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Forme tous ses h\u00e9ros semblables \u00e0 soi-m\u00eame ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tout a l'humeur gasconne en un auteur gascon",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Calpren\u00e8de et Juba parlent du m\u00eame ton.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chaque passion parle un diff\u00e9rent langage",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La col\u00e8re est superbe et veut des mots altiers,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'abattement s'explique en des termes moins fiers.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ne vienne pas pousser une plainte ampoul\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ni sans raison d\u00e9crire en quel affreux pays",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00ab Par sept bouches l'Euxin re\u00e7oit le Tana\u00efs \u00bb.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tous ces pompeux amas d'expressions frivoles",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sont d'un d\u00e9clamateur amoureux des paroles.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il faut dans la douleur que vous vous abaissiez.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pour me tirer des pleurs, il faut que vous pleuriez.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ces grands mots dont alors l'acteur emplit sa bouche",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ne partent point d'un c\u0153ur que sa mis\u00e8re touche.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chez nous pour se produire est un champ p\u00e9rilleux.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un auteur n'y fait pas de faciles conqu\u00eates ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il trouve \u00e0 le siffler des bouches toujours pr\u00eates.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chacun le peut traiter de fat et d'ignorant ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est un droit qu'\u00e0 la porte on ach\u00e8te en entrant.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il faut qu'en cent fa\u00e7ons, pour plaire, il se replie ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que tant\u00f4t il s'\u00e9l\u00e8ve et tant\u00f4t s'humilie ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'en nobles sentiments il soit partout f\u00e9cond ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'il soit ais\u00e9, solide, agr\u00e9able, profond ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que de traits surprenants sans cesse il nous r\u00e9veille,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'il coure dans ses vers de merveille en merveille ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et que tout ce qu'il dit, facile \u00e0 retenir,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De son ouvrage en nous laisse un long souvenir.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ainsi la Trag\u00e9die agit, marche et s'explique.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans le vaste r\u00e9cit d'une longue action,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Se soutient par la fable et vit de fiction.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u00e0, pour nous enchanter, tout est mis en usage ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tout prend un corps, une \u00e2me, un esprit, un visage.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chaque vertu devient une divinit\u00e9 :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Minerve est la prudence, et V\u00e9nus la beaut\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce n'est plus la vapeur, qui produit le tonnerre,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est Jupiter arm\u00e9 pour effrayer la terre ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un orage terrible aux yeux des matelots,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est Neptune en courroux qui gourmande les flots ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c9cho n'est plus un son qui dans l'air retentisse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est une nymphe en pleurs qui se plaint de Narcisse.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ainsi, dans cet amas de nobles fictions,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le po\u00e8te s'\u00e9gaye en mille inventions,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Orne, \u00e9l\u00e8ve, embellit, agrandit toutes choses,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et trouve sous sa main des fleurs toujours \u00e9closes.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'\u00c9n\u00e9e et ses vaisseaux, par le vent \u00e9cart\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Soient aux bords africains d'un orage emport\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce n'est qu'une aventure ordinaire et commune,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'un coup peu surprenant des traits de la fortune.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais que Junon, constante en son aversion,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Poursuive sur les flots les restes d'Ilion ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'\u00c9ole, en sa faveur, les chassant d'Italie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ouvre aux vents mutin\u00e9s les prisons d'\u00c9olie ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que Neptune en courroux, s'\u00e9levant sur la mer,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un mot calme les flots, mette la paix dans l'air,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D\u00e9livre les vaisseaux, des Syrtes les arrache,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est l\u00e0 ce qui surprend, frappe, saisit, attache.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sans tous ces ornements le vers tombe en langueur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La po\u00e9sie est morte ou rampe sans vigueur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le po\u00e8te n'est plus qu'un orateur timide,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'un froid historien d'une fable insipide.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Bannissant de leurs vers ces ornements re\u00e7us,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pensent faire agir Dieu, ses saints et ses proph\u00e8tes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Comme ces dieux \u00e9clos du cerveau des po\u00e8tes ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mettent \u00e0 chaque pas le lecteur en enfer,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'offrent rien qu'Astaroth, Belz\u00e9buth, Lucifer\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De la foi d'un chr\u00e9tien les myst\u00e8res terribles",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'ornements \u00e9gay\u00e9s ne sont point susceptibles.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'\u00c9vangile \u00e0 l'esprit n'offre de tous c\u00f4t\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que p\u00e9nitence \u00e0 faire et tourments m\u00e9rit\u00e9s ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et de vos fictions le m\u00e9lange coupable",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "M\u00eame \u00e0 ses v\u00e9rit\u00e9s donne l'air de la fable.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que le diable toujours hurlant contre les Cieux,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui de votre h\u00e9ros veut rabaisser la gloire,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et souvent avec Dieu balance la victoire !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je ne veux point ici lui faire son proc\u00e8s :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais, quoi que notre si\u00e8cle \u00e0 sa gloire publie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il n'e\u00fbt point de son livre illustr\u00e9 l'Italie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Si son sage h\u00e9ros, toujours en oraison,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'e\u00fbt fait que mettre enfin Satan \u00e0 la raison ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et si Renaud, Argant, Tancr\u00e8de et sa ma\u00eetresse",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'eussent de son sujet \u00e9gay\u00e9 la tristesse.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un auteur follement idol\u00e2tre et pa\u00efen.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais, dans une profane et riante peinture,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De n'oser de la fable employer la figure ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De chasser les Tritons de l'empire des eaux ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'\u00f4ter \u00e0 Pan sa fl\u00fbte, aux Parques leurs ciseaux ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'emp\u00eacher que Caron, dans la fatale barque,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ainsi que le berger ne passe le monarque :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est d'un scrupule vain s'alarmer sottement,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et vouloir aux lecteurs plaire sans agr\u00e9ment.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Bient\u00f4t ils d\u00e9fendront de peindre la Prudence,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De donner \u00e0 Th\u00e9mis ni bandeau ni balance,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De figurer aux yeux la Guerre au front d'airain,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ou le Temps qui s'enfuit une horloge \u00e0 la main ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et partout, des discours, comme une idol\u00e2trie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans leur faux z\u00e8le iront chasser l'all\u00e9gorie.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Laissons-les s'applaudir de leur pieuse erreur ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais pour nous bannissons une vaine terreur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et, fabuleux chr\u00e9tiens, n'allons point, dans nos songes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du Dieu de v\u00e9rit\u00e9 faire un dieu de mensonges.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u00e0 tous les noms heureux semblent n\u00e9s pour les vers,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ulysse, Agamemnon, Oreste, Idom\u00e9n\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "H\u00e9l\u00e8ne, M\u00e9n\u00e9las, P\u00e2ris, Hector, \u00c9n\u00e9e\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00d4 le plaisant projet d'un po\u00e8te ignorant,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui de tant de h\u00e9ros va choisir Childebrand !",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un seul nom quelquefois le son dur ou bizarre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Rend un po\u00e8me entier ou burlesque ou barbare.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Faites choix d'un h\u00e9ros propre \u00e0 m'int\u00e9resser,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "En valeur \u00e9clatant, en vertus magnifique",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'en lui, jusqu'aux d\u00e9fauts, tout se montre h\u00e9ro\u00efque ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que ses faits surprenants soient dignes d'\u00eatre ou\u00efs",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'il soit tel que C\u00e9sar, Alexandre ou Louis,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Non tel que Polynice et son perfide fr\u00e8re :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On s'ennuie aux exploits d'un conqu\u00e9rant vulgaire.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le seul courroux d'Achille, avec art m\u00e9nag\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Remplit abondamment une Iliade enti\u00e8re :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Souvent trop d'abondance appauvrit la mati\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Soyez riche et pompeux dans vos descriptions.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est l\u00e0 qu'il faut des vers \u00e9taler l'\u00e9l\u00e9gance ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'y pr\u00e9sentez jamais de basse circonstance.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'imitez pas ce fou qui, d\u00e9crivant les mers,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et peignant, au milieu de leurs flots entr'ouverts,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'H\u00e9breu sauv\u00e9 du joug de ses injustes ma\u00eetres,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Met, pour le voir passer, les poissons aux fen\u00eatres ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Peint-le petit enfant qui \u00ab va, saute, revient, \u00bb",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et joyeux, \u00e0 sa m\u00e8re offre un caillou qu'il tient \u00bb.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur de trop vains objets c'est arr\u00eater la vue.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Donnez \u00e0 votre ouvrage une juste \u00e9tendue.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'allez pas d\u00e8s l'abord, sur P\u00e9gase mont\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Crier \u00e0 vos lecteurs, d'une voix de tonnerre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00ab Je chante le vainqueur des vainqueurs de la terre. \u00bb",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que produira l'auteur, apr\u00e8s tous ces grands cris ?",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La montagne en travail enfante une souris.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Oh ! que j'aime bien mieux cet auteur plein d'adresse",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui, sans faire d'abord de si haute promesse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Me dit d'un ton ais\u00e9, doux, simple, harmonieux :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00ab Je chante les combats, et cet homme pieux \u00bb",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui, des bords phrygiens conduit dans l'Ausonie, \u00bb",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le premier aborda les champs de Lavinie \u00bb",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sa Muse en arrivant ne met pas tout en feu,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et, pour donner beaucoup, ne nous promet que peu ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Bient\u00f4t vous la verrez, prodiguant les miracles,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Du destin des Latins prononcer les oracles,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De Styx et d'Ach\u00e9ron peindre les noirs torrents",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et d\u00e9j\u00e0 les C\u00e9sars dans l'\u00c9lys\u00e9e errants.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que tout y fasse aux yeux une riante image :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On peut \u00eatre \u00e0 la fois et pompeux et plaisant ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et je hais un sublime ennuyeux et pesant.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "J'aime mieux Arioste et ses fables comiques",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que ces auteurs, toujours froids et m\u00e9lancoliques,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui, dans leur sombre humeur, se croiraient faire affront",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Si les Gr\u00e2ces jamais leur d\u00e9ridaient le front.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Hom\u00e8re ait \u00e0 V\u00e9nus d\u00e9rob\u00e9 sa ceinture.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sort livre est d'agr\u00e9ments un fertile tr\u00e9sor",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tout ce qu'il a touch\u00e9 se convertit en or ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tout re\u00e7oit dans ses mains une nouvelle gr\u00e2ce ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Partout il divertit et jamais il ne lasse.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Une heureuse chaleur anime ses discours ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il ne s'\u00e9gare point en de trop longs d\u00e9tours.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sans garder dans ses vers un ordre m\u00e9thodique,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Son sujet, de soi-m\u00eame, et s'arrange et s'explique ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tout, sans faire d'appr\u00eats, s'y pr\u00e9pare ais\u00e9ment ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chaque vers, chaque mot court \u00e0 l'\u00e9v\u00e9nement.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aimez donc ses \u00e9crits, mais d'un amour sinc\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est avoir profit\u00e9 que de savoir s'y plaire.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'est pas de ces travaux qu'un caprice produit :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il veut du temps, des soins ; et ce p\u00e9nible ouvrage",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Jamais d'un \u00e9colier ne fut l'apprentissage.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais souvent parmi nous un po\u00e8te sans art,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'un beau feu quelquefois \u00e9chauffa par hasard,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Enflant d'un vain orgueil son esprit chim\u00e9rique,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Fi\u00e8rement prend en main la trompette h\u00e9ro\u00efque.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sa muse d\u00e9r\u00e9gl\u00e9e, en ses vers vagabonds,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ne s'\u00e9l\u00e8ve jamais que par sauts et par bonds ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et son feu, d\u00e9pourvu de sens et de lecture,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'\u00e9teint \u00e0 chaque pas, faute de nourriture.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais en vain le public, prompt \u00e0 le m\u00e9priser,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De son m\u00e9rite faux le veut d\u00e9sabuser ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Lui-m\u00eame, applaudissant \u00e0 son maigre g\u00e9nie,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Se donne par ses mains l'encens qu'on lui d\u00e9nie ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Virgile, au prix de lui, n'a point d'invention ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Hom\u00e8re n'entend point la noble fiction\u2026",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Si contre cet arr\u00eat le si\u00e8cle se rebelle,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c0 la post\u00e9rit\u00e9 d'abord il en appelle,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais, attendant qu'ici le bon sens de retour",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ram\u00e8ne triomphants ses ouvrages au jour,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Leurs tas, au magasin, cach\u00e9s \u00e0 la lumi\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Combattent tristement les vers et la poussi\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Laissons-les donc entre eux s'escrimer en repos,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et, sans nous \u00e9garer, suivons notre propos.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans Ath\u00e8nes naquit la Com\u00e9die antique.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u00e0 le Grec, n\u00e9 moqueur, par mille jeux plaisants,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Distilla le venin de ses traits m\u00e9disants.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux acc\u00e8s insolents d'une bouffonne joie",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La sagesse, l'esprit, l'honneur furent en proie.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "On vit par le public un po\u00e8te avou\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'enrichir aux d\u00e9pens du m\u00e9rite jou\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et Socrate par lui, dans un ch\u0153ur de nu\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un vil amas de peuple attirer les hu\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Enfin, de la licence on arr\u00eata le cours :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le magistrat des lois emprunta le secours,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et, rendant par \u00e9dit les po\u00e8tes plus sages,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D\u00e9fendit de marquer les noms et les visages.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Le th\u00e9\u00e2tre perdit son antique fureur ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "la com\u00e9die apprit \u00e0 rire sans aigreur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sans fiel et sans venin sut instruire et reprendre,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et plut innocemment dans les vers de M\u00e9nandre.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chacun, peint avec art dans ce nouveau miroir,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "S'y vit avec plaisir, ou crut ne s'y point voir :",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'avare, des premiers, rit du tableau fid\u00e8le",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "D'un avare souvent trac\u00e9 sur son mod\u00e8le ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et, mille fois, un fat finement exprim\u00e9",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "M\u00e9connut le portrait sur lui-m\u00eame form\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Auteurs qui pr\u00e9tendez aux honneurs du comique.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quiconque voit bien l'homme et, d'un esprit profond,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De tant de c\u0153urs cach\u00e9s a p\u00e9n\u00e9tr\u00e9 le fond ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui sait bien ce que c'est qu'un prodigue, un avare,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un honn\u00eate homme, un fat, un jaloux, un bizarre,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Sur une sc\u00e8ne heureuse il peut les \u00e9taler,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et les faire \u00e0 nos yeux vivre, agir et parler.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pr\u00e9sentez-en partout les images na\u00efves ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que chacun y soit peint des couleurs les plus vives.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La nature, f\u00e9conde en bizarres portraits,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans chaque \u00e2me est marqu\u00e9e \u00e0 de diff\u00e9rents traits ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un geste la d\u00e9couvre, un rien la fait para\u00eetre.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais tout esprit n'a pas des yeux pour la conna\u00eetre.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Chaque \u00e2ge a ses plaisirs, son esprit et ses m\u0153urs.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est prompt \u00e0 recevoir l'impression des vices ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Est vain dans ses discours, volage en ses d\u00e9sirs,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "R\u00e9tif \u00e0 la censure et fou dans les plaisirs.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Se pousse aupr\u00e8s des grands, s'intrigue, se m\u00e9nage,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Contre les coups du sort songe \u00e0 se maintenir,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et loin dans le pr\u00e9sent regarde l'avenir.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Garde, non pas pour soi, les tr\u00e9sors qu'elle entasse ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Marche en tous ses desseins d'un pas lent et glac\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Toujours plaint le pr\u00e9sent et vante le pass\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Inhabile aux plaisirs, dont la jeunesse abuse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Bl\u00e2me en eux les douceurs que l'\u00e2ge lui refuse.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Un vieillard en jeune homme, un jeune homme en vieillard.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L'une et l'autre est toujours en mod\u00e8les fertile.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est par l\u00e0 que Moli\u00e8re, illustrant ses \u00e9crits,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Peut-\u00eatre de son art e\u00fbt remport\u00e9 le prix,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Si, moins ami du peuple, en ses doctes peintures,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Il n'e\u00fbt point fait souvent grimacer ses figures,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Quitt\u00e9, pour le bouffon, l'agr\u00e9able et le fin,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et sans honte \u00e0 T\u00e9rence alli\u00e9 Tabarin.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans ce sac ridicule o\u00f9 Scapin s'enveloppe,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Je ne reconnais plus l'auteur du Misanthrope.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "N'admet point en ses vers de tragiques douleurs ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais son emploi n'est pas d'aller, dans une place,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De mots sales et bas charmer la populace.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que son n\u0153ud bien form\u00e9 se d\u00e9noue ais\u00e9ment ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que l'action, marchant o\u00f9 la raison la guide,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ne se perde jamais dans une sc\u00e8ne vide ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que son style humble et doux se rel\u00e8ve \u00e0 propos ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Que ses discours, partout fertiles en bons mots,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Soient pleins de passions finement mani\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et les sc\u00e8nes toujours l'une \u00e0 l'autre li\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux d\u00e9pens du bon sens gardez de plaisanter",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Contemplez de quel air un p\u00e8re, dans T\u00e9rence,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Vient d'un fils amoureux gourmander l'imprudence ;",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "De quel air cet amant \u00e9coute ses le\u00e7ons",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et court chez sa ma\u00eetresse oublier ces chansons.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Ce n'est pas un portrait, une image semblable,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "C'est un amant, un fils, un p\u00e8re v\u00e9ritable.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "J'aime sur le th\u00e9\u00e2tre un agr\u00e9able auteur",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui, sans se diffamer aux yeux du spectateur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Pla\u00eet par la raison seule, et jamais ne la choque.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Mais, pour un faux plaisant, \u00e0 grossi\u00e8re \u00e9quivoque,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qui pour me divertir n'a que la salet\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Qu'il s'en aille, s'il veut, sur deux tr\u00e9teaux mont\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Amusant le Pont-Neuf de ses sornettes fades,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux laquais assembl\u00e9s jouer ses mascarades.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BOI_1/BOI4",
+        "author": "Nicolas Boileau-Despr\u00e9aux",
+        "work": "L'Art po\u00e9tique",
+        "date": "1674",
+        "title": "Chant IV",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BOI_1&code_text=BOI4_7",
+        "text": [
+            [
+                {
+                    "verse": "Dans Florence, jadis, vivait un m\u00e9decin,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Savant h\u00e2bleur, dit-on, et c\u00e9l\u00e8bre assassin.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lui seul y fit longtemps la publique mis\u00e8re :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u00e0, le fils orphelin lui redemande un p\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ici, le fr\u00e8re pleure un fr\u00e8re empoisonn\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'un meurt vide de sang, l'autre plein de s\u00e9n\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le rhume \u00e0 son aspect se change en pleur\u00e9sie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, par lui, la migraine est bient\u00f4t fr\u00e9n\u00e9sie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il quitte enfin la ville, en tous lieux d\u00e9test\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De tous ses amis morts un seul ami rest\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le m\u00e8ne en sa maison de superbe structure",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'\u00e9tait un riche abb\u00e9, fou de l'architecture.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le m\u00e9decin, d'abord, semble n\u00e9 dans cet art,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9j\u00e0 de b\u00e2timents parle comme Mansart :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un salon qu'on \u00e9l\u00e8ve il condamne la face ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au vestibule obscur il marque une autre place,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Approuve l'escalier tourn\u00e9 d'autre fa\u00e7on\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son ami le con\u00e7oit, et mande son ma\u00e7on.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le ma\u00e7on vient, \u00e9coute, approuve et se corrige.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Enfin, pour abr\u00e9ger un si plaisant prodige,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Notre assassin renonce \u00e0 son art inhumain ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et d\u00e9sormais, la r\u00e8gle et l'\u00e9querre \u00e0 la main,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Laissant de Galien, la science suspecte,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De m\u00e9chant m\u00e9decin devient bon architecte.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Soyez plut\u00f4t ma\u00e7on, si c'est votre talent,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ouvrier estim\u00e9 dans un art n\u00e9cessaire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'\u00e9crivain du commun et po\u00e8te vulgaire.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il est dans tout autre art des degr\u00e9s diff\u00e9rents,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On peut avec honneur remplir les seconds rangs ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais, dans l'art dangereux de rimer et d'\u00e9crire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il n'est point de degr\u00e9s du m\u00e9diocre au pire ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui dit froid \u00e9crivain dit d\u00e9testable auteur\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Boyer est \u00e0 Pinch\u00eane, \u00e9gal pour le lecteur ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On ne lit gu\u00e8re plus Rampale et Mesnardi\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que Magnon, du Souhait, Corbin et La Morli\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un fou du moins fait rire et peut nous \u00e9gayer ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais un froid \u00e9crivain ne sait rien qu'ennuyer.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'aime mieux Bergerac, et sa burlesque audace",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que ces vers o\u00f9 Motin se morfond et nous glace.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'un amas quelquefois de vains admirateurs",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous donne en ces r\u00e9duits, prompts \u00e0 crier merveille.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tel \u00e9crit r\u00e9cit\u00e9 se soutint \u00e0 l'oreille,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, dans l'impression au grand jour se montrant,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne soutient pas des yeux le regard p\u00e9n\u00e9trant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On sait de cent auteurs l'aventure tragique :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et Gombaud tant lou\u00e9 garde encor la boutique.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un fat, quelquefois, ouvre un avis important.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelques vers toutefois qu'Apollon vous inspire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En tous lieux aussit\u00f4t ne courez pas les lire.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gardez-vous d'imiter ce rimeur furieux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, de ses vains \u00e9crits lecteur harmonieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aborde en r\u00e9citant quiconque le salue",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et poursuit de ses vers les passants dans la rue.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il n'est temple si saint, des anges respect\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui soit contre sa Muse un lieu de s\u00fbret\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, souple \u00e0 la raison, corrigez sans murmure.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais ne vous rendez pas d\u00e8s qu'un sot vous reprend.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par d'injustes d\u00e9go\u00fbts combat toute une pi\u00e8ce,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bl\u00e2me des plus beaux vers la noble hardiesse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On a beau r\u00e9futer ses vains raisonnements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Son esprit se compla\u00eet dans ses faux jugements ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sa faible raison, de clart\u00e9 d\u00e9pourvue,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pense que rien n'\u00e9chappe \u00e0 sa d\u00e9bile vue.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ses conseils sont \u00e0 craindre ; et, si vous les croyez,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pensant fuir un \u00e9cueil, souvent vous vous noyez.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que la raison conduise et le savoir \u00e9claire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et dont le crayon s\u00fbr d'abord aille chercher",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'endroit que l'on sent faible, et qu'on se veut cacher.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lui seul \u00e9claircira vos doutes ridicules,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De votre esprit tremblant l\u00e8vera les scrupules.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est lui qui vous dira par quel transport heureux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelquefois, dans sa course, un esprit vigoureux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Trop resserr\u00e9 par l'art, sort des r\u00e8gles prescrites,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de l'art m\u00eame apprend \u00e0 franchir leurs limites.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais ce parfait censeur se trouve rarement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tel excelle \u00e0 rimer qui juge sottement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tel s'est fait par ses vers distinguer dans la ville,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui jamais de Lucain n'a distingu\u00e9 Virgile.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voulez-vous faire aimer vos riches fictions ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'en savantes le\u00e7ons votre Muse fertile",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Partout joigne au plaisant le solide et l'utile.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un lecteur sage fuit un vain amusement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et veut mettre \u00e0 profit son divertissement.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'offrent jamais de vous que de nobles images.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je ne puis estimer ces dangereux auteurs",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui de l'honneur, en vers, inf\u00e2mes d\u00e9serteurs,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Trahissant la vertu sur un papier coupable,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux yeux de leurs lecteurs rendent le vice aimable.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui, bannissant l'amour de tous chastes \u00e9crits,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un si riche ornement veulent priver la sc\u00e8ne,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Traitent d'empoisonneurs et Rodrigue et Chim\u00e8ne\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'amour le moins honn\u00eate, exprim\u00e9 chastement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'excite point en nous de honteux mouvement.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Didon a beau g\u00e9mir et m'\u00e9taler ses charmes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je condamne sa faute en partageant ses larmes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne corrompt point le c\u0153ur en chatouillant les sens",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Son feu n'allume point de criminelle flamme.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aimez donc la vertu, nourrissez-en votre \u00e2me.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En vain l'esprit est plein d'une noble vigueur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le vers se sent toujours des bassesses du c\u0153ur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des vulgaires esprits malignes fr\u00e9n\u00e9sies.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un sublime \u00e9crivain n'en peut \u00eatre infect\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est un vice qui suit la m\u00e9diocrit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du m\u00e9rite \u00e9clatant cette sombre rivale",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Contre lui chez les grands incessamment cabale,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, sur les pieds en vain t\u00e2chant de se hausser,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour s'\u00e9galer \u00e0 lui cherche \u00e0 le rabaisser.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne descendons jamais dans ces l\u00e2ches intrigues ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'allons point \u00e0 l'honneur par de honteuses brigues.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cultivez vos amis, soyez homme de foi :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est peu d'\u00eatre agr\u00e9able et charmant dans un livre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il faut savoir encor et converser et vivre.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne soit jamais l'objet d'un illustre \u00e9crivain.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je sais qu'un noble esprit peut, sans honte et sans crime,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tirer de son travail un tribut l\u00e9gitime ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais je ne puis souffrir ces auteurs renomm\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui, d\u00e9go\u00fbt\u00e9s de gloire et d'argent affam\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mettent leur Apollon aux gages d'un libraire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et font d'un art divin un m\u00e9tier mercenaire.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "E\u00fbt instruit les humains, e\u00fbt enseign\u00e9 les lois,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tous les hommes suivaient la grossi\u00e8re nature,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dispers\u00e9s dans les bois couraient \u00e0 la p\u00e2ture :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La force tenait lieu de droit et d'\u00e9quit\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le meurtre s'exer\u00e7ait avec impunit\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais du discours enfin l'harmonieuse adresse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De ces sauvages m\u0153urs adoucit la rudesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rassembla les humains dans les for\u00eats \u00e9pars,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Enferma les cit\u00e9s de murs et de remparts,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l'aspect du supplice effraya l'insolence,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sous l'appui des lois mit la faible innocence.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cet ordre fut, dit-on, le fruit des premiers vers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l\u00e0 sont n\u00e9s ces bruits re\u00e7us dans l'univers,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'aux accents dont Orph\u00e9e emplit les monts de Thrace,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les tigres amollis d\u00e9pouillaient leur audace ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'aux accords d'Amphion les pierres se mouvaient,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et sur les monts th\u00e9bains en ordre s'\u00e9levaient.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'harmonie en naissant produisit ces miracles.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Depuis, le Ciel en vers fit parler les oracles ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du sein d'un pr\u00eatre, \u00e9mu d'une divine horreur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Apollon par des vers exhala sa fureur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Bient\u00f4t, ressuscitant les h\u00e9ros des vieux \u00e2ges,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Hom\u00e8re aux grands exploits anima les courages.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "H\u00e9siode \u00e0 son tour, par d'utiles le\u00e7ons,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des champs trop paresseux vint h\u00e2ter les moissons.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En mille \u00e9crits fameux la sagesse trac\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fut, \u00e0 l'aide des vers, aux mortels annonc\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et partout, des esprits ses pr\u00e9ceptes vainqueurs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Introduits par l'oreille, entr\u00e8rent dans les c\u0153urs.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour tant d'heureux bienfaits, les Muses r\u00e9v\u00e9r\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Furent d'un juste encens dans la Gr\u00e8ce honor\u00e9es ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et leur art, attirant le culte des mortels,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 sa gloire en cent lieux vit dresser des autels.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais enfin l'indigence amenant la bassesse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le Parnasse oublia sa premi\u00e8re noblesse ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un vil amour du gain, infestant les esprits,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De mensonges grossiers souilla tous les \u00e9crits,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et partout, enfantant mille ouvrages frivoles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Trafiqua du discours et vendit les paroles.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si l'or seul a pour vous d'invincibles appas,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fuyez ces lieux charmants qu'arrose le Permesse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce n'est point sur ses bords qu'habite la richesse.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux plus savants auteurs, comme aux plus grands guerriers,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Apollon ne promet qu'un nom et des lauriers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne peut pas, dira-t-on, subsister de fum\u00e9e !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un auteur qui, press\u00e9 d'un besoin importun,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le soir entend crier ses entrailles \u00e0 jeun,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Go\u00fbte peu d'H\u00e9licon les douces promenades !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Horace a bu son so\u00fbl quand il voit les M\u00e9nades ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, libre du souci qui trouble Colletet,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'attend pas pour d\u00eener le succ\u00e8s d'un sonnet !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rarement parmi nous afflige le Parnasse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que craindre en ce si\u00e8cle, o\u00f9 toujours les beaux-arts",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'un astre favorable \u00e9prouvent les regards,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 d'un prince \u00e9clair\u00e9 la sage pr\u00e9voyance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fait partout au m\u00e9rite ignorer l'indigence ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Son nom vaut mieux pour eux que toutes vos le\u00e7ons.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que Corneille, pour lui rallumant son audace,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Soit encor le Corneille et du Cid et d'Horace ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que Racine, enfantant des miracles nouveaux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De ses h\u00e9ros sur lui forme tous les tableaux ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que de son nom, chant\u00e9 par la bouche des belles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Benserade, en tous lieux amuse les ruelles ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que Segrais, dans l'\u00e9glogue, en charme les for\u00eats ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que pour lui l'\u00e9pigramme aiguise tous ses traits.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais quel heureux auteur, dans une autre \u00c9n\u00e9ide,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux bords du Rhin tremblant conduira cet Alcide ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quelle savante lyre, au bruit de ses exploits,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fera marcher encor les rochers et les bois ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chantera le Batave, \u00e9perdu dans l'orage,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Soi-m\u00eame se noyant pour sortir du naufrage ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dira les bataillons sous Mastrich enterr\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans ces affreux assauts du soleil \u00e9clair\u00e9s ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vers ce vainqueur rapide aux Alpes vous appelle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9j\u00e0 D\u00f4le et Salins sous le joug ont ploy\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Besan\u00e7on fume encor sur son roc foudroy\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 sont ces grands guerriers dont les fatales ligues",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Devaient \u00e0 ce trajet opposer tant de digues ?",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est-ce encore en fuyant qu'ils pensent l'arr\u00eater,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fiers du honteux honneur d'avoir su l'\u00e9viter ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que de remparts d\u00e9truits ! Que de villes forc\u00e9es !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que de moissons de gloire en courant amass\u00e9es !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le sujet ne veut pas de vulgaires efforts.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'ose encor manier la trompette et la lyre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous me verrez pourtant, dans ce champ glorieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vous animer du moins de la voix et des yeux ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vous offrir ces le\u00e7ons que ma Muse au Parnasse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rapporta, jeune encor, du commerce d'Horace ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Seconder votre ardeur, \u00e9chauffer vos esprits,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et vous montrer de loin la couronne et le prix.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais aussi pardonnez, si, plein de ce beau z\u00e8le,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De tous vos pas fameux observateur fid\u00e8le,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelquefois du bon or je s\u00e9pare le faux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et des auteurs grossiers j'attaque les d\u00e9fauts,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Censeur un peu f\u00e2cheux, mais souvent n\u00e9cessaire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plus enclin \u00e0 bl\u00e2mer que savant \u00e0 bien faire.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

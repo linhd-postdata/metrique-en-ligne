@@ -1,0 +1,92 @@
+[
+    {
+        "code": "CRO_1/CRO1",
+        "author": "Charles Cros",
+        "work": "Le Coffret De Santal",
+        "date": "1879",
+        "title": "Pr\u00e9face",
+        "profile": "8",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=CRO_1&code_text=CRO1_7",
+        "text": [
+            [
+                {
+                    "verse": "Bibelots d'emplois incertains,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fleurs mortes aux seins des alm\u00e9es,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cheveux, dons de vierges charm\u00e9es,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cr\u00eapons arrach\u00e9s aux catins,",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tableaux sombres et bleus lointains,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pastels effac\u00e9s, durs cam\u00e9es,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fioles encore parfum\u00e9es,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Bijoux, chiffons, hochets, pantins,",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Quel encombrement dans ce coffre !",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Je vends tout. Accepte mon offre,",
+                    "metre": "8",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Lecteur. Peut-\u00eatre quelque \u00e9moi,",
+                    "metre": "8",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Pleurs ou rire, \u00e0 ces vieilles choses",
+                    "metre": "8",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Te prendra. Tu paieras, et moi",
+                    "metre": "8",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "J'ach\u00e8terai de fra\u00eeches roses.",
+                    "metre": "8",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    }
+]

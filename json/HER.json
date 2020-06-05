@@ -1,0 +1,3512 @@
+[
+    {
+        "code": "HER_1/HER121",
+        "author": "Jos\u00e9-Maria de Heredia",
+        "work": "Les Troph\u00e9es",
+        "date": "1893",
+        "title": "Les Conqu\u00e9rants de l'or",
+        "profile": "6+6",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=HER_1&code_text=HER121_7",
+        "text": [
+            [
+                {
+                    "verse": "Apr\u00e8s que Balboa menant son bon cheval",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par les bois non fray\u00e9s, droit, d'amont en aval,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Eut, sur l'autre versant des Cordill\u00e8res hautes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Foul\u00e9 le chaud limon des insalubres c\u00f4tes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De l'Isthme qui partage avec ses monts g\u00e9ants",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La glauque immensit\u00e9 des deux grands oc\u00e9ans,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qu'il eut, s'y jetant tout arm\u00e9 de la berge,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Plante son \u00e9tendard dans l'\u00e9cume encor vierge,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tous les aventuriers, dont l'esprit s'enflamma,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "R\u00eavaient, en arrivant au port de Panama,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De retrouver, espoir cupide et magnifique,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux rivages dor\u00e9s de la mer Pacifique,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "El Dorado promis qui fuyait devant eux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et, m\u00ealant avec l'or des songes monstrueux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De forcer jusqu'au fond de ces torrides zones",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'\u00e2pre virginit\u00e9 des rudes Amazones",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que n'avait pu dompter la race des h\u00e9ros,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De renverser des dieux \u00e0 t\u00eates de taureaux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de vaincre, vrais fils de leur anc\u00eatre Hercule,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les peuples de l'Aurore et ceux du Cr\u00e9puscule.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils savaient que, bravant ces illustres p\u00e9rils,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils atteindraient les bords o\u00f9 germent les b\u00e9ryls",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et Doboyba qui comble, en ses riches ravines,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du vaste \u00e9croulement des temples en ruines,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La n\u00e9cropole d'or des princes de Zenu ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que, suivant toujours le chemin inconnu",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des Indes, par-del\u00e0 les \u00eeles des \u00c9pices",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la terre o\u00f9 bouillonne au fond des pr\u00e9cipices",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur un lit d'argent fin la Source de Sant\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils verraient, se dressant en un ciel enchant\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jusqu'au z\u00e9nith br\u00fbl\u00e9 du feu des pierreries,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Resplendir au soleil les vivantes f\u00e9eries",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des sierras d'\u00e9meraude et des pics de saphir",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui rec\u00e8lent l'antique et fabuleux Ophir.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et quand Vasco Nunez eut pay\u00e9 de sa t\u00eate",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'orgueil d'avoir tent\u00e9 cette grande conqu\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Poursuivant apr\u00e8s lui ce mirage \u00e9clatant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Malgr\u00e9 sa mort, la fleur des Cavaliers, portant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le pennon de Castille \u00e9cartel\u00e9 d'Autriche,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "P\u00e9n\u00e9tra jusqu'au fond des bois de C\u00f4te-Riche",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 travers la montagne horrible, ou navigua",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le long des noirs r\u00e9cifs qui cernent Veragua,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et vers l'Est atteignit, malgr\u00e9 de grands naufrages,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les bords o\u00f9 l'Or\u00e9noque, enfl\u00e9 par les orages,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Inondant de sa vase un immense horizon,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous le fi\u00e9vreux \u00e9clat d'un ciel lourd de poison,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se jette dans la mer par ses cinquante bouches.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Enfin cent compagnons, tous gens de bonnes souches,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'embarqu\u00e8rent avec Pascual d'Andagoya",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, poussant encor plus sa course, c\u00f4toya",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le golfe o\u00f9 l'oc\u00e9an Pacifique d\u00e9ferle,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mit le cap vers le Sud, doubla l'\u00eele de Perle,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et cingla devant lui toutes voiles dehors,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ayant ainsi, parmi les Conqu\u00e9rants d'alors",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'heur d'avoir le premier fendu les mers nouvelles",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec les \u00e9perons des lourdes caravelles.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais quand, dix mois plus tard, malade et d\u00e9confit,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Apr\u00e8s avoir tr\u00e8s loin navigu\u00e9 sans profit",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vers cet El Dorado qui n'\u00e9tait qu'un vain mythe,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Brav\u00e9 cent fois la mort, d\u00e9pass\u00e9 la limite",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du monde, ayant perdu quinze soldats sur vingt,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans ses vaisseaux bris\u00e9s Andagoya revint,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pedrarias d'Avila se mit fort en col\u00e8re ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ceux qui, sur la foi du r\u00e9cit populaire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Hidalgos et routiers, s'\u00e9taient tous rassembl\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans Panama, du coup demeur\u00e8rent troubl\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Or les seigneurs, voyant qu'ils ne pouvaient plus gu\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Employer leur personne en actions de guerre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Partaient pour Mexico ; mais ceux qui, n'ayant rien,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9taient venus tenter aux plages de Darien,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9sireux de tromper la mis\u00e8re importune,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ce que vaut un grand c\u0153ur \u00e0 vaincre la fortune,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "S'entretenant \u00e0 jeun des r\u00eaves les plus beaux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Restaient, l'\u00e9p\u00e9e oisive et la cape en lambeaux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quoique tous bons marins ou vieux batteurs d'estrade,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 regarder le flot moutonner dans la rade,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En attendant qu'un chef hardi les command\u00e2t.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Deux ans \u00e9taient pass\u00e9s, lorsqu'un obscur soldat",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui fut depuis titr\u00e9 Marquis pour sa conqu\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fran\u00e7ois Pizarre, osa pr\u00e9senter la requ\u00eate",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'armer un galion pour courir par-del\u00e0",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puerto Pinas. Alors Pedrarias d'Avila",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lui fit repr\u00e9senter qu'en cette conjoncture",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il n'\u00e9tait pas prudent de tenter l'aventure",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ses dangers sans nombre et sans profit ; d'ailleurs,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'il ne lui plaisait point de voir que les meilleurs",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De tous ses gens de guerre, en entreprises folles,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Prodiguassent le sang des veines espagnoles,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que nul avant lui, de tant de Cavaliers,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'avait pu triompher des bois de mangliers",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui croisent sur ces bords leurs n\u0153uds inextricables ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que, la temp\u00eate ayant rompu vergues et c\u00e2bles",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 leurs vaisseaux en vain Si loin aventur\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils \u00e9taient revenus mourants, d\u00e9sempar\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et trop heureux encor d'avoir sauv\u00e9 la vie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais ce conseil ne fit qu'\u00e9chauffer son envie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si bien qu'avec Diego d'Almagro, par contrats,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ayant mis en commun leur fortune et leurs bras,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et don Fernan de Luque ayant fourni les sommes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En l'an mil et cinq cent vingt-quatre, avec cent hommes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pizarre le premier, par un brumeux matin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De novembre, montant un mauvais brigantin,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Prit la mer, et l\u00e2chant au vent toute sa toile,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se fia bravement en son heureuse \u00e9toile.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais tout sembla d'abord d\u00e9mentir son espoir.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le vent devint bourrasque, et jusqu'au ciel tr\u00e8s noir",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La mer terrible, enflant ses houles couleur d'encre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9fon\u00e7a les sabords, rompit les m\u00e2ts et l'ancre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et fit la triste nef plus rase qu'un radeau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Enfin apr\u00e8s dix jours d'angoisse, manquant d'eau",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de vivres, sa troupe \u00e9tant d'ailleurs fort lasse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pizarre d\u00e9barqua sur une c\u00f4te basse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Au bord, les mangliers formaient un long treillis ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plus haut, imp\u00e9n\u00e9trable et splendide fouillis",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De lianes en fleur et de vignes grimpantes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La berge s'\u00e9levait par d'insensibles pentes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Vers la ligne lointaine et sombre des for\u00eats.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et ce pays n'\u00e9tait qu'un tr\u00e8s vaste marais.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Il pleuvait. Les soldats, devenus fr\u00e9n\u00e9tiques",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Par le harc\u00e8lement venimeux des moustiques",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui noircissaient le ciel de bourdonnants essaims,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Foulaient avec horreur, en ces bas-fonds malsains,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des reptiles nouveaux et d'\u00e9tranges insectes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ou voyaient \u00e9merger des lagunes infectes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur leur ventre \u00e9caill\u00e9 se tra\u00eenant d'un pied tors,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ces l\u00e9zards monstrueux qu'on nomme alligators.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et quand venait la nuit, sur la terre tremp\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans leurs manteaux, aupr\u00e8s de l'inutile \u00e9p\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lorsqu'ils s'\u00e9taient couch\u00e9s, n'ayant pour aliment",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que la racine am\u00e8re ou le rouge piment,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur le groupe endormi de ces chercheurs d 'empires",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Flottait, cr\u00eape vivant, le vol mou des vampires,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ceux-l\u00e0 qu'ils marquaient de leurs baisers velus",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dormaient d'un tel sommeil qu'ils ne s'\u00e9veillaient plus.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C'est pourquoi les soldats, par force et par pri\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Contraignirent leur chef \u00e0 tourner en arri\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, malgr\u00e9 lui, disant un \u00e9ternel adieu",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au triste campement du port de Saint-Mathieu,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pizarre, par la mer nouvellement ouverte,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec Bartolom\u00e9 suivant la d\u00e9couverte,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur un seul brigantin d'un faible tirant d'eau",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Repartit, et, doublant Punta de Pasado,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le bon pilote Ruiz eut la fortune insigne,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le premier des marins, d'avoir franchi la Ligne",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et pouss\u00e9 plus au sud du monde occidental.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "La c\u00f4te s'abaissait, et les bois de santal",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Exhalaient sur la mer leurs brises parfum\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De toutes parts montaient de l\u00e9g\u00e8res fum\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les marins joyeux, accoud\u00e9s aux haubans,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voyaient les fleuves luire en tortueux rubans",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 travers la campagne, et tout le long des plages",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fuir des champs cultiv\u00e9s et passer des villages.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ensuite, ayant serr\u00e9 la c\u00f4te de plus pr\u00e8s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 leurs yeux \u00e9tonn\u00e9s parurent les for\u00eats.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Au pied des volcans morts, sous la zone des cendres,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'\u00e9b\u00e9nier, le gayac et les durs palissandres,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jusques aux confins bleus des derniers horizons",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Roulant le flot obscur des vertes frondaisons,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vari\u00e9s de feuillage et vari\u00e9s d'essence,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9ployaient la grandeur de leur magnificence ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et du nord au midi, du levant au ponent,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Couvrant tout le rivage et tout le continent,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Partout o\u00f9 \u0153il pouvait s'\u00e9tendre, la ramure",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se prolongeait avec un \u00e9ternel murmure",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pareil au bruit des mers. Seul, en ce cadre noir,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9tincelait un lac, immobile miroir",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 le soleil, plongeant au milieu de cette ombre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Faisait un grand trou d'or dans la verdure sombre.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sur le sable marneux, d'\u00e9normes ca\u00efmans",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Guettaient le tapir noir ou les roses flamants.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les majas argent\u00e9s et les boas superbes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sous leurs pesants anneaux broyaient les hautes herbes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ou, s'enroulant autour des troncs d'arbres pourris,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Attendaient l'heure o\u00f9 vont boire les p\u00e9caris.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et sur les bords du lac horriblement fertile",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 tout batracien pullule et tout reptile,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Alors que le soleil d\u00e9cline, on pouvait voir",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les fauves par troupeaux descendre \u00e0 l'abreuvoir :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le puma, l'ocelot et les chats-tigres souples,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le beau carnassier qui ne va que par couples",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qui par-dessus tous les f\u00e9lins est cit\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour sa gr\u00e2ce terrible et sa f\u00e9rocit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le jaguar. Et partout dans l'air multicolore",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Flottait la v\u00e9g\u00e9tale et la vivante flore ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tandis que des cactus aux hampes d'alo\u00e8s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les perroquets divers et les kakato\u00e8s",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et les aras, parmi d'assourdissants ramages,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lustraient au soleil clair leurs splendides plumages,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans un p\u00e9tillement d'ailes et de rayons,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les fr\u00eales oiseaux-mouche et les grands papillons,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un vol vibrant, avec des jets de pierreries,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Irradiaient autour des lianes fleuries.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Plus loin, de toutes parts \u00e9lanc\u00e9s, des halliers,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des gorges, des ravins, des taillis, par milliers,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pillant les monbins m\u00fbrs et les buissons d'icaques,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les singes de tout poil, ouistitis et macaques,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sakis noirs, capucins, trembleurs et carcajous",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par les figuiers g\u00e9ants et les hauts acajous,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sautant de branche en branche ou pendus par leurs queues,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Innombrables, de l'aube au soir, durant des lieues,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec des gestes fous hurlant et gambadant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tout le long de la mer les suivaient. Cependant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pouss\u00e9 par une ti\u00e8de et balsamique haleine,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le navire, doublant le cap de Sainte-H\u00e9l\u00e8ne,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Glissa paisiblement dans le golfe d'azur",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9, sous l'\u00e9clat d'un jour \u00e9ternellement pur,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La mer de Guayaquil, sans col\u00e8re et sans lutte,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Arrondissant au loin son immense volute,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Frange les sables d'or d'une \u00e9cume d'argent.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et l'horizon s'ouvrit magnifique et changeant.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les montagnes, dressant les neiges de leur cr\u00eate,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Coupaient le ciel fonc\u00e9 d'une brillante ar\u00eate",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'o\u00f9 s'\u00e9lan\u00e7aient tout droits au haut de l'\u00e9ther bleu",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le Prince du Tonnerre et le Seigneur du Feu :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le mont Chimborazo dont la sommit\u00e9 ronde,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00f4me prodigieux sous qui la foudre gronde,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9passe, gigantesque et formidable aussi,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le c\u00f4ne incandescent du vieux Cotopaxi.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Attentif aux gabiers en vigie \u00e0 la hune,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans le pressentiment de sa haute fortune,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pizarre, sur le pont avec les Conqu\u00e9rants,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jetait sur ces splendeurs des Yeux indiff\u00e9rents",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand, soudain, au d\u00e9tour du dernier promontoire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'\u00e9quipage, poussant un long cri de victoire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans un repli du golfe o\u00f9 tremblent les reflets",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des temples couverts d'or et des riches palais",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec ses quais noircis d'une innombrable foule,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Entre l'azur du ciel et celui de la houle,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au bord de l'oc\u00e9an vit \u00e9merger Tumbez.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Alors, se recordant ses compagnons tomb\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 ses c\u00f4t\u00e9s, ou morts de soif et de famine,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et voyant que le peu qui restait avait mine",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De gens plus dispos\u00e9s \u00e0 se ravitailler",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'\u00e0 reprendre leur course, errer et batailler,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pizarre comprit bien que ce serait d\u00e9mence",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que de s'aventurer dans cet empire immense ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et jugeant sagement qu'en ce dernier effort",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il fallait \u00e0 tout prix qu'il rest\u00e2t le plus fort,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il prit langue parmi ces nations \u00e9tranges,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rassembla beaucoup d'or par dons et par \u00e9changes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, gagnant Panama sur son vieux brigantin",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plein des fruits de la terre et lourd de son butin,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il mouilla dans le port apr\u00e8s trois ans de courses.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u00e0, se trouvant \u00e0 bout d'hommes et de ressources,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Bien que fort malhabile aux mani\u00e8res des cours,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il r\u00e9solut d'user d'un supr\u00eame recours",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avant que de tenter sa derni\u00e8re campagne,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de Nombre de Dios s'embarqua pour l'Espagne.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Or, lorsqu'il toucha terre au port de San-Lucar,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il retrouva l'Espagne en all\u00e9gresse, car",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'Imp\u00e9ratrice-Reine, en un jour tr\u00e8s prosp\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comblant les v\u0153ux du prince et les d\u00e9sirs du p\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avait heureusement mis au monde l'Infant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Don Philippe \u2014 que Dieu conserve triomphant !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et l'Empereur joyeux le f\u00eatait dans Tol\u00e8de.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u00e0, Pizarre, accouru pour implorer son aide,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Conta ses longs travaux et, ployant le genou,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lui fit en bon sujet hommage du P\u00e9rou.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puis ayant pr\u00e9sent\u00e9, non sans quelque vergogne",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'offrir si peu, de l'or, des laines de vigogne",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et deux lamas vivants avec un alpaca,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il exposa ses droits. Don Carlos remarqua",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ces moutons singuliers et de nouvelle esp\u00e8ce",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dont la taille \u00e9tait haute et la toison \u00e9paisse ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M\u00eame, il daigna peser entre ses doigts royaux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fort gracieusement, la lourdeur des joyaux ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais quand il dut traiter l'objet de la demande,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il r\u00e9pondit avec sa rudesse flamande :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'il trouvait, \u00e0 son gr\u00e9, que le vaillant Marquis",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Don Hernando Cort\u00e8s avait assez conquis",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En subjuguant le vaste empire des Azt\u00e8ques ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que lui-m\u00eame ainsi que les saints Archev\u00eaques",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le Conseil \u00e9taient fermement r\u00e9solus",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 ne rien entreprendre et ne prot\u00e9ger plus,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans ses possessions des mers occidentales,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ceux qui s'ent\u00eateraient \u00e0 ces courses fatales",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 s'ab\u00eema jadis Diego de Nicuessa.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais, \u00e0 ce dernier mot, Pizarre se dressa",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et lui dit : Que c'\u00e9tait chose qui scandalise",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que d'ainsi rejeter du giron de l'\u00c9glise,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour quelques onces d'or, autant d'infortun\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, dans l'idol\u00e2trie et l'ignorance n\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne demandaient, vou\u00e9s au c\u00e9leste anath\u00e8me,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'\u00e0 laver leurs p\u00e9ch\u00e9s dans l'eau du saint bapt\u00eame.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ensuite il lui peignit en termes \u00e9loquents",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La Cordill\u00e8re \u00e9norme avec ses vieux volcans",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'o\u00f9 le feu souverain, qui fait trembler la terre",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et fondre le m\u00e9tal au creuset du crat\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pr\u00e9cipite le flux br\u00fblant des laves d'or",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que garde l'oiseau Rock qu'ils ont nomm\u00e9 condor.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il lui dit la nature enrichissant la fable ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'innombrables torrents qui roulent dans leur sable",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des pierres d'\u00e9meraude en guise de galets ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La chicha fermentant aux celliers des palais",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans des vases d'or pur pareils aux vastes jarres",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 l'on conserve l'huile au fond des Alpujarres ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les temples du Soleil couvrant tout le pays,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rev\u00eatus d'or, bord\u00e9s de leurs champs de ma\u00efs",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont les \u00e9pis sont d'or aussi bien que la tige",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que broutent, miracle \u00e0 donner le vertige",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et fait pour rendre m\u00eame un Empereur pensif,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des moutons d'or avec leurs bergers d'or massif.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce discours \u00e9tonna Don Carlos, et l'Altesse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Daignant enfin peser avec la petitesse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des secours implor\u00e9s l'honneur du r\u00e9sultat,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voulut que sans tarder Don Fran\u00e7ois r\u00e9p\u00e9t\u00e2t,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par-devant Nosseigneurs du Grand Conseil, ses offres",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De dilater l'\u00c9glise et de remplir les coffres.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Apr\u00e8s quoi, lui passant l'habit de chevalier",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De Saint-Jacque, il lui mit au cou son bon collier.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et Pizarre jura sur les saintes reliques",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'il resterait fid\u00e8le aux rois Tr\u00e8s-Catholiques,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qu'il demeurerait le plus ferme soutien",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'\u00c9glise Romaine et du beau nom chr\u00e9tien.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puis l'Empereur dicta les augustes c\u00e9dules",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui faisaient assavoir, m\u00eame aux plus incr\u00e9dules,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que, sauf les droits anciens des hoirs de l'Amiral,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Don Fran\u00e7ois Pizarro, lieutenant g\u00e9n\u00e9ral",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De Son Altesse, \u00e9tait sans conteste et sans terme",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Seigneur de tous pays, \u00eeles et terre ferme,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'il avait d\u00e9couverts ou qu'il d\u00e9couvrirait.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La minute \u00e9tant lue et quand l'acte fut pr\u00eat",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 recevoir les seings au bas des protocoles,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pizarre, ayant jadis peu hant\u00e9 les \u00e9coles,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car en Estremadure il gardait les pourceaux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur le v\u00e9lin royal d'o\u00f9 pendaient les grands sceaux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fit sa croix, d\u00e9clarant ne savoir pas \u00e9crire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais d'un ton si hautain que nul ne put en rire.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Enfin, sur un carreau brod\u00e9, le b\u00e2ton d'or",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui distingue l'Alcade et l'Alguazil Mayor",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Lui fut remis par Juan de Fonseca. La chose",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ainsi d\u00fbment r\u00e9gl\u00e9e et sa patente close,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'Adelantade, avant de reprendre la mer,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et bien qu'il n'en gard\u00e2t qu'un souvenir amer,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Visita ses parents dans Truxillo, leur ville,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Puis, joyeux, s'embarqua du havre de S\u00e9ville",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec les trois vaisseaux qu'il avait nolis\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il reconnut Gom\u00e8re, et les vents aliz\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gonflant d'un souffle frais leur voilure plus ronde,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Entra\u00een\u00e8rent ses nefs sur la route du monde",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui fit l'Espagne grande et Colomb immortel.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Or donc, un mois plus tard, au pied du ma\u00eetre-autel",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans Panama, le jour du noble \u00c9vang\u00e9liste",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Saint Jean, fray Juan Vargas lut au pr\u00f4ne la liste",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De tous ceux qui montaient la nouvelle Armada",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous Don Fran\u00e7ois Pizarre, et les recommanda.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puis, les deux chefs ayant entre eux rompu l'hostie,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Voici de quelle sorte on fit la d\u00e9partie.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Lorsque l'Adelantade eut de tous pris cong\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce jour m\u00eame, apr\u00e8s v\u00eapre, en t\u00eate du clerg\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'\u00c9v\u00eaque ayant b\u00e9ni l'arm\u00e9e avec la flotte,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Don Bartolom\u00e9 Ruiz, comme royal pilote,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En pompeux apparat, tout v\u00eatu de brocart,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le porte-voix au poing, montant au banc de quart,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Commanda de rentrer l'ancre en la capitane",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de mettre la barre au vent de tramontane.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Alors, parmi les pleurs, les cris et les adieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les soldats inquiets et les marins joyeux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Debout sur les haubans ou mont\u00e9s sur les vergues",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'o\u00f9 flottait un pavois de drapeaux et d'exergues,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand le coup de canon de partance roula,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Entonn\u00e8rent en ch\u0153ur l'Ave maris stella ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et les vaisseaux, penchant leurs m\u00e2ts aux mille flammes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Plong\u00e8rent \u00e0 la fois dans l'\u00e9cume des lames.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La mer \u00e9tant fort belle et le nord des plus frais,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur voyage fut prompt, et sans souffrir d'arr\u00eats",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ou pour cause d'aiguade ou pour raison d'escale,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Courant all\u00e8grement par la mer tropicale,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pizarre saluait avec un m\u00e2le orgueil,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme d'anciens amis, chaque anse et chaque \u00e9cueil.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bient\u00f4t il vit, vainqueur des courants et des calmes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Monter \u00e0 l'horizon les verts bouquets de palmes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui signalent de loin le golfe, et d\u00e9barquant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux portes de Tumbez il vint planter son camp.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u00e0, s'abouchant avec les Caciques des villes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il apprit que l'horreur des discordes civiles",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avait ensanglant\u00e9 l'Empire du Soleil ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que l'orgueilleux b\u00e2tard Atahuallpa, pareil",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 la foudre, rasant villes et territoires,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avait conquis, apr\u00e8s de rapides victoires,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cuzco, nombril du monde, o\u00f9 les Rois, ses a\u00efeux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dieux eux-m\u00eames, si\u00e9geaient parmi les anciens Dieux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qu'il avait courb\u00e9 sous le joug de l'\u00e9p\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La terre de Manco sur son fr\u00e8re usurp\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Aussit\u00f4t, s'\u00e9loignant de la c\u00f4te \u00e0 grands pas,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 travers le d\u00e9sert sablonneux des pampas,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout joyeux de mener au but ses vieilles bandes,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pizarre commen\u00e7a d'escalader les Andes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De plateaux en plateaux, de talus en talus,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'aube au soir allant jusqu'\u00e0 n'en pouvoir plus,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils montaient, assaillis de fun\u00e8bres pr\u00e9sages.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rien n'animait l'ennui des mornes paysages.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Seul, parfois, ils voyaient miroiter au lointain",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans sa vasque de pierre un lac couleur d'\u00e9tain.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous un ciel tour \u00e0 tour glacial et torride,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Harass\u00e9s et tirant leurs chevaux par la bride,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils plongeaient aux ravins ou grimpaient aux sommets ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La montagne semblait prolonger \u00e0 jamais,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme pour \u00e9puiser leur marche errante et lasse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ses gorges de granit et ses cr\u00eates de glace.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une \u00e9trange terreur planait sur la sierra",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et plus d'un vieux routier dont le c\u0153ur se serra",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour la premi\u00e8re fois y connut l'\u00e9pouvante.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La terre sous leurs pas, convulsive et mouvante,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec un sourd fracas se fendait, et le vent,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au milieu des \u00e9clats de foudre, soulevant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des tourmentes de neige et des trombes de gr\u00eales,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se lamentait avec des voix surnaturelles.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et roidis, aveugl\u00e9s, \u00e9perdus, les soldats,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Cramponn\u00e9s aux rebords \u00e0 pic des quebradas,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sentaient sous leurs pieds lourds fuir le chemin qui glisse.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur leurs fronts la montagne \u00e9tait abrupte et lisse,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et plus bas, ils voyaient, dans leurs lits trop \u00e9troits,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rebondissant le long des bruyantes parois,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux pointes des rochers qu'un rouge \u00e9clair allume,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se briser les torrents en poussi\u00e8re d'\u00e9cume.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le vertige, plus haut, les gagna. Leurs poumons",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Saignaient en aspirant l'air trop subtil des monts,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le froid de la nuit gelait la triste troupe.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tandis que les chevaux, tournant en rond leur croupe,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'un sur l'autre appuy\u00e9s, broutaient un chaume ras,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les soldats, violant les tombeaux Aymaras,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En arrachaient les morts cousus dans leurs suaires",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et faisaient de grands feux avec ces ossuaires.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Pizarre seul n'\u00e9tait pas m\u00eame fatigu\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Apr\u00e8s avoir pass\u00e9 vingt rivi\u00e8res \u00e0 gu\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Travers\u00e9 des pays sans hameaux ni peuplade,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Souffert le froid, la faim, et tent\u00e9 l'escalade",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des monts les plus affreux que l'homme ait mesur\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un regard, d'une voix et d'un geste assur\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au c\u0153ur des moins hardis il soufflait son courage ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car il voyait, terrible et somptueux mirage,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au feu de son d\u00e9sir briller Caxamarca.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Enfin, cinq mois apr\u00e8s le jour qu'il d\u00e9barqua,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les pics de la sierra lui tenant lieu de phare,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il entra, les clairons sonnant tous leur fanfare,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 grand bruit de tambours et la banni\u00e8re au vent,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur les derniers plateaux, et poussant en avant,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sans laisser aux soldats le temps de prendre haleine,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En h\u00e2te, il d\u00e9vala le chemin de la plaine.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Au nombre de cent six marchaient les gens de pied.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'histoire a d\u00e9daign\u00e9 ces braves, mais il sied",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De nommer par leur nom, qu'il soit noble ou vulgaire,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tous ceux qui furent chefs en cette illustre guerre",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de dire la race et le poil des chevaux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne pouvant, au r\u00e9cit de leurs communs travaux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ranger en m\u00eame lieu que des b\u00eates de somme",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ces vaillants serviteurs de tout bon gentilhomme.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici. Soixante et deux cavaliers hidalgos",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chevauchent, par le sang et la bravoure \u00e9gaux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Autour des plis d'azur de la royale enseigne",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 pr\u00e8s du ch\u00e2teau d'or le pal de gueules saigne",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que brandit, suivant le chroniqueur Xerez,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le fougueux Gabriel de Rojas, l'alferez,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont le pourpoint de cuir bord\u00e9 de cannetilles",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est gaufr\u00e9 du royal \u00e9cu des deux Castilles,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et qui porte \u00e0 sa toque en velours d'Aragon",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un saint Michel d'argent terrassant le dragon.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sa main ferme retient ce fameux cheval pie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui s'illustra depuis sous Carbajal l'Impie ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cet andalou de race arabe, et mal dompt\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui m\u00e2che en se cabrant son mors ensanglant\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et de son dur sabot fait jaillir l'\u00e9tincelle,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Peut d\u00e9passer, ayant son cavalier en selle,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le trait le plus vibrant que saurait d\u00e9cocher",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du nerf le mieux tendu le plus vaillant archer.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c0 l'entour de l'enseigne en bon ordre se groupe,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Poudroyant au soleil, tout le gros de la troupe :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est Juan de la Torre ; Cristobal Peralta,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont la devise est fi\u00e8re : Ad summum per alta ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le borgne Domingo de Serra-Luce ; Alonze",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De Molina, tr\u00e8s brun sous son casque de bronze ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et Fran\u00e7ois de Cuellar, gentilhomme andalous,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui chassait les Indiens comme on force des loups ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et Mena qui, parmi les seigneurs de Valence,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9tait en haut renom pour manier la lance.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils s'alignent, r\u00e9glant le pas de leur chevaux",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'apr\u00e8s le train suivi par leurs deux chefs rivaux,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Del Barco qui, fameux chercheur de terres neuves,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec Orellana descendit les grands fleuves,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et Juan de Salcedo qui, fils d'un noble sang,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quoique sans barbe encor, galope au premier rang.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Derri\u00e8re, tout marris de marcher sur leurs pieds,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Viennent les d\u00e9mont\u00e9s et les estropi\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Juan For\u00e8s pique en vain d'un carreau d'arbal\u00e8te",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un vieux rouan fourbu qui bronche et qui hal\u00e8te ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ribera l'accompagne, et laisse \u00e0 l'abandon",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Errer distraitement la bride et le bridon",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au col de son bai-brun qui boite d'un air morne,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'\u00e9tant, faute de fers, us\u00e9 toute la corne.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avec ces pauvres gens marche don P\u00e8dre Alcon,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lequel en son \u00e9cu porte d'or au faucon",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De sable, grillet\u00e9, chaperonn\u00e9 de gueules ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce vieux seigneur jadis avait tourn\u00e9 les meules",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans Grenade, du temps qu'il \u00e9tait prisonnier",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des m\u00e9cr\u00e9ants. Ce fut un bon pertuisanier.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sous cette brave escorte, au trot de leurs deux mules",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fort pacifiquement s'en vont les deux \u00e9mules :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Requelme, le premier, comme bon Contador,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Reste silencieux, car le silence est d'or ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quant au licenci\u00e9 Gil Tellez, le Notaire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il dresse en son esprit le futur inventaire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout pr\u00eat \u00e0 pr\u00e9lever, au taux juste et l\u00e9gal,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La part des Cavaliers apr\u00e8s le Quint Royal.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Or, quelques fourrageurs rest\u00e9s sur les derri\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour rejoindre leurs rangs, malgr\u00e9 les fondri\u00e8res,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 leurs chevaux lanc\u00e9s ayant rendu la main,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et bravant le vertige et br\u00fblant le chemin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Par la montagne \u00e0 pic descendaient ventre \u00e0 terre.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur galop furieux fait un bruit de tonnerre.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les voici : bride aux dents, le sang aux \u00e9perons,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans la foule effar\u00e9e, au milieu des jurons,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Du tumulte, des cris, des appels \u00e0 l'Alcade,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ils d\u00e9bouchent. Le chef de cette cavalcade,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, d'aspect arrogant et v\u00eatu de brocart,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tandis que son cheval fait un terrible \u00e9cart,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Salue Alvar de Paz qui devant lui se range,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En balayant la terre avec sa plume orange,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "N'est autre que Fernan, l'a\u00een\u00e9, le plus hautain",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des Pizarre, suivi de Juan, et de Martin",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'on dit d'Alcantara, leur fr\u00e8re par le ventre.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Briceno qui, depuis, se fit clerc et fut chantre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 Lima, n'\u00e9tant pas tr\u00e8s habile \u00e9cuyer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans cette course folle a perdu l'\u00e9trier,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et, voyant ses amis d\u00e9j\u00e0 loin, se d\u00e9p\u00eache",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et pique sa jument couleur de fleur de p\u00eache,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le brave Antonio galope \u00e0 son c\u00f4t\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il porte avec orgueil sa noble pauvret\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car, s'il a pour tout bien l'\u00e9p\u00e9e et la rondache,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Son cimier h\u00e9raldique est ceint des feuilles d'ache",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui couronnent l'\u00e9cu des ducs de Carrion.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils passent, soulevant un poudreux tourbillon.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c0 leurs cris, un seigneur, de ceux de l'avant-garde,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'arr\u00eate, et, retournant son cheval, les regarde.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il monte un genet blanc dont le capara\u00e7on",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Est rouge, et pour mieux voir se penche sur l'ar\u00e7on.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est le futur vainqueur de Popayan. Sa taille",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Est faite pour v\u00eatir le harnois de bataille.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Beau comme un Galaor et fier comme un C\u00e9sar,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "540 Il marche en t\u00eate, ayant pour nom Benalcazar.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pr\u00e8s d'Oreste voici venir le bon Pylade :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tr\u00e8s basan\u00e9, le chef coiff\u00e9 de la salade",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il r\u00eave, envelopp\u00e9 dans son large manteau ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est le vaillant soldat Hernando de Soto",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui, rude explorateur de la zone torride,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9couvrira plus tard l'\u00e9clatante Floride",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le p\u00e8re des eaux, le vieux Meschac\u00e9b\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Cet autre qui, casqu\u00e9 d'un morion bomb\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Boucle au cuir du jambard la lourde pertuisane",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En flattant de la voix sa jument alezane,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C'est l'aventurier grec Pedro de Candia,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lequel ayant br\u00fbl\u00e9 dix villes, d\u00e9dia,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour expier ces feux, dix lampes \u00e0 la Vierge.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il regarde, au sommet dangereux de la berge,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Caracoler l'ardent Gonzalo Pizarro,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui depuis, \u00e0 Lima, par la main du bourreau,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ainsi que Carbajal, eut la t\u00eate branch\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur le gibet, apr\u00e8s qu'elle eut \u00e9t\u00e9 tranch\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux yeux des Cavaliers qui, s\u00e9duits par son nom,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans Cuzco r\u00e9volt\u00e9 hauss\u00e8rent son pennon.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais lui, bien qu'\u00e0 son roi d\u00e9loyal et rebelle,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9tant bon hidalgo, fit une mort tr\u00e8s belle.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c0 quelques pas, l'\u00e9p\u00e9e et le rosaire au flanc,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Portant sur les longs plis de son v\u00eatement blanc",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un scapulaire noir par-dessus le cilice",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont il meurtrit sa chair et dompte sa malice,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Chevauche saintement l'ennemi des faux dieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le tr\u00e8s savant et tr\u00e8s mis\u00e9ricordieux",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Moine dominicain fray Vincent de Valverde",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui, tremblant qu'\u00e0 jamais leur \u00e2me ne se perde",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et pour l'\u00e9ternit\u00e9 ne br\u00fble dans l'Enfer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Fit p\u00e9rir des milliers de pa\u00efens par le fer",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les auto-da-f\u00e9s et la hache et la corde,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Confiant que J\u00e9sus, en sa mis\u00e9ricorde,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Doux r\u00e9mun\u00e9rateur de son pieux dessein,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Recevrait ces martyrs ignorants dans son sein.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Enfin, les pr\u00e9c\u00e9dant de dix longueurs de vare,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le premier de tous, marche Fran\u00e7ois Pizarre.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sa cape, dont le vent a d\u00e9rang\u00e9 les plis,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Laisse entrevoir la cotte et les brassards polis ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car, seul parmi ces gens, pourtant de forte race,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui tous avaient quitt\u00e9 l'acier pour la cuirasse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De coton, il gardait, sous l'ardeur du Cancer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sans en para\u00eetre las, son v\u00eatement de fer.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Son barbe cordouan, r\u00e9tif, faisait des voltes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et hennissait ; et lui, ch\u00e2tiant ces r\u00e9voltes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Laissait parfois sonner contre ses flancs trop prompts",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les molettes d'argent de ses lourds \u00e9perons,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais sans plus s'\u00e9mouvoir qu'un cavalier de pierre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Immobile, et dardant de sa sombre paupi\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'insoutenable \u00e9clat de ses yeux de gerfaut.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Son c\u0153ur aussi portait l'armure sans d\u00e9faut",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui sied aux conqu\u00e9rants, et, simple capitaine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il caressait d\u00e9j\u00e0 dans son \u00e2me hautaine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'espoir vertigineux de faire, t\u00f4t ou tard,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un manteau d'Empereur des langes du b\u00e2tard.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ainsi pr\u00e9cipitant leur rapide descente",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par cette route \u00e9troite, encaiss\u00e9e et glissante,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Depuis longtemps, suivant leur chef, et, sans broncher,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Faisant rouler sous eux le sable et le rocher,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les hardis cavaliers couraient dans les t\u00e9n\u00e8bres",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des d\u00e9fil\u00e9s en pente et des gorges fun\u00e8bres",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'\u00e9clairait par en haut un jour terne et douteux ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Lorsque, subitement, s'effondrant devant eux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La montagne s'ouvrit sur le ciel comme une arche",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gigantesque, et, surpris au milieu de leur marche",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et comme s'ils sortaient d'une noire prison,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans leurs yeux aveugl\u00e9s l'espace, l'horizon,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'immensit\u00e9 du vide et la grandeur du gouffre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Se m\u00eal\u00e8rent, ab\u00eeme \u00e9blouissant. Le soufre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'eau bouillante, la lave et les feux souterrains,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Soulevant son \u00e9chine et crevassant ses reins,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avaient ouvert, apr\u00e8s des si\u00e8cles de bataille,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au flanc du mont obscur cette splendide entaille.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et, la terre manquant sous eux, les Conqu\u00e9rants",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur la corniche \u00e9troite ayant serr\u00e9 leurs rangs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chevaux et cavaliers brusquement firent halte.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les Andes \u00e9tageaient leurs gradins de basalte,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De porphyre, de gr\u00e8s, d'ardoise et de granit,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Jusqu'\u00e0 l'ultime assise o\u00f9 le roc qui finit",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sous le linceul neigeux n'appara\u00eet que par place.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Plus haut, l'\u00e2pre for\u00eat des aiguilles de glace",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fait vibrer le ciel bleu par son scintillement ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "On dirait d'un terrible et clair fourmillement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De guerriers cuirass\u00e9s d'argent, v\u00eatus d'hermine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui campent aux confins du monde, et que domine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De loin en loin, colosse incandescent et noir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un volcan qui, dress\u00e9 dans la splendeur du soir,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Hausse, porte-\u00e9tendard de l'hivernal cort\u00e8ge,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sa banni\u00e8re de feu sur un peuple de neige.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais tous fixaient leurs yeux sur les premiers gradins",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9, pr\u00e8s des cours d'eau chaude, au milieu des jardins,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils avaient vu, dans l'or du couchant \u00e9clatantes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Blanchir \u00e0 l'infini les innombrables tentes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De l'Inca, dont le vent enflait les pavillons ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de la solfatare en de tels tourbillons",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Montaient confus\u00e9ment d'\u00e9paisses fumerolles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que dans cette vapeur, couverts de banderoles,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La plaine, les coteaux et le premier versant",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De la montagne avaient un aspect tr\u00e8s puissant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et tous les Conqu\u00e9rants, dans un morne silence,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur le col des chevaux laissant pendre la lance,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ayant consid\u00e9r\u00e9 m\u00e9lancoliquement",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et le peu qu'ils \u00e9taient et ce grand armement,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "P\u00e2lirent. Mais Pizarre, arrachant la banni\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des mains de Gabriel Rojas, d'une voix fi\u00e8re :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 Pour Don Carlos, mon ma\u00eetre, et dans son Nom Royal,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Moi, Fran\u00e7ois Pizarro, son serviteur loyal,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "En la forme requise et par-devant Notaire,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je prends possession de toute cette terre ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et je pr\u00e9tends de plus que si quelque rival",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Osait y contredire, \u00e0 pied comme \u00e0 cheval,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je maintiendrai mon droit et laverai l'injure ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et par mon saint patron, Don Fran\u00e7ois, je le jure ! \u2014",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et ce disant, d'un bras furieux, dans le sol",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui fr\u00e9mit, il planta l'\u00e9tendard espagnol",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dont le vent des hauteurs qui soufflait par rafales",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tordit superbement les franges triomphales.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Cependant les soldats restaient silencieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9blouis par la pompe imposante des cieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Car derri\u00e8re eux, vers l'ouest, o\u00f9 sans fin se d\u00e9roule",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur des sables lointains la Pacifique houle,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En une brume d'or et de pourpre, linceul",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rougi du sang d'un Dieu, sombrait l'antique A\u00efeul",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De Celui qui r\u00e9gnait sur ces tentes sans nombre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En face, la sierra se dressait haute et sombre.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais quand l'astre royal dans les flots se noya,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D'un seul coup, la montagne enti\u00e8re flamboya",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De la base au sommet, et les ombres des Andes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gagnant Caxamarca, s'allong\u00e8rent plus grandes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et tandis que la nuit, rasant d'abord le sol,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De gradins en gradins haussait son large vol,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La mourante clart\u00e9, fuyant de cime en cime,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fit resplendir enfin la cr\u00eate plus sublime ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais l'ombre couvrit tout de son aile. Et voil\u00e0",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que le dernier sommet des pics \u00e9tincela,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Puis s'\u00e9teignit. Alors, formidable, enflamm\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un haut pressentiment, tout enti\u00e8re, l'arm\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Brandissant ses drapeaux sur l'occident vermeil,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Salua d'un grand cri la chute du Soleil.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]

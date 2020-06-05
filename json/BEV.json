@@ -1,0 +1,1525 @@
+[
+    {
+        "code": "BEV_1/BEV1",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Les \u00c9nerv\u00e9s de Jumi\u00e8ges",
+        "profile": "5",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV1_7",
+        "text": [
+            [
+                {
+                    "verse": "L'Horizon s'emplit",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De lueurs flambantes,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux lignes tombantes",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme un Ciel de Lit.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "L'Horizon s'envole,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rose, Orange et Vert,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme un c\u0153ur ouvert",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qu'un relent d\u00e9sole.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Autour du bateau",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un remous clapote ;",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La brise tapote",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Son petit manteau,",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et, lente, tr\u00e8s lente",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En sa p\u00e2moison,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La fr\u00eale prison",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Va sur l'eau dolente.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "O Doux \u00e9nerv\u00e9s,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que je vous envie",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le soup\u00e7on de vie",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que vous conservez !",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pas de clameur vaine,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pas un mouvement !",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un susurrement",
+                    "metre": "5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Vous avez le flou",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des choses fan\u00e9es,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c2mes tr\u00e8s vann\u00e9es,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Allant Dieu sait o\u00f9 !",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme sur la gr\u00e8ve,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le vent des remords,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Passe, en vos yeux morts,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une fleur de r\u00eave !",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et, toujours hant\u00e9",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D'un ancien Corr\u00e8ge,",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je dis : Quand aurai-je",
+                    "metre": "5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Votre exquisit\u00e9 ?",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV2",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Platonisme",
+        "profile": "5\u22125",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV2_7",
+        "text": [
+            [
+                {
+                    "verse": "La chair de la Femme, argile extatique,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nos doigts polluants la vont-ils toucher ?",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Non, non, le D\u00e9sir n'ose effaroucher",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La chair de la Femme est comme un Cantique",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui s'enroule autour d'un divin clocher,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "C'est comme un bouton de fleur de p\u00eacher",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9clos au Jardin de la nuit Mystique.",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Combien je vous plains, m\u00e2les \u00e9paissis,",
+                    "metre": "5+5",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Rong\u00e9s d'H\u00e9b\u00e9tude et bleus de soucis,",
+                    "metre": "5+5",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Dont l'\u00e2me se vautre en de viles proses !",
+                    "metre": "5+5",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "O sommeil de la Belle au Bois Dormant,",
+                    "metre": "5\u22125",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Je veux t'adorer dans la Paix des roses,",
+                    "metre": "5+5",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Mon angelot d'or, ang\u00e9liquement.",
+                    "metre": "5+5",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV3",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Pour \u00eatre conspu\u00e9",
+        "profile": "3+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV3_7",
+        "text": [
+            [
+                {
+                    "verse": "Devin\u00e9s au coin des brocatelles,",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'ai per\u00e7u tes contours subtils, presque ;",
+                    "metre": "3+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je songeais alors \u00e0 quelque fresque,",
+                    "metre": "3+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Remembr\u00e9e avec des blancheurs d'ailes !",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C'est pourtant le Tourment d'un asc\u00e8te.",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pourquoi pas ? Je le sais, moi, nul autre,",
+                    "metre": "3+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 L'Oiseau bleu dans le Chr\u00eame se vautre. \u2014",
+                    "metre": "3+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Qui comprend, je le tiens pour mazette !",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV4",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Suavitas",
+        "profile": "5+5",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV4_7",
+        "text": [
+            [
+                {
+                    "verse": "L'Adorable espoir de la Renoncule",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A nimb\u00e9 mon c\u0153ur d'une Hermine d'or.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Pour le Rossignol qui sommeille encor,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La candeur du Lys est un cr\u00e9puscule.",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Feuilles d'ambre gris et jaune ! chemins",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'enlace une valse \u00e0 peine entendue,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Horizons teint\u00e9s de cire fondue,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "N'odorez-vous pas la ti\u00e9deur des mains ?",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "O Pleurs de la Nuit ! \u00c9toiles moroses !",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Votre aile mystique effleure nos fronts,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La vie agonise et nous expirons,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Dans la mort suave et p\u00e2le des Roses !",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV5",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Avant d'entrer",
+        "profile": "7",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV5_7",
+        "text": [
+            [
+                {
+                    "verse": "Je sens un go\u00fbt de sirop",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au Paradis de ta bouche,",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La t\u00eate branle et l'\u0153il louche,",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Huit et cinq, total z\u00e9ro.",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Qu'elle est moite en son fourreau",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L'\u00e2me tendre qui se couche,",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Libellule qu'effarouche",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La grosseur du num\u00e9ro !",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et nous allons sans rien faire,",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Apr\u00e8s tout la grande affaire,",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Sirius te la dira,",
+                    "metre": "7",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Et ma chanson rose et grise,",
+                    "metre": "7",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "De ton petit Op\u00e9ra",
+                    "metre": "7",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Frise et d\u00e9frise la frise.",
+                    "metre": "7",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV6",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Idylle symbolique",
+        "profile": "8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV6_7",
+        "text": [
+            [
+                {
+                    "verse": "Amoureuses Hypnotis\u00e9es",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par l'Indolence des Espoirs,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c9ph\u00e8bes doux, aux reflets noirs,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Avec des impudeurs ros\u00e9es,",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Par le murmure d'un Ave,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Disparus ! O miracle \u00c9trange !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le d\u00e9mon suppl\u00e9\u00e9 par l'Ange,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le vil Hyperbole sauv\u00e9 !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ils parlent, avec des nuances,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme, au c\u0153ur vert des boulingrins,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les Bengalis et les serins,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ceux qui portent des cr\u00e9ances.",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais ils disent le mot : Chouchou,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 N\u00e9 pour du papier de Hollande, \u2014",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et les voil\u00e0 seuls, dans la lande,",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sous le trop petit caoutchouc !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV7",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Symphonie en vert mineur",
+        "profile": "4, 6=6, 7, 8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV7_7",
+        "text": [
+            [
+                {
+                    "verse": "L'alme fragilit\u00e9 des nonchaloirs impies",
+                    "metre": "6+6",
+                    "rhyme": "0"
+                },
+                {
+                    "verse": "A refl\u00e9t\u00e9 les souvenirs glauques d'\u00c9ros ;",
+                    "metre": "4+4+4",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "La ligne a trop de feu des marbres de Paros,",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                },
+                {
+                    "verse": "Trop d'ombre l'axe des sorci\u00e8res accroupies.",
+                    "metre": "6\u22126",
+                    "rhyme": "0"
+                }
+            ],
+            [
+                {
+                    "verse": "Le symbole est venu. Tr\u00e8s hilares, d'abord,",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Ont \u00e9t\u00e9 les clameurs des brises d\u00e9mod\u00e9es.",
+                    "metre": "6+6",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Tristes, aussi, leurs attitudes, tant rid\u00e9es",
+                    "metre": "4+4+4",
+                    "rhyme": "3"
+                },
+                {
+                    "verse": "Par la volont\u00e9 rude et l'incessant effort.",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous avons revis\u00e9 pourtant : l'azur est rose ;",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                },
+                {
+                    "verse": "Depuis qu'il n'est plus bleu, nous voulons qu'il soit vert.",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Je fermerai le Tabernacle, encor ouvert,",
+                    "metre": "4+4+4",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "En modulant l'Ennui de mon \u00e2me morose.",
+                    "metre": "6+6",
+                    "rhyme": "5"
+                }
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "code": "BEV_1/BEV8",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Madrigal",
+        "profile": "7",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV8_7",
+        "text": [
+            [
+                {
+                    "verse": "Mon c\u0153ur tarabiscot\u00e9",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "A pris un point de c\u00f4t\u00e9.",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Tes effluves le font battre",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme trois. Que dis-je ? Quatre.",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ce n'est point un c\u0153ur de rien,",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un noctambule vaurien,",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Il ne fait de politesses",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'aux baronnes, aux comtesses.",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Et, ce bel entretenu,",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Regarde, il est devenu,",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Gr\u00e2ce au sucre o\u00f9 tu t'enlises,",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Confiture de Merises.",
+                    "metre": "7",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV9",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Rythme claudigant",
+        "profile": "7, 5, 8",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV9_7",
+        "text": [
+            [
+                {
+                    "verse": "Je me suis gris\u00e9 d'ang\u00e9lique,",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            [],
+            [
+                {
+                    "verse": "L'onctueuse b\u00e9n\u00e9dictine,",
+                    "metre": "8",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En mon \u00e2me chante matine !",
+                    "metre": "8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je me ferai b\u00e9n\u00e9dictin !",
+                    "metre": "8",
+                    "rhyme": "a"
+                }
+            ],
+            []
+        ]
+    },
+    {
+        "code": "BEV_1/BEV10",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Pour avoir p\u00e9ch\u00e9",
+        "profile": "6=6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV10_7",
+        "text": [
+            [
+                {
+                    "verse": "Mon c\u0153ur est un Corylopsis du Japon, rose",
+                    "metre": "8+4",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et paillet\u00e9 d'or fauve, \u2014 \u00e0 l'instar des serpents.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sa ranc\u0153ur d\u00e9tergeant un relent de Chlorose,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fait, dans l'\u00c9ther baveux, bramer les \u00c6gypans.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mon \u00e2me Vesp\u00e9rale erre et tintinnabule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par del\u00e0 le cuivr\u00e9 des grands envo\u00fbtements ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme un crotale, pris aux lacs du Vestibule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ses ululements fous poignent les N\u00e9cromans.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Les Encres, les Carmins, fl\u00e8ches, vrillent la cible,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu'importe si je suis le Damn\u00e9 qui jouit ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car un P\u00e9tunia me fait immarcessible.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV11",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Sonnet libertin",
+        "profile": "6=6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV11_7",
+        "text": [
+            [
+                {
+                    "verse": "Quand nous aurons, avec de bleus recueillements,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pleur\u00e9 de ce qui chante et ri de ce qui souffre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand, du pied repouss\u00e9s, rouleront dans le Gouffre,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Irrit\u00e9s et pervers, les Troubles incl\u00e9ments ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Que faire ? On doit laisser aux stupides amants",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Les Balancements clairs et les Effervescences ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Nous languirons emmi les idoines essences,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "\u00c9voquant la Roseur des futurs errements.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Je mettrai dans l'or de tes prunelles bl\u00e9mies",
+                    "metre": "6\u22126",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "L'Inassouvissement des philtres de Cypris.",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "\u2014 Les roses de ton sein, qu'elles vont m'\u00eatre amies !",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ],
+            [
+                {
+                    "verse": "Et comme au temps o\u00f9 triomphait le grand Vestris,",
+                    "metre": "4+4+4",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "Tr\u00e8s dolents, nous ferons d'exquises infamies,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "\u2014 Avec l'assentiment de ton Callybistris. \u2014",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV12",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Cantique avant de se coucher",
+        "profile": "6\u22126",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV12_7",
+        "text": [
+            [
+                {
+                    "verse": "La Vie atroce a pris mon c\u0153ur dans son \u00e9tau,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La Vie aigre sonne un tocsin dans mon oreille,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La Vie inf\u00e2me a mis ses poux dans mon manteau.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je suis comme un raisin pl\u00e2tr\u00e9 sous une treille,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme un quine \u00e9gar\u00e9 par l'affre du Loto.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Comme un Pape tr\u00e8s blanc et tr\u00e8s doux qui sommeille.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u00e9sesp\u00e9rance morne au seuil du Lys Hymen !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u2014 Nimb\u00e9 d'Encens impur j'agonise et je fume. \u2014",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O l'Induration lente du Cyclamen !",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O les Morsures dans l'Alc\u00f4ve qui s'allume !",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV13",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Remords",
+        "profile": "5\u22125",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV13_7",
+        "text": [
+            [
+                {
+                    "verse": "L'\u00c9glise spectrale \u00e9tait en Gala.",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans un froufrou, les femmes passaient vite.",
+                    "metre": "5\u22125",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Blanc sur blanc, en son \u00e9troite l\u00e9vite,",
+                    "metre": "5\u22125",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L'enfant de ch\u0153ur, doux, tintinnabula,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c9tait-ce une vache avec ses sonnailles ?",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand le Cur\u00e9 noir en vint \u00e0 chanter,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mes remords se sont mis \u00e0 gigoter.",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Oh ! oh ! oh ! remords ! Que tu me tenailles !!!",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C'est vrai pourtant, je suis un m\u00e9cr\u00e9ant,",
+                    "metre": "5\u22125",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J'ai fait bien souvent des cochonneries,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais, \u00f4 Reine des \u00c9toiles fleuries,",
+                    "metre": "5\u22125",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chaste lys ! prends en piti\u00e9 mon N\u00e9ant !",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Si tous les huit jours je te paie un Cierge,",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ne pourrais-je donc \u00eatre pardonn\u00e9 ?",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je suis un pa\u00efen, je suis un Damn\u00e9,",
+                    "metre": "5+5",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais je t'aime tant, Canaille de Vierge !",
+                    "metre": "5+5",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV14",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "Bal d\u00e9cadent",
+        "profile": "5",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV14_7",
+        "text": [
+            [
+                {
+                    "verse": "C'\u00e9tait une danse",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la d\u00e9cadence.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme un menuet",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dolemment fluet.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "C'\u00e9tait des chloroses",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et c'\u00e9tait des roses.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "On ne sautait pas,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "On allait au pas.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais les girandoles",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9taient presque folles.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Les lustres flambaient",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et les seins tombaient.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Dans ce flux de monde,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je vis une blonde,",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Aux yeux culott\u00e9s",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Par les volupt\u00e9s,",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "En ses airs de morte,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Une vraie Eau-forte.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ange mal b\u00e2ti,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Gamin perverti,",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Lune bl\u00eamissante",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et concupiscente,",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Fleur d'opoponax,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Souvenir d'Anthrax,",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Blafarde et vermeille.",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tr\u00e8s jeune et tr\u00e8s vieille,",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle souriait,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et m'extasiait :",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00abArticle Paris,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ta poudre de riz",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "D'une \u00e9teinte flamme",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "M'aur\u00e9ole l'\u00e2me.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Si tes yeux sont verts,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mon c\u0153ur est pervers.",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ta d\u00e9sesp\u00e9rance,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Oh ! quelle attirance !",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Laisse-moi t'aimer,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "et me consumer !\u00bb",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Je dis et m'\u00e9lance.",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais, motus, silence !",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Faut pas s'emballer\u2026",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici s'en aller",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Toute mon essence,",
+                    "metre": "5",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En d\u00e9liquescence !!",
+                    "metre": "5",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BEV_1/BEV15",
+        "author": "Henri Beauclair",
+        "work": "LES D\u00c9LIQUESCENCES",
+        "date": "1885",
+        "title": "D\u00e9cadents",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=BEV_1&code_text=BEV15_7",
+        "text": [
+            [
+                {
+                    "verse": "Nos p\u00e8res \u00e9taient forts, et leurs r\u00eaves ardents",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S'envolaient d'un coup d'aile au pays de Lumi\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous dont la fleur dolente est la Rose Tr\u00e9mi\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous n'avons plus de c\u0153ur, nous n'avons plus de dents !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pauvres pantins avec un peu de son dedans,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Nous regardons, sans voir, la ferme et la fermi\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous ren\u00e2clons devant la t\u00e2che coutumi\u00e8re,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Charlots trop amus\u00e9s, ultimes D\u00e9cadents.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais, \u00f4 Mort du D\u00e9sir ! Inapp\u00e9tence exquise !",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Nous gardons le fumet d'une antique Marquise",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Dont un Vase de Nuit parfume les Dessous !",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00catre G\u00e2teux, c'est toute une philosophie,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Nos nerfs et notre sang ne valent pas deux sous,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Notre cervelle, au vent d'\u00c9t\u00e9, se liqu\u00e9fie !",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    }
+]

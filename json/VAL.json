@@ -1,0 +1,3321 @@
+[
+    {
+        "code": "VAL_1/VAL1",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "La Fileuse",
+        "profile": "6=6",
+        "structure": "terza rima classique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL1_7",
+        "text": [
+            [
+                {
+                    "verse": "Assise, la fileuse au bleu de la crois\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 le jardin m\u00e9lodieux se dodeline ;",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le rouet ancien qui ronfle l\u2019a gris\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Lasse, ayant bu l\u2019azur, de filer la c\u00e2line",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chevelure, \u00e0 ses doigts si faibles \u00e9vasives,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Elle songe, et sa t\u00eate petite s\u2019incline.",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Un arbuste et l\u2019air pur font une source vive",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui, suspendue au jour, d\u00e9licieuse arrose",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De ses pertes de fleurs le jardin de l\u2019oisive.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Une tige, o\u00f9 le vent vagabond se repose,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Courbe le salut vain de sa gr\u00e2ce \u00e9toil\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u00e9diant magnifique, au vieux rouet, sa rose.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais la dormeuse file une laine isol\u00e9e ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Myst\u00e9rieusement l\u2019ombre fr\u00eale se tresse",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Au fil de ses doigts longs et qui dorment, fil\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Le songe se d\u00e9vide avec une paresse",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ang\u00e9lique, et sans cesse, au doux fuseau cr\u00e9dule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La chevelure ondule au gr\u00e9 de la caresse\u2026",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Derri\u00e8re tant de fleurs, l\u2019azur se dissimule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fileuse de feuillage et de lumi\u00e8re ceinte :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tout le ciel vert se meurt. Le dernier arbre br\u00fble.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Ta s\u0153ur, la grande rose o\u00f9 sourit une sainte,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Parfume ton front vague au vent de son haleine",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Innocente, et tu crois languir\u2026 Tu es \u00e9teinte",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Au bleu de la crois\u00e9e o\u00f9 tu filais la laine.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL2",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "H\u00e9l\u00e8ne",
+        "profile": "6=6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL2_7",
+        "text": [
+            [
+                {
+                    "verse": "Azur ! c\u2019est moi\u2026 Je viens des grottes de la mort",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Entendre l\u2019onde se rompre aux degr\u00e9s sonores,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et je revois les gal\u00e8res dans les aurores",
+                    "metre": "4+8",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ressusciter de l\u2019ombre au fil des rames d\u2019or.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mes solitaires mains appellent les monarques",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Dont la barbe de sel amusait mes doigts purs ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Je pleurais. Ils chantaient leurs triomphes obscurs",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Et les golfes enfuis aux poupes de leurs barques.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019entends les conques profondes et les clairons",
+                    "metre": "4+8",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Militaires rythmer le vol des avirons ;",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Le chant clair des rameurs encha\u00eenes le tumulte,",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                }
+            ],
+            [
+                {
+                    "verse": "Et les Dieux, \u00e0 la proue h\u00e9ro\u00efque exalt\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "Dans leur sourire antique et que l\u00b4\u00e9cume insulte,",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "Tendent vers moi leurs bras indulgents et sculpt\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL3",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Orph\u00e9e",
+        "profile": "6=6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL3_7",
+        "text": [
+            [
+                {
+                    "verse": "\u2026 Je compose en esprit, sous les myrtes, Orph\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019Admirable !\u2026 le feu, des cirques purs descend ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il change le mont chauve en auguste troph\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019o\u00f9 s\u2019exhale d\u2019un dieu l\u2019acte retentissant.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Si le dieu chante, il rompt le site tout-puissant ;",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Le soleil voit l\u2019horreur du mouvement des pierres ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Une plainte inou\u00efe appelle \u00e9blouissants",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Les hauts murs d\u2019or harmonieux d\u2019un sanctuaire.",
+                    "metre": "4+4+4",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Il chante, assis au bord du ciel splendide, Orph\u00e9e !",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Le roc marche, et tr\u00e9buche ; et chaque pierre f\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Se sent un poids nouveau qui vers l\u2019azur d\u00e9lire !",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u2019un Temple \u00e0 demi nu le soir baigne l\u2019essor,",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "Et soi-m\u00eame il s\u2019assemble et s\u2019ordonne dans l\u2019or",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "\u00c0 l\u2019\u00e2me immense du grand hymne sur la lyre !",
+                    "metre": "6\u22126",
+                    "rhyme": "f"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL4",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Naissance de V\u00e9nus",
+        "profile": "6=6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL4_7",
+        "text": [
+            [
+                {
+                    "verse": "De sa profonde m\u00e8re, encor froide et fumante,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici qu\u2019au seuil battu de temp\u00eates, la chair",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Am\u00e8rement vomie au soleil par la mer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Se d\u00e9livre des diamants de la tourmente.",
+                    "metre": "8+4",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Son sourire se forme, et suit sur ses bras blancs",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qu\u2019\u00e9plore l\u2019orient d\u2019une \u00e9paule meurtrie,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "De l\u2019humide Th\u00e9tis la pure pierrerie,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Et sa tresse se fraye un frisson sur ses flancs.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Le frais gravier, qu\u2019arrose et fuit sa course agile,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Croule, creuse rumeur de soif, et le facile",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Sable a bu les baisers de ses bonds pu\u00e9rils ;",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais de mille regards ou perfides ou vagues,",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "Son \u0153il mobile m\u00eale aux \u00e9clairs de p\u00e9rils",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "L\u2019eau riante, et la danse infid\u00e8le des vagues.",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL5",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "F\u00e9erie",
+        "profile": "6\u22126",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL5_7",
+        "text": [
+            [
+                {
+                    "verse": "La lune mince verse une lueur sacr\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toute une jupe d\u2019un tissu d\u2019argent l\u00e9ger,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur les bases de marbre o\u00f9 vient l\u2019Ombre songer",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que suit d\u2019un char de perle une gaze nacr\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour les cygnes soyeux qui fr\u00f4lent les roseaux",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "De car\u00e8nes de plume \u00e0 demi lumineuse,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Elle effeuille infinie une rose neigeuse",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Dont les p\u00e9tales font des cercles sur les eaux\u2026",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Est-ce vivre ?\u2026 \u00d4 d\u00e9sert de volupt\u00e9 p\u00e2m\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "O\u00f9 meurt le battement faible de l\u2019eau lam\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Usant le seuil secret des \u00e9chos de cristal\u2026",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                }
+            ],
+            [
+                {
+                    "verse": "La chair confuse des molles roses commence",
+                    "metre": "6\u22126",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "\u00c0 fr\u00e9mir, si d\u2019un cri le diamant fatal",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "F\u00eale d\u2019un fil de jour toute la fable immense.",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL6",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "M\u00eame F\u00e9erie",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL6_7",
+        "text": [
+            [
+                {
+                    "verse": "La lune mince verse une lueur sacr\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme une jupe d\u2019un tissu d\u2019argent l\u00e9ger,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur les masses de marbre o\u00f9 marche et croit songer",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quelque vierge de perle et de gaze nacr\u00e9e.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Pour les cygnes soyeux qui fr\u00f4lent les roseaux",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "De car\u00e8nes de plume \u00e0 demi lumineuse,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Sa main cueille et dispense une rose neigeuse",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Dont les p\u00e9tales font des cercles sur les eaux.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u00e9licieux d\u00e9sert, solitude p\u00e2m\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Quand le remous de l\u2019eau par la lune lam\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Compte \u00e9ternellement ses \u00e9chos de cristal,",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                }
+            ],
+            [
+                {
+                    "verse": "Quel c\u0153ur pourrait souffrir l\u2019inexorable charme",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "De la nuit \u00e9clatante au firmament fatal,",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "Sans tirer de soi-m\u00eame un cri pur comme une arme ?",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL7",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Baign\u00e9e",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL7_7",
+        "text": [
+            [
+                {
+                    "verse": "Un fruit de chair se baigne en quelque jeune vasque,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "(Azur dans les jardins tremblants) mais hors de l\u2019eau,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Isolant la torsade aux puissances de casque,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Luit le chef d\u2019or que tranche \u00e0 la nuque un tombeau.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c9close la beaut\u00e9 par la rose et l\u2019\u00e9pingle !",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Du miroir m\u00eame issue o\u00f9 trempent ses bijoux,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Bizarres feux bris\u00e9s dont le bouquet dur cingle",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "L\u2019oreille abandonn\u00e9e aux mots nus des flots doux.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Un bras vague inond\u00e9 dans le n\u00e9ant limpide",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Pour une ombre de fleur \u00e0 cueillir vainement",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "S\u2019effile, ondule, dort par le d\u00e9lice vide,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ],
+            [
+                {
+                    "verse": "Si l\u2019autre, courb\u00e9 pur sous le beau firmament,",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "Parmi la chevelure immense qu\u2019il humecte,",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "Capture dans l\u2019or simple un vol ivre d\u2019insecte.",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL8",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Au Bois dormant",
+        "profile": "6\u22126",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL8_7",
+        "text": [
+            [
+                {
+                    "verse": "La princesse, dans un palais de rose pure,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous les murmures, sous la mobile ombre dort,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de corail \u00e9bauche une parole obscure",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand les oiseaux perdus mordent ses bagues d\u2019or.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle n\u2019\u00e9coute ni les gouttes, dans leurs chutes,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Tinter d\u2019un si\u00e8cle vide au lointain le tr\u00e9sor,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Ni, sur la for\u00eat vague, un vent fondu de fl\u00fbtes",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "D\u00e9chirer la rumeur d\u2019une phrase de cor.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Laisse, longue, l\u2019\u00e9cho rendormir la diane,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "\u00d4 toujours plus \u00e9gale \u00e0 la molle liane",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Qui se balance et bat tes yeux ensevelis.",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                }
+            ],
+            [
+                {
+                    "verse": "Si proche de ta joue et si lente la rose",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "Ne va pas dissiper ce d\u00e9lice de plis",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "Secr\u00e8tement sensible au rayon qui s\u2019y pose.",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL9",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "C\u00e9sar",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL9_7",
+        "text": [
+            [
+                {
+                    "verse": "C\u00e9sar, calme C\u00e9sar, le pied sur toute chose,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les poings durs dans la barbe, et l\u2019\u0153il sombre peupl\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "D\u2019aigles et des combats du couchant contempl\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ton c\u0153ur s\u2019enfle, et se sent toute-puissante Cause.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Le lac en vain palpite et l\u00e8che son lit rose ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "En vain d\u2019or pr\u00e9cieux brille le jeune bl\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu durcis dans les n\u0153uds de ton corps rassembl\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019ordre, qui doit enfin fendre ta bouche close.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "L\u2019ample monde, au del\u00e0 de l\u2019immense horizon,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "L\u2019Empire attend l\u2019\u00e9clair, le d\u00e9cret, le tison",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Qui changeront le soir en furieuse aurore.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Heureux l\u00e0-bas sur l\u2019onde, et berc\u00e9 du hasard,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Un p\u00eacheur indolent qui flotte et chante, ignore",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Quelle foudre s\u2019amasse au centre de C\u00e9sar.",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL10",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Le Bois amical",
+        "profile": "3\u00f76",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL10_7",
+        "text": [
+            [
+                {
+                    "verse": "Nous avons pens\u00e9 des choses pures",
+                    "metre": "3+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "C\u00f4te \u00e0 c\u00f4te, le long des chemins,",
+                    "metre": "6+3",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nous nous sommes tenus par les mains",
+                    "metre": "6+3",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sans dire\u2026 parmi les fleurs obscures ;",
+                    "metre": "9",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Nous marchions comme des fianc\u00e9s",
+                    "metre": "3+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Seuls, dans la nuit verte des prairies ;",
+                    "metre": "3\u22126",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Nous partagions ce fruit de f\u00e9eries",
+                    "metre": "6+3",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "La lune amicale aux insens\u00e9s",
+                    "metre": "9",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Et puis, nous sommes morts sur la mousse,",
+                    "metre": "6+3",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Tr\u00e8s loin, tout seuls parmi l\u2019ombre douce",
+                    "metre": "3+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "De ce bois intime et murmurant ;",
+                    "metre": "3+6",
+                    "rhyme": "f"
+                }
+            ],
+            [
+                {
+                    "verse": "Et l\u00e0-haut, dans la lumi\u00e8re immense,",
+                    "metre": "3+6",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "Nous nous sommes trouv\u00e9s en pleurant",
+                    "metre": "6+3",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "\u00d4 mon cher compagnon de silence !",
+                    "metre": "3+6",
+                    "rhyme": "g"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL11",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Les Vaines Danseuses",
+        "profile": "6\u22126",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL11_7",
+        "text": [
+            [
+                {
+                    "verse": "Celles qui sont des fleurs l\u00e9g\u00e8res sont venues,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Figurines d\u2019or et beaut\u00e9s toutes menues",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "O\u00f9 s\u2019irise une faible lune\u2026 Les voici",
+                    "metre": "4+4+4",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M\u00e9lodieuses fuir dans le bois \u00e9clairci.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "De mauves et d\u2019iris et de nocturnes roses",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sont les gr\u00e2ces de nuit sous leurs danses \u00e9closes.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que de parfums voil\u00e9s dispensent leurs doigts d\u2019or !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais l\u2019azur doux s\u2019effeuille en ce bocage mort",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et de l\u2019eau mince luit \u00e0 peine, repos\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Comme un p\u00e2le tr\u00e9sor d'une antique ros\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019o\u00f9 le silence en fleur monte\u2026 Encor les voici",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "M\u00e9lodieuses fuir dans le bois \u00e9clairci.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux calices aim\u00e9s leurs mains sont gracieuses ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Un peu de lune dort sur leurs l\u00e8vres pieuses",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et leurs bras merveilleux aux gestes endormis",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aiment \u00e0 d\u00e9nouer sous les myrtes amis",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Leurs liens fauves et leurs caresses\u2026 Mais certaines,",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Moins captives du rythme et des harpes lointaines,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "S\u2019en vont d'un pas subtil au lac enseveli",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Boire des lys l\u2019eau fr\u00eale o\u00f9 dort le pur oubli.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL12",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Un Feu distinct\u2026",
+        "profile": "6+6",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL12_7",
+        "text": [
+            [
+                {
+                    "verse": "Un feu distinct m\u2019habite, et je vois froidement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La violente vie illumin\u00e9e enti\u00e8re\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je ne puis plus aimer seulement qu\u2019en dormant",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ses actes gracieux m\u00e9lang\u00e9s de lumi\u00e8re.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mes jours viennent la nuit me rendre des regards,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Apr\u00e8s le premier temps de sommeil malheureux ;",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Quand le malheur lui-m\u00eame est dans le noir \u00e9pars",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Ils reviennent me vivre et me donner des yeux.",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Que si leur joie \u00e9clate, un \u00e9cho qui m\u2019\u00e9veille",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "N\u2019a rejet\u00e9 qu\u2019un mort sur ma rive de chair,",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "Et mon rire \u00e9tranger suspend \u00e0 mon oreille,",
+                    "metre": "6+6",
+                    "rhyme": "e"
+                }
+            ],
+            [
+                {
+                    "verse": "Comme \u00e0 la vide conque un murmure de mer,",
+                    "metre": "6+6",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "Le doute \u2014 sur le bord d\u2019une extr\u00eame merveille,",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "Si je suis, si je fus, si je dors ou je veille ?",
+                    "metre": "6+6",
+                    "rhyme": "g"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL13",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Narcisse parle",
+        "profile": "6\u22126",
+        "structure": "forme RegExp (appariements)",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL13_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00d4 fr\u00e8res ! tristes lys, je languis de beaut\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour m\u2019\u00eatre d\u00e9sir\u00e9 dans votre nudit\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et vers vous, Nymphe, Nymphe, \u00f4 Nymphe des fontaines,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je viens au pur silence offrir mes lames vaines.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Un grand calme m\u2019\u00e9coute, o\u00f9 j\u2019\u00e9coute l\u2019espoir.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La voix des sources change et me parle du soir ;",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J\u2019entends l\u2019herbe d\u2019argent grandir dans l\u2019ombre sainte,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et la lune perfide \u00e9l\u00e8ve son miroir",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jusque dans les secrets de la fontaine \u00e9teinte.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et moi ! De tout mon c\u0153ur dans ces roseaux jet\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je languis, \u00f4 saphir, par ma triste beaut\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je ne sais plus aimer que l\u2019eau magicienne",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 j\u2019oubliai le rire et la rose ancienne.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Que je d\u00e9plore ton \u00e9clat fatal et pur,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si mollement de moi fontaine environn\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "O\u00f9 puis\u00e8rent mes yeux dans un mortel azur",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mon image de fleurs humides couronn\u00e9e !",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "H\u00e9las ! L\u2019image est vaine et les pleurs \u00e9ternels !",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "\u00c0 travers les bois bleus et les bras fraternels,",
+                    "metre": "6+6",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Une tendre lueur d\u2019heure ambigu\u00eb existe,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et d\u2019un reste du jour me forme un fianc\u00e9",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nu, sur la place p\u00e2le o\u00f9 m\u2019attire l\u2019eau triste\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u00e9licieux d\u00e9mon, d\u00e9sirable et glac\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Voici dans l\u2019eau ma chair de lune et de ros\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 forme ob\u00e9issante \u00e0 mes yeux oppos\u00e9e !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Voici mes bras d\u2019argent dont les gestes sont purs !\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mes lentes mains dans l\u2019or adorable se lassent",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "D\u2019appeler ce captif que les feuilles enlacent,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et je crie aux \u00e9chos les noms des dieux obscurs !\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Adieu, reflet perdu sur l\u2019onde calme et close,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Narcisse\u2026 ce nom m\u00eame est un tendre parfum",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au c\u0153ur suave. Effeuille aux m\u00e2nes du d\u00e9funt",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur ce vide tombeau la fun\u00e9rale rose.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Sois, ma l\u00e8vre, la rose effeuillant le baiser",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui fasse un spectre cher lentement s\u2019apaiser,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car la nuit parle \u00e0 demi-voix, proche et lointaine,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aux calices pleins d\u2019ombre et de sommeils l\u00e9gers.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Mais la lune s\u2019amuse aux myrtes allong\u00e9s.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Je t\u2019adore, sous ces myrtes, \u00f4 l\u2019incertaine",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Chair pour la solitude \u00e9close tristement",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui se mire dans le miroir au bois dormant.",
+                    "metre": "6\u22126",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je me d\u00e9lie en vain de ta pr\u00e9sence douce,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019heure menteuse est molle aux membres sur la mousse",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et d\u2019un sombre d\u00e9lice enfle le vent profond.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Adieu, Narcisse\u2026 Meurs ! Voici le cr\u00e9puscule.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Au soupir de mon c\u0153ur mon apparence ondule,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "La fl\u00fbte, par l\u2019azur enseveli module",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Des regrets de troupeaux sonores qui s\u2019en vont.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais sur le froid mortel o\u00f9 l\u2019\u00e9toile s\u2019allume,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Avant qu\u2019un lent tombeau ne se forme de brume,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tiens ce baiser qui brise un calme d\u2019eau fatal !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019espoir seul peut suffire \u00e0 rompre ce cristal.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La ride me ravisse au souffle qui m\u2019exile",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et que mon souffle anime une fl\u00fbte gracile",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont le joueur l\u00e9ger me serait indulgent !\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c9vanouissez-vous, divinit\u00e9 troubl\u00e9e !",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et, toi, verse \u00e0 la lune, humble fl\u00fbte isol\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Une diversit\u00e9 de nos larmes d\u2019argent.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL14",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "\u00c9pisode",
+        "profile": "6\u00f76",
+        "structure": "distiques",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL14_7",
+        "text": [
+            [
+                {
+                    "verse": "Un soir favoris\u00e9 de colombes sublimes,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La pucelle doucement se peigne au soleil.",
+                    "metre": "12",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux n\u00e9nuphars de l\u2019onde elle donne un orteil",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ultime, et pour ti\u00e9dir ses froides mains errantes",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Parfois trempe au couchant leurs roses transparentes.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tant\u00f4t, si d\u2019une ond\u00e9e innocente, sa peau",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Frissonne, c\u2019est le dire absurde d\u2019un pipeau,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Fl\u00fbte dont le coupable aux dents de pierrerie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tire un futile vent d\u2019ombre et de r\u00eaverie",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Par l\u2019occulte baiser qu\u2019il risque sous les fleurs.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais presque indiff\u00e9rente aux feintes de ces pleurs,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ni se divinisant par aucune parole",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De rose, elle d\u00e9m\u00eale une lourde aur\u00e9ole ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et tirant de sa nuque un plaisir qui la tord,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ses poings d\u00e9licieux pressent la touffe d\u2019or",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont la lumi\u00e8re coule entre ses doigts limpides !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2026 Une feuille meurt sur ses \u00e9paules humides,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une goutte tombe de la fl\u00fbte sur l\u2019eau,",
+                    "metre": "12",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et le pied pur s\u2019\u00e9peure comme un bel oiseau",
+                    "metre": "4+4+4",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL15",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Vue",
+        "profile": "7",
+        "structure": "sonnet",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL15_7",
+        "text": [
+            [
+                {
+                    "verse": "Si la plage planche, si",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019ombre sur l\u2019\u0153il s\u2019use et pleure",
+                    "metre": "7",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Si l\u2019azur est larme, ainsi",
+                    "metre": "7",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au sel des dents pure affleure",
+                    "metre": "7",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "La vierge fum\u00e9e ou l\u2019air",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Que berce en soi puis expire",
+                    "metre": "7",
+                    "rhyme": "d"
+                },
+                {
+                    "verse": "Vers l\u2019eau debout d\u2019une mer",
+                    "metre": "7",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Assoupie en son empire",
+                    "metre": "7",
+                    "rhyme": "d"
+                }
+            ],
+            [
+                {
+                    "verse": "Celle qui sans les ou\u00efr",
+                    "metre": "7",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Si la l\u00e8vre au vent remue",
+                    "metre": "7",
+                    "rhyme": "f"
+                },
+                {
+                    "verse": "Se joue \u00e0 \u00e9vanouir",
+                    "metre": "7",
+                    "rhyme": "e"
+                },
+                {
+                    "verse": "Mille mots vains o\u00f9 se mue",
+                    "metre": "7",
+                    "rhyme": "f"
+                }
+            ],
+            [
+                {
+                    "verse": "Sous l\u2019humide \u00e9clair de dents",
+                    "metre": "7",
+                    "rhyme": "g"
+                },
+                {
+                    "verse": "Le tr\u00e8s doux feu du dedans.",
+                    "metre": "7",
+                    "rhyme": "g"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL16",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Valvins",
+        "profile": "6\u22126",
+        "structure": "",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL16_7",
+        "text": [
+            [
+                {
+                    "verse": "Si tu veux d\u00e9nouer la for\u00eat qui t\u2019a\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Heureuse, tu te fonds aux feuilles, si tu es",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Dans la fluide yole \u00e0 jamais litt\u00e9raire,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Tra\u00eenant quelques soleils ardemment situ\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Aux blancheurs de son flanc que la Seine caresse",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "\u00c9mue, ou pressentant l\u2019apr\u00e8s-midi chant\u00e9,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Selon que le grand bois trempe une longue tresse,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Et m\u00e9lange ta voile au meilleur de l\u2019\u00e9t\u00e9.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Mais toujours pr\u00e8s de toi que le silence livre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Aux cris multipli\u00e9s de tout le brut azur,",
+                    "metre": "6+6",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "L\u2019ombre de quelque page \u00e9parse d\u2019aucun livre",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ],
+            [
+                {
+                    "verse": "Tremble, reflet de voile vagabonde sur",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "La poudreuse peau de la rivi\u00e8re verte",
+                    "metre": "6\u22126",
+                    "rhyme": ""
+                },
+                {
+                    "verse": "Parmi le long regard de la Seine entr\u2019ouverte.",
+                    "metre": "6+6",
+                    "rhyme": ""
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL17",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "\u00c9t\u00e9",
+        "profile": "6\u22126",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL17_7",
+        "text": [
+            [
+                {
+                    "verse": "\u00c9t\u00e9, roche d\u2019air pur, et toi, ardente ruche,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 mer ! \u00c9parpill\u00e9e en mille mouches sur",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les touffes d\u2019une chair fra\u00eeche comme une cruche,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et jusque dans la bouche o\u00f9 bourdonne l\u2019azur ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et toi, maison br\u00fblante, Espace, cher Espace",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tranquille, o\u00f9 l\u2019arbre fume et perd quelques oiseaux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 cr\u00e8ve infiniment la rumeur de la masse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la mer, de la marche et des troupes des eaux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Tonnes d\u2019odeurs, grands ronds par les races heureuses",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur le golfe qui mange et qui monte au soleil,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Nids purs, \u00e9cluses d\u2019herbe, ombres des vagues creuses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Bercez l\u2019enfant ravie en un poreux sommeil !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Dont les jambes (mais l\u2019une est fra\u00eeche et se d\u00e9noue",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "De la plus rose), les \u00e9paules, le sein dur,",
+                    "metre": "6\u22126",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le bras qui se m\u00e9lange \u00e0 l\u2019\u00e9cumeuse joue",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Brillent abandonn\u00e9s autour du vase obscur",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "O\u00f9 filtrent les grands bruits pleins de b\u00eates puis\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans les cages de feuille et les mailles de mer",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Par les moulins marins et les huttes ros\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Du jour\u2026 Toute la peau dore les treilles d\u2019air.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL18",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Profusion du soir",
+        "profile": "6\u22126",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL18_7",
+        "text": [
+            [
+                {
+                    "verse": "Du soleil soutenant la puissante paresse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui plane et s\u2019abandonne \u00e0 l\u2019\u0153il contemplateur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Regard !\u2026 Je bois le vin c\u00e9leste, et je caresse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Le grain myst\u00e9rieux de l\u2019extr\u00eame hauteur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je porte au sein br\u00fblant ma lucide tendresse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je joue avec les feux de l\u2019antique inventeur ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais le dieu par degr\u00e9s qui se d\u00e9sint\u00e9resse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans la pourpre de l\u2019air s\u2019alt\u00e8re avec lenteur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Laissant dans les champs purs battre toute l\u2019id\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Les travaux du couchant dans la sph\u00e8re vid\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "2"
+                },
+                {
+                    "verse": "Connaissent sans oiseaux leur ancienne grandeur.",
+                    "metre": "6+6",
+                    "rhyme": "1"
+                }
+            ],
+            [
+                {
+                    "verse": "L\u2019ange frais de l\u2019\u0153il nu pressent dans sa pudeur,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Haute nativit\u00e9 d\u2019\u00e9toile \u00e9lucid\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Un diamant agir qui berce la splendeur\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00d4 soir, tu viens \u00e9pandre un d\u00e9lice tranquille,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Horizon des sommeils, stupeur des c\u0153urs pieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Persuasive approche, insidieux reptile,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et rose que respire un mortel immobile",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont l\u2019\u0153il dore s\u2019engage aux promesses des cieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sur tes ardents autels son regard favorable",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Br\u00fble, l\u2019\u00e2me distraite, un pass\u00e9 pr\u00e9cieux.",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Il adore dans l\u2019or qui se rend adorable",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "B\u00e2tir d\u2019une vapeur un temple m\u00e9morable,",
+                    "metre": "6+6",
+                    "rhyme": "6"
+                },
+                {
+                    "verse": "Suspendre au sombre \u00e9ther son risque et son r\u00e9cif,",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Et vole, ivre des feux d\u2019un triomphe passif,",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Sur l\u2019abime aux ponts d\u2019or rejoindre la Fortune ;",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                },
+                {
+                    "verse": "\u2014 Tandis qu\u2019aux bords lointains du Th\u00e9\u00e2tre pensif,",
+                    "metre": "6+6",
+                    "rhyme": "7"
+                },
+                {
+                    "verse": "Sous un masque l\u00e9ger glisse la mince lune\u2026",
+                    "metre": "6+6",
+                    "rhyme": "8"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2026 Ce vin bu, l\u2019homme b\u00e2ille, et brise le flacon.",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Aux merveilles du vide il garde une rancune ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais le charme du soir fume sur le balcon",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Une confusion de femme et de flocon\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 \u00d4 Conseil !\u2026 Station solennelle !\u2026 Balance",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "D\u2019un doigt dor\u00e9 pesant les motifs du silence !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 sagesse sensible entre les dieux ardents !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u2014 De l\u2019espace trop beau, pr\u00e9serve-moi, balustre !",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "L\u00e0, m\u2019appelle la mer !\u2026 L\u00e0, se penche l\u2019illustre",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "V\u00e9nus Vertigineuse avec ses bras fondants !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mon \u0153il, quoiqu\u2019il s\u2019attache au sort souple des ondes,",
+                    "metre": "6+6",
+                    "rhyme": "13"
+                },
+                {
+                    "verse": "Et boive comme en songe \u00e0 l\u2019\u00e9ternel verseau,",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Garde une chambre fixe et capable des mondes ;",
+                    "metre": "6+6",
+                    "rhyme": "13"
+                },
+                {
+                    "verse": "Et ma cupidit\u00e9 des surprises profondes",
+                    "metre": "6+6",
+                    "rhyme": "13"
+                },
+                {
+                    "verse": "Voit \u00e0 peine au travers du transparent berceau",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Cette femme d\u2019\u00e9cume et d\u2019algue et d\u2019or que roule",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                },
+                {
+                    "verse": "Sur le sable et le sel la meule de la houle.",
+                    "metre": "6+6",
+                    "rhyme": "15"
+                }
+            ],
+            [
+                {
+                    "verse": "Pourtant je place aux cieux les \u00e9bats d\u2019un esprit ;",
+                    "metre": "6+6",
+                    "rhyme": "16"
+                },
+                {
+                    "verse": "Je vois dans leurs vapeurs des terres inconnues,",
+                    "metre": "6+6",
+                    "rhyme": "17"
+                },
+                {
+                    "verse": "Des d\u00e9esses de fleurs feindre d\u2019\u00eatre des nues,",
+                    "metre": "6+6",
+                    "rhyme": "17"
+                },
+                {
+                    "verse": "Des puissances d\u2019orage errer a demi nues,",
+                    "metre": "6+6",
+                    "rhyme": "17"
+                },
+                {
+                    "verse": "Et sur les roches d\u2019air du soir qui s\u2019assombrit,",
+                    "metre": "6+6",
+                    "rhyme": "16"
+                },
+                {
+                    "verse": "Telle divinit\u00e9 s\u2019accoude. Un ange nage.",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "Il restaure l\u2019espace \u00e0 chaque tour de rein.",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Moi, qui jette ici-bas l\u2019ombre d\u2019un personnage,",
+                    "metre": "6+6",
+                    "rhyme": "18"
+                },
+                {
+                    "verse": "Toutefois d\u00e9li\u00e9 dans le plein souverain,",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Je me sens qui me trempe, et pur qui me d\u00e9daigne !",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                },
+                {
+                    "verse": "Vivant au sein futur le souvenir marin,",
+                    "metre": "6+6",
+                    "rhyme": "19"
+                },
+                {
+                    "verse": "Tout le corps de mon choix dans mes regards se baigne !",
+                    "metre": "6+6",
+                    "rhyme": "20"
+                }
+            ],
+            [
+                {
+                    "verse": "Une cr\u00eate \u00e9cumeuse, \u00e9norme et color\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Barre, puissamment pure, et plisse le parvis.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Roule jusqu\u2019\u00e0 mon c\u0153ur la distance dor\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vague !\u2026 Croulants soleils aux horizons ravis,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Tu n\u2019iras pas plus loin que la ligne ignor\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui divise les dieux des ombres o\u00f9 je vis.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Une volute lente et longue d\u2019une lieue",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Semant les charmes lourds de sa blanche torpeur",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "O\u00f9 se joue une joie, une soif d\u2019\u00eatre bleue,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tire le noir navire \u00e9puis\u00e9 de vapeur\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais pesants et neigeux les monts du cr\u00e9puscule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les nuages trop pleins et leurs seins copieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toute la majest\u00e9 de l\u2019Olympe recule,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Car voici le signal, voici l\u2019or des adieux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et l\u2019espace a hum\u00e9 la barque minuscule\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ],
+            [
+                {
+                    "verse": "Lourds frontons du sommeil toujours inachev\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rideaux bizarrement d\u2019un rubis relev\u00e9s",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour le mauvais regard d\u2019une sombre plan\u00e8te,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les temps sont accomplis, les d\u00e9sirs se sont tus,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "Et dans la bouche d\u2019or, b\u00e2illements combattus,",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                },
+                {
+                    "verse": "S\u2019\u00e9cart\u00e8lent les mots que charmait le po\u00e8te\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Les temps sont accomplis, les d\u00e9sirs se sont tus.",
+                    "metre": "6+6",
+                    "rhyme": "c"
+                }
+            ],
+            [
+                {
+                    "verse": "Adieu, Adieu !\u2026 Vers vous, \u00f4 mes belles images,",
+                    "metre": "6+6",
+                    "rhyme": "27"
+                },
+                {
+                    "verse": "Mes bras tendent toujours insatiable port !",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "Venez, effarouch\u00e9s, h\u00e9rissant vos plumages,",
+                    "metre": "6+6",
+                    "rhyme": "27"
+                },
+                {
+                    "verse": "Voiliers aventureux que talonne la mort !",
+                    "metre": "6+6",
+                    "rhyme": "28"
+                },
+                {
+                    "verse": "H\u00e2tez-vous, h\u00e2tez-vous !\u2026 La nuit presse !\u2026 Tantale",
+                    "metre": "6+6",
+                    "rhyme": "29"
+                },
+                {
+                    "verse": "Va p\u00e9rir ! Et la joie \u00e9ph\u00e9m\u00e8re des cieux !",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Une rose nagu\u00e8re aux t\u00e9n\u00e8bres fatale,",
+                    "metre": "6+6",
+                    "rhyme": "29"
+                },
+                {
+                    "verse": "Une toute derni\u00e8re rose occidentale",
+                    "metre": "8+4",
+                    "rhyme": "29"
+                },
+                {
+                    "verse": "P\u00e2lit affreusement sur le soir spacieux\u2026",
+                    "metre": "6+6",
+                    "rhyme": "4"
+                },
+                {
+                    "verse": "Je ne vois plus fr\u00e9mir au m\u00e2t du belv\u00e9d\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "30"
+                },
+                {
+                    "verse": "Ivre de brise un sylphe aux couleurs de drapeau,",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                },
+                {
+                    "verse": "Et ce grand port n\u2019est plus qu\u2019un noir d\u00e9barcad\u00e8re",
+                    "metre": "6+6",
+                    "rhyme": "30"
+                },
+                {
+                    "verse": "Couru du vent glac\u00e9 que sent venir ma peau !",
+                    "metre": "6+6",
+                    "rhyme": "14"
+                }
+            ],
+            [
+                {
+                    "verse": "Fermez-vous ! Fermez-vous ! Fen\u00eatres offens\u00e9es !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Grands yeux qui redoutez la v\u00e9ritable nuit !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et toi, de ces hauteurs d\u2019astres ensemenc\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Accepte, f\u00e9cond\u00e9 de myst\u00e8re et d\u2019ennui,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une maternit\u00e9 muette de pens\u00e9es\u2026",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL19",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Anne",
+        "profile": "6\u00f76",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL19_7",
+        "text": [
+            [
+                {
+                    "verse": "Anne qui se m\u00e9lange au drap p\u00e2le et d\u00e9laisse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Des cheveux endormis sur ses yeux mal ouverts",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mire ses bras lointains tourn\u00e9s avec mollesse",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur la peau sans couleur du ventre d\u00e9couvert.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Elle vide, elle enfle d\u2019ombre sa gorge lente,",
+                    "metre": "12",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et comme un souvenir pressant ses propres chairs,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Une bouche bris\u00e9e et pleine d\u2019eau br\u00fblante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Roule le go\u00fbt immense et le reflet des mers.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Enfin d\u00e9sempar\u00e9e et libre d\u2019\u00eatre fra\u00eeche,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La dormeuse d\u00e9serte aux touffes de couleur",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Flotte sur son lit bl\u00eame, et d\u2019une l\u00e8vre s\u00e8che,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tette dans la t\u00e9n\u00e8bre un souffle amer de fleur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Et sur le linge o\u00f9 l\u2019aube insensible se plisse,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tombe, d\u2019un bras de glace effleur\u00e9 de carmin,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toute une main d\u00e9faite et perdant le d\u00e9lice",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 travers ses doigts nus d\u00e9nou\u00e9s de l\u2019humain.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Au hasard ! \u00c0 jamais, dans le sommeil sans hommes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pur des tristes \u00e9clairs de leurs embrassements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Elle laisse rouler les grappes et les pommes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Puissantes, qui pendaient aux treilles d\u2019ossements,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Qui riaient, dans leur ambre appelant les vendanges,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et dont le nombre d\u2019or de riches mouvements",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Invoquait la vigueur et les gestes \u00e9tranges",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que pour tuer l\u2019amour inventent les amants\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Sur toi, quand le regard de leurs \u00e2mes s\u2019\u00e9gare,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Leur c\u0153ur boulevers\u00e9 change comme leurs voix,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Car les tendres appr\u00eats de leur festin barbare",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "H\u00e2tent les chiens ardents qui tremblent dans ces rois\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u00c0 peine effleurent-ils de doigts errants ta vie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tout leur sang les accable aussi lourd que la mer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et quelque violence aux ab\u00eemes ravie",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jette ces blancs nageurs sur tes roches de chair\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "R\u00e9cifs d\u00e9licieux, \u00cele toute prochaine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Terre tendre, promise aux d\u00e9mons apais\u00e9s,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019amour t\u2019aborde, arm\u00e9 des regards de la haine,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pour combattre dans l\u2019ombre une hydre de baisers !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ah, plus nue et qu\u2019impr\u00e8gne une prochaine aurore,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Si l\u2019or triste interroge un ti\u00e8de contour,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Rentre au plus pur de l\u2019ombre o\u00f9 le M\u00eame s\u2019ignore,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et te fais un vain marbre \u00e9bauch\u00e9 par le jour !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Laisse au p\u00e2le rayon ta l\u00e8vre viol\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mordre dans un sourire un long germe de pleur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Masque d\u2019\u00e2me au sommeil \u00e0 jamais immol\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sur qui la paix soudaine a surpris la douleur !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Plus jamais redorant tes ombres satin\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "La vieille aux doigts de feu qui fendent les volets",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne viendra t\u2019arracher aux grasses matin\u00e9es",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et rendre au doux soleil tes joyeux bracelets\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Mais suave, de l\u2019arbre ext\u00e9rieur, la palme",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Vaporeuse remue au del\u00e0 du remords,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et dans le feu, parmi trois feuilles, l\u2019oiseau calme",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Commence le chant seul qui r\u00e9prime les morts.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "VAL_1/VAL20",
+        "author": "Paul Val\u00e9ry",
+        "work": "ALBUM DE VERS ANCIENS",
+        "date": "1920",
+        "title": "Air de S\u00e9miramis",
+        "profile": "6+6",
+        "structure": "suite p\u00e9riodique",
+        "url": "https://crisco2.unicaen.fr/verlaine/index.php?navigation=textesauteurs&auteur=VAL_1&code_text=VAL20_7",
+        "text": [
+            [
+                {
+                    "verse": "D\u00e8s l\u2019aube, chers rayons, mon front songe \u00e0 vous ceindre !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 peine il se redresse, il voit d\u2019un \u0153il qui dort",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Sur le marbre absolu, le temps p\u00e2le se peindre,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019heure sur moi descendre et cro\u00eetre jusqu\u2019\u00e0 l\u2019or\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2026 \u00ab Existe !\u2026 Sois enfin toi-m\u00eame ! dit l\u2019Aurore,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 grande \u00e2me, il est temps que tu formes un corps !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "H\u00e2te-toi de choisir un jour digne d\u2019\u00e9clore,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Parmi tant d\u2019autres feux, les immortels tr\u00e9sors !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "D\u00e9j\u00e0, contre la nuit lutte l\u2019\u00e2pre trompette !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Une l\u00e8vre vivante attaque l\u2019air glac\u00e9 ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "L\u2019or pur, de tout en tour, \u00e9clate et se r\u00e9p\u00e8te,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Rappelant tout l\u2019espace aux splendeurs du pass\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Remonte aux vrais regards ! Tire-toi de tes ombres,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et comme du nageur, dans le plein de la mer,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Le talon tout-puissant l\u2019expulse des eaux sombres,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Toi, frappe au fond de l\u2019\u00eatre ! Interpelle ta chair,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Traverse sans retard ses invisibles trames,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c9puise l\u2019infini de l\u2019effort impuissant,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et d\u00e9barrasse-toi d\u2019un d\u00e9sordre de drames",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qu\u2019engendrent sur ton lit les monstres de ton sang !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "J\u2019accours de l\u2019Orient suffire \u00e0 ton caprice !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et je te viens offrir mes plus purs aliments ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que d\u2019espace et de vent ta flamme se nourrisse !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Viens te joindre \u00e0 l\u2019\u00e9clat de mes pressentiments ! \u00bb",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "\u2014 Je r\u00e9ponds !\u2026 Je surgis de ma profonde absence !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mon c\u0153ur m\u2019arrache aux morts que fr\u00f4lait mon sommeil,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et vers mon but, grand aigle \u00e9clatant de puissance,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Il m\u2019emporte !\u2026 Je vole au-devant du soleil !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je ne prends qu\u2019une rose et fuis\u2026 La belle fl\u00e8che",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Au flanc !\u2026 Ma t\u00eate enfante une foule de pas\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ils courent vers ma tour favorite, o\u00f9 ma fra\u00eeche",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Altitude m\u2019appelle, et je lui tends les bras !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Monte, \u00f4 S\u00e9miramis, ma\u00eetresse d\u2019une spire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui d\u2019un c\u0153ur sans amour s\u2019\u00e9lance au seul honneur !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ton \u0153il imp\u00e9rial a soif du grand empire",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00c0 qui ton spectre dur fait sentir le bonheur\u2026",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Ose l\u2019ab\u00eeme ! Passe un dernier pont de roses !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Je t\u2019approche, p\u00e9ril ! Orgueil plus irrit\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ces fourmis sont \u00e0 moi ! Ces villes sont mes choses,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ces chemins sont les traits de mon autorit\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "C\u2019est une vaste peau fauve que mon royaume !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "J\u2019ai tu\u00e9 le lion qui portait cette peau ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mais encor le fumet du f\u00e9roce fant\u00f4me",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Flotte charg\u00e9 de mort, et garde mon troupeau !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Enfin, j\u2019offre au soleil le secret de mes charmes !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Jamais il n\u2019a dor\u00e9 de seuil si gracieux !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "De ma fragilit\u00e9 je go\u00fbte les alarmes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Entre le double appel de la terre et des cieux.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Repas de ma puissance, intelligible orgie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quel parvis vaporeux de toits et de for\u00eats",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Place aux pieds de la pure et divine vigie,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce calme \u00e9loignement d\u2019\u00e9v\u00e9nements secrets !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "L\u2019\u00e2me enfin sur ce fa\u00eete a trouv\u00e9 ses demeures !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 de quelle grandeur, elle tient sa grandeur",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand mon c\u0153ur soulev\u00e9 d\u2019ailes int\u00e9rieures",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ouvre au ciel en moi-m\u00eame une autre profondeur !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Anxieuse d\u2019azur, de gloire consum\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Poitrine, gouffre d\u2019ombre aux narines de chair,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Aspire cet encens d\u2019\u00e2mes et de fum\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui monte d\u2019une ville analogue \u00e0 la mer !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Soleil, soleil, regarde en toi rire mes ruches !",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "L\u2019intense et sans repos Babylone bruit,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Toute rumeurs de chars, clairons, cha\u00eenes de cruches",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et plaintes de la pierre au mortel qui construit.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Qu\u2019ils flattent mon d\u00e9sir de temples implacables,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Les sons aigus de scie et les cris des ciseaux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et ces g\u00e9missements de marbres et de c\u00e2bles",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Qui peuplent l\u2019air vivant de structure et d\u2019oiseaux !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Je vois mon temple neuf na\u00eetre parmi les mondes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et mon v\u0153u prendre place au s\u00e9jour des destins ;",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Il semble de soi-m\u00eame au ciel monter par ondes",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sous le bouillonnement des actes indistincts.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Peuple stupide, \u00e0 qui ma puissance m\u2019encha\u00eene,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "H\u00e9las ! mon orgueil m\u00eame a besoin de tes bras !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Et que ferait mon c\u0153ur s\u2019il n\u2019aimait cette haine",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dont l\u2019innombrable t\u00eate est si douce \u00e0 mes pas ?",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Plate, elle me murmure une musique telle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Que le calme de l\u2019onde en fait de sa fureur,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Quand elle se rapaise aux pieds d\u2019une mortelle",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mais qu\u2019elle se r\u00e9serve un retour de terreur.",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "En vain j\u2019entends monter contre ma face auguste",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Ce murmure de crainte et de f\u00e9rocit\u00e9 :",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 l\u2019image des dieux la grande \u00e2me est injuste",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Tant elle s\u2019appareille \u00e0 la n\u00e9cessit\u00e9 !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Des douceurs de l\u2019amour quoique parfois touch\u00e9e,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Pourtant nulle tendresse et nuls renoncements",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Ne me laissent captive et victime couch\u00e9e",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Dans les puissants liens du sommeil des amants !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Baisers, baves d\u2019amour, basses b\u00e9atitudes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "\u00d4 mouvements marins des amants confondus,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Mon c\u0153ur m\u2019a conseill\u00e9 de telles solitudes,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et j\u2019ai plac\u00e9 si haut mes jardins suspendus",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Que mes supr\u00eames fleurs n\u2019attendent que la foudre",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et qu\u2019en d\u00e9pit des pleurs des amants les plus beaux,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "\u00c0 mes roses, la main qui touche tombe en poudre :",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Mes plus doux souvenirs b\u00e2tissent des tombeaux !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Qu\u2019ils sont doux \u00e0 mon c\u0153ur les temples qu\u2019il enfante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Quand tir\u00e9 lentement du songe de mes seins,",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Je vois un monument de masse triomphante",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Joindre dans mes regards l\u2019ombre de mes desseins !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            [
+                {
+                    "verse": "Battez, cymbales d\u2019or, mamelles cadenc\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Et roses palpitant sur ma pure paroi !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                },
+                {
+                    "verse": "Que je m\u2019\u00e9vanouisse en mes vastes pens\u00e9es,",
+                    "metre": "6+6",
+                    "rhyme": "a"
+                },
+                {
+                    "verse": "Sage S\u00e9miramis, enchanteresse et roi !",
+                    "metre": "6+6",
+                    "rhyme": "b"
+                }
+            ]
+        ]
+    }
+]
