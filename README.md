@@ -1,8 +1,6 @@
 # Métrique en Ligne Corpus
 This corpus is a subset in JSON format of the available poems in [métrique en ligne](https://crisco2.unicaen.fr/verlaine/index.php?navigation=accueil). It containes 5081 poems from 64 authors (41274 stanzas, 247248 verses, 1850222 words) with metrical information (metrical length), rhyme, metrical profile, and structure (where available).
 
-41274, 247248, 1850222)
-
 The file [`metrique_en_ligne.json`](./metrique_en_ligne.json) contains the corpus. The format of each entry is as follows:
 ```json
 {
