@@ -1,10 +1,11 @@
 # Métrique en Ligne Corpus
+
 This corpus is a subset in JSON format of the available poems in [métrique en ligne](https://crisco2.unicaen.fr/verlaine/index.php?navigation=accueil) (accessed on June 1st, 2020).
 
 It containes more than 5000 poems from over 60 authors, with metrical information (metrical length), rhyme, metrical profile, and structure (where available).
 
-Statistics
-----------
+## Statistics
+
 - Authors: 61
 - Works: 5081
 - Stanzas: 41274
@@ -12,8 +13,8 @@ Statistics
 - Words: 1850222
 - Characters: 10131087
 
-
 The file [`metrique_en_ligne.json`](./metrique_en_ligne.json) contains the corpus. The format of each entry is as follows:
+
 ```json
 {
     "code": "RIC_1/RIC1",
@@ -46,6 +47,7 @@ The file [`metrique_en_ligne.json`](./metrique_en_ligne.json) contains the corpu
 Folder [`json`](./json) contains the works by author, and [`html`](./html) contains the raw downloads of the pages.
 
 The script [`metrique_en_ligne.py`](./metrique_en_ligne.py) was used to download and extract all the data.
+
 ```bash
 $ ./metrique_en_ligne.py --help
 Usage: Generates a JSON corpus from the website 'Métrique en Ligne' (https://crisco2.unicaen.fr/verlaine/)
