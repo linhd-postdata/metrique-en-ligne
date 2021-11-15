@@ -1,0 +1,12 @@
+{
+    "upload_type": "dataset", 
+    "creators": [
+        {   
+            "orcid": "0000-0002-9143-5573",
+            "name": "Javier de la Rosa"
+        }
+    ],    
+    "license": "Apache-2.0",
+    "title": "Métrique en Ligne Corpus",
+    "grants": [{"id":"679528"}]
+}
