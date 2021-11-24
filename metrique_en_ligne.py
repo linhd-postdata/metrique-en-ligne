@@ -29,7 +29,7 @@ def download(html_folder):
             else:
                 visited.add(works_url)
             works_response = session.get(works_url)
-            works = works_response.html.find(".ref_ouvrage > a")
+            works = works_response.html.find(".ref_ouvrage a")
             for workd_id, work in enumerate(tqdm(works, "Works", leave=False)):
                 work_url = list(work.absolute_links)[0]
                 # print("WORK", work_url)
@@ -38,7 +38,7 @@ def download(html_folder):
                 else:
                     visited.add(work_url)
                 parts_response = session.get(work_url)
-                parts = parts_response.html.find(".ref_ouvrage > a")
+                parts = parts_response.html.find(".ref_ouvrage a")
                 texts = {}
                 author_code = None
                 for part in tqdm(parts, "Texts", leave=False):
