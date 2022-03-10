@@ -14,6 +14,7 @@ from requests_html import HTML
 from requests_html import HTMLSession
 from tqdm.auto import tqdm
 
+import re
 
 def download(html_folder):
     session = HTMLSession()
@@ -85,6 +86,7 @@ def parse(html_folder, json_folder):
         pairs = json.loads(json_file.open().read()).values()
         for pair in tqdm(pairs, author_code, leave=False):
             html = pair["html"]
+            html = re.sub('vers_indent_[0-9]+', 'td_vers', html)
             url = pair["url"]
             chunk = HTML(html=html)
             code = chunk.find(".div_code_poeme", first=True).text
