@@ -14,6 +14,7 @@ from requests_html import HTML
 from requests_html import HTMLSession
 from tqdm.auto import tqdm
 
+import re
 
 def download(html_folder):
     session = HTMLSession()
@@ -29,7 +30,7 @@ def download(html_folder):
             else:
                 visited.add(works_url)
             works_response = session.get(works_url)
-            works = works_response.html.find(".ref_ouvrage > a")
+            works = works_response.html.find(".ref_ouvrage a")
             for workd_id, work in enumerate(tqdm(works, "Works", leave=False)):
                 work_url = list(work.absolute_links)[0]
                 # print("WORK", work_url)
@@ -38,7 +39,7 @@ def download(html_folder):
                 else:
                     visited.add(work_url)
                 parts_response = session.get(work_url)
-                parts = parts_response.html.find(".ref_ouvrage > a")
+                parts = parts_response.html.find(".ref_ouvrage a")
                 texts = {}
                 author_code = None
                 for part in tqdm(parts, "Texts", leave=False):
@@ -85,6 +86,7 @@ def parse(html_folder, json_folder):
         pairs = json.loads(json_file.open().read()).values()
         for pair in tqdm(pairs, author_code, leave=False):
             html = pair["html"]
+            html = re.sub('vers_indent_[0-9]+', 'td_vers', html)
             url = pair["url"]
             chunk = HTML(html=html)
             code = chunk.find(".div_code_poeme", first=True).text
